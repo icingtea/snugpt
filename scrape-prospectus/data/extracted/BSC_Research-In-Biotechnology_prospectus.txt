@@ -1,0 +1,247 @@
+Prospectus B.Sc. (Research) Biotechnology
+Department of Life Sciences
+School of Natural Sciences
+Shiv Nadar University
+Gautam Buddha Nagar
+UP-201314
+B.Sc. (Research) Biotechnology
+Overview
+The Department of Life Sciences at Shiv Nadar University imparts teaching and research that
+expand knowledge of biology and biotechnology. By introducing undergraduate students through
+B.Sc. (Research) Biotechnology program to the fundamentals and advances of biology, the
+Department prepares students with in-depth and wide knowledge related to biology and
+applications, as well as the next generation of scholars and teachers. The Department’s teaching
+and research fields of specialization include Biochemistry, Bacteriology, Cell biology, Cell
+signalling, Molecular biology, Genetics, Neuroscience, Parasitology, Plant science, Virology and
+Bioinformatics. Several faculty members have interdisciplinary research interests in Chemistry,
+Physics and Engineering. The overall aim of the Biotechnology Major program is to effectively
+engage students in learning, enhance their problem solving skills, to get deeper understanding of
+the discipline.
+Program outcomes:
+ Apply knowledge of biology fundamentals and biotechnology specialization to the
+solution of complex biology questions.
+ Skills to design and conduct appropriate experimentation, analyze and interpret data, and
+use rationale judgement to draw conclusions.
+ An ability to apply biotechnology to produce solutions for public health and welfare.
+ Acquire skills and knowledge of bioethics, biosafety and environmental norms.
+ Carryout research and write effective scientific reports.
+ To function effectively in diverse and multidisciplinary research setups.
+ An ability to interact positively with global research and teaching community.
+Laboratory Experience
+The research going on in the Department of life sciences is multifaceted and interdisciplinary
+which includes Virology, Oncology, Vascular Biology, Malaria, Bacteriology, Systems and
+Synthetic Biology, Computational biology, Plant biology, Bioinformatics and Drug discovery.
+The Department of Life Sciences has state of the art laboratories equipped with advanced
+instruments like FACS Aria, Fluorescent and Confocal Microscopes, Real time PCR machines
+and 2D gel electrophoresis. In addition to these there are Biosafety level 2 culture laboratories,
+[2]
+and animal and bacterial cell culture facilities equipped with Biosafety hoods, incubators,
+circulating water baths, liquid nitrogen Cylinders, -70oC and -20 oC deep freezers.
+Research Focus:
+B.Sc. (Research) Biotechnology program is research driven and equips students with research
+experience in academic setup. The program requires each student to engage in a research project
+for six months to one year in their chosen topic. Students learn to formulate hypothesis, design
+and performs experiments, analyze data and write scientific reports. Students also have a choice
+to perform a semester of research in another university/ industry too.
+Credit Requirements for Major in Biotechnology
+Core Courses: Within the duration of UG program, a student is expected to complete 111
+credits of courses, including core and electives.
+UWE: Within the duration of UG program, a student is expected to complete a minimum of 18
+credits of UWE offered by other departments of science, engineering, and humanities.
+CCC: Within the duration of UG program, a student is expected to complete a minimum of 18
+credits of CCC courses offered by all the departments of science, engineering, and humanities. A
+total of 42 credits of combined CCC and UWE must be completed for UG program.
+Life Sciences Course Catalog
+Course Code Name of the Course No. of
+Credits
+I Semester L:T:P
+BIO101 Fundamentals of Computers 2:0:1
+CHY111 Chemical Principles 3:1:1
+BIO102 Plant Sciences I 2:0:1
+BIO103 Animal Sciences I 2:0:1
+BIO104 Ecology and Environmental Sciences 2:0:1
+MAT020 Basic Calculus 3:1:0
+Total Credits for I semester 21
+II Semester
+[3]
+CHY122 Basic Organic Chemistry I 2:1:1
+MAT084 Basic Probability and Statistics 3:1:0
+PHY108 Physics for Life 3:0:1
+BIO105 Plant Sciences II 2:0:1
+BIO106 Animal Sciences II 2:0:1
+Total Credits for II semester 18
+III Semester
+BIO201 Cell Biology and Genetics 2:0:1
+BIO202 Microbiology 2:0:1
+BIO203/PHY255 Biophysics 2:0:1
+BIO204 Biochemistry 2:0:1
+Total Credits for III semester 12
+IV Semester
+BIO205 Bio-Analytical Techniques 2:0:1
+BIO 206 Fundamentals of Molecular Biology 2:0:1
+BIO 207 Immunology 2:0:1
+BIO 208 Bioinformatics 2:0:1
+Total Credits for IV semester 12
+V Semester
+BIO301 Animal Biotechnology 2:0:1
+BIO302 Plant Biotechnology 2:0:1
+BIO303 Recombinant DNA Technology 2:0:1
+BIO 304 Industrial Biotechnology 2:0:1
+Total Credits for V semester 12
+VI Semester
+[4]
+BIO305 Genomics ,Proteomics & System Biology 3:0:0
+BIO310 Biology of Infectious Diseases 3:0:0
+BIO307 IPR, Patent Laws & Bioethics 3:0:0
+Elective1 BIO308 Drug Design and Drug Development * 2:0:1
+Elective2 BIO309 Cancer Biology * 3:0:0
+Elective3 BIO313 Cell Signaling and Neurosciences* 2:0:1
+Elective4 BIO314 Host Pathogen Interaction & Vascular Dysfunction* 2:0:1
+* any one of the elective from the above 4 can be
+selected
+Total credits for VI semester 12
+VII semester
+BIO401 Research Methodology 3:0:0
+BIO402 Internal Project Dissertation 9
+Total Credits for VII semester 12
+VIII semester
+BIO403 Project Dissertation 12
+Total Credits for VIII semester 12
+Total course major credits 111
+CCC/ UWE credits 42
+( A minimum of 18 credits of each CCC and UWE
+are required)
+Total Credit requirement for B.Sc (Research) 153
+Biotechnology
+*One elective is mandatory for full-filling major degree requirement
+[5]
+B.Sc. (Research) Biotechnology Program
+Learning outcomes of various courses
+Semester I
+BIO101 Fundamentals of Computers
+(a) Work on linux machines.
+(b) Make programs in PERL.
+(c) Perform sequence analysis of laboratory generated or publically available sequence
+data.
+BIO102 Plant Sciences 1
+(a) Understand and explain the fundamental concepts of plant classification,
+identification and systematics.
+(b) Use the morphological, anatomical and genetic information to derive phylogenetic
+relationships or among various plant groups.
+(c) Demonstrate the ability to differentiate various plant-like forms based on their
+morphology and anatomy.
+(d) Apply the knowledge of plant ecology and economic importance in various
+biotechnological applications like agriculture, natural products, industry,
+biomedicine.
+BIO103 Animal Sciences 1
+(a) Understand the evolution pattern and importance of different systems in
+Invertebrates.
+(b) Able to correlate the importance of different physiological processes in invertebrate
+parasites like malaria, leishmania etc.
+(c) Understand the similarities and differences between invertebrate and vertebrate
+physiology and anatomy.
+BIO104 Ecology and Environmental Sciences
+(a) Obtain an idea about the wild life and conservation methods used.
+(b) Learn the restoration strategies for ecological restoration.
+(c) Lean about Biosphere reserves in India and their detailed method of working.
+Semester II
+BIO203 Plant Sciences II
+(a) Understand and explain the fundamental concepts of plant metabolism.
+(b) Understand molecular mechanisms of plant development
+(c) Demonstrate ability to differentiate various plant-like forms based on their
+morphology and anatomy.
+Animal Sciences II
+(a) Understand the physiology of cell and tissues.
+(a) Correlate the importance of different physiological processes in invertebrate parasites
+like malaria, leishmania etc.
+[6]
+(b) Understand the similarities and differences between invertebrate and vertebrate
+physiology and anatomy.
+Semester III
+BIO201 Cell Biology and Genetics
+(a) Discuss and attempt solving problems in most of the basic and advanced topics in
+Cell Biology and basics of Genetics.
+(b) Conduct basic experiments pertaining to cell biology.
+BIO202 Microbiology
+(a) Identify key concepts and skills that are central to microbiology
+(b) Acquired skills for basic microbiology experiments
+(c) Development of scientific competency that would have enduring and lasting value
+beyond the classroom and laboratory.
+BIO204 Biochemistry
+(a) Define the structure and role and importance of biological molecules.
+(b) Describe the major concepts of Biochemistry.
+(c) Student develop skills perform and demonstrate biochemical assays.
+Semester IV
+BIO205, Bioanalytical Techniques
+(a) Students will be able to learn bioanalytical techniques principles.
+(b) Students can understand and operate standard laboratory equipment.
+(c) Student develop skills perform and demonstrate biochemical assays.
+BIO206, Fundamentals of Molecular Biology
+(a) Able to understand molecular mechanisms of replication, transcription, regulation of
+gene expression and translation.
+(b) Applications of recombinant Gene Technology and its manipulations.
+BIO207, Immunology
+(a) Familiarize with basic concepts of immunology.
+(b) Ability to differentiate function of immune system and basic immune cell types.
+Semester V
+BIO301, Animal Biotechnology
+(a) Understand the application of all the molecular approaches in animal system.
+(b) Learn basics and hands on learning about in vitro Cell and tissue culture.
+BIO302 Plant Biotechnology
+(a) Understand and explain the fundamental concepts of the plant regeneration and tissue
+culture and its role in crop improvement.
+(b) Use the available molecular tools to design strategies for genetic improvement of
+crops and non-crop plant species.
+[7]
+(c) Demonstrate ability to think analytically by analysing different experimental
+conditions and creating set of conditions to validate the outcomes.
+BIO303 Recombinant DNA Technology
+(a) Design the strategy of making a recombinant DNA
+(b) Make a recombinant DNA for further processing like expressing a recombinant
+protein, genome editing etc.
+(c) Make genetically modified organisms.
+(d) Design synthetic biological circuits.
+BIO304, Industrial Biotechnology
+(a) Acquire skills in basic industrial techniques producing commercially important
+products.
+(b) Develop the qualities and transferable skills necessary for their employment in
+biotechnology sector
+Semester VI
+BIO305 Genomics, Proteomics & System Biology
+(a) Understand advanced techniques such as Next Generation Sequencing and
+(b) Learns proteomics such as mass spectrophotometer, 2D electrophoresis etc.,
+BIO306 Biology of infectious diseases
+(a) Will understand the biology behind infection, pathogenesis and role of innate immune
+and adaptive immune system in infectious diseases.
+Semester VII & VIII
+Internal or external research project
+(a) Learn formulate hypothesis, design and performs experiments, analyze data and write
+scientific report.
+(b) Can make significant contribution for a journal article.
+[8]
+Minor in Biotechnology
+The Department of Life Sciences is offering a minor degree to students pursuing various major
+degrees across university. The department has 10 seats reserved for students opting for a minor
+degree. The criteria for selection of students for a minor will be based on the overall CGPA and
+followed by an interview by the departmental committee.
+For getting a minor degree the students have to complete a minimum of 21credits in Life Science
+department, which includes some compulsory course work and some optional course work. The
+four compulsory courses have to be completed by each student to receive the Minor degree.
+Apart from these each student is required to take a minimum of three optional courses.
+Each student opting for a minor degree has to pass in all the compulsory courses. The
+compulsory courses are as listed below:
+CODE Course Name Credits
+BIO 201 Cell Biology and Genetics 3
+BIO 202 Microbiology 3
+BIO 204 Biochemistry 3
+BIO 206 Fundamentals of Molecular Biology 3
+All courses offered to B.Sc. (Research) in Biotechnology Major Students in the II, III, IV, V and
+VI semesters can be taken as optional courses for the Minor degree. For details please see B.Sc.
+(Research) Biotechnology syllabus.
+The minimal credit requirement for a minor in biotechnology is 21 credits, out of which 12
+credits are from compulsory courses
+For queries please contact:
+Undergraduate Advisor of Department of Life Sciences
+Dr. Richa Priyadarshini
+Email: richa.priyadarshini@snu.edu.in
+[9]
