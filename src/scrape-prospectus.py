@@ -41,8 +41,6 @@ def download_file(url: str, dest: Path) -> None:
 
 def detect_file_type(path: Path) -> Optional[str]:
     name = path.stem.lower()
-    if "brochure" in name:
-        return "brochure"
     if "prospectus" in name:
         return "prospectus"
     return None
@@ -136,17 +134,16 @@ def main() -> None:
         folder = raw_base / slugify(title)
         folder.mkdir(parents=True, exist_ok=True)
 
-        for field in ("brochure", "prospectus"):
-            url: Optional[str] = entry.get(field)
-            if not url:
-                continue
+        prospectus_url: Optional[str] = entry.get("prospectus")
+        if not prospectus_url:
+            continue
 
-            ext = get_extension_from_url(url)
-            filename = f"{field}{ext}"
-            dest = folder / filename
+        ext = get_extension_from_url(prospectus_url)
+        filename = f"prospectus{ext}"
+        dest = folder / filename
 
-            print(f"Downloading {url}")
-            download_file(url, dest)
+        print(f"Downloading {prospectus_url}")
+        download_file(prospectus_url, dest)
 
     rename_and_flatten(raw_base)
     process_all_pdfs(raw_base, extract_base)

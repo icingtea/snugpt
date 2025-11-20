@@ -16,3 +16,6 @@ wheels/
 .env
 .env.*
 !.env.example
+
+
+*.pdf
