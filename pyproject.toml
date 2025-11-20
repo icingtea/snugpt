@@ -1,5 +1,5 @@
 [project]
-name = "chunk-documents"
+name = "snugpt"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -7,4 +7,5 @@ requires-python = ">=3.13"
 dependencies = [
     "nanoid>=2.0.0",
     "pydantic>=2.12.4",
+    "pymongo>=4.15.4",
 ]

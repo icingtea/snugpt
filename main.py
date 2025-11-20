@@ -1,5 +1,5 @@
 def main():
-    print("Hello from chunk-documents!")
+    print("Hello from snugpt!")
 
 
 if __name__ == "__main__":
