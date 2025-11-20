@@ -1,0 +1,1332 @@
+Department of
+Mechanical Engineering
+School of Engineering
+UNDERGRADUATE PROSPECTUS
+(B. Tech - Mechanical with specialization)
+Effective from 21-25 batch
+I. Overview of the Department of Mechanical Engineering
+Mechanical Engineering plays a major role in structuring and building the systems used in the real
+world. The mechanical engineers play a crucial role by designing, and manufacturing these
+systems. The career path of a mechanical engineer is largely determined by individual’s choice –
+a unique advantage in an ever-changing competitive world. The mechanical engineering
+curriculum focuses on material science, solid and fluid mechanics, thermodynamics and heat
+transfer, automation and control, design and manufacturing. To summarize, the versatility, wide-
+ranging scope and universal relevance of mechanical engineering open up career avenues in all
+possible branches of the engineering profession. The department currently offers the following
+programs: Bachelor of Technology (B. Tech) in Mechanical Engineering, with the option of minor
+in any other streams of interest, and Ph.D. in Mechanical Engineering.
+Our core objective is to develop leaders of tomorrow and conduct translational research to address
+the major technological bottlenecks. Department has developed state-of-the-art laboratories that
+not only cater to the undergraduate curriculum but also foster research in various specialized and
+interdisciplinary areas. There is an array of specialized mechanical engineering subjects such
+as energy storage and conversion, functional materials, materials processing, microfluidic devices,
+additive manufacturing, robotics, tribology and vibrations. This creates potential career
+opportunities in diverse areas within an industry, government and R&D, such as automotive
+industries, power generation, medical and manufacturing industries. To achieve this goal, the
+department is absorbing the best talent globally by hiring faculty members who have wide-ranging
+experience of academics and research as well as industry. In addition, we are focusing on
+collaborations with various industries to design relevant curricula and to provide students with an
+exposure to the real world.
+Undergraduate Program
+Bachelor of Technology in Mechanical Engineering with the option of doing minor in any other
+stream of interest.
+Program Educational Objectives (PEO)
+The Mechanical Engineering Program at SNU is designed to create and disseminate
+multidisciplinary strategic knowledge of the discipline and develop efficient, eco-friendly systems
+to cater the need of the industries and academic community.
+The department is envisioned to nurture Mechanical Engineers in some emerging areas, namely
+Green Energy Technology Systems, High-Performance Computing, Advanced Materials and
+Manufacturing domains by addressing the relevant needs and challenges of the country. The
+department is offering a plethora of subjects along with three programs (B. Tech, M. Tech and
+Ph.D.) and some state of the art laboratory facilities towards imparting complete knowledge
+through experiential learning and skill development so that students can face any technological
+challenges and can come up with efficient and sustainable solutions.
+Our students and researchers are expected to:
+• Understand fundamental theory and apply their engineering knowledge and critical thinking to
+solve real world challenging Mechanical Engineering problems. The skills we impart on the
+students will be extremely valuable for their professional growth or contribution in non-
+engineering fields or business.
+• Work in a technical environment with an understanding and necessity for the personal integrity,
+ethical behavior, and continuous improvement for the benefit of the community.
+• Disseminate technical information through scholarly publication, conferences and continuing
+education.
+II. Credit Break-up of UG Curriculum in Mechanical Engineering
+Our balanced curriculum has a number of sub categories from which the students need to secure
+minimum credits. Every student has to secure the minimum credits as given in the table in the next
+page. Being a university, we have the freedom to constantly update the content of our courses to
+allow the best of knowledge to be imparted.
+Department of Mechanical Engineering
+Revised Credit Distribution Total number of Credits: 160
+S. No. Category New Credits
+1 Core Common Curriculum (CCC) 18
+2 University Wide Elective (UWE) 18
+3 CCC/UWE 6
+4 Basic Sciences (BS) 20
+5 Engineering Sciences (ES) 9
+6 Major Core 68
+7 Major Elective 9
+8 Project I + Project II 12
+Total Credits 160
+All undergraduate students at SNIOE must take a core group of common subjects designated
+as Core Common Curriculum (or CCC) courses. The CCC is designed to provide students a
+broad-based understanding of the world, its physical, biological and social systems, the
+development of human civilization and culture, and the historical development, etc.
+A UWE course for a student is any non-CCC course outside the student’s major from any
+department of SNIOE. The UWE credits for a student cannot come from courses that is either
+core course or elective course of the student’s major. For example, a student may use UWE to
+pursue a variety of interests in dance, media, communication, history and sociology.
+Alternatively, a student may concentrate the UWE credits in one direction and use them to earn
+a minor degree in other department.
+Core Common Curriculum
+S. No. Category
+1
+Indian History and Society (IHS)
+World History and Society (WHS)
+2
+3
+Culture and Communication (CAS)
+Physical and Living Systems (PLS)
+4
+5
+Cognition and Intelligence (CAI)
+Technology and Society (TAS)
+6
+7
+Environment and Ecology (EAE)
+Reasoning and Analysis (RAA)
+8
+Total Credits: 18 – 24
+Basic Sciences Total number of Credits: 20 Credits
+S. No. Course Code Course L:T:P Credits
+1 PHY101 Physics-1 3:1:0 4
+2 PHY102 Physics-2 3:1:1 5
+3 MAT103 Maths-1 3:1:0 4
+4 MAT104 Maths-2 3:1:0 4
+5 MAT205 Maths-3 3:0:0 3
+Total Credits 20
+Engineering Sciences Total Number of Credits: 9 Credits
+New
+S. No. Course Code Course Credits
+L:T:P
+1 CSD101 Introduction to Computing and Programming 3:0:1 4
+2 EED101 Introduction to Electrical Engineering 3:1:1 5
+Total Credits 9
+Major Core Total number of Credits: 68 Credits
+S. No. Course Code Course L:T:P Credits
+1 MED101 Manufacturing Processes 1:0:1 2
+2 MED104 Descriptive Engineering Drawing 2:0:1 3
+3 MED105 Engineering Mechanics: Statics and Dynamics 3:1:0 4
+4 MED201 Materials Science and Engineering 3:0:1 4
+5 MED203 Mechanics of Solids 3:0:1 4
+6 MED204 Kinematics and Dynamics of Machines 3:0:1 4
+7 MED205 Engineering Thermodynamics 2:1:0 3
+8 MED208 Manufacturing Sciences 3:0:1 4
+9 MED209 Mechanical Engineering Design & Graphics 2:0:1 3
+10 MED210 Principles of Industrial Engineering 3:0:0 3
+11 MED211 Mechanics of Fluids 3:0:1 4
+12 MED301 Applied Thermodynamics 2:1:0 3
+13 MED303 Heat and Mass Transfer 3:0:1 4
+14 MED305 Refrigeration & Air Conditioning 2:0:1 3
+15 MED306 Fluid Machinery 2:0:1 3
+16 MED309 Operations Research 2:1:0 3
+17 MED314 Computer Aided Design & Manufacturing 2:0:1 3
+18 MED315 I. C. Engines & Automobiles 3:0:1 4
+19 MED320 Machine Design 3:0:0 3
+20 MED412 Mechatronics & Control System 3:0:1 4
+Total Credits 68
+Major Electives -9 credits
+S. No. Course Code Course L:T:P Credits
+1 MED307 Finite Element Method 3:0:0 3
+2 MED404 Adv. Comp. Programming & Numerical 3:0:0 3
+Techniques
+3 MED409 Mechanics of Composite Structures 3:0:0 3
+4 MED410 Computational Fluid Dynamics 3:0:0 3
+5 MED415 Mechanical Vibrations 3:0:0 3
+6 MED313 Computer Integrated Manufacturing 3:0:0 3
+7 MED316 Advanced Manufacturing Processes 2:0:1 3
+8 MED318 Supply Chain Management 3:0:0 3
+9 MED308 Power Plant Engineering 3:0:0 3
+10 MED403 Solar Energy 2:0:1 3
+11 MED410 Computational Fluid Dynamics 3:0:0 3
+12 MED413 Energy Conversion Tech and Energy 3:0:0 3
+Management
+13 MED316 Advanced Manufacturing Processes 2:0:1 3
+14 MED322 Advanced Materials and Applied 2:0:1 3
+Tribology
+15 MED414 Surface Engineering 2:0:1 3
+16 MED324 Fundamentals of Hydrogen Fuel Cells 3:0:0 3
+17 MED326 Industrial Automation 2:0:1 3
+18 MED416 Robotics 2:0:1 3
+19 MED417 Soft Robotics 2:0:1 3
+Semester-wise course offering
+First Semester
+S. No. Course Code Course Title L:T:P Credits
+1 CCC 1 3
+2 MAT103 Maths-1 3:1:0 4
+3 PHY101 Physics-1 3:1:0 4
+4 MED101 Manufacturing Process 1:0:1 2
+5 MED104 Descriptive Engineering Drawing 2:0:1 3
+Engineering Mechanics: Statics and
+6 MED105 3:1:0 4
+Dynamics
+Semester Credits 20
+Second Semester
+S. No. Course Code Course Title L:T: P Credits
+1 CCC 2 3
+2 CCC 3 3
+3 MAT104 Maths-2 3:1:0 4
+4 PHY102 Physics-2 3:1:1 5
+5 CSD101 Introduction to Computing and Programming 3:0:1 4
+6 EED101 Introduction to Electrical Engineering 3:1:1 5
+Semester Credits 24
+Third Semester
+S. No. Course Code Course Title L:T: P Credits
+1 CCC 4 3
+2 MAT205 Maths-3 3:0:0 3
+3 MED201 Materials Science and Engineering 3:0:1 4
+4 MED203 Mechanics of Solids 3:0:1 4
+5 MED208 Manufacturing Sciences 3:0:1 4
+6 MED211 Mechanics of Fluids 3:0:1 4
+7 UWE- I 3
+Semester Credits 25
+Fourth Semester
+S. No. Course Code Course Title L:T: P Credits
+1 CCC 5 3
+3 MED204 Kinematics and Dynamics of Machines 3:0:1 4
+2 MED205 Engineering Thermodynamics 2:1:0 3
+4 MED209 Mechanical Engineering Design & Graphics 2:0:1 3
+5 MED210 Principles of Industrial Engineering 3:0:0 3
+6 MED314 Computer Aided Design and Manufacturing 2:0:1 3
+7 UWE II 3
+Semester Credits 22
+Fifth Semester
+S. No. Course Code Course Title L:T: P Credits
+1 CCC 6 3
+2 CCC 7/UWE 3
+3 MED301 Applied Thermodynamics 2:1:0 3
+4 MED303 Heat and Mass Transfer 3:0:1 4
+5 MED309 Operations Research 2:1:0 3
+6 MED320 Machine Design 3:0:0 3
+7 MED412 Mechatronics & Control System 2:1:1 4
+8 UWE- III 3
+Semester Credits 26
+Sixth Semester
+S. No. Course Code Course Title L:T: P Credits
+1 CCC 8/UWE 3
+2 MED305 Refrigeration & Air Conditioning 2:0:1 3
+3 MED306 Fluid Machinery 2:0:1 3
+4 MED315 I. C. Engines & Automobiles 3:0:1 4
+5 UWE-IV 3:0:0 3
+6 UWE–V 3:0:0 3
+7 Major Elective –I 3:0:0 3
+Semester Credits 22
+Seventh Semester
+S. No. Course Code Course Title L:T: P Credits
+1 Major Elective – II 3:0:1 3
+2 Major Elective – III 3:0:0 3
+3 UWE–VI 3:0:0 3
+4 MED497 Project-1 0:0:6 6
+Semester Credits 15
+Eighth Semester
+S. No. Course Code Course Title L:T: P Credits
+1 MED498 Project-2 0:0:6 6
+Semester Credits 6
+Specialization Tracks
+The students enrolled in B. Tech. Mechanical Engineering (4 year) would have an option to
+specialize in one the following emerging areas
+• Computational Techniques in Mechanical Engineering
+• Energy Technology
+• Robotics and Industrial Automation
+The student must complete a minimum of 9 credits in the chosen area of specialization.
+List of elective courses in specialization tracks
+Major Elective 09 Credits
+Track 1 : Computational Techniques in Mechanical Engineering
+S. Course
+Course L:T:P Credits
+No. Code
+1 MED307 Finite Element Method 3:0:0 3
+Adv. Comp. Programming & Numerical
+2 MED404 3:0:0 3
+Techniques
+3 MED409 Mechanics of Composite Structures 3:0:0 3
+4 MED410 Computational Fluid Dynamics 3:0:0 3
+5 MED415 Mechanical Vibrations 3:0:0 3
+Track 2 : Energy Technology
+S. Course
+Course L:T:P Credits
+No. Code
+1 MED308 Power Plant Engineering 3:0:0 3
+2 MED403 Solar Energy 2:0:1 3
+3 MED410 Computational Fluid Dynamics 3:0:0 3
+Energy Conversion Tech and Energy
+3:0:0 3
+4 MED413 Management
+5 MED324 Fundamentals of Hydrogen Fuel Cells 3:0:0 3
+Track 3 : Robotics and Industrial Automation
+S. Course
+Course L:T:P Credits
+No. Code
+1 MED326 Industrial Automation 2:0:1 3
+2 MED416 Robotics 2:0:1 3
+3 MED417 Soft Robotics 2:0:1 3
+Mechanical Minor course requirement list
+Students from other departments in the university have the option to take a minor degree from the
+Mechanical stream. The list of course requirements to obtain a Mechanical minor degree is as follows.
+Total credit for minor requirement is minimum twenty-one.
+Mandatory Courses-12 credits*
+Course
+S.No. Code Course Name credit Prerequisite
+1 MED101 Manufacturing Processes None
+2
+Descriptive Engineering
+2 MED104 None
+Drawing 3
+Engineering Mechanics:
+3 MED105 None
+Statics and Dynamics 4
+Engineering
+4 MED205 None
+Thermodynamics 3
+*If a student has completed 'n' number of equivalent credits among the above three courses, as a
+part of major curriculum then 'n' number of credits should be taken extra from the optional courses
+Optional courses- Minimum 9 credits among the following**
+MED105 or equivalent other dept
+1 MED203 Mechanics of Solids
+4 course
+Kinematics and Dynamics MED105 or equivalent other dept
+2 MED204
+of Machines 4 course
+3 MED211 Fluid Mechanics None
+4
+MED205 & MED211 or equivalent
+4 MED303 Heat and Mass Transfer
+4 other dept courses
+Mechanical Engineering MED104 & MED203 or equivalent
+5 MED209
+Design & Graphics 3 other dept courses
+6 MED309 Operations Research None
+3
+MED211 or equivalent other dept
+7 MED306 Fluid Machinery
+3 course
+Principles of Industrial
+8 MED210 None
+Engineering 3
+9 MED208 Manufacturing Sciences MED101
+4
+10 MED320 Machine Design MED209
+3
+**Equivalent courses in the student's major discipline will not be counted towards minor requirement. Apart
+from these equivalent courses, the student has to complete optional course requirement
+Description of courses offered in Mechanical Engineering Department
+MED101: Manufacturing Processes (L: T: P-1:0:1)
+Unit-I: Carpentry Shop – Basic concepts, Types of woods and their properties, Seasoning of wood,
+Carpentry tools, Carpentry Processes, Carpentry joints.
+Fitting Bench Working Shop – Introduction, Vices, Fitting tools, Fitting Processes
+Unit-II: Welding Shop - Introduction to welding, Weldability, Types of welding, Metallurgy of Weld,
+Arc Welding, Resistance Welding, Spot Welding
+Machine Shop - Introduction to machine tools and machining processes; Types of cutting tools, Selection
+of cutting speeds and feed, Simple machining operations on Lathe.
+Unit-III: Metal Forming: Basic metal forming operations & uses of such as: Forging, Rolling, Wire &
+Tube-drawing/making and Extrusion, and its products/applications. Press-work, & die & punch
+assembly, cutting and forming, its applications. Hot-working versus cold-working.
+Misc. Processes: Powder-metallurgy process & its applications, Plastic-products manufacturing,
+Galvanizing and Electroplating.
+Unit-IV: Sheet Metal Shop -Introduction to sheet metal shop, Metals used in sheet metal works, Hand
+tools and accessories e.g., different types of hammers, hard and soft mallet, Sheet Metal operation, Sheet
+Metal Joints Hems and Seams, Sheet metal allowance, Sheet Metal working machines.
+Foundry Shop – Introduction, Pattern Materials, Method of constructing a pattern, Moulding Processes.
+Lab experiments:
+1 To perform the given two work pieces as a lap joint by arc welding.
+2 To join the given two work pieces as a single ‘V’ butt by arc welding.
+3 To perform the given M.S. piece into a square shape of 48 mm. side.
+4 To perform a Mild steel square flat with multiple Operations.
+5
+To perform a job for facing, turning, Knurling, taper turning, grooving and
+6 To perform a Rectangular Tray by sheet metal work as per dimension given in
+drawing
+7 To perform a square tray by sheet metal work as per dimension given in drawing
+8 To perform a job for Knurling, taper turning, grooving and threading as per
+drawing.
+9 To perform Cross Lap Joint from the given wooden pieces for the desired
+dimensions.
+10 To perform corner wood joint from the given wooden pieces for the desired
+Dimensions.
+11 To perform a mound cavity making from a given pattern for green sand casting.
+Reference Books:
+1. Kalpakjian and Schmid, Manufacturing Engineering and Technology, 7 ed., Pearson.
+2. Kumar & Gupta, Manufacturing Processes, Prentice Hall India.
+3. Workshop technology, by W. A. J. Chapman, Taylor & Francis.
+4. Rao, Manufacturing Processes, McGraw Hill Education.
+MED104: Descriptive Engineering Drawing (L: T: P-2:0:1)
+Unit 1 Introduction to engineering drawing: principles of engineering graphics and their
+significance – drawing instruments and their use, conventions in drawing, lettering,
+dimensioning rules, geometrical construction, Curves used in engineering practice and their
+constructions.
+Unit 2 Orthographic projection in first angle projection only: principles of orthographic
+projections, conventions – first and third angle projections. Projections of points and lines
+inclined to both the planes.
+Unit 3 Projections of planes and solids: projections of regular planes, inclined to both planes.
+Projections of regular solids inclined to both planes.
+Unit 4 Development of surfaces: development of surfaces of right, regular solids –
+development of prisms, cylinders, pyramids, cones.
+Unit 5 Isometric projections: principles of isometric projections-isometric scale- isometric
+views conventions-plane figures.
+Reference Books:
+1. N. D. Bhat (2006), Engineering Drawing, Charotar Publications, New Delhi.
+2. Venugopal (2010), Engineering Drawing and Graphics, 2nd edition, New Age Publications, New
+Delhi.
+3. Johle (2009), Engineering Drawing, Tata Mc Graw Hill, New Delhi, India.
+MED105: Engineering Mechanics-Statics and Dynamics (L: T: P-3:1:0)
+1. Fundamental principles & concepts
+Newton’s laws, gravitation, force (external and internal, transmissibility), couple, moment (about point
+and about axis), couple and couple moment, resultant of concurrent and non-concurrent coplanar forces,
+static equilibrium, free body diagram, reactions. problem formulation concept; 2-d statics, two and three
+force members
+2. Analysis of structures
+Assumptions, rigid and non-rigid trusses; simple truss (plane and space), analysis by method of joints.
+analysis of simple truss by method of sections; compound truss (statically determinate, rigid, and
+completely constrained). beams: types of loading and supports; shear force, bending moment.
+3. Virtual work and energy method
+Virtual displacements, principle of virtual work for particle and ideal system of rigid bodies, degrees of
+freedom and the solution of problems.
+4. Center of mass & area moments of inertia
+First moment of area and centroid, mass and center of mass, centroids of lines, areas, volumes, composite
+bodies. area moments- and products- of inertia, radius of gyration, transfer of axes, composite areas.
+rotation of axes.
+5. Mass moment of inertia
+Second moment of mass, mass moments- and products- of inertia, radius of gyration, transfer of axes,
+flat plates (relation between area- and mass- moments- and products- of inertia), composite bodies.
+rotation of axes.
+6. Friction
+Coulomb dry friction laws, simple surface contact problems, friction angles, types of problems, wedges.
+belt friction. square-threaded screw (self-locking, screw jack).
+7. Kinematics of particle
+Rectilinear motion; plane curvilinear motion (rectangular, path, and polar coordinates). 3-d curvilinear
+motion; relative and constrained motion.
+8. Kinetics of particle
+Newton’s 2nd law (rectangular path, and polar coordinates). work-kinetic energy, power, potential
+energy. impulse-momentum (linear, angular).
+Reference Books:
+1. Shames, I.H. and Rao, G.K.M., 1967. Engineering mechanics: statics and dynamics. Englewood
+Cliffs: Prentice-Hall.
+2. Hibbeler, R.C., 2011. Engineering mechanics statics and dynamics, 11th edition, New Delhi Pearson.
+3. Chandramouli, P.N., 2013. Engineering mechanics, PHI.
+4. Manish Bhaskar, 2010, Problems in engineering mechanics, CBS Publishers & Distributors.
+MED201: Materials Science and Engineering (L: T: P-3:0:1)
+Chapter-1: Introduction
+Material science and engineering, Classification of engineering materials, Structure-property
+relationship, bonding forces and energies, Equilibrium and kinetics, Stability and Meta-stability, Basic
+thermodynamic functions, Entropy, Kinetics of thermally activated processes
+Chapter-2: Crystal Geometry and Structure Determination
+Geometry of crystal, Space lattice, Crystal structure, Crystal directions and planes, Structure
+determination by X-ray diffraction, atomic structure and chemical bonding
+Chapter-3: Crystal Imperfections
+Defects in materials, Point defects, Dislocations, Properties of dislocations, Dislocation theory Surface
+imperfections
+Chapter-4: Phase Diagrams
+The phase rule, Single-component systems, Binary-phase diagrams, Iron-Carbon Phase diagram,
+Microstructural changes during cooling, The lever rule.
+Chapter-5: Phase Transformations
+Time-scale for phase change, Nucleation and grain growth, Nucleation kinetics, Overall transformation
+kinetics, Applications, Recovery, recrystallization and grain growth, Diffusion
+Chapter-6: Plastic Deformation in Crystalline Materials
+Plastic deformation by slip, Shear strength of perfect and real crystals, Critical resolved shear stress for
+slip, Stress to move a dislocation, Effect of temperature on dislocation movement, Dislocation
+multiplication, Work hardening and dynamic recovery
+Chapter-7: Strengthening Mechanisms in Materials
+Introduction, Strengthening from grain boundaries, Solid solution strengthening, Strengthening by fine
+particles, Strain hardening, Bauschinger effect
+Chapter-8: Corrosion and Degradation of Materials
+Introduction, Electrochemical considerations, Corrosion rates, Prediction of corrosion rates, Passivity,
+Environmental effects, Forms of corrosion, Corrosion prevention
+Reference Books:
+1. William D. Callister, “Material Science and Engineering”, Wiley
+2. V. Raghavan, “Material Science and Engineering: A First Course”, PHI
+3. G.E. Dieter, “Mechanical Metallurgy”, McGraw Hill
+MED203: Mechanics of Solids (L: T: P-3:0:1)
+1. Introduction: Definition of Solids and deformations. Review of basics of engineering mechanics.
+Introduction of the concept of stress and strains. Definition of Solids and deformations. Review of basics
+of engineering mechanics. Introduction of the concept of stress and strains.
+2. Stress and strain transforms: Plane dependence of stress and strains. 1D, 2D and 3D stress
+transformation problems. Introducing principal stresses and principal planes. Overview of failure theories
+and structural safety.
+3. Theory of Bending and shearing: Introducing shearing, pure bending and pure shear problems. Shear
+force and bending moment diagrams. Estimating bending, shearing and torsional stresses.
+4. Buckling instability: Developing buckling theory. Estimating Euler critical loads. Buckling
+characterization of columns.
+Reference Books:
+1. Goodno, Barry J., and James M. Gere. Mechanics of materials. Cengage Learning, 2020.
+2. Beer, F.P., Johnston, E.R., DeWolf, J.T. and Mazurek, D.F., 2015. Mechanics of Materials.
+7th_Edition. New York. MeGraw-Hill Education Ltd.
+3. Timoshenko and Gere, Mechanics of Materials. PWS Publishing Company, 1997PWS Publishing
+Company, 1997
+4. Ferdinand P. Beer, John T. DeWolf, E. Russell Johnston, Jr., David Mazurek · 2011. Mechanics of
+Materialls. Tata McGraw-Hill.
+MED204: Kinematics and Dynamics of Machines (L: T: P-3:0:1)
+1. Kinematics: Review of Kinematics of Machines (KoM), Linkage Mechanism, Velocity and
+Acceleration in Mechanisms: Graphical & Analytical methods.
+2. Static Force Analysis: Constraints and Applied forces, Equilibrium of two and three force members,
+free body diagrams, Static equilibrium, Analytical and Graphical methods
+3. Dynamic Force Analysis: D’alembert’s principle, Engine force analysis, Flywheel and Turning
+moment diagrams: single and multi-cylinder steam engines.
+4. Balancing: Static and Dynamic balancing of machines, balancing of masses in different planes
+5. Brakes and Dynamometers: Type of brakes, Band brake, Band and block brakes, internal expanding
+shoe brake
+6. Governors: Various types of governors, Sensitivity, Stability, Effort and Power of Governors.
+7. Gyroscope: Effect of gyroscopic couple on the stability of aero planes & automobiles
+8. Vibration: Mechanical vibration, free and forced vibrations of single degree-of-freedom systems,
+torsional vibration, Critical speeds of shaft.
+Reference Books:
+1. S.S Rattan, Theory of Machines, 3rd Edition, Tata McGraw-Hill Education, 2010.
+2. RS Khurmi, Theory of Machines, S Chand Publication, 2005.
+3. William T. Thomson, Theory of Vibration with Applications, 2nd Edition, George Allen & Unwin,
+1983.
+4. Norton, Kinematics & Dynamics of Machinery, Tata McGraw-Hill Education, 1961.
+5. J. S. Rao, Kinematics of Machinery Through HyperWorks, Springer, 2011.
+6. State of art in the field of mechanisms and machines: Journal articles (review articles), proceedings
+and other publications.
+MED205: Engineering Thermodynamics (L: T: P-2:1:0)
+Unit-1 Introduction and Basic Concepts: Introduction and Definition of Thermodynamics, Dimensions
+and Units, Microscopic and Macroscopic Approaches, Systems, Surroundings and Universe, Concept of
+Continuum, Control System Boundary, Control Volume and Control Surface, Properties and State,
+Thermodynamic Properties, Path, Process and Cycle, Thermodynamic Equilibrium, Quasi Static Process,
+Energy and its Forms, Work and Heat Transfer (Numerical)
+Zeroth Law of Thermodynamics: Zeroth Law of Thermodynamics, Temperature and its’ Measurement,
+Temperature Scales.
+Unit-2 First Law of Thermodynamics: Joules Experiment, First Law of Thermodynamics, Internal
+Energy and Enthalpy, Applications of First Law of Thermodynamics to Cycles, Flow and Non-Flow
+Processes and, Steady Flow Energy Equation and its applications to Different Devices (Numerical),
+PMM-I.
+Unit-3 Second Law of Thermodynamics: Limitations of First Law, Thermal Reservoir, Heat Engines,
+Heat Pump and Refrigerator, Kelvin Planck and Clausius Statement of Second Law, Equivalence of
+Kelvin Plank and Clausius Statements, Reversible and Irreversible Processes, Carnot Cycle and Carnot
+Engine, Carnot Theorem and it’s Corollaries, Thermodynamic Temperature Scale, PMM-II (Numerical).
+Unit-4 Entropy: Clausius Inequality, Concept of Entropy, Entropy Change in Different Thermodynamic
+Processes, Tds Equation, Principle of Entropy Increase, TS Diagram, Third Law of Thermodynamics
+(Numerical).
+Availability and Irreversibility: Available and Unavailable Energy, Availability and Irreversibility,
+Second Law Efficiency, Helmholtz & Gibb’s Function (Numerical).
+Unit-5 Properties of Steam: Pure Substance and Phase Change, Properties and Processes of Steam P-v
+Diagrams, T-s and Mollier Diagrams, Dryness Fraction, (Numerical using Steam Table and Mollier
+Diagrams).
+Reference Books:
+1. Thermodynamics: an engineering approach, Y A Cengel and M A Boles, McGrawHill Education
+2. Engineering Thermodynamics, P K Nag, McGraw Hill Education
+3. Basic and Applied Thermodynamics, P K Nag, McGraw Hill Education
+4. Fundamentals of Engineering Thermodynamics, M J Moran and H N Shapiro, Wiley
+MED208: Manufacturing Sciences (L: T: P-3:0:1)
+Unit I: Metal Casting: Introduction to metal casting, Solidification of Metals, Characteristics of sand
+casting, Patterns, Pattern allowances, Pattern materials, Types of patterns, Moulding materials, Moulding
+sand properties, Types of sand moulds, Cores, Gating system, Casting Defects, Special casting processes,
+Cast structures
+Unit II: Metal Removal Processes: Mechanism of metal cutting, Types of tools, Tool Geometry, Tool
+Signature, Orthogonal and Oblique cutting, Mechanics of chip formation, Chip morphology, Tool wear
+and failure, Machinability, Cutting-tool materials, Cutting fluids, Brief description of metal removal
+processes: Turning, drilling, boring and Milling, Material removal rate and machining time
+Unit III: Metal Joining Processes: Classification of joining processes, Welding technique, Different
+welding processes: Gas Welding, Electric Arc Welding, Tungsten Inert-gas Welding (TIG), Gas Metal-
+Arc Welding (GMAW), Submerged Arc Welding (SAW), Resistance Welding, Friction Stir Welding
+(FSW), Defects in Weldments
+Unit IV: Bulk Deformation Processes: Introduction to bulk deformation processes, Hot and cold
+working, Forging, Types of forging, Forging defects, Rolling, Defects in rolled products, Extrusion,
+Metal flow in extrusion, Rod drawing, Wire and Tube drawing, Swaging, Severe plastic deformation
+processes: Friction stir processing, Equal channel angular extrusion and high pressure torsion
+Unit V: Powder Metallurgy: Production of metal powders, Particle size and shape, Blending of metal
+powders, Compaction of metal powders, Shaping processes, Sintering, Finishing operations, Design
+considerations for powder metallurgy
+Unit VI: Non-Conventional Machining Processes: Need of non-conventional machining,
+Classification of non-conventional machining processes, Different non-conventional machining
+processes: Water jet machining, Abrasive jet machining, Chemical machining, Electrochemical
+machining, Electrical discharge machining, Laser-beam machining
+Unit VII: Non-Conventional Machining Processes: Heat treatment of metals, Annealing, Martensite
+formation in steel, Precipitation hardening, Surface hardening, Heat treatment methods and facilities,
+Surface processing operations, Industrial cleaning processes, Diffusion and ion implantation, Plating and
+related processes, Conversion coating, Vapour deposition processes, Thermal and mechanical coating
+processes
+Reference Books:
+1. Serope Kalpakjian and Steven.R. Schmid, “Manufacturing Processes for Engineering Materials”
+Pearson
+2. P.N. Rao, Manufacturing Technology, McGraw Hill
+3. B.S. Nagendra Parashar and R.K. Mittal, Elements of Manufacturing Processes, PHI
+MED209: Mechanical Engineering Design & Graphics (L: T: P-2:0:1)
+Unit-I Fundamentals of Design: Introduction & Definitions, general procedure of Machine Design,
+System Design Cycle, Strength and Stiffness Design, Standards in Design, Selection of Preferred sizes,
+selection of material, designation of Cast iron, steel and alloy steel
+Unit-II Design against static and Dynamic load: Modes of failure, Factor of safety, Principal stresses,
+Stresses due to bending and torsion, Theory of failure, Cyclic stresses, Fatigue and endurance limit, Stress
+concentration factor, Stress concentration factor for various machine parts, Notch sensitivity, Design for
+finite and infinite life, Soderberg, Goodman criteria.
+Unit-III Mechanical Spring: Terminology in spring, Material for helical springs, End connections for
+compression and tension helical springs, Stresses and deflection of helical springs of circular wire, Design
+of helical springs subjected to static and fatigue loading.
+Unit-IV Riveted Joints: Riveting methods, materials, Types of rivet heads, Types of riveted joints,
+Caulking and Fullering, Failure of riveted joint, Efficiency of riveted joint, Eccentric loaded riveted joint.
+Unit-V Design of Shaft: Shaft: Cause of failure in shafts, Materials for shaft, Stresses in shafts, Design
+of shafts Subjected to twisting moment, bending moment and combined twisting and bending moments,
+ASME code for Shaft Design.
+Unit-VI Design of Keys: Keys: Types of keys, splines, Selection of square & flat keys, Strength of sunk
+key.
+Reference books:
+1) Design of Machine Elements by V. B. Bhandari , Tata McGraw-Hill Education, 2010
+2) Machine Design by P. C .Sharma and DK Agrawal.
+3) Machine Design, Fundamental and Applications by P.C. Gope, PHI learning pvt. Ltd., 2012
+4) Design Data Hand Book for Mechanical Engineers : In SI and Metric Units (English) 3rd Edition
+by K. Mahadevan.
+MED210: Principles of Industrial Engineering (L: T: P-3:0:0)
+1. Introduction to Industrial Engineering: History, Definition, product/process strategy, the trend in
+IE, Scope of IE, Productivity, type of productivity, Efficiency, and Effectiveness.
+2. Production Planning and Control:
+i. Forecasting analysis: Qualitative model (Questionnaire survey, Delphi Method), Time series models
+(Simple average method, weighted average method, kth period method, and exponential smoothing
+method), Linear Regression Model, Seasonal forecasting Model, Causal Model, Performance
+measure analysis (MAD, MSE, MPAE, etc.)
+ii. Production Sequencing and Scheduling of single machine, Parallel machine, flow shop and Job
+shop, operations planning (SPT, EDD, Johnson’s rule, etc.); Gantt chart, work order, Assembly Line
+balancing problem
+3. Aggregate Production Planning: Introduction, Formulation of APP, LPP approach, Transportation
+approach to APP, Uniform strategy, Chase strategy, Pure strategy,
+4. Material Requirement Planning: Introduction, Definition, Independent demand Vs dependent
+demand concept, MRP Inputs, Bill of material, Master production schedule, MRP Logic, Benefits of
+MRP.
+5. Inventory Control: Scope, purchasing and storing, Type of Inventory, ABC, VED Analysis,
+Quantitative Inventory Models (EOQ with and without Backordering, POQ with and without
+backordering, Inventory Discount Policy)
+6. Introduction to Work Study
+Reference Books:
+1. E.S. Buffa, and R.K. Sarin, , John Wiley & Sons, "Modern Production / Operations Management"
+2. Ravi Shankar, "Industrial Engineering and Management"
+3. O.P. Khanna, "Industrial Engineering and Management"
+4. Philip E Hicks, "Specifications of Industrial Engineering and Management: A New Perspective"
+5. G. Srinivasan, "Quantitative Models in Operations and SCM"
+MED211: Mechanics of Fluids (L: T: P-3:0:1)
+1. Introduction: Definition of Fluid and continuum, Physical properties, Newtonian and non-Newtonian
+fluids, and concept of capillarity
+2. Fluid Statics: Fundamental equation of fluid statics, manometers, pressure on plane and curved
+surfaces, center of pressure, buoyancy, stability of immersed and floating bodies, metacentre &
+metacentric height.
+3. Kinematics of Fluid flow: Lagrangian and Eulerian methods for flow field description, one, two and
+three dimensional flows, steady and unsteady flows, uniform and non-uniform flows, material derivative
+and acceleration, streamlines, path lines and steak lines, translation, rotation and rate of deformation of
+fluid element, vorticity and circulation, concept of steam function and velocity potential.
+4. Dynamics of Fluid Flow: System, concept of conservation of mass-continuity equation, differential
+and integral forms of continuity equation, Reynold’s transport theorem, conservation of momentum,
+analysis of control volume systems- inertial and non-inertial control volumes, Euler’s equation of motion,
+Bernoulli’s equation and its applications to vortex flow and measurement of flow through pipes, Pitot
+tube, orifice meter, venturi meter, flow through orifices and mouthpieces.
+5. Dimensional Analysis and Hydraulic Similitude: Dimensional analysis, Buckingham’s Pi theorem,
+important dimensionless numbers and their significance, geometric, kinematics and dynamic similarity,
+model studies.
+6. Viscous flows: Viscosity laws, Navier-stokes equation, exact solution of Navier-stokes equation-
+parallel flow in a straight channel, Couette’s flow, Hagen Poiseuille flow, flow through concentric
+cylinders, low Reynolds number flow, viscous flow through pipes, Darcy’s friction factor, losses in pipes
+due to sudden enlargement and contraction, exit and entry losses, losses due to bends and fittings, flow
+through pipes arranged in parallel and series.
+Reference Books:
+1. Som, S. K. & Biswas G.: Introduction of fluid mechanics & Fluid Machines, TMH.
+2. Yunus A. Cengel and John M. Cimbala: Fluid Mechanics Fundamentals and Applications, McGraw
+Hill Education
+3. White F. M: Fluid Mechanics, McGraw hill Education
+4. Pijush K. Kundu: Fluid Mechanics, Elsevier India
+5. I. H. Shames, Mechanics of Fluids, McGraw Hill Education.
+6. http://web.mit.edu/hml/ncfmf.html
+MED301: Applied Thermodynamics (L: T: P-2:1:0)
+Unit-I Thermodynamic relations: Mathematical conditions for exact differentials. Maxwell Relations,
+Clapeyron Equation, Joule-Thompson coefficient and Inversion curve. Coefficient of volume expansion,
+Adiabatic & Isothermal compressibility.
+Unit-II Boilers: Steam generators-classifications. Working of fire-tube and water-tube boilers, boiler
+mountings & accessories, Draught & its calculations, air pre heater, feed water heater, superheater. Boiler
+efficiency, Equivalent evaporation. Boiler trial and heat balance. Condenser: Classification of
+condenser, Air leakage, Condenser performance parameters
+Unit-III Steam Engines: Rankine and modified Rankine cycles. Steam & Gas Nozzles: Flow through
+nozzle, Variation of velocity, Area and specific volume, Choked flow, Throat area, Nozzle efficiency,
+off design operation of nozzle, Effect of friction on nozzle, super saturated flow.
+Unit-IV Steam Turbines: Classification of steam turbine, Impulse and reaction turbines, Staging, Stage
+and overall efficiency, Reheat factor, Bleeding, Velocity diagram of simple & compound multistage
+impulse & reaction turbines & related calculations work done efficiencies of reaction, Impulse reaction
+Turbines, state point locus, Comparison with steam engines, Losses in steam turbines, Governing of
+turbines. Gas Turbine: Gas turbine classification, Brayton cycle, Principles of gas turbine, Gas turbine
+cycles with intercooling, reheat and regeneration and their combinations, Stage efficiency, Polytropic
+efficiency. Deviation of actual cycles from ideal cycles.
+Unit-V Jet Propulsion: Introduction to the principles of jet propulsion, Turbojet and turboprop engines
+& their processes, Principle of rocket propulsion, Introduction to Rocket Engine. Introduction to
+working of I. C. Engines: Compression Ignition engines, Spark Ignition engines, 2 stroke and 4 stroke
+engines, Performance parameters of I. C. engine, Heat balance sheet. Fuels and Combustion:
+Combustion analysis, Heating Values, Air requirement, Air/Fuel ratio, Standard heat of Reaction and
+effect of temperature on standard heat of reaction, heat of formation, adiabatic flame temperature.
+Reference Books:
+1. Power Plant Engineering – P K Nag, McGraw Hill Education
+2. Thermal Engineering – Mahesh M Rathore, McGraw Hill Education
+3. Basic and Applied Thermodynamics– P K Nag, McGraw Hill Education
+4. Thermodynamics: an engineering approach, Y A Cengel and M A Boles, McGrawHill Education
+5. Applied Thermodynamics for Engineering Technologists – T D Eastop and A McConkey, Pearson
+Education
+6. Thermodynamics Basic and Applied- V Ganesan, McGraw Hill Publications
+MED303: Heat and Mass Transfer (L: T: P-3:0:1)
+UNIT-I
+Introduction and basic concepts: Thermodynamics and heat transfer, Heat transfer mechanisms:
+Conduction, Convection and Radiation, Thermal conductivity, Simultaneous heat transfer. Heat
+conduction equation: Introduction, One dimensional heat conduction equation, General heat conduction
+equation, Boundary and initial conditions. Steady heat conduction: Steady heat conduction in plane
+walls, Thermal contact resistance, generalized thermal networks, Heat conduction in cylinders and
+spheres, Critical radius of insulation, Heat transfer from finned surfaces. Transient heat conduction:
+Lumped system analysis, Transient heat conduction in large plane walls, long cylinders and spheres with
+spatial effects
+UNIT-II
+Fundamentals of convection: Physical mechanism of convection, Classification of fluid flows, Velocity
+boundary layer, Thermal boundary layer, Laminar and turbulent flows, Heat and momentum transfer in
+turbulent flow, Derivation of differential convection equations, Solutions of convection equations for a
+flat plate, Analogies between momentum and heat transfer. External forced convection: Drag and heat
+transfer in external flow, Parallel flow over flat plates, Flow across cylinders and spheres, Flow across
+tube banks. Internal forced convection: Introduction average velocity and temperature, the entrance
+region, General thermal analysis, Laminar flow in tubes, Turbulent flow in tube. Natural convection:
+Physical mechanism of natural convection, Equation of motion and the grashof number, Natural
+convection over surfaces, Natural convection from finned surfaces, Natural convection inside enclosures,
+Combined natural and forced convection
+UNIT-III
+Heat exchangers: Types of heat exchangers, the overall heat transfer coefficient, Analysis of heat
+exchangers, The log mean temperature difference method, The effectiveness- NTU method, Selection of
+heat exchangers. Fundamentals of thermal radiation: Introduction, Thermal radiation, Blackbody
+radiation, Radiation intensity, Radiative properties, Atmospheric and solar radiation. Radiation heat
+transfer: The view factor, View factor relations, Radiation heat transfer: black surfaces, Radiation heat
+transfer: diffuse, gray surfaces, Radiation shields and the radiation effect, Radiation exchange with
+emitting and absorbing gases. Mass transfer: Introduction, Analogy between heat and mass transfer,
+Mass diffusion, Boundary conditions, Steady mass diffusion through a wall, Water vapor migration in
+buildings, Transient mass diffusion, Diffusion in a moving medium, Mass convection, Simultaneous heat
+and mass transfer
+Reference Books:
+1. Heat and Mass Transfer by Yunus A. Cengel, Afshin J. Ghajar
+2. Heat and Mass Transfer by P K Nag
+3. Fundamentals of Heat and Mass Transfer by Lavine, Incropera and Dewitt
+4. Heat and Mass Transfer by R.K. Rajput
+5. Fundamentals of Engineering Heat and Mass Transfer by R. C. Sachdeva
+MED305: Refrigeration & Air Conditioning (L: T: P-2:0:1)
+UNIT-I
+Methods of cooling: Sensible cooling, Endothermic mixing, Phase change processes, Expansion of
+liquids, Expansion of gases, Thermoelectric cooling, Adiabatic demagnetization Vapour compression
+refrigeration systems: Carnot refrigeration cycle, Standard Vapor Compression Refrigeration System,
+Performance of VCRS cycle, Modifications of VCRS cycle, Actual VCRS System. Refrigerants:
+Refrigerant Selection Criteria, Classification of Refrigerant Expansion devices: Automatic Expansion
+Valve, Thermostatic Expansion Valve and Capillary tube
+UNIT-II
+Condensers: Types of condensers, Heat transfer in condensers. Evaporators: Types of evaporators,
+Heat transfer in evaporators. Refrigerant Compressors: Types of compressors, Reciprocating
+compressor, Volumetric Efficiency
+UNIT-III
+Vapour absorption refrigeration systems: Simple Vapour Absorption System, Ammonia-Water
+Refrigeration System. Psychrometry: Important Psychrometric Properties, Wet Bulb Temperature,
+Psychrometric Chart, Psychometric Processes, Summer air conditioning system, Evaporative air
+conditioning system.
+Reference Books:
+1. C.P. ARORA
+2. J.K. GUPTA and R.S. KHURMI
+3. R.K. RAJPUT
+4. WILBERT STOECKER
+5. A.R. TROTT and T. WELCH
+MED306: Fluid Machinery (L: T: P-2:0:1)
+UNIT-I
+Introduction: Classification of Fluid Machines & Devices, Application of Impulse-Momentum equation
+on flow through hydraulic machinery. Impact of jet: Introduction to hydrodynamic thrust of jet on a
+fixed and moving surface Hydraulic Turbines: Classification of turbines, Impulse turbines, Pelton
+Turbine, Constructional details, Velocity triangles, Power and efficiency calculations
+UNIT-II
+Reaction Turbines: Francis and Kaplan turbines, Constructional details, Velocity triangles, Power and
+efficiency calculations, Draft tube, Unit and specific speed, Performance characteristics, Selection of
+water turbines. Euler’s fundamental equation.
+UNIT-III
+Centrifugal Pumps: Classifications of centrifugal pumps, Vector diagram, Work done by impeller,
+Efficiencies of centrifugal pumps, Specific speed, Performance characteristics.
+Introduction to Positive Displacement Pumps
+UNIT-IV
+Other Machines: Hydraulic accumulator, Special duty pumps, Intensifier, Hydraulic press, Lift and
+cranes, Theory of hydraulic coupling and torque converters Water Lifting Devices: Hydraulic ram, Jet
+pumps, Air lift pumps.
+List of Experiments
+1. Impact of Jet
+2. Pelton Turbine
+3. Francis Turbine
+4. Kaplan Turbine
+5. Centrifugal Pump
+6. Reciprocating Pump
+7. Gear Pump
+8. Hydraulic Ram
+Reference Books:
+1. Fluid Mechanics and Fluid Machines. S. K. Som, G. Biswas and S. Chakraborty. McGrawHill
+Education
+2. Fluid Mechanics and Machinery. C. S. P. Ojha, R. Berndtsson and P. N. Chandramouli. Oxford
+University Press.
+3. Hydraulics and Fluid Mechanics Including Hydraulic Machines. P. N. Modi, S. M. Seth. Standard
+Book House.
+4. Fluid Mechanics and Thermodynamics of Turbomachinery. S. L. Dixon and C. Hall. Butterworth-
+Heinemann
+MED309: Operations Research (L: T: P-2:1:0)
+UNIT-I
+(a) Origins and Impacts of Operations Research
+(b) Formulations
+i. Mathematical Models
+ii. Model Components
+iii. Formulation Examples.
+UNIT-II
+Simplex Solution Technique
+i. Graphical Method
+ii. Algebraic Approach
+iii. Summary: Tableau Method HW2 due for Week 4.
+UNIT-III
+Special Cases of Simplex Method
+i. Nonrestricted, nonpositive variables and minimization proble
+ii. Infeasible and Unbounded Linear Programs
+iii. Software for Larger Linear Programs
+UNIT- IV
+Network Problems and Applications
+i. Transportation Problem Formulations
+ii. Assignment Problem Formulations
+UNIT- V
+Queuing Theory
+UNIT- VI
+CPM/PERT
+Reference Books:
+1. Introduction to Operations Research, by F.S. Hillier and G.J. Lieberman
+2. Operations Research, by Gupta Prem Kumar and Hira D.S.
+MED314: Computer Aided Design & Manufacturing (L: T: P-2:0:1)
+1. Introduction to CAD:
+• Overview of CAD and its applications in various industries
+• Historical development and evolution of CAD
+• Benefits and advantages of using CAD in design processes
+2. CAD Software training:
+• Introduction to CAD software packages (3D experience platform)
+• Familiarization with the CAD software interface, tools, and features
+3. Geometric Modeling:
+• Understanding 1D, 2D and 3D geometric entities
+• Creating and modifying geometric shapes and objects
+• Applying geometric constraints and relationships between entities
+4. Parametric Modeling:
+• Introduction to parametric modeling concepts and principles
+• Creating parametric models and establishing relationships between objects
+• Modifying designs by adjusting parameters and constraints
+5. Part Design, Assembly Design and Drafting:
+• Assembling components and creating complex assemblies
+• Applying constraints and relationships to ensure proper fit and functionality
+• Creating accurate technical drawings and views
+6. Project Work:
+• Hands-on projects to apply CAD principles and techniques to real-world design challenges
+• Developing problem-solving skills and critical thinking through project-based learning
+Reference Books:
+1. Ibrahim Zeid, Mastering CAD/CAM, Tata McGraw-Hill Education.
+2. P. N. Rao, CAD/CAM: Principles and Applications, Tata McGraw-Hill Education.
+3. M. Groover, E. Zimmers, CAD/CAM : Computer-Aided Design and Manufacturing, Pearson
+Education Singapore Pte Ltd
+4. S. P. Regalla, Computer Aided Analysis and Design, I.K. International Publishing House Pvt. Ltd.
+MED315: I.C. Engines & Automobiles (L: T: P-3:0:1)
+1. Introduction
+Historical and Modern Development, Nomenclature, Classification and Comparison of SI and CI
+engines, 4 stroke & 2 stroke engines, First Law analysis, Energy Balance.
+2. Engine Testing and Performance
+Performance parameters, Efficiencies such as thermal, mechanical, volumetric etc., Measurement of
+operating parameters such as speed, fuel and air consumption, Powers- IHP, BHP, FHP, Numerical
+problems, India and International standards of Testing.
+3. Combustion
+Combustion in CI and SI engines: Ignition Limits, Stages of combustion, Combustion parameters, Delay
+period and Ignition Lag, Turbulence and Swirl, Effects of engine variables on combustion parameters,
+Abnormal combustion in CI and SI engines, Detonation and knocking, Control of abnormal combustion,
+Types of combustion chamber.
+Pollutant Formation and Control: Unburned hydrocarbon emissions, CO and NO emissions and emission
+x
+control methods.
+4. Introduction to Automobiles
+Frame and Body: Layout of chassis, types of chassis frames and bodies, their constructional features
+and materials. Auto-electric system.
+5. Power Transmission
+Requirements of transmission system; General Arrangement of Power Transmission system; Clutch:
+single plate, multi plate, cone clutch, semi centrifugal, vacuum and hydraulic clutches, Fluid coupling;
+Gear Boxes: Sliding mesh, constant mesh, synchromesh and epicyclic gear boxes, automatic
+transmission system, overdrive, propeller shaft, universal joints, front wheel drive, differential, rear
+axle drives, rear axle types, two wheel and four-wheel drive.
+6. Automotive Brakes, Tyres & Wheels
+Classification of Brakes; Principle and constructional details of Drum Brakes, Disc Brakes; Brake
+actuating systems; Mechanical, Hydraulic, Pneumatic Brakes; Factors affecting Brake performance,
+Power & Power Assisted Brakes; Types of Wheels; Types of Tyre & their constructional details, Wheel
+Balancing.
+LAB WORK:
+• Performance test of single cylinder four-stroke SI engine
+• Performance test of single cylinder four-stroke CI engine
+• Performance test of multi cylinder four-stroke SI engine
+• Performance test of multi cylinder four-stroke CI engine
+• Performance test of CI engine with variable compression ratio
+• Study of Maruti engine
+• Study of fuel pump and injector of a four-stroke CI engine
+• Study of spark ignition system of SI engine
+• Study of gearbox and turbocharger
+• Valve timing diagram of single cylinder four-stroke CI engine
+Reference books:
+1. Ganesan, V. “Internal Combustion Engines”, Third Edition, Tata McGraw-Hill.
+2. Rajput, R. K. “A Textbook of Internal Combustion Engines”, Third Edition, Laxmi Publicatons.
+3. Singh, K. “Automobile Engineering Volume 1”, Twelth Edition, Standard Publishers.
+4. Rajput, R. K. “A Textbook of Automobile Engineering”, Second Edition, Laxmi Publications.
+5. Heywood, J. B. “Internal Combustion Engine Fundamentals”, Tata McGraw-Hill
+6. Pulkrabek, W. “Engineering Fundamentals of Internal Combustion Engine”, Prentice Hall India.
+7. Crouse, W. H and Anglin, D. L. “Automotive Mechanics”, Tata McGraw-Hill.
+MED320: Machine Design (L: T: P-3:0:0)
+1. Introduction of fundamental of design: Basic Procedure of Machine Design, Basic Requirements of
+Machine Elements, Selection of Manufacturing Method, Design Considerations of Castings, Design
+Considerations of Forgings, Design Considerations of Machined Parts, Design Considerations of Welded
+Assemblies, Design for Manufacture and Assembly (DFMA) etc.
+2. Introduction to Machine Vibration: Free Vibration, Critical damping, Forced vibration, steady state
+amplitude, single degree of freedom system, energy method, resonance, system with more than one
+degree of freedom.
+3. Designing for Brakes and Clutches: Clutches: Torque Transmitting Capacity, Multi-disk Clutches,
+Friction Materials, Cone Clutches, Energy Equation, Brakes: Energy Equations, Block Brake with Short
+Shoe, Block Brake with Long Shoe, Pivoted Block Brake with Long Shoe, Internal Expanding Brake,
+Band Brakes.
+4. Design and analysis Bearings: Rolling Contact Bearings: Types of Rolling-contact Bearings,
+Principle of Self-aligning Bearing, Selection of Bearing-type, Static Load Carrying Capacity, Dynamic
+Load Carrying Capacity, Equivalent Bearing Load, Load-Life Relationship, Selection of Bearing Life,
+Load Factor Design for Cyclic Loads and Speeds, Sliding Contact Bearings: Basic Modes of
+Lubrication, Viscosity, Measurement of Viscosity Viscosity Index, Petroff’s Equation, Viscous Flow
+through Rectangular Slot, Hydrostatic Step Bearing, Energy Losses in Hydrostatic Bearing, Reynold’s
+Equation
+5. Design and analysis of I C Engine parts: Internal Combustion Engine, Cylinder and Cylinder Liner,
+Bore and Length of Cylinder, Thickness of Cylinder Wall, Stresses in Cylinder Wall, Cylinder Head,
+Design of Studs for Cylinder Head, Piston, Piston Materials, Thickness of Piston Head, Piston Ribs and
+Cup, Piston Rings, Piston Barrel, Piston Skirt, Piston Pin, Connecting Rod, Buckling of Connecting Rod,
+Cross-section for Connecting Rod.
+Reference Books:
+1. Design of Machine Elements by V. B. Bhandari , Tata McGraw-Hill Education, 2010
+2. Machine Design by P. C .Sharma and DK Agrawal.
+3. Machine Design, Fundamental and Applications by P.C. Gope, PHI learning pvt. Ltd., 2012
+4. Design Data Hand Book for Mechanical Engineers : In SI and Metric Units (English) 3rd Edition by
+K. Mahadevan.
+5. Mechanical Engineering Design by J. E. Shigley, McGraw Hill, 1989
+6. Advanced Machine Design by J. Harland Billings.
+7. Machine Design: An Integrated Approach, 2/E by NORTON, Pearson Education India, 2000.
+8. Engineering Design by Faupel, J.H., and Fisher, F.E.,Wiley- Interscience-1981.
+9. Mechanical Analysis and Design by A.H. Burr, Elsevier. 1982
+MED412: Mechatronics & Control System (L: T: P-2:1:1)
+UNIT-I
+Introduction to Mechatronic Systems: Key elements – Mechatronics Design process –Design
+Parameters – Traditional and Mechatronics designs – Advanced approaches in Mechatronics - Industrial
+design and ergonomics, safety.
+UNIT-II
+Mechatronic System Components: Common sensors/actuators: Stepper motor, servo motor, Pneumatic
+cylinder, Direction control valve, Proportional pressure regulator, encoders, limit switches, LVDT etc.
+UNIT-III
+Pneumatic Automation and Data Acquisition: Introduction to pneumatic circuit design: intuitive
+method, cascading method, Karnaugh-Veitch maps. Sizing of parts. Analog and digital signals. Means
+of acquisition.
+UNIT-IV
+Case Studies: Projects are assigned to students in batches of four. Each team shall receive a project kit
+and an objective. Creative freedom is given with respect to execution-bonus points going to out of the
+box thinking. The project will be divided into 4 sections that would be evaluated in 4 rounds of
+presentations held during class hour-5 minutes per presentation. Round 1-concept and overall picture,
+round 2-Kinematics and electronics, round 3-coding. The culminating presentation will be demonstration
+of the working model. Each round is given equal weightage. Marks awarded in each round is final, no
+marks shall be awarded to earlier rounds based on current progress.
+Practicals: Lab sessions are designed to familiarize students with Industrial automation tools such as
+PLC, FLUIDSIM, Pneumatic automation (FESTO), Block diagram based programming upon National
+Instruments products. Emphasis will be given to virtual instrumentation. Elements of image processing
+will also be included.
+Reference Books:
+1. David Galciatore and Michael B Histand, "Introduction to mechatronics and measurement systems"
+MED307: Finite Element Method (L: T: P-3:0:0)
+1. Linear Finite Element (FE) procedures in Solid Mechanics: Governing equations (kinematics,
+constitutive law, equilibrium equations), Work concepts - Principle of minimum potential energy and
+principle of virtual work. Finite element formulation for linear elastic statics – 3D and 2D (plane stress,
+plane strain and axisymmetric) problems
+2. Computation of element matrices and vectors: Shape function or interpolation function for
+rectangular and triangular element in 2D and Hexahedral and tetrahedral elements in 3D, convergence
+concepts, mapping of elements, numerical integration – Gauss Quadrature.
+3. Generalization of FE concepts: Variational formulation, Euler-Lagrange differential equations;
+Constrained equations – Lagrange multipliers and Penalty method; Weighted residual methods
+4. Application of FEM to Poisson’s equation: Variational representation; FE formulation; Ex. steady
+state heat transfer, Ideal fluid flow, Torsion of shaft etc.
+5. Solution of algebraic equations: Review of linear algebra; Gauss elimination and matrix
+factorization; III-conditioning problems
+Reference Books:
+1. Cook, R. D., Malkus, D. S., and Plesha, M.E., Concepts and Applications of Finite Element
+Analysis, 3rd Edition, John Wiley, 1989.
+2. Bathe, K. J., Finite Element Procedures, Prentice Hall of India, 1982.
+3. Zienkiewicz, O.C., and Taylor, R.L., The Finite Element Method, Vol. 1 (The Basis), Butterworth-
+Heinemann, 2000.
+4. Krishnamoorthy, C. S., Finite Element Analysis (theory and programming), 2nd Edition, Tata
+McGraw-Hill Education, 1995.
+5. Young W. Known., The finite element method using matlab, 2nd Edition, CRC Press, 2000.
+6. State of art in the field of FEA: Journal articles (review articles), proceedings and other publications.
+MED324: Fundamentals of Hydrogen Fuel Cell Technology
+(L: T: P-3:0:0)
+Chapter 1- Hydrogen as a Green Fuel
+Hydrogen Economy, Hydrogen production, Electrochemistry of Water Splitting, Oxygen Evolution
+Reaction (OER), Hydrogen Evolution Reaction (HER), Concept of Overpotential, Water-splitting
+Technologies for Hydrogen Generation, Role of Electrocatalysts.
+Chapter 2- Fuel Cell Principles
+Introduction, Fuel Cell Types, Basic Fuel Cell Operation, Fuel Cell Performance, Characterization,
+Environment Aspects, Fuel Cell thermodynamics, Fuel Cell Efficiency, Thermodynamics of Reversible
+Fuel Cells
+Chapter 3- Fuel Cell Reaction Kinetics
+Electrode Kinetics, Concept of Activation Energy, Exchange Current Density, Galvani Potential, Butler-
+Volmer Equation, Catalyst-Electrode Design, Catalysis in Fuel Cells, Sabatier Principle
+Chapter 4- Fuel Cell Charge and Mass Transport
+Characteristics of Fuel Cell Transport Resistance, Review of Fuel Cell Electrolyte Classes, Diffusivity
+and Conductivity, Transport in Electrode versus Flow Structure, Diffusive Transport, Convective
+Transport
+Chapter 5- Fuel Cell Characterization
+What Do We Want to Characterize, Overview of Characterization Techniques, In Situ Electrochemical
+Characterization Techniques, Ex Situ Characterization Techniques
+Chapter 6- Fuel Cell Technology
+Overview of Fuel Cell Types, Phosphoric Acid Fuel Cell, Polymer Electrolyte Membrane Fuel Cell,
+Alkaline Fuel Cell, Molten Carbonate Fuel Cell, Solid-Oxide Fuel Cell, Other Fuel Cells Summary
+Comparison
+Reference Books:
+1. L. Zhang, H. Zhao, D.P. Wilkinson, X. Sun, J. Zhang, Electrochemical Water Electrolysis-
+Fundamentals and Technologies, CRC Press
+2. R.O’ Hayre, S.W. CHA, W.G. Colella, F.B. Prinz, Fuel Cell Fundamentals, Wiley
+MED404: Adv. Comp. Programming & Numerical Techniques
+(L: T: P-3:0:0)
+1. Practice Session on MATLAB/C. Curve fitting and Data handling in MATLAB/C.
+2. Approximations and errors in computing.
+3. Linear Equations and Non-linear Equations; finding roots of polynomial
+4. Solving Linear Systems: Gauss Elimination, Gauss-Jordan; LU and QR Decomposition;
+Implementation in MATLAB/C.
+5. Solving Linear System with iterative methods: Jacobi method, Gauss-Seidel Method;
+Implementation in MATLAB/C.
+6. Numerical Integration: Trapezoid Rule, Simpson’s Rule, Gaussian Quadrature; Implementation
+in MATLAB/C.
+7. Ordinary Differential Equations: Runge-Kutta Method, Predictor-Corrector Method;
+Implementation in MATLAB/C.
+Reference Books:
+1. E. Balagurusamy, “Numerical Methods”, McGraw Hill.
+2. Steven C. Chapra and Raymond P.Canale, “Numerical Methods for Engineers”, McGraw Hill
+Education.
+3. V. Rajaraman, “Computer oriented numerical methods”, PHI learning pvt ltd.
+4. Laurene V. Fausett "Applied Numerical Analysis using MATLAB", Pearson.
+5. Rudra Pratap “Getting Started with MATLAB: A Quick Introduction for Scientist and Engineers”,
+Oxford University Press.
+MED409: Mechanics of Composite Structures (L:T:P-3:0:0)
+1. Introduction to Composites: Selection of materials for structural design, physical properties, design
+criteria (strength, stiffness and stability), derivation of performance indices for three design criteria, types
+of materials, definition of composite materials, special features of composites, application of composite
+materials, basic ingredients of composites (fiber and matrix), classification of composites, characteristics
+or properties of fiber and matrix and their classification.
+2. Micromechanics of Composites: Individual constituent material properties, lamina properties: Rule
+of mixture, RVE or unit cell homogenization techniques
+3. Macromechanics of Composites: Lamina: Assumptions in macromechanical modelling of
+composites, Uniaxial experiments to express 3-D compliance matrix coefficients in terms of engineering
+constants, 2-D plane stress stiffness matrix, stiffness matrix in principle material coordinate system and
+global coordinate systems, Invariant form of the lamina stiffness matrix, strength of lamina, failure
+envelope of lamina: Maximum stress criterion, and Tsai-Wu-Haun failure criterion,
+4. Macromechanics of Composites: Laminate: Definition of laminate, properties of nth ply (lamina),
+laminate orientation code, laminate constitutive law in terms of lamina constitutive law. Invariant form
+of laminate constitutive law.
+5. Classical Laminate Plate Theory (CLPT): Plate theories, Assumptions in the CLPT, solution of test
+cases using CLPT and validation for different loading and boundary conditions.
+6. Computer program for composite laminate: Flow chart and algorithm for 2-D constitutive law of
+laminate, program to get the laminate constitutive law for a given input: ply material properties and
+orientation code
+Reference Books:
+1. Jones, R. M., Mechanics of Composite Materials, Technomic Publication.
+2. Herakovich, C.T., Mechanics of Fibrous Composites, John Wiley & Sons, Inc. New York, 1998.
+3. Gibson, R. F., Principles of Composite Material Mechanics, CRC Press, 2nd Edition, 2007.
+4. Reddy, J. N., Mechanics of Laminated Composite Plates and Shells – Theory and Analysis, CRC
+Press, 2nd Edition, 2004.
+5. Twardowski, T.E., Introduction to Nanocomposite Materials: Properties, Processing,
+Characterization, Destech Publications, 2007.
+6. Stephen W. Tsai, Composites Design, Think composites, 4th Edition, 1988.
+7. State of art in the field of composites: Journal articles (review articles), proceedings and other
+publications.
+MED410: Computational Fluid Dynamics (L: T: P-3:0:0)
+Unit-I Basics of fluid dynamics: Review of Fluid Flow Governing Equations-Differential and Integral
+forms. conservation of mass momentum energy. Introduction to CFD
+Unit-II Finite Difference Method: Taylor Series, Higher order expressions, Truncation error,
+Discretization of 1D and 2D diffusion equation-steady and unsteady, Explicit and implicit formulation,
+Iterative linear system solvers- Gauss Jacobi and Gauss Siedel and Stability analysis-Von-Neumann
+analysis. Mathematical nature of PDEs and flow equations.
+Unit-III Finite Volume Method: Introduction to Finite Volume method, 1-D steady diffusion equation,
+Handling boundary conditions, Convection Diffusion Equation, Properties of a discretization scheme,
+Convective schemes.
+Staggered and collocated grid, SIMPLE algo for the solution of Navier Stokes Equation, Treatment of
+boundary conditions.
+Reference Books:
+1. Computational Fluid Mechanics and Heat Transfer, R H Pletcher, J C Tannehill and D A Anderson.
+CRC Press.
+2. Computational Fluid Dynamics, T J Chung- Cambridge University Press.
+3. An introduction to Computational fluid dynamics: The finite volume method, H Versteeg and W
+Malalasekera. Pearson.
+4. Numerical Heat Transfer and Fluid Flow, S V Patankar. CRC Press.
+MED415: Mechanical Vibrations (L: T: P-3:0:0)
+UNIT–1: Introduction to ordinary differential equations (ODEs), linear algebra concepts and
+computational methods to solve ODEs such as Runge Kutta method and Euler technique. Concept of
+dynamic equilibrium explained through D'Alembert's principle. Explaining oscillatory problems using
+Kelvin-Voight model (spring-mass-dashpot arrangement).
+UNIT–2: Introduction to single degree of freedom free and forced vibration problems. Deriving
+equations of motion using Rayleigh, Newtonian and Hamiltonian principles. Solutions to free un-
+damped, free damped oscillations, forced un-damped and forced damped oscillations. Concepts of
+resonance and real resonance. Introduction to transmissibility and base excitation.
+UNIT–3: Interchangeability between time and frequency domains using Fourier analysis. Introduction
+to displacement, velocity and acceleration sensors. Applications of vibration based sensors in structural
+health monitoring. Brief idea of modal techniques and inverse problems.
+UNIT–4: Overview of two-degree of freedom vibrating systems. Concepts of proportional damping and
+coupled equations of motion. Applications in vehicle vibration problems, aircraft flutter problems and
+harnessing useful energy from vibrating systems.
+Reference Books:
+1. Michael Groover, Mechanical Vibrations.
+2. William Thomson et al. Theory of vibrations with applications.
+3. Mario Paz, Structural Dynamics - Theory and Computation.
+4. S.S. Rao. Mechanical Vibrations 5th Edition.
+5. S. Adhikari. Damping Models for Structural Vibration.
+MED313: Computer Integrated Manufacturing (L: T: P-3:0:0)
+1. Introduction To FMS, RMS, CIM: Introduction to FMS, FMS equipment, tool management system,
+system layouts, reconfigurable machines and systems, CIM technology issues, CIM Models.
+2. Material Handling, Storage & Data Collection: Functions, types, analysis of material handling
+equipment’s. Design of conveyor and AGV systems, storage system performance, AS/RS, carousel
+storage system, WIP storage system, interfacing handling storage with manufacturing. Automatic data
+collection, bar code technology, Radio Frequency Identification.
+3. Process Planning: Approaches to process planning, CAPP- variant approach and generative approach,
+study of a typical process planning, system.
+4. ERP Modules: Materials, human resource, production, sales, marketing and finance, dynamic
+enterprise modeling.
+5. NETWORKS: Computer networks, a perspective, goals, applications, switching techniques, circuit
+switching, message switching, packet switching, network components, existing network, ARPANET,
+concepts of network protocol, OSI reference model.
+6. LAN & Access Techniques: Topologies - star, ring, bus. Ethernet, transmission media, protocols,
+polling, contention, ALOHA, CSMA, CSMA/CD, token ring protocols, performance comparisons.
+7. Internetworking Devices: Principles, repeaters, bridges, routing with bridges, routers, gateways, hubs
+and switches, TCP/IP protocol structure, internet protocol, transmission protocol, applications.
+8. Fundamentals of Networking: Networking concepts, LOSI, MAP, TOP, LAN and WAN, internet
+and related technologies, collaborative engineering.
+9. CIM Case Studies: CIM implementation, integration, benefits of CIM.
+Mini-project: Product/machine part is to be taken up and by teams comprising no more than 4 members,
+and they are to use the skills they learn in class to design, analyze and make them.
+Reference Books:
+1. Basandra S K and Jaiswal, “Local Area Networks”, Galgotia Publications Pvt. Ltd, New Delhi,
+2006.
+2. Taylor E D, “Networking Handbook”, Tata McGraw Hill Co. Ltd, New Delhi, 2004.
+3. Rao P N, “CAD/CAM, Principles and Applications”, Tata McGraw Hill Co. Ltd, New Delhi, 2004.
+4. Tien-chien Chang and Richard A Wysk, “An Introduction to Automated Process Planning Systems”,
+Prentice Hall Inc., Englewood Cliffs, New Jersey, 1985.
+5. Radhakrishnan P and Subramanyan S, “CAD/CAM/CIM”, New Age International Ltd, 2003.
+MED318: Supply Chain Management (L: T: P-3:0:0)
+1. Introduction to supply chain: Definition, complexity, key issues, centralized vs. decentralized
+systems, Electronic commerce, Types of Supply chain, supply chain strategies.
+2. Facility layout and location: Qualitative aspects and models for layout decisions, Quantitative models
+for layout decisions (a) p-median location model, (b) location-allocation problem with and without
+dedicated facilities, (c) location and allocation problem in Multi stages supply chain.
+Facility layout (a) Qualitative Model: ALDEP (b) Quantitative model: Quadratic Assignment problem,
+CRAFT, (C) Cellular layout: rank order clustering.
+3. Probabilistic inventory management: Safety stock models (a) ROL computation based on costs and
+service level for discrete distribution (b) Safety stock model for normal distribution, (c) Continuous
+review-integrated model, (d) periodic review-integrated model, (e) Newsvendor problem.
+4. Transportation and distribution network: Mathematical formulation for Transportation problems,
+Multistage Transportation Problem, Cross-docking, Transshipment problem, Fixed charge transportation
+problem, Truck allocation problem, Direct shipment/intermediate storage policies, Point to point
+transportation problem, Travelling salesman problem, Vehicle scheduling problem
+5. Outsourcing: Make or buy decisions
+6. Value of information and supply chain integration: Role of IT in supply chain, Bullwhip effect,
+Push-based, pull based systems, RFID.
+7. Scheduling models and applications
+Reference Books:
+1. Supply Chain Management by Chopra and Meindl.
+2. Quantitative Models in Operations and Supply Chain Management by G. Srinivasan.
+3. Supply Chain Management by Janat Shah.
+4. Operations Management by Evans and Collier.
+MED308: Power Plant Engineering (L: T: P-3:0:0)
+Unit-I Steam/Vapor Power Plants: Typical layout of steam power plant; steam power cycles;
+efficiencies in a steam power plant; fuels and combustion; steam generators; steam turbines; condenser,
+feed-water, and circulating water systems; disadvantages of steam; combined cycle power generation.
+Unit-II Hydro-electric and Nuclear Power Plants: Advantages and disadvantages of hydel power;
+essential elements of a hydel power plant; classification of hydel power plants; types of turbines and their
+performance; scientific basis of nuclear power generation; types of reactors; safety issues of nuclear
+power plants.
+Unit-III Diesel Engine and Gas Turbine Power Plants: Advantages and disadvantages of diesel engine
+power plant; types of diesel engine power plants; general layout of diesel engine power plants;
+performance characteristics of diesel engine power plants; components of a gas turbine power plant; fuels
+and materials of gas turbine.
+Unit-IV Environmental and Economic Aspects of Power Plants: Environmental pollution due to
+power plants; greenhouse effect; acid rain; smog; nuclear radiation; load-duration curve; power plant
+economics; Indian energy scenario.
+Reference Books:
+1. P. K. Nag, Power Plant Engineering, McGraw Hill Education, 2015 (4th Reprint).
+ISBN (13): 978-93-3920-404-4
+2. R. K. Rajput, Power Plant Engineering, Laxmi Publications, 2016 (5th Edition). ISBN (13): 978-81-
+3180-255-7.
+MED403: Solar Energy (L: T: P-2:0:1)
+Unit-1 Sun and Earth relationship
+The Sun, Solar Radiation, Radiation Measurement, Sun-Earth Relationships, Empirical Equations for
+Predicting the Availability of Solar Radiation.
+Unit-2 Solar collectors
+Solar collector and working principle, Description of a Liquid flat plate collector, Absorber plates,
+Materials for flat plate collector, Energy balance, Performance Analysis of Liquid Flat Plate Collectors,
+Transmissivity, Collector efficiency factor.
+Unit-3 Solar thermal energy storage
+Introduction, Types of energy storage methods, Classification of PCMs, Organic phase change
+materials, Inorganic phase change materials, Solar water heating system, Solar air heating system, Solar
+cooker.
+Unit-4 Applications of Solar thermal energy
+Solar Water Heating System, Solar Cooker, Solar Refrigeration, Solar Power Plants, Solar Ponds.
+Recommended Books:
+1. Solar energy by H.P. Garg and J. Prakash
+2. Solar energy by S.P. Sukhatme
+3. Solar thermal engineering by P.J. Lunde
+4. Solar energy by J.S. Hsieh
+5. Solar thermal engineering systems by G.N. Tiwari and S. Suneja
+MED413: Energy Conversion Tech and Energy Management
+(L: T: P-3:0:0)
+Unit I: Energy sources and Environmental effects Various conventional and non-conventional energy
+resources – Introduction, availability, classification, relative merits and demerits; Electrical
+fundamentals.
+Unit II: Solar energy and Wind energy conversion systems Solar photovoltaic; Solar thermal; Wind
+power fundamentals; Wind power systems; Wind turbine control.
+Unit III: Biomass and Geothermal energy Availability of biomass and its conversion technologies;
+Resources of geothermal energy; Thermodynamics of geothermal energy conversion – electrical
+conversion, non-electrical conversion; Environmental considerations.
+Unit IV: Magneto-Hydrodynamic (MHD), Thermoelectric and Thermionic generators Principle of
+working of MHD power plant; Performance and limitations of MHD generators; Principle of working of
+thermoelectric and thermionic generators; Performance and limitations of thermoelectric and thermionic
+generators.
+Unit V: Wave energy harvesting, Ocean Thermal Energy Conversion (OTEC) Principle of working of
+wave energy harvesting; Performance and limitations of wave energy harvesting; Wave and tidal power
+harvesting; OTEC.
+Unit VI: Fuel Cells Principle of working of various types of fuel cells and their performance and
+limitations.
+Unit VII: Special Topics in Energy Harvesting Vibration energy harvesting (piezoelectric); Rain energy
+harvesting; Hydropower; Generator losses.
+Unit VIII: Introduction to Energy Management and Energy Conservation Need for energy management;
+Complete cycle analysis of fossil fuels; Energy efficiency as the sixth fuel; Energy conservation in
+cogeneration and waste heat recovery, boiler systems, insulations, heating and cooling of buildings,
+lighting systems, electric motors, compressed air systems, home appliances and automobiles; Assessment
+of energy conservation measures – energy index, cost index; Energy quality – high grade energy versus
+low grade energy.
+Unit IX: Energy Storage Mechanical – pumped hydro, compressed air, flywheel, gravitational; Thermal
+– sensible heat, latent heat, cryogenic; Chemical – power to gas/liquid, hydrogen, methane,
+biofuels/synthetic fuels; Electrical – capacitor, superconducting electro-magnet; Electrochemical –
+battery (rechargeable), flow battery, super-capacitor.
+Unit X: Energy Economics Hydrogen-based economy, Energy in transportation; Economics of energy
+efficiency – Lifecycle Cost Analysis (LCA), time value of money, Benefit-Cost Ratio (BCR), payback
+period analysis; Energy matrix.
+Reference Books:
+1. David Buchla, Thomas Kissell and Thomas Floyd, “Renewable Energy Systems”, Pearson, 2015,
+ISBN: 978-0-13-262251-6.
+2. Felix A Farret and M. Godoy Simoes, “Integration of Renewable Sources of Energy”, 2nd Edition
+Wiley, 2018, ISBN: 978-1-11-913737-5.
+3. John Twideu and Tony Weir, “Renewal Energy Resources”, BSP Publications, 2006.
+4. M. V. R. Koteswara Rao, “Energy Resources: Conventional & Non-Conventional “BSP
+Publications, 2006.
+5. D. S. Chauhan, “Non-conventional Energy Resources”, New Age International.
+6. C.S. Solanki, “Renewal Energy Technologies: A Practical Guide for Beginners” PHI Learning.
+7. Peter Auer, “Advances in Energy System and Technology". Vol. 1 & II Edited by Academic Press.
+8. AC 2011-488: AN UNDERGRADUATE COURSE ON RENEWABLE ENERGY CONVERSION
+SYSTEMS FOR ENGINEERING TECHNOLOGY STUDENTS, Radian G Belu, Drexel University
+(Tech.).
+9. M. Kanoglu and Y. A. Cengel, Energy Efficiency and Management for Engineers, McGraw Hill
+Education (India) Reprint 2020. ISBN (13): 978-93-90385-50-8.
+MED414: Surface Engineering (L:T:P-2:0:1)
+1. Introduction: Definition, need and motivation, evolution of surface engineering, terminology,
+overview of different types of techniques used for surface engineering, advantages and limitations of
+surface engineering, few examples
+2. Thick coatings development: Introduction, and working principal and process parameters of different
+thermal spraying techniques (flame spray, arc, plasma and detonation gun), coating building
+phenomenon, pre- and post-coating treatments. Introduction and working principal of cold spraying
+technique. Other thick coating deposition techniques- laser and microwave. Advantages and limitations.
+Characterization of coatings, evaluation of coating microstructure and physical properties, defect
+identification and its effect on derived properties, techniques used for determination of different
+mechanical properties, efficacy of different coating techniques in controlling degradation.
+3. Thin film deposition techniques: Physical vapor deposition (PVD) processes: - Thermal and E-beam
+Evaporation, Ion-Treatment, Ion-Plating, Magnetron sputtering, Chemical vapor deposition (CVD),
+Plasma enhanced CVD, Atomic layer deposition, Pulsed laser deposition.
+4. Structure of thin films and Applications: Different phases of thin film development: - Evaporation,
+Deposition- Adsorption, Diffusion and Nucleation, Structure development, Characterization of thin
+films- Microstructure, composition and properties. Performance of thin films in Tribology, Corrosion,
+Tribo-corrosion applications
+5. Surface modification using severe plastic deformation: Overview of SPD processes, Application of
+SPD processes in surface engineering, and Structure-property relation in SPD modified surfaces.
+6. Micro-nano fabrication for surface engineering: Micro-nano machining,
+photolithography, dry and wet etching techniques, deep reactive ion etching, non-
+conventional lithography techniques, capillary force lithography, optical soft lithography,
+micro/nano imprinting.
+List of Experiments
+1. To investigate the effect of severe surface deformation on the microstructural evolution and
+mechanical properties
+2. To evaluate the influence of surface modification on degradation behavior of structural materials.
+3. To demonstrate energy storage in surface activated materials
+4. To demonstrate the effect of micro/nano texturing on the corrosion behavior of materials
+5. To demonstrate the effect of micro/nano texturing on electrochemical energy storage
+6. Development of polymer thin films using chemical vapour deposition system for controlling
+corrosion and hydrophobicity
+7. To evaluate the microstructure and mechanical properties of the thermal spray coating
+8. Microwave assisted processing for modulating the surface properties for wear and corrosion
+protection
+Reference Books:
+1. Lech Pawlowski: The Science and Engineering of Thermal Spray Coatings, John Wiley & Sons
+(2008)
+2. Anatolii Papyrin: Cold spray technology, McGraw hill Education
+3. A. W. Batchelor, Loh Nee Lam, Margam Chandrasekaran: Materials Degradation and its Control by
+Surface Engineering, Imperial College Press, (2011)
+4. Ramnarayan Chattopadhyay, Advanced thermally assisted surface engineering processes, Kluwer
+Academic Publishers (2004)
+5. J.R. Davis, Surface engineering for corrosion and wear resistance, ASM International (2001)
+MED326: Industrial automation (L:T:P-2:0:1)
+UNIT I INTRODUCTION TO Flexible Manufacturing System
+Introduction to Flexible Manufacturing System (FMS), FMS Part selection problem, FMS Loading
+problem: Multiple batches and changeover time, FMS Scheduling Problem.
+UNIT II Instrumentation and robotics
+Reconfigurable Manufacturing Systems (RMS), Basics of instrumentation, Analog and digital signals,
+PLC programming-ladder logic and structured text, Sensors and actuators, Motor control theory,
+Applications of robotics, Robot/Cobot-ISO standards and safety regulations, ROS. Automated testing
+and inspection.
+UNIT III Modular production stations and robot centred cell
+Modular Production Stations(MPS), Programming Individual MPS, Integration of MPS stations into
+FMS/RMS, Introduction to robot Pick and place, building robot centered cell.
+UNIT IV Introduction to ML
+Supervised/ Unsupervised Learning, Introduction to the concepts of Classification, Regression and
+Clustering, Perceptron for Classification and Multi Layered Perceptron.
+Practicals: Lab sessions are designed to familiarize students with Industrial automation tools such as
+PLC, MPS, FMS and COBOT programming.
+Reference Books:
+Modern robotics: mechanics, planning, and control by Kevin M. Lynch and Frank Chongwoo Park
+MED416: Robotics (L: T: P-2:0:1)
+UNIT I Kinematics and control
+Forward kinematics: Theory, Simulation and practice, Inverse kinematics: Theory, Simulation and
+practice, Dynamics, Control engineering practice, Trajectory planning: Collision detection/avoidance of
+a variety of robots, Path planning of mobile robots, SLAM, and sensor fusion. Machine learning applied
+to robotics.
+UNIT II Computer vision
+Convolutional Neural Net (CNN), RNN and Generative Models, Introduction to Computer Vision
+(CV), CV using CNNs.
+UNIT III Motion and locomotion of bioinspired robots
+Locomotion of bio-inspired robots: quadruped and biped. Reinforcement learning and evolutionary
+algorithms applied to biomimetic robot locomotion. Visual servoing using cobot.
+UNIT IV Build a robot
+Build a robot using given kit. ROS is used to control it. The kit will have a SoC computer, camera, and a
+collection of sensors and actuators chosen as per the prevailing theme. The theme though varying with
+every semester, will always involve Computer vision and ML to plot trajectory autonomously for the
+robot to accomplish a task.
+Practicals: Lab sessions are designed to familiarize individual sensors and actuators that come with the
+project kit as well as to give students the skills needed to write control algorithm.
+Reference Books:
+Modern robotics: mechanics, planning, and control by Kevin M. Lynch and Frank Chongwoo Park
+MED417: Soft Robotics (L: T: P-2:0:1)
+UNIT I Introduction
+Introduction: soft vs rigid robots, need and applications of soft robots, advantages and limitations, role
+of biomimetic and bioinspiration, examples of different plant and animal inspired soft robots
+UNIT II Materials and actuation
+Elastomers, shape memory alloys, hydrogels, fluid based materials, auxetic materials, Fabrics for soft
+robots, wearable robots, Air powered robots and pneumatic artificial muscles, fibre-wrapped actuators,
+particle jamming and stiffness change, grippers.
+UNIT III Fabrication
+Fabrication of soft robots: 3D printing routes such as Stereolithography, fused deposition Modelling,
+Inkjet printing, Direct ink writing, Continuous liquid interface production, molding processes based on
+gravity, centrifugal and vacuum, spin and dip casting, vacuum infusion, soft lithography techniques
+UNIT IV Introduction to robot instrumentation and control
+Introduction to robot instrumentation and control, Integration of Robotic System and Control, Soft
+sensors for strain, force, contact; embedding sensors in soft systems, Soft robot’s dynamics form the
+control point of view, Mathematical Modelling, Stabilization of unstable equilibria, Optimal Control of
+Articulated Soft Robots, Controlling Soft Robots: Control in task space, Estimation of the Robot’s
+stiffness, Application of MATLAB in Automatic Control
+Reference Books:
+1. Stanford University, Mechanical Engineering https://web.stanford.edu/class/me23n/
+2. Northwestern University, Mechanical Engineering,
+https://www.mccormick.northwestern.edu/mechanical/academics/courses/descriptions/495-topics-
+in-soft-robotics.html
+3. Hideko Koshima, Mechanically Responsive Materials for Soft Robotics, Wiley, ISBN:
+9783527346202
+4. Alexander Verl, Alin Albu-Schäffer, Annika Raatz, Oliver Brock, Soft Robotics: Transferring
+Theory to Application, Springer Berlin Heidelberg, ISBN: 9783662445068
+5. Gareth J. Monkman, Soft Robotics, Bentham Science, ISBN: 9789815051735
+6. Jaeyoun Kim, Microscale Soft Robotics, Springer International Publishing, ISBN: 9783319502861

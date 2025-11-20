@@ -1,0 +1,263 @@
+Chemical Engineering B.Tech. (UG) Curriculum 2025-29
+For award of B.Tech. degree in chemical engineering, a student is required to earn a minimum of 163 credits by planning their
+overall progress according to these course selection guidelines.
+CATEGORY-WISE AND SEMESTER-WISE CREDIT DISTRIBUTION
+Credits
+No. Category Credits Semester
+Total MCC MDC MDE EL P/T/I U/C
+1. Major Common Core MCC 30 First 20 18 0 0 2 0 0
+2. Major Department Core MDC 52 Second 18 12 0 0 2 0 4
+3. Major Department Elective MDE 21 Third 21 0 17 0 0 0 4
+4. Experiential Learning EL 8 Fourth 24 0 10 6 0 0 8
+Research Project/ Thesis/
+5. P/T/I 12 Fifth 23 0 16 3 0 0 4
+End-course Internships
+6. University-Wide Elective Sixth 24 0 8 6 2 0 8
+UWE/
+40*
+Core Common Curriculum CCC
+7. Seventh 21 0 1 6 2 6 6
+(including CCC704)
+Total 163 Eighth 12 0 0 0 0 6 6
+163 30 52 21 8 12 40
+* A minimum of 16 credits from each category (UWE/CCC) is compulsory.
+* Guided UWE/CCCs are compulsory, other UWE/CCC slots and respective credits in semesters 3-8 are choice based.
+Page 1 of 13
+Chemical Engineering B.Tech. (UG) Curriculum 2025-29
+CATEGORY-WISE COURSES
+Major Common Core (MCC)
+Credit
+No. Code Courses L:T:P Credits Level
+Points
+1. Engineering Physics 3:1:1 5 100 22.5
+2. Engineering Mathematics – I 3:1:0 4 100 18
+3. Engineering Chemistry and Biology 2:0:0 2 100 9
+4. Introduction to Programming 3:0:1 4 100 18
+5. Basics of Electrical & Electronics Eng. 2:0:1 3 100 13.5
+6. Engineering Mathematics – II 3:1:0 4 100 18
+7. Engineering Mechanics 2:1:0 3 100 13.5
+8. Introduction to Engineering Materials 2:0:0 2 100 9
+9. Sensors and IoT Applications 2:0:1 3 100 13.5
+Total 30 135
+Page 2 of 13
+Chemical Engineering B.Tech. (UG) Curriculum 2025-29
+Major Department Core (MDC)
+No. Code Courses L:T:P Credits Level Cr. Pts.
+1. CHD23x Material & Energy Balance * 3:0:0 3 200 15
+2. CHD23x Chemical Eng. Thermodynamics * 3:1:0 4 200 20
+3. CHD23x Fluid Mechanics * 3:0:0 3 200 15
+4. CHD23x Mechanical Operations 3:0:0 3 200 15
+5. CHD23x Data Structures 3:0:1 4 200 20
+6. CHD24x Introduction to Chem. Engg. Software 0:0:2 2 200 10
+7. CHD24x Heat Transfer * 3:0:0 3 200 15
+8. CHD24x Numerical Methods 3:0:0 3 200 15
+9. CHD35x Chemical Reaction Engineering * 3:1:0 4 300 22
+10. CHD35x Mass Transfer * 3:1:0 4 300 22
+11. CHD35x Artificial Intelligence & Machine Learning 3:0:1 4 300 22
+12. CHD35x Process Dynamics & Control 3:0:0 3 300 16.5
+13. CHD36x Transport Phenomena 3:0:0 3 300 16.5
+14. CHD36x Chemical Technology 3:0:0 3 300 16.5
+15. CHD47x Fluid Mechanics Laboratory 0:0:1 1 400 6
+16. CHD47x Mechanical Operations Laboratory 0:0:1 1 400 6
+17. CHD47x Heat Transfer Laboratory 0:0:1 1 400 6
+18. CHD47x Mass Transfer Laboratory 0:0:1 1 400 6
+19. CHD47x Process Dynamics & Control Laboratory 0:0:1 1 400 6
+20. CHD47x Chemical Reaction Eng. Laboratory 0:0:1 1 400 6
+Total 52 276.5
+*
+Courses required by external students for their degree with minors in chemical engineering.
+Page 3 of 13
+Chemical Engineering B.Tech. (UG) Curriculum 2025-29
+Major Department Elective (MDE)
+No. Code Courses L:T:P Credits Level Cr. Pts.
+Pool 1 – Modelling and Simulation Specialization (12 credits)
+1. CHD24x Introduction to Modelling and Simulation 3:0:0 3 200 15
+2. CHD35x Computational Fluid Dynamics 2:0:1 3 300 16.5
+3. CHD36x Mod. & Sim. of Engineering Systems 3:0:0 3 300 16.5
+4. CHD47x Molecular Simulation 3:0:0 3 400 18
+Pool 2 – Bioenergy and Biomaterials Specialization (12 credits)
+1. CHD24x Industrial Pollution & Waste Management 3:0:0 3 200 15
+2. CHD35x Waste to Biomaterials 3:0:0 3 300 16.5
+3. CHD36x Biomass Conversion to Bioenergy 2:0:1 3 300 16.5
+4. CHD47x Microreactor Tech. for Biofuel Production 3:0:0 3 400 18
+Pool 3 – Common Pool (9 credits compulsory from this pool)
+5. CHD24x Advanced Chemical Engineering Thermo. 3:0:0 3 200 15
+6. CHD35x Petroleum Refining Operations 3:0:0 3 300 16.5
+7. CHD36x Process Equipment Design 3:0:0 3 300 16.5
+8. CHD36x Nanocatalyst Synth. & Characterisation 3:0:0 3 300 16.5
+9. CHD47x Process Engineering 3:0:0 3 400 18
+10. CHD47x Process Safety 3:0:0 3 400 18
+Total 21 115.5
+Experiential Learning (EL)
+No. Code Courses L:T:P Credits Level Cr. Pts.
+1. Introduction to Engineering 1:0:1 2 400 12
+2. CAD and 3D Printing 0:1:1 2 400 12
+3. CHD36x Experiential Learning – I (Career dev.) - 2 400 12
+4. CHD47x Experiential Learning - II (Career dev.) - 2 400 12
+Total 8 48
+Page 4 of 13
+Chemical Engineering B.Tech. (UG) Curriculum 2025-29
+Research Project/ Thesis/ End-course Internships (P/T/I)
+Credit
+No. Code Courses L:T:P Credits Level
+Points
+1. CHD47x Minor Project 0:0:6 6 400 36
+2. CHD48x Major Project 0:0:6 6 400 36
+Total 12 72
+Computational Mechanics Cross-Domain Specialization Elective
+(Common MDE by Departments of Chemical, Mechanical, Civil Engineering)
+No. Code Courses L:T:P Credits
+Set 1 (6 credits)
+1. CHD35x Finite Element Methods 2:0:1 3
+2. CHD35x Computational Fluid Dynamics 2:0:1 3
+3. CHD36x Mod. & Sim. of Eng. Sys. (Compulsory) 3:0:0 3
+Set 2 (6 credits)
+1. Fracture Mechanics 3:0:0 3
+2. Continuum Mechanics 3:0:0 3
+3. Advanced Mechanics of Composites 3:0:0 3
+4. Opt. Meth. for Eng. Process & Design 3:0:0 3
+5. Multiphase Flows 2:0:1 3
+6. CHD47x Molecular Simulation 3:0:0 3
+Total 12
+* Remaining 21-12 = 9 MDE credit requirements as per respective departments.
+Page 5 of 13
+Chemical Engineering B.Tech. (UG) Curriculum 2025-29
+SEMESTER-WISE COURSES
+First Semester
+Credit
+No. Code Courses L:T:P Type Credits Level
+Points
+1. Engineering Physics 3:1:1 MCC 5 100 22.5
+2. Engineering Mathematics – I 3:1:0 MCC 4 100 18
+3. Engineering Chemistry and Biology 2:0:0 MCC 2 100 9
+4. Introduction to Programming 3:0:1 MCC 4 100 18
+5. Basics of Electrical & Electronics Eng. 2:0:1 MCC 3 100 13.5
+6. Introduction to Engineering 1:0:1 EL 2 400 12
+Total 20 93
+Credits Summary
+MCC MDC MDE EL P/T/I U/C Total Cr. Pt.
+Sem. 18 0 0 2 0 0 20 93
+Cum. 18 0 0 2 0 0 20 93
+Page 6 of 13
+Chemical Engineering B.Tech. (UG) Curriculum 2025-29
+Second Semester
+Credit
+No. Code Courses L:T:P Type Credits Level
+Points
+1. Engineering Mathematics – II 3:1:0 MCC 4 100 18
+2. Engineering Mechanics 2:1:0 MCC 3 100 13.5
+3. Introduction to Engineering Materials 2:0:0 MCC 2 100 9
+4. Sensors and IoT Applications 2:0:1 MCC 3 100 13.5
+5. CAD and 3D Printing 0:1:1 EL 2 400 12
+6. CCC704 Envt. & Sustainability (guided CCC) 3:1:0 U/C 4 200 20
+Total 18 86
+Credits Summary
+MCC MDC MDE EL P/T/I U/C Total Cr. Pt.
+Sem. 12 0 0 2 0 4 18 86
+Cum. 30 0 0 4 0 4 38 179
+Page 7 of 13
+Chemical Engineering B.Tech. (UG) Curriculum 2025-29
+Third Semester
+Credit
+No. Code Courses L:T:P Type Credits Level
+Points
+1. CHD23x Material & Energy Balance * 3:0:0 MDC 3 200 15
+2. CHD23x Chemical Eng. Thermodynamics * 3:1:0 MDC 4 200 20
+3. CHD23x Fluid Mechanics * 3:0:0 MDC 3 200 15
+4. CHD23x Mechanical Operations 3:0:0 MDC 3 200 15
+5. Data Structures & Algorithms 3:0:1 MDC 4 200 20
+6. UWE/CCC U/C 4 100 18
+Total 21 103
+Credits Summary
+MCC MDC MDE EL P/T/I U/C Total Cr. Pt.
+Sem. 0 17 0 0 0 4 21 103
+Cum. 30 17 0 4 0 8 59 282
+Page 8 of 13
+Chemical Engineering B.Tech. (UG) Curriculum 2025-29
+Fourth Semester
+Credit
+No. Code Courses L:T:P Type Credits Level
+Points
+1. CHD24x Introduction to Chem. Engg. Software 0:0:2 MDC 2 200 10
+2. CHD24x Heat Transfer * 3:0:0 MDC 3 200 15
+3. CHD24x Numerical Methods 3:0:0 MDC 3 200 15
+4. CHD24x Elective from Pool 1/2 3:0:0 MDE 3 200 15
+5. CHD24x Elective from Pool 3 3:0:0 MDE 3 200 15
+6. CHD44x Fluid Mechanics Laboratory 0:0:1 MDC 1 400 6
+7. CHD44x Mechanical Operations Laboratory 0:0:1 MDC 1 400 6
+8. MAT161 Applied Linear Algebra (guided UWE) 3:1:0 U/C 4 200 20
+9. UWE/CCC U/C 4 100 18
+Total 24 120
+Credits Summary
+MCC MDC MDE EL P/T/I U/C Total Cr. Pt.
+Sem. 0 10 6 0 0 8 24 120
+Cum. 30 27 6 4 0 16 83 402
+Page 9 of 13
+Chemical Engineering B.Tech. (UG) Curriculum 2025-29
+Fifth Semester
+Credit
+No. Code Courses L:T:P Type Credits Level
+Points
+1. CHD35x Chemical Reaction Engineering * 3:1:0 MDC 4 300 22
+2. CHD35x Mass Transfer * 3:1:0 MDC 4 300 22
+3. Artificial Intelligence & Machine Learning 3:0:1 MDC 4 300 22
+4. CHD35x Process Dynamics & Control 3:0:0 MDC 3 300 16.5
+6. CHD35x Elective from Pool 1/2/3 3:0:0 MDE 3 300 16.5
+7. CHD45x Heat Transfer Laboratory 0:0:1 MDC 1 400 6
+8. UWE/CCC U/C 4 100 18
+Total 23 123
+Credits Summary
+MCC MDC MDE EL P/T/I U/C Total Cr. Pt.
+Sem. 0 16 3 0 0 4 23 123
+Cum. 30 43 9 4 0 20 106 525
+Page 10 of 13
+Chemical Engineering B.Tech. (UG) Curriculum 2025-29
+Sixth Semester
+Credit
+No. Code Courses L:T:P Type Credits Level
+Points
+1. CHD36x Transport Phenomena 3:0:0 MDC 3 300 16.5
+2. CHD36x Elective from Pool 1/2 3:0:0 MDE 3 300 16.5
+3. CHD36x Elective from Pool 3 3:0:0 MDE 3 300 16.5
+4. CHD36x Chemical Technology 3:0:0 MDC 3 300 16.5
+5. CHD46x Mass Transfer Laboratory 0:0:1 MDC 1 400 6
+6. CHD46x Process Dynamics & Control Laboratory 0:0:1 MDC 1 400 6
+7. CHD46x Experiential Learning - I - EL 2 400 12
+8. EWE101 Natural Gas Engineering (guided UWE) 3:0:0 U/C 3 200 15
+9. UWE/CCC U/C 5 200 25
+Total 24 130
+Credits Summary
+MCC MDC MDE EL P/T/I U/C Total Cr. Pt.
+Sem. 0 8 6 2 0 8 24 130
+Cum. 30 51 15 6 0 28 130 655
+Page 11 of 13
+Chemical Engineering B.Tech. (UG) Curriculum 2025-29
+Seventh Semester
+Credit
+No. Code Courses L:T:P Type Credits Level
+Points
+1. CHD47x Chemical Reaction Eng. Laboratory 0:0:1 MDC 1 400 6
+2. CHD47x Elective from Pool 1/2 3:0:0 MDE 3 400 18
+3. CHD47x Elective from Pool 3 3:0:0 MDE 3 400 18
+4. CHD47x Experiential Learning - II - EL 2 400 12
+5. CHD47x Minor Project 0:0:6 P/T/I 6 400 36
+6. UWE/CCC U/C 6 200 30
+Total 21 120
+Credits Summary
+MCC MDC MDE EL P/T/I U/C Total Cr. Pt.
+Sem. 0 1 6 2 6 6 21 120
+Cum. 30 52 21 8 6 34 151 775
+Page 12 of 13
+Chemical Engineering B.Tech. (UG) Curriculum 2025-29
+Eighth Semester
+Credit
+No. Code Courses L:T:P Type Credits Level
+Points
+1. CHD48x Major Project 0:0:6 P/T/I 6 400 36
+2. UWE/CCC U/C 6 200 30
+Total 12 66
+Credits Summary
+MCC MDC MDE EL P/T/I U/C Total Cr. Pt.
+Sem. 0 0 0 0 6 6 12 66
+Cum. 30 52 21 8 12 40 163 841
+Page 13 of 13

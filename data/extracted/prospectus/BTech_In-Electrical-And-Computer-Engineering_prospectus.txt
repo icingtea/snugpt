@@ -1,0 +1,1850 @@
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+Prospectus (2024–2028)
+Department of Electrical Engineering
+Electrical and Computer Engineering
+Program
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+Department of Electrical Engineering
+School of Engineering
+UG Prospectus B.Tech. ECE with Specialization
+I. Overview of Department of Electrical Engineering
+The Electrical Engineering (EE) department is part of the School of Engineering (SoE) at SNIoE.
+Its vision is to be a catalyst in imparting quality education and conducting valued research for the
+benefit of society. Historically, the field of electrical engineering is one of the most important
+engineering disciplines that have changed the course of the world. Some of our important areas of
+teaching are electrical machines and drives, power electronics, power systems, integrated circuits
+and systems, control systems, machine intelligence, communication systems and signal processing.
+Sufficient emphasis is given to practical teaching and hands-on learning. Relevant laboratories have
+been established to meet the requirements of teaching and research. The vision of the department is
+to establish itself as a center of excellence in terms of research and teaching in its chosen areas. We
+are committed to establishing human and material infrastructure towards this cause. The department
+has formed research groups in some of the key areas and is in the process of collaborating with
+various renowned institutions.
+The undergraduate program is broad-based and founded on the pedagogy of learning by doing. The
+postgraduate programs are getting formulated and are intended to provide advanced degrees in
+contemporary areas of industrial relevance. They also provide platforms for research avenues. The
+department has a vibrant doctoral research program. The doctoral program aims to conduct research
+both in fundamental and applied areas for societal use. The programs intend to fill the dearth in the
+supply of highly skilled professionals. It will also enable the students to gain high-end skills for
+intellectually challenging careers in industry. Our aim is to invoke in our students a sense of
+curiosity to question and to motivate them to think deeply about theoretical and applied problems
+in technology for society’s needs.
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+Presently the EE department offers the following programs: -
+Undergraduate Program:
+Bachelor of Technology in Electrical and Computer Engineering (B. Tech. in ECE)
+• with the option of doing minor in any other stream of interest.
+• with the option of doing Specialization in any of the FOUR areas of interest.
+Detailed rules and regulations regarding B. Tech. Program at SNIoE can be found in UG handbook
+(available at: https://snulinks.snu.edu.in/snuPolicies/students/
+Master Programs:
+(I) M. Tech in RF and Microwave Engineering
+(II) M. Tech in VLSI & Embedded Systems
+Doctoral Programs:
+(I) Ph.D. in Electrical Engineering / Electronics and Communication Engineering
+Credit Break-up of UG Curriculum in Electrical and Computer
+Engineering
+Total number of Credits: 163
+S. No. Category Credits
+1 Core Common Curriculum (CCC) 18 42
+2 University Wide Elective (UWE) 18
+3 Basic Sciences (BS) 20
+4 Engineering Sciences (ES) 13
+5 Major Core 50
+6 Major Elective 29
+7 Minor Project 3
+8 Major Project / Internship 6
+Total Credits 163
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+Detailed Break up Semester wise and Category wise
+Engineering Science (ES)
+S. Course Semester
+Course Title L:T:P Credits
+No. Code Offered
+Basics of Electrical and
+1 ECE101 3:1:1 5 1
+Electronic Circuits
+Introduction to Computing and
+2 CSD101 3:0:1 4 1
+Programming
+3 CSD102 Data Structures 3:0:1 4 3
+Basic Sciences (BS)
+S. Course Semester
+Course Title L:T:P Credits
+No. Code Offered
+1 MAT103 Mathematical Methods I 3-1-0 4 1
+2 PHY101 Introduction to Physics I 3-1-0 4 1
+3 MAT104 Mathematical Methods II 3-1-0 4 2
+4 PHY102 3-1-1 5 2
+Introduction to Physics II
+Mathematical Methods III -
+5 MAT205 3-0-0 3 3
+Probability and Statistics
+Major Core Courses
+S. Course Semester
+Course Title L:T:P Credits
+No. Code Offered
+1 ECE103 Digital Electronics 3:1:1 5 2
+2 ECE102 Semiconductor Devices 3:0:0 3 2
+Electric Machines & Power
+3 ECE201 3-0-1 4 3
+Systems
+4 ECE203 Signals and Systems 3-1-0 4 3
+5 ECE202 Embedded Systems Hardware 3-0-1 4 3
+6 ECE205 Electromagnetic Engineering 3-1-0 4 4
+7 ECE204 Analog Circuits 3-0-1 4 4
+Power Electronics and Machine
+8 ECE206 3-0-1 4 4
+Drives
+Principles of Communication
+9 ECE207 3-0-1 4 4
+Engineering
+10 ECE301 Control Systems 3-0-1 4 5
+11 ECE302 Digital Signal Processing 3-0-1 4 5
+Computer Organization and
+12 ECE303 3-0-0 3 5
+Design
+Artificial Intelligence and
+13 ECE304 3-0-0 3 6
+Machine Learning
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+S. Course Major Elective Courses L:T:P Credits Semester Specialization
+No. Code Offered
+1 ECE351 VLSI Design 3:0:1 4 5 Sensors and Nano-electronics
+2 ECE352 Photovoltaic Power 3:0:0 3 5 Modern Energy Systems
+Generation
+3 ECE353 Microwave Engineering 3:0:0 3 5 Analog/RF and Communication
+Engineering
+4 ECE354 Sensor, Measurement, 3:0:1 4 5 1. Sensors and Nano-electronics
+and Actuators 2. Modern Energy Systems
+3. Embedded Systems and Computer
+Engineering
+5 ECE355 Scientific Computing 2:0:1 3 5 Miscellaneous
+using MATLAB
+6 ECE356 RF and Microwave 3:0:1 4 5 Analog/RF and Communication
+Circuit Design Engineering
+7 ECE357 Introduction to Robotics 3:0:1 4 5 Embedded Systems and Computer
+Engineering
+8 ECE363 Computer Communication 3:0:1 4 5 1. Analog/RF and
+Networks Communication Engineering
+2. Embedded Systems and Computer
+Engineering
+9 ECE370 Wireless Communications 3-0-0 3 5 Analog/RF and Communication
+Engineering
+10 ECE457 Information Theory and 3:0:0 3 5 Analog/RF and Communication
+Coding Engineering
+11 ECE360 IoT - Architecture, 2:0:1 3 6 Embedded Systems and Computer
+Communication Engineering
+Technology, and
+Applications
+12 ECE361 Power System Analysis 3:0:1 4 6 Modern Energy Systems
+13 ECE362 Digital Communication 3:1:1 5 6 Analog/RF and Communication
+Engineering
+14 ECE365 Object Oriented 3:0:0 3 6 Miscellaneous
+Programming
+15 ECE366 Antenna Theory and 3:0:1 4 6 Analog/RF and Communication
+Wave Propagation Engineering
+16 ECE367 Digital Design with 3:0:1 4 6 1. Embedded Systems and Computer
+FPGAs Engineering
+2. Sensors and Nano-electronics
+17 ECE368 Special Topics in 3:0:0 3 6 Analog/RF and Communication
+Microwave Engineering Engineering
+18 ECE371 Detection and 3-0-0 3 6 Analog/RF and Communication
+Estimation Engineering
+19 ECE372 Modern Control 3-1-0 4 6 1. Analog/RF and Communication
+Systems Engineering
+2. Modern Energy Systems
+20 ECE373 Wireless Network 3-0-0 3 6 Analog/RF and Communication
+Security Engineering
+21 ECE374 Reconfigurable 3-0-0 3 6 Sensors and Nano-electronics
+Computing
+22 ECE375 Quantum Computing 3-1-0 4 6 1. Embedded Systems and Computer
+Engineering
+2. Analog/RF and Communication
+Engineering
+23 ECE451 Design of CMOS Analog 3:0:0 3 7 Sensors and Nano-electronics
+Circuits
+24 ECE452 Power System 3:0:0 3 7 Modern Energy Systems
+Operation and Control
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+25 ECE453 Foundations of Deep 3:0:0 3 7 Miscellaneous
+Learning
+26 ECE454 Optical Fiber 3:0:1 4 7 Analog/RF and Communication
+Communication Engineering
+27 ECE455 Graph Signal Processing 3:0:1 4 7 Analog/RF and Communication
+Engineering
+28 ECE456 High Voltage 3:0:0 3 7 Modern Energy Systems
+Engineering
+29 ECE369 Information Theory 3:1:0 4 7 Analog/RF and Communication
+Engineering
+30 ECE458 Radar Communications 3:0:0 3 7 Analog/RF and Communication
+Engineering
+31 ECE459 Computational 3:0:0 3 7 Analog/RF and Communication
+Electromagnetics Engineering
+32 ECE460 Power System 3:0:0 3 8 Modern Energy Systems
+Protection and
+Switchgear
+33 ECE461 HVDC Transmission 3:0:0 3 8 Modern Energy Systems
+34 ECE462 WBG Devices for Power 3:0:0 3 8 1. Sensors and Nano-electronics
+Circuits 2. Modern Energy Systems
+35 ECE463 Satellite 3:0:0 3 8 Analog/RF and Communication
+Communications Engineering
+36 ECE464 Advance 3:0:0 3 8 Analog/RF and Communication
+Electromagnetics Engineering
+Engineering
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+Semester-wise course break-up
+First Semester
+S. No. Course Code Course Title L:T:P Credits
+1 CCC704 CCC704 (Environmental Studies) 4
+2 MAT103 Mathematical Methods I 3-1-0 4
+3 PHY101 Introduction to Physics I 3-1-0 4
+4 ECE101 Basics of Electrical and Electronic Circuits 3-1-1 5
+5 CSD101 Introduction to Computing and Programming 3-0-1 4
+Semester Credits 21
+Second Semester
+S. No. Course Code Course Title L:T:P Credits
+1 CCC 3
+2 MAT104 Mathematical Methods II 3-1-0 4
+3 PHY102 Introduction to Physics II 3-1-1 5
+4 ECE103 Digital Electronics 3-1-1 5
+5 ECE102 Semiconductor Devices 3-0-0 3
+ECE101 Basics of Electrical and Electronic Circuits (non-ECE) 3-1-1 5
+Semester Credits 20
+Third Semester
+S. No. Course Code Course Title L:T:P Credits
+1 CCC 3
+2 MAT205 Mathematical Methods III - Probability and Statistics 3-0-0 3
+3 ECE201 Electric Machines & Power Systems 3-0-1 4
+4 CSD102 Data Structures 3-0-1 4
+5 ECE202 Embedded Systems Hardware 3-0-1 4
+6 ECE203 Signals and Systems 3-1-0 4
+ECE103 Digital Electronics (non-ECE) 3-1-1 5
+Semester Credits 22
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+Fourth Semester
+S. No. Course Code Course Title L:T:P Credits
+1 CCC 3
+2 DES211 UWE (Creativity & Concept in Design) 3
+3 ECE205 Electromagnetic Engineering 3-1-0 4
+4 ECE204 Analog Circuits 3-0-1 4
+5 ECE206 Power Electronics and Machine Drives 3-0-1 4
+6 ECE207 Principles of Communication Engineering 3-0-1 4
+Semester Credits 22
+Fifth Semester
+S. No. Course Code Course Title L:T:P Credits
+1 UWE 3
+CCC 3
+2 ECE301 Control Systems 3-0-1 4
+3 ECE302 Digital Signal Processing 3-0-1 4
+4 ECE303 Computer Organization and Design 3-0-0 3
+5 Major Elective - 1 3
+6 Major Elective - 2 3
+Semester Credits 23
+Major Elective Courses
+ECE351 VLSI Design
+ECE352 Photovoltaic Power Generation
+ECE353 Microwave Engineering
+ECE354 Sensor, Measurement, and Actuators
+ECE355 Scientific Computing using MATLAB
+ECE356 RF and Microwave Circuit Design
+ECE357 Introduction to Robotics
+ECE363 Computer Communication Networks
+ECE457 Information Theory and Coding
+ECE370 Wireless Communications
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+Sixth Semester
+S. No. Course Code Course Title L:T:P Credits
+1 CCC 3
+2 UWE 3
+3 UWE 3
+4 ECE304 Artificial Intelligence and Machine Learning 3-0-0 3
+5 Major Elective - 3 3
+6 Major Elective - 4 4
+7 Major Elective - 5 3
+Semester Credits 22
+Major Elective Courses
+ECE360 IoT - Architecture, Communication Technology, and
+Applications
+ECE361 Power System Analysis
+ECE362 Digital Communication
+ECE365 Object Oriented Programming
+ECE366 Antenna Theory and Wave Propagation
+ECE367 Digital Design with FPGAs
+ECE368 Special Topics in Microwave Engineering
+ECE371 Detection and Estimation
+ECE372 Modern Control Systems
+ECE373 Wireless Network Security
+ECE374 Reconfigurable Computing
+ECE375 Quantum Computing
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+Seventh Semester
+S. No. Course Code Course Title L:T:P Credits
+1 CCC 3
+2 Major Elective - 6 3
+3 Major Elective - 7 3
+4 Major Elective - 8 4
+5 UWE 3
+6 UWE 3
+7 ECE498 Minor Project 0-0-3 3
+Semester Credits 22
+Major Elective Courses
+ECE451 Design of CMOS Analog Circuits
+ECE452 Power System Operation and Control
+ECE453 Foundations of Deep Learning
+ECE454 Optical Fiber Communication
+ECE455 Graph Signal Processing
+ECE456 High Voltage Engineering
+ECE369 Information Theory
+ECE458 Radar Communications
+ECE459 Computational Electromagnetics
+Eighth Semester
+S. No. Course Code Course Title L:T:P Credits
+1 CCC/UWE (Online Course/Offline Course) 3
+2 Major Elective (Online Course/Offline Course) -9 3
+3 ECE499 Major Project 0-0-6 6
+Semester Credits 12
+Major Elective Courses
+ECE460 Power System Protection and Switchgear
+ECE461 HVDC Transmission
+ECE462 WBG Devices for Power Circuits
+ECE463 Satellite Communications
+ECE464 Advance Electromagnetics Engineering
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+Specialization
+Requirement for Specialization Tracks: Student must earn a minimum of 16 Credits from a
+particular specialization (out of required 16 credits, 3 credits may optionally be earned from
+electives under "Miscellaneous" category). A student may choose to graduate without any
+particular specialization.
+The department of Electrical Engineering offers the following four specialization tracks in the ECE program:
+• Modern Energy Systems
+• Analog/RF and Communication Engineering
+• Embedded Systems and Computer Engineering
+• Sensors and Nano-electronics
+Students may earn their specialization and get their B. Tech degree in Electrical and Computer
+Engineering with specialization in “any of the four areas mentioned above”.
+List of courses to earn specialization
+S. Course Basket of courses for specialization Semester
+L:T:P Credits
+No. Code in 'Modern Energy Systems' Offered
+1 ECE352 Photovoltaic/Renewable 3:0:0 3 5
+2 ECE354 Sensor, Measurement, and Actuators 3:0:1 4 5
+3 ECE361 Power System Analysis 3:0:1 4 6
+4 ECE452 Power System Operation and Control 3:0:0 3 7
+5 ECE456 High Voltage Engineering 3:0:0 3 7
+6 ECE460 Power System Protection and 3:0:0 3 8
+Switchgear
+7 ECE461 HVDC Transmission 3:0:0 3 8
+8 ECE462 WBG Devices for Power Circuits 3:0:0 3 8
+9 ECE372 Modern Control Systems 3-1-0 4 6
+S. Course Basket of courses for specialization in Semester
+L:T:P Credits
+No. Code 'Analog/RF and Communication Engineering' Offered
+1 ECE453 Microwave Engineering 3:0:0 3 5
+2 ECE356 RF and Microwave Circuit Design 3:0:1 4 5
+3 ECE362 Digital Communication 3:1:1 5 6
+4 ECE363 Computer Communication Networks 3:0:1 4 5
+5 ECE370 Wireless Communications 3:0:0 3 5
+6 ECE366 Antenna Theory and Wave Propagation 3:0:1 4 6
+7 ECE368 Special Topics in Microwave Engineering 3:0:0 3 6
+8 ECE454 Optical Fiber Communication 3:0:1 4 7
+9 ECE455 Graph Signal Processing 3:0:1 4 7
+10 ECE457 Information Theory and Coding 3:0:0 3 5
+11 ECE458 Radar Communications 3:0:0 3 7
+12 ECE459 Computational Electromagnetics 3:0:0 3 7
+13 ECE463 Satellite Communications 3:0:0 3 8
+14 ECE464 Advance Electromagnetics Engineering 3:0:0 3 8
+15 ECE371 Detection and Estimation 3-0-0 3 6
+16 ECE372 Modern Control Systems 3-1-0 4 6
+17 ECE373 Wireless Network Security 3-0-0 3 6
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+18 ECE375 Quantum Computing 3-1-0 4 6
+19 ECE369 Information Theory 3-1-0 4 7
+Basket of courses for specialization in
+S. Course Semester
+'Embedded Systems and Computer L:T:P Credits
+No. Code Offered
+Engineering'
+1 ECE357 Introduction to Robotics 3:0:1 4 5
+2 ECE354 Sensor, Measurement, and Actuators 3:0:1 4 5
+IoT - Architecture, Communication Technology,
+3 ECE360 2:0:1 3 6
+and Applications
+4 ECE363 Computer Communication Networks 3:0:1 4 6
+5 ECE367 Digital Design with FPGAs 3:0:1 4 6
+6 ECE375 Quantum Computing 3-1-0 4 6
+S. Course Basket of courses for specialization in Semester
+L:T:P Credits
+No. Code 'Sensors and Nano-electronics' Offered
+1 ECE351 VLSI Design 3:0:1 4 5
+2 ECE354 Sensor, Measurement, and Actuators 3:0:1 4 5
+3 ECE367 Digital Design with FPGAs 3:0:1 4 6
+4 ECE451 Design of Analog CMOS Circuits 3:0:0 3 7
+5 ECE462 WBG Devices for Power Circuits 3:0:0 3 8
+6 ECE374 Reconfigurable Computing 3-0-0 3 6
+Syllabus of offered courses
+ECE101: Basics of Electrical & Electronic Circuits
+Unit Course Unit description Number of
+Lecture
+hours
+Unit I: Basic Components of Electrical Circuits (4-5): Fundamental electrical 4-5
+variables – charge, current, voltage & power; Independent Voltage &
+Current sources; Ideal circuit elements - Resistor, Capacitor & Inductor;
+Controlled Source models – VCVS, VCCS, CCVS & CCCS - definitions &
+circuit models; Concepts of Linearity, Time-invariance & Passivity.
+Unit II: Linear D-C Circuits: Kirchhoff’s laws, Series & Parallel combinations of 5-6
+resistances, Voltage & Current divisions, Analysis of resistive circuits using
+Loop & Node equations – with independent sources, and with both
+independent and controlled sources.
+Unit III: Time-domain Analysis of LTI Circuits: Natural & forced responses of basic 4-5
+RC & RL circuits, Natural & forced responses of Series & Parallel RLC
+circuits.
+Unit IV: Sinusoidal Steady State Analysis of A-C Circuits: Notions of phasors, 6-7
+impedance, admittance & transfer function; Frequency response vs
+transient response; Responses of RC, RL & RLC circuits – series & parallel
+Resonance; Simple passive Filters & their Bode plots; Loop & Node
+Analysis of a-c circuits with independent & controlled sources.
+Unit V: Useful Circuit Analysis Techniques: Superposition, Source transformations, 6-7
+Thevenin’s equivalent, Norton’s equivalent, Maximum Power transfer,
+Delta-wye conversions,
+Unit VI: Basic Amplifiers: Amplifier parameters & controlled source models; VCVS 6-7
+model of an Op-amp; Amplifiers using ideal OPAMP; Frequency response of
+basic OPAMP-based amplifiers.
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+Unit VII: Waveform Generators: Condition of harmonic oscillation; RC and LC 5-6
+oscillator circuits; Square wave generator using 555 Timer and Digital
+inverters (TTL/CMOS).
+Additional Topics (if time permits may be included with Lab. Experiments)
+D-C Power Supply: Half-wave and Full-wave Rectifiers, Shunt Capacitor
+filter, Voltage Regulator, Regulated D-C Power Supply.
+Wave Shaping Circuits: Diode Clippers; Precision Clippers using Diode and
+Op-amp; Diode Clamp; Peak Detector and Peak Hold circuits; Sample and
+Hold circuit.
+Recommended Text book(s)
+1. Engineering Circuit Analysis – Hayt, Kemmerly & Durbin, Tata McGraw
+Hill,
+2. Electronic Devices and Circuit Theory by Robert L. Boylestad, Pearson
+Publication.
+Reference Text Books
+1. Circuit theory and analysis by Robert L. Boylestad, Pearson publication.
+2. The Art of Electronics – Horowitz & Hill, Cambridge University Press.
+ECE102: SEMICONDUCTOR DEVICES
+UNIT COURSE UNIT DESCRIPTION NUMBER OF
+LECTURE
+HOURS
+UNIT I: Basic Semiconductor Properties and band theory: Crystal Structure and 3
+Systems, Miller Indices and notation for directions and planes, Concept of
+holes, Energy bands, E-k diagrams, Band-structure, Conductivity effective
+mass
+UNIT II: Equilibrium Carrier Statistics: Density of states (DoS), Fermi function, 2
+Equilibrium electron and hole concentrations
+UNIT III: Recombination-Generation Processes: Recombination-generation 2
+statistics, Low-level injection
+UNIT IV: Carrier Transport: Drift current, Diffusion current, Continuity Equations, 3
+Quasi-Fermi levels
+UNIT V: Application of above-developed theory to devices: 28
+- P-N junctions: 6 hours
+- Metal Semiconductor devices: 1 hour
+- MOS capacitors (MOSCAP): 3 hours
+- Bipolar Junction Transistors (BJTs): 6 hours
+- MOSFETs: 8 hours
+- Power semiconductor devices like SCRs, Thyristors & Triacs, IGBTs and
+Power MOSFETs: 4 hours
+UNIT VI: Integrated Circuits: Brief introduction to how above semiconductor 1
+devices are fabricated in an integrated circuit (IC)
+RECOMMENDED TEXT BOOK(S)
+1. Solid State Electronic Devices, Ben G. Streetman and Sanjay Banerjee;
+Pearson Prentice Hall Publishers
+REFERENCE TEXT BOOKS
+1. Advanced Semiconductor Fundamentals, Volume VI of the Purdue Modular
+Series on Solid State Devices, Robert F. Pierret; Pearson Prentice Hall
+Publishers
+2. Physics of Semiconductor Devices, S. M. Sze; John Wiley & Sons
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+ECE103: DIGITAL ELECTRONICS
+UNIT COURSE UNIT DESCRIPTION NUMBER OF
+LECTURE
+HOURS
+UNIT I: Digital Processing of Information- Analog and Digital representations of 3
+information; Information processing steps – logic and arithmetic; Range of
+digital circuits and systems.
+UNIT II: Number Systems and Arithmetic - Positional number systems – Binary, 6
+Decimal, Octal, Hexadecimal; Signed number representations; Arithmetic
+operations.
+UNIT III: Digital Logic – Binary variables; Basic logic operations – AND, OR, NOT; 3
+Basic gates; Essentials of Boolean algebra; De Morgan’s laws; Truth Table;
+Boolean functions; Transforming a logical problem statement into a
+Boolean expression.
+UNIT IV: Combinational Circuit Design – Realisation of Boolean functions using 7
+gates; Karnaugh map; Minimisation of Boolean functions; Multiplexer-
+based realization of K-maps; Combinational circuit design using
+multiplexers and gates.
+UNIT V: Sequential Circuit Design – Latches and Flip-flops; Ripple counters; 11
+Sequence generator using flip-flops; State Table and State Diagram;
+Synchronous counters; Shift Registers; Ring and MLS counter, Introduction
+to Memories.
+UNIT VI: Hardware Description Language – VLSI digital design flow; Need for 9
+HDL; Language reference manuals for Verilog – syntax and semantics;
+Verification and synthesis of Verilog designs.
+UNIT VII: Processor Architecture - Processor as a programmable digital system; 6
+Basic constituents of a processor – Programmable ALU, Register array and
+Program sequencer; A simple single-bus architecture and its Instruction Set.
+RECOMMENDED TEXT BOOK(S)
+1. M. Morris Mano and Ciletti M.D., “Digital Design”, 4th Edition, Prentice-
+Hall 2006.
+2. T.L. Floyd, “Digital Fundamentals”, 10th Edition, Pearson education,
+2011.
+REFERENCE TEXT BOOKS
+i) R. P. Jain, “Modern Digital Electronics”, 3rd Edition, Tata McGraw
+Hill, 2003.
+ii) M. Morris Mano, “Digital Logic and Computer Design”, PHI, 2005.
+iii) Taub and Schilling, “Digital Integrated Electronics”, McGraw Hill,
+International Edition.
+IV) A. P. Malvino and D.P. Leach, “Digital Principles and Applications”,
+6th Edition, Tata McGraw-Hill, 2008
+ECE201: ELECTRIC MACHINES AND POWER SYSTEMS
+Transformers: Different types of transformers, Transformer Construction, Core and Shell type of
+transformers, Core materials and laminated core, Cooling systems, Equivalent circuit of a
+transformer, OC test, SC test, Voltage regulation and efficiency, Testing of transformers, Polarity test,
+three-phase transformer connections, Auto-transformer, Applications.
+DC Machines: Construction and working principle of DC motors and generators, commutation
+process, armature reaction, types of dc motors and their operating characteristics, starters, speed
+control of dc motors, losses and efficiency of dc motors, applications.
+Three-phase Induction motors: Construction, rotating magnetic field, principle of operation of
+three-phase Induction motors, equivalent circuit diagram, Torque-slip characteristics, no-load and
+blocked rotor tests, starting of induction motor, speed control of induction motors, losses and
+efficiency, applications.
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+Single-phase Induction motors: Construction, Main and starting windings, starting methods, split
+phase starting, capacitor split phase starting, torque-slip characteristics, applications.
+Three-phase Synchronous machines and electric power generation: Construction, Types of
+synchronous machines, Concepts of three-phase circuits, open-circuit and short-circuit
+characteristics, synchronous reactance, voltage regulation of the alternators, active and reactive
+power flow, synchronization process, two reaction theory of salient pole type synchronous
+machines, power-angle characteristics, damper winding, types of power plants.
+Modeling and analysis of transmission lines: Types of overhead lines, poles and towers,
+Transmission line voltage levels in our country, conductors, resistance, inductance and capacitance
+of transmission lines (without derivation), Short, Medium, and long transmission lines, T-and pi-
+models of medium and long transmission lines, Voltage regulation, efficiency, active and reactive
+power flow through a transmission line, Equations of long transmission line (without derivation),
+Ferranti effect, Surge impedance loading. Corona phenomenon.
+Overhead Line Insulators: Types of insulators, Potential distribution over a string of suspension
+insulators, String efficiency, Methods of equalising the potential, grading rings, arcing horns.
+Distribution System: Primary distribution and secondary distribution, overhead and underground
+distribution, radial, ring main, interconnected distributions systems, voltage drop calculations, tap
+changing transformers.
+• Text Books:
+1. D. P. Kothari and I. J. Nagrath, Electrical Machines. McGraw- Hill Higher Education, 4th
+edition, 2010.
+2. S. J. Chapman, Electric Machinery Fundamentals. McGraw-Hill, Inc. 5th edition, 2012.
+3. P. S. Bhimbra, Electrical Machinery. Khanna publishers, 2012.
+4. C. L. Wadhwa, Electrical Power Systems. New Age Publication, 6th edition, 2014.
+• Reference Books:
+1. Fitzgerald and Kingsley, Electrical Machinery. McGraw- Hill Higher Education, 7th
+edition, 2013.
+2. M. G. Say, The Performance and Design of Alternating Current Machines. CBS Publishers,
+3rd Edition,
+3. T. Gonen, Electric Power Transmission System Engineering: Analysis and Design. CRC
+Press, Taylor and Francis Group, New York, 2009.
+4. W. D. Stevenson Jr. and J. J. Grainger, Power System Analysis. McGraw Hill, 2017.
+ECE202: EMBEDDED SYSTEMS HARDWARE
+UNIT COURSE UNIT DESCRIPTION NUMBER OF
+LECTURE
+HOURS
+UNIT I: Embedded system basics and microprocessors: 6
+Introduction to the embedded system: i) components of embedded
+system, ii) characteristics of embedded system, iii) challenges in embedded
+system design, and iv) architecture of a general embedded systems
+Microprocessor: i) introduction, ii) generations of microprocessors, iii)
+classification of the microprocessor, iv) introduction to 8085
+microprocessors, v) pinout and signals of 8085, vi) functional block diagram
+of 8085, vii) addressing modes and interrupts in 8085, and viii) instruction
+sets and programming in 8085.
+UNIT II: 8-bit microcontrollers: 10
+8051 microcontroller: i) features and introduction of 8051, ii) block
+diagram and pinouts, iii) programming model, iv) Internal RAM
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+organization, v) interrupts, vi) C programming of 8051, and vii) interfacing
+some important peripherals to 8051.
+Arduino: i) introduction to Arduino (development board and IDE), ii)
+programming to Arduino, and iii) interfacing some important peripherals to
+Arduino.
+UNIT III: 32-bit microcontrollers: 8
+i) overview, ii) functional block diagram, iii) Integrated Development
+Environment, iv) General purpose input-output (GPIO), v) Analog interface,
+vi) Timers, vii) Hardware Abstraction Layer (HAL).
+UNIT IV: Communication Protocol: 8
+i) overview of Serial Peripheral Interface Protocol (SPI protocol), ii)
+overview of Inter –IC (I2C) communication protocol, iii) overview of
+Universal Asynchronous Receiver/Transmitter (UART) protocol, iv)
+overview of USB communication technology, and v) overview of RFID
+communication technology.
+UNIT V: Hands on experience on simple embedded systems: 8
+i) ADC and DAC, ii) PID control, iii) sensors and actuators, iv) position and
+movement control, v) data communication interfaces, and vi) Internet of
+Things.
+RECOMMENDED TEXT BOOK(S)
+1. Ramesh S. Gaonkar, “Microprocessor - Architecture, Programming
+and Applications with the 8085”, 5th edition, Penram International
+Publishing Private Limited.
+2. Ayala, Kenneth J. "The 8051 Microcontroller Architecture
+Programming and Applications”, West Publishing Company.
+3. Muhammad Ali Mazidi, Janice Gillispie Mazidi, Rolin D. McKinlay,
+“The 8051 Microcontroller and Embedded Systems Using Assembly
+and C”, 2nd edition.
+4. Simon Monk, “Programming Arduino Getting Started with Sketches”,
+McGraw-Hill Education.
+5. Donald Norris, “Programming with STM32 Getting Started with the
+Nucleo Board and C/C++”, McGraw-Hill Education.
+REFERENCE TEXT BOOKS
+1. KCS Murti, “Design Principles for Embedded Systems”, Springer
+Verlag, Singapore, First Edition.
+ECE203: Signals and Systems
+1. Classification and representation of signals and systems, Continuous time & Discrete time
+signals and systems, Impulse and Step response of a system, linear systems, linearity, time
+invariance, causality, signal properties -LTI systems, Convolution
+2. Fourier series, Fourier transform and properties, relation between Fourier transform and
+Fourier series, Sampling and reconstruction, Group delay, Phase delay, DFT.
+3. Laplace transforms- representation of signals using continuous time complex exponentials,
+relation of Laplace and Fourier transform, concept of ROC and transfer function- block diagram
+representation, Inverse Laplace transform, properties, analysis and characterization of LTI
+systems using Laplace transforms.
+4. Z transforms- representation of signals using discrete time complex exponentials-properties,
+inverse Z transforms, ROC, Analysis and characterization of LTI systems using Z transforms,
+block diagram, transfer functions
+5. Introduction to random variable and random process, State space analysis, Introduction to Two
+port networks and parameters.
+RECOMMENDED TEXT BOOK(S)
+1. A.V. Oppenheim, A.S. Willsky & S.H. Nawab, “Signals & Systems”, 2nd edition, PHI, 1997.
+2. Lathi, B. P., “Principles of Linear Systems and Signals”, 2nd Ed., Oxford University Press.
+3. S. Haykin & B. Van Veen, “Signals and Systems”, 2nd edition, John Wiley & sons, 2004.
+4. Ziemer and Tranter, “Signals and Systems, 4th edition, Pearson LPE.
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+ECE204: Analog Circuits
+1. Review of BJT and MOSFET: Review of physical properties and basic I-V equations of BJT and
+MOSFET; various biasing operating modes of BJT and MOSFET, Low-frequency incremental
+equivalent circuits
+2. Two-Port Networks and their parameters: Hybrid Parameters of BJT.
+3. Transistor biasing schemes: Resistive Biasing and Current Mirror Biasing
+4. Small-signal Analysis of Amplifiers: Single-stage amplifiers-CE, CB and CC and their MOSFET
+counterparts.
+5. Multi-transistor Amplifiers: Darlington pair, Difference amplifier, and Active load and Cascade
+amplifier.
+6. Frequency Response: High-frequency model and Frequency Response of different types of
+amplifiers.
+7. Basic Operational Amplifier Design: Frequency Response of Op-Amp, gain margin, phase
+margin, compensation of gain margin and phase margin, Negative feedback and its impact on
+amplifier performance - gain and bandwidth, design of two-stage Op-amp.
+8. A few applications of Op-Amps e.g. oscillators, filters.
+RECOMMENDED BOOK(S)
+• Text Books
+1. Microelectronic Circuits: Theory And Applications: Fifth Edition, by Sedra, Adel S.; Smith,
+Kenneth C., Oxford University Press, 2007
+2. Electronic Devices and Circuits, Sixth Edition by Theodore F Bogart, Pearson, 2011.
+• Reference Books
+1. Microelectronics: Circuit Analysis and Design (ISE), 4th Edition by Donald A. Neamen, Mc-
+Graw Hill 2021.
+2. Electronic Devices and Circuit Theory: 9th Edition by Robert Boylestad, Pearson, 2007.
+3. Operational Amplifiers with Linear Integrated Circuits, 4th Edition, by William D. Stanley,
+Pearson, 2004.
+ECE205: Electromagnetic Engineering
+1. Review of vector algebra and calculus, coordinate transformations, Scalar and Vector fields, Vector
+calculus, Divergence, the Divergence Theorem, Curl and Stokes theorem.
+2. Electrostatics: Coulomb’s Law and concept of Electric Field, Electric field due to charge
+distribution, Gauss’s law, Electric potential, Electric field in materials, Conductors and Dielectrics,
+Material polarization, Boundary conditions, Resistance and capacitance, Method of Images,
+Poisson’s and Laplace’s equations.
+3. Magnetostatics: Bio-Savart law, Ampere’s Law and its applications, Maxwell’s equation for static
+EM fields, Magnetic materials, Boundary conditions, Inductor and inductance, magnetization,
+magnetic energy.
+4. Maxwell’s Equations: Faraday’s law, Inconsistency of Amperes law, Continuity equation,
+Displacement current, Maxwell’s equations, Boundary conditions, different forms of Maxwell’s
+equations.
+5. Transmission Line: Transmission line parameters and equations, characteristic impedance, open
+and short circuited lines, standing wave and reflection losses. Impedance matching, Smith Chart,
+Simple and double stub matching.
+6. EM Wave Propagation: Wave propagation in free space, Conductors and dielectrics, Polarization,
+Phasor notation, Phase velocity, Group velocity; Reflection at the surface of the conductive medium,
+Surface Impedance, Depth of penetration, Poynting theorem, Poynting Vectors and power loss in a
+plane conductor.
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+7. Antenna and Radiation: Scalar and vector potentials. Radiation from a current filament, half-wave
+dipole and small loop antennas. Antenna characteristics, radiation pattern, radiation intensity,
+directivity and power gain., Effective area and Friis equation.
+8. Electromagnetic Interference and Electromagnetic Compatibility: Introduction to
+Electromagnetic Interference (EMI) and Electromagnetic Compatibility (EMC).
+9. Bio-Electromagnetics: Retinal optic fibers, Heart dipole field, Biological fields.
+RECOMMENDED BOOK(S)
+1. Engineering Electromagnetics - William H. Hayt, Jr.
+2. Elements of Electromagnetics- M. N. O. Sadiku, Oxford University Press.
+3. Field and wave electromagnetics - D. K. Cheng, pearson.
+4. Electromagnetic Waves & Radiation Systems, Jordon E C Balmain.
+5. Electromagnetic Field Theory & Transmission Lines, G S N Raju, Pearson
+6. Electromagnetics with Applications, Kraus & Fleisch, TMH.
+ECE206: Power Electronics and Machine Drives
+1. Introduction to power electronic circuits, Examples of power electronic converters and range of
+controlled power.
+2. Active mode versus switched mode operation, losses in switches, cooling requirements,
+heatsink specifications
+3. Brief description of construction and working of power diodes, thyristors, power MOSFET and
+IGBT, their switching characteristics.
+4. Different methods of triggering a thyristor, gate drive circuits for IGBT and MOSFET. Static and
+dynamic switching characteristics of power diode and thyristor, requirement of snubber
+circuits.
+5. AC to DC conversion (uncontrolled type): Uncontrolled rectifier using diodes for both single-
+phase and three-phase ac input, discussion on output filter and ac source current.
+6. AC to DC controlled conversion using thyristors for both single-phase and three-phase ac supply.
+Half controlled and fully controlled rectifiers for resistive and inductive loads, Waveforms of
+supply and load side currents and voltages, expression for output voltage, Concept
+of distortion and displacement power factor, harmonic distortion factors /THD etc.
+7. DC to DC conversion: Concept of buck and boost converter assuming ideal switches and diodes.
+Practical buck and boost converter using thyristors, MOSFETs and IGBTs. Advantage of higher
+frequency switching, switching losses, limitations due to switching speed, stray inductance etc.
+8. Switched Mode Power Supply Circuits: fly-back and forward types, considerations on high
+frequency transformer design, practical SMPS circuits.
+9. DC to AC conversion (Inversion): Inverters for DC to single phase AC conversion, DC to three
+phase AC conversion, PWM Inverter, PWM techniques, Sine wave PWM (SPWM) and selective
+harmonic elimination type PWM techniques.
+10. AC to AC conversion: phase angle control using TRIACs
+11. Introduction to Electric Drives: What is Electric Drive? Different components of Electric Drive,
+Different types of Electric Drives.
+12. Dynamics of Electric Drives: Fundamentals of speed-torque relations, multi-quadrant operation
+in speed-torque plane, Nature and classification of load torques, Calculation of time and energy
+spent in transient operations, steady state stability of drives.
+13. DC Motor Drives: Overview of different types of dc motors and their torque-speed
+characteristics, starting and braking methods of dc motors, conventional speed control
+methods, modern speed control methods using power electronic converters, time and energy
+loss calculations during starting and braking of separately excited dc motor.
+14. Induction Motor Drives: Overview of 3-phase Induction motor torque-speed characteristics,
+squirrel-cage and slip-ring induction motor, different types of starting and braking of induction
+motor, time and energy loss calculations in transient operation of induction motor, Speed
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+control of 3-phase induction motor using conventional methods and using power electronic
+converters, V/f control and slip power recovery based control of induction motor speed and
+torque, torque-speed characteristics and speed control of single phase induction motor.
+15. Brushless DC motor, Switched Reluctance Motor & Stepper Motor Drives: Brief mention of
+Construction, operation and control of these drives.
+RECOMMENDED BOOK(S)
+1. Power Electronics: Circuits, Devices and Applications, by M. H. Rashid, Pearson publishers, India.
+2. Power Electronics: Converters, Applications and Design by Ned Mohan, Tore M. Undeland, and
+William P. Robbins, John Wiley & Sons.
+3. Fundamentals of Electrical Drives by G .K .Dubey, CRC Press.
+ECE207: Principles of Communication Engineering
+1. Review of Signals & Systems: Fourier series, Fourier transform and its properties, Hilbert
+transform, complex-baseband representation.
+2. Analog Amplitude & Angle Modulation Schemes: amplitude modulation techniques: double-
+sideband (DSB) modulation, full amplitude modulation (Full AM) and its variants (SSB/VSB),
+Frequency translation and mixing. Phase and Frequency modulation, Demodulation of FM,
+Frequency division multiplexing (FDM).
+3. Review of Probability Theory: Random variable and Random processes, probability
+distribution, statistical averages, some useful distributions, auto-correlation (in continuous and
+discrete-time), White Gaussian noise process: auto-correlation function and power spectral
+density, LTI filtering.
+4. Performance of Analog Communication Schemes in the presence of noise: The effect of additive
+white Gaussian noise in the reception of amplitude and angle-modulated signals.
+5. Baseband Data communication: Line codes and their power spectra, Effects of filtering of digital
+data – ISI, Pulse shaping- Nyquist’s criterion for zero ISI, Baseband digital data transmission in
+white Gaussian noise: Matched filter and correlation.
+6. Introduction to Digital Communication: A basic form of a digital communication system,
+Geometrical representation of signals, Gram Schmidt orthogonalization procedure, Signal Space
+Representation of M-ary Signal Sets, Conversion of the continuous AWGN channel into a vector
+channel, Likelihood functions, Coherent detection of signals in noise - MAP & ML detection,
+Correlation receiver, Equivalence of correlation and matched filter receivers, Probability of
+error, bit versus Symbol error probabilities.
+7. Passband Digital Data communication: Hierarchy of digital modulation techniques and their
+constellations: BPSK, QPSK, M-ary QAM, M-ary PSK, Minimum Shift Keying (MSK), Frequency
+Shift Keying (FSK). Coherent detection of signals: Probability of error and performance
+comparison. Non-coherent reception and their performance.
+8. Introduction to carrier and symbol timing synchronization: Importance in signal demodulation,
+carrier frequency and phase estimation– decision directed and power of N methods, symbol
+timing estimation.
+9. Multiple access schemes: TDMA, FDMA, CDMA.
+RECOMMENDED BOOK(S)
+1 Simon Haykin, “Communication Systems”, 4th Edition, John Wiley & Sons, 2001.
+2 Rodger E. Ziemer and William H. Tranter, “Principles of Communication-Systems,
+Modulation and Noise”, 7th Edition, John Wiley & Sons, 2015.
+3 S. Haykin and M. Moher, Introduction to Analog & Digital Communications, 2nd Edition, John
+Wiley & Sons, Inc., 2007.
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+ECE301: Control Systems
+1. Introduction and Mathematical Modeling of Physical Systems: Classification of control
+systems: Open-loop and Closed-loop systems, Effect of feedback, Mathematical modeling of
+physical systems, Transfer Function, Block diagrams of control systems, Block diagram
+manipulations.
+2. Time-Domain Analysis: Standard test signals for the time response of control systems, Time-
+response of 1st order and 2nd order systems, Transient and steady-state responses, Steady-state
+errors, Static error constants, Type-0, Type-1, and Type-2 systems, Effects of adding poles and
+zeros to transfer functions, Dominant poles.
+3. Stability of Linear Control Systems: Bounded-Input Bounded-Output (BIBO) stability, Absolute
+and relative Stability, Routh-Hurwitz stability criterion.
+Root Locus Technique: Defining root locus, properties and sketching of root locus for negative
+and positive feedback systems, Design via root locus; Improving steady-state and transient
+response using cascade compensation, PI, PD, and PID controllers, Lag, lead, and lag-lead
+compensators.
+4. Frequency-Domain Analysis: Correlation between time-domain and frequency-domain
+analysis, Polar plot and Bode plots, Introduction to Nyquist stability criterion, Nyquist plot, Gain
+margin and phase margin, Constant M and N circles; Nichols Chart, Design of feedback control
+systems using frequency response techniques.
+5. State-Variable Analysis: Concept of state-space representation, converting a transfer function
+to state-space, converting state-space to transfer function, state-transition matrix and its
+properties, linearization, Laplace transform and time-domain solution of state equations,
+observability and controllability of linear Systems.
+6. Introduction to digital control systems.
+RECOMMENDED BOOK(S)
+• Textbooks:
+1. M. Gopal, Control Systems: Principles and Design. McGraw-Hill, 4th edition, 2012.
+2. N. Nise, Control Systems Engineering. Wiley India, 7th edition, 2011.
+• Reference Books:
+1. B. C. Kuo and F. Golnaraghi, Automatic Control Systems. Wiley India, 4th edition, 2009.
+2. K. Ogata, Modern Control Engineering. Prentice Hall India Learning Private Limited, 5th
+edition, 2015.
+ECE302: Digital Signal Processing
+1. Discrete time signals and systems: Sequences; representation of signals on orthogonal basis;
+Sampling and reconstruction of signals; State Space representations.
+2. Discrete systems: attributes, Z-Transform, Analysis of LSI systems, Frequency analysis, Inverse
+Systems, Discrete Fourier Transform (DFT), Fast Fourier Transform algorithm, Implementation
+of Discrete Time Systems.
+3. Design of FIR Digital filters: Window method, Eigen based methods, Park-McClellan's method.
+4. Design of IIR Digital Filters: All pass based design, Butterworth, Chebyshev and Elliptic
+Approximations; Low pass, Band pass, Band stop and High pass filters, Matched filters, CIC filter
+design. Effect of finite register length in FIR filter design.
+5. Parametric and non-parametric spectral estimation. Introduction to Multirate signal processing.
+Application of DSP to Speech and Radar signal processing
+RECOMMENDED BOOK(S)
+1 A. V. Oppenheim and R. W. Schafer, Digital Signal Processing. Pearson 2015.
+2 J. G. Proakis and D. G. Manolakis, Digital Signal Processing. Pearson 2009.
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+ECE303: Computer Organization and Design
+1. Internal operation of computers: Layers of a computer system, operating systems,
+compiler/assembler/linker/loader, number systems/representations, binary arithmetic,
+memory types/management, limits imposed by VLSI manufacturing process such as limitations
+of Moore’s Law, power and yield/cost
+2. RISC-V Instruction Set Architecture: Assembly language, execution, function calls, branches
+3. Datapath design with single-cycle non-pipelined control: Adding support for instructions one
+by one
+4. Pipelined Datapath and control: Performance and energy “Iron Laws” of CPU design, pipelined
+datapath and control, hazards
+5. Memory hierarchy and caches: Memory hierarchies, cache hits, misses, write policies,
+replacement policies, multi-processor caches and coherency, virtual memory
+6. Interrupts and pipelined datapaths
+7. Parallelism: Amdahl’s Law, data-level parallelism, vector instructions, loop-unrolling, thread-
+level parallelism, hardware threads versus software threads
+8. Miscellaneous: Benchmarks, design process, architecture simulators for functionality and
+performance
+RECOMMENDED BOOK(S)
+1 Computer Organization and Design RISC-V Edition: The Hardware Software Interface, D. A.
+Patterson and J. L. Hennessy; Morgan Kaufmann Publishers.
+ECE304: Artificial Intelligence and Machine Learning
+1. Types of Learning: Supervised, Unsupervised and Reinforcement; Regression and Classification
+Problems.
+2. Concepts: Bias and Variance, Generalization, Overfitting, Training and Test Datasets, Cross-
+validation, Accuracy Measures for Regression and Classification, Imbalanced Datasets.
+3. Statistical Learning: Naïve Bayes Classifier, k-NN Classifier, Linear Regression, Logistic
+Regression, Softmax function.
+4. Support Vector Machines: Optimum Margin Classifier, Constrained Optimization, Lagrange
+Multipliers, Primal/Dual Problems, KKT Conditions, Kernels, Quadratic Programming.
+5. Neural Networks: Multilayer Perceptron Networks, Backpropagation, Nonlinear Regression,
+Multiclass Discrimination, Training Procedures
+6. Decision Trees: Concepts, C4.5 and CART Decision Trees
+7. Unsupervised Learning: K-means Clustering, Gaussian Mixture Models
+8. Dimensionality Reduction: Feature Selection, Principal Component Analysis, Linear
+Discriminant Analysis.
+RECOMMENDED BOOK(S)
+1. M. Gopal, “Applied Machine Learning”, 2nd Edition McGraw-Hill, 2022.
+2. E. Alpaydin, “Introduction to Machine Learning”, 3rd Edition, The MIT Press, 2014.
+3. T. Hastie, R. Tibshirani and J. Friedman, “The Elements of Statistical Learning: Data Mining,
+Inference and Prediction”, 2nd Edition, Springer, 2009.
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+ECE351: VLSI Design
+1. Introduction to VLSI, MOSFET basics, short channel MOS issues, CMOS basic flow, Design of digital
+and combinational blocks, emerging device technologies trends as per ITRS.
+2. CAD and Computer Tools Used: Cadence Virtuoso
+3. Models for Digital Design (5): Miller Capacitance, the Digital MOSFET Model, and Effective
+Switching Resistance of Long Channel MOSFET, Short-Channel MOSFET Effective Switching
+Resistance, Capacitive Effects.
+4. CMOS Technology (6): Static CMOS inverter, DC Characteristics, Noise Margins, Inverter
+Switching Point, Ideal Inverter VTC. Dynamic Characteristics of CMOS inverter: Computing the
+capacitance-propagation delay sizing inverter for performance optimization. Combinational MOS
+logic circuits (Parallel Connection of MOSFETs, Series Connection of MOSFETs, NAND Gate, Quick
+Estimate of Delays, Number of Inputs, and Complex CMOS Logic Gates.
+5. Other Design Styles (5): MOSFET Pass Gate, Delay through a Pass Gate, Transmission Gate, Sizing
+in Pass transistor. Applications of the Transmission Gate as Path Selector and Static Circuits.
+Differential Cascode Voltage Switch Logic, Pseudo NMOS, and other logic design styles
+6. Delay Analysis (6): Delay analysis using Elmore Delay, Delay analysis using Logical and electrical
+effort. Designing the circuits for large capacitive loads. Analysis of Super buffer. Delay calculation
+in datapath.
+7. Designing logic for reduced supply voltages (3): Introduction, Overview of Power Consumption,
+and Low-Power Design through Voltage Scaling, Estimation and Optimization of Switching
+Activity, Reduction of Switched Capacitance.
+8. Dynamic CMOS design (4): Fundamentals of Dynamic Logic, Charge Leakage, Dynamic Circuits,
+Domino logic, Optimization of Domino logic, and NORA logic.
+9. Design of sequential Circuit (4): Bistability Principle, Timing metric, Edge Triggered Register
+Design, TSPC Design
+10. Memory Design (6): Array Subsystem, Design of NAND ROM, NOR ROM, Decoders Design for
+ROM, Introduction to NVM. Design of Programmable Logic: Pseudo NMOS PLA, 6T SRAM Design,
+Read, Write and Hold operations of 6T-SRAM, SRAM peripheral Design, Introduction to DRAMs.
+RECOMMENDED BOOK(S)
+• Text Books
+1. Principles of CMOS VLSI Design. A Systems Perspective, 3rd Edition, by Neil H. E. Weste,
+Karman Eshraghian, Addison-Wesley, 2004
+2. CMOS Digital Integrated Circuits: Analysis and Design, S.-M. Kang and Y. Leblebici, 2nd Edition,
+McGraw-Hill, Inc., 1999
+• Reference Books
+1. Circuit design layout and simulation, R. Jacob Baker,3rd Edition, Wiley Publication,2010
+2. Digital Integrated Circuits: A Design Perspective, Jan M. Rabaey, Prentice Hall, Inc., 1996
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+ECE352: Photovoltaic Power Generation
+1. Introduction of Solar Cell: Renewable energy sources, Current status of PV power generation in
+India, Advantages and challenges of solar energy, Solar cell technology, P-N junction diode,
+Introduction to P-N junction in equilibrium and non-equilibrium conditions, P-N junction under
+illumination: solar cell, Generation of a photo voltage, Photo generated current, Current-voltage
+(I-V) equation of solar cell, I-V characteristics of solar cell.
+2. Design of PV Cell, Module and Array: Short circuit current, Open circuit voltage, Fill factor,
+Efficiency, modelling of a PV cell, Effect of series and shunt resistances on efficiency, Effect of
+solar radiation and temperature on efficiency, modelling of a PV module and array
+3. Solar Radiation: Extra-terrestrial solar radiation, Solar spectrum at the Earth’s surface,
+Declination angle, Apparent motion of the sun and solar altitude, Angle of sunrays on solar
+collector, Sun tracking, Estimation of solar radiation empirically
+4. Identification of Solar PV Module: PV parameters estimation of a single diode model (SDM) and
+double diode model (DDM) PV module, Conversion of PV module parameters to array
+parameters, Temperature and solar irradiation dependence PV parameters, Study of I-V and
+power-voltage (P-V) characteristics of a PV array under different environmental conditions
+using Matlab simulation
+5. Maximum Power Point Tracking (MPPT) Methods of a PV Source: Fractional short-circuit
+current (FSCI) technique, Fractional open circuit voltage (FOCV) technique, Hill Climbing/
+Perturb & Observed (PO), Incremental conductance, One cycle control (OCC) technique,
+Differention technique, Feedback voltage and current technique, Load current/Load voltage
+maximization technique, Fuzzy logic based MPPT technique, Artificial neural network based
+MPPT technique, Particle swarm optimization based MPPT technique, Gauss-Newton, Steepest-
+Decent, Levenberg-Marquardt
+6. Partial Shading of a PV Array: Shading effect of a PV array, Mismatch loss, Different types of PV
+configuration to reduce mismatch loss, Effect of bypass diode in a PV array under shading
+conditions, Extraction of maximum power from a PV array under partial shading conditions
+7. Power Electronics Application in PV System: DC to DC converters, Control of DC to DC converter,
+Input side reflected impedance of DC to DC converters, DC to AC converter (Inverter), Grid
+integrated PV system: Single phase grid connection, Three phase grid connection.
+8. PV System with Storage: Cells and batteries, Lead acid cell, Nickel cadmium storage cell, Nickel
+metal hydride (NiMH) Cells, Lithium cells, Stand-alone PV system, Design of PV water pumping
+system
+9. Impact of DG integration on power quality and reliability: Power quality distrubances:
+Transients, Voltage sags and swells, Over-voltages and under-voltages, Outage, Harmonic
+distortion, Voltage notching, Flicker, Electrical noise, Impact of DG integration: Simple standby
+generation scheme, Secondary DG system with power quality support, Primary DG system with
+power quality support to priority loads, Soft grid-connected DG with power quality support to
+priority loads, DG with intermittent solar PV within power quality environment
+RECOMMENDED BOOK(S)
+• Text Books:
+1. Chetan Singh Solanki, “Solar Photovoltaics: Fundamentals, Technologies and Applications”,
+PHI learning publication, 2015.
+2. Remus Teodorescu, Pedro Rodriguez, Dezso Sera, Sergiu Spataru, Laszlo Mathe, Sergiu
+Spataru, “Grid Connected Photovoltaic Power Systems”, John Wiley & Sons Inc, 2019
+3. S. Chowdhury, S.P. Chowdhury and P. Crossley, “Microgrids and Active Distribution
+Networks”, IET, First Edition, 2009.
+• Reference Books
+1. A. K. Mukerjee and Nivedita Thakur, “Photovoltaic Systems: Analysis and Design”, PHI
+learning publication, 2011.
+2. Garg & Prakash and H. P. Garg, “Solar Energy Fundamentals and Applications”, Tata McGraw-
+Hill Education, 2017.
+3. Ali Keyhani, “Design of Smart Power Grid Renewable Energy Systems”, Wiley- IEEE Press,
+2011.
+4. Mukund R. Patel, “Wind and Solar Power Systems: Design, Analysis, and Operation”, Taylor
+& Francis, 2006.
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+ECE353: Microwave Engineering
+Introduction of Microwaves and their applications. Waveguides: Rectangular Waveguides, Solution of
+Wave equation in TE and TM modes. Power transmission and Power losses. Excitation of modes in
+Rectangular waveguides, circular waveguides: Basic idea of TE and TM modes, field patterns, TEM mode
+of propagation. Waveguide Components: Scattering matrix representation of networks, Rectangular
+cavity and circular cavity resonators. Waveguide Tees, Magic Tees. Hybrid rings. Waveguide corners,
+Bends and twists, Directional couplers, Circulators and isolators, Windows, Irises, tuning screws.
+Measurement: frequency, Wave length, VSWR, Impedance, power. Microwave Tubes: Klystron, Reflex
+Klystron, Magnetron, TWT, BWO: Their schematic, Principle of operation, performance characteristics
+and application. Semiconductor Devices: Construction, Operation and Practical applications of PIN diode,
+varactor and Tunnel diode, Gunn diode, IMPATT, TRAPTT diodes, Maser MIC: Introduction to microstrip
+lines, Parallel Striplines, Coplanar striplines, Shielded striplines, Slot lines, Transitions, Bends and
+Discontinuities
+RECOMMENDED BOOK
+1. D. M. Pozar, Micowave Engineering. 4th ed. John Wiley and Sons, Inc.
+ECE354: Sensor, Measurement, and Actuators
+UNIT I: SENSORS
+Difference between sensor, transmitter and transducer, Primary measuring elements - selection and
+characteristics: Range; resolution, Sensitivity, error, repeatability, linearity and accuracy, impedance,
+backlash, Response time, Dead band. Signal transmission - Types of signal: Pneumatic signal; Hydraulic
+signal; Electronic Signal. Principle of operation, construction details, characteristics and applications of
+potentiometer, Proving Rings, Strain Gauges, Resistance thermometer, Thermistor, Hot-wire
+anemometer, Resistance Hygrometer, Photo-resistive sensor.
+UNIT II: INDUCTIVE & CAPACITIVE TRANSDUCER
+Inductive transducers: - Principle of operation, construction details, characteristics and applications of
+LVDT, Induction potentiometer, variable reluctance transducer, synchros, microsyn. Capacitive
+transducers: - Principle of operation, construction details, characteristics of Capacitive transducers –
+different types & signal conditioning, Applications:- capacitor microphone, capacitive pressure sensor,
+proximity sensor.
+UNIT III: ACTUATORS
+Definition, types and selection of Actuators; linear; rotary; Logical and Continuous Actuators, Pneumatic
+actuator Electro-Pneumatic actuator; cylinder, rotary actuators, Mechanical actuating system: Hydraulic
+actuator - Control valves; Construction, Characteristics and Types, Selection criteria. Electrical actuating
+systems: Solid-state switches, Solenoids, Electric Motors- Principle of operation and its application: D.C
+motors - AC motors - Single phase & 3 Phase Induction Motor; Synchronous Motor; Stepper motors -
+Piezoelectric Actuator.
+UNIT IV: MICRO SENSORS AND MICRO ACTUATORS
+Micro Sensors: Principles and examples, Force and pressure micro sensors, position and speed micro
+sensors, acceleration micro sensors, chemical sensors, biosensors, temperature micro sensors and flow
+micro sensors. Micro Actuators: Actuation principle, shape memory effects-one way, two way and
+pseudo elasticity. Types of micro actuators- Electrostatic, Magnetic, Fluidic, Inverse piezo effect, other
+principles.
+UNIT V: SENSOR MATERIALS AND PROCESSING TECHNIQUES
+Materials for sensors: Silicon, Plastics, metals, ceramics, glasses, nano materials Processing techniques:
+Vacuum deposition, sputtering, chemical vapour deposition, electro plating, photolithography, silicon
+micro machining, Bulk silicon micro machining, Surface silicon micro machining, LIGA process.
+RECOMMENDED BOOK(S)
+Textbooks:
+1. Patranabis. D, “Sensors and Transducers”, Wheeler publisher, 1994.
+2. Sergej Fatikow and Ulrich Rembold, “Microsystem Technology and Microbotics”, First edition,
+Springer –Verlag New York, Inc, 1997.
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+3. Jacob Fraden, “Hand Book of Modern Sensors: Physics, Designs and Application” Fourth edition,
+Springer, 2010.
+Reference Books:
+1. Robert H Bishop, “The Mechatronics Hand Book”, CRC Press, 2002.
+2. Thomas. G. Bekwith and Lewis Buck. N, Mechanical Measurements, Oxford and IBH publishing
+Co. Pvt. Ltd.,
+3. Massood Tabib-Azar, “Microactuators: Electrical, Magnetic, thermal, optical, mechanical,
+chemical and smart structures”, First edition, Kluwer academic publishers, Springer, 1997.
+4. Manfred Kohl, “Shape Memory Actuators”, first edition, Springer.
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+ECE355: Scientific Computing using MATLAB
+1. Fundamental Concepts: Variables and constants, basic statement structure, input/output,
+algebraic operations, logic operations, loop control, conditional control, switch, graphical output
+2D and 3D.
+2. Matrices and Eigenvalues: Basic operation and properties of matrices, matrix inversion,
+generalized matrix inversion, matrix transformation, solving matrix equations, eigenvalues and
+vector, transformation and diagonalization, power method, Jacobi method,
+3. Linear and Non-linear equations: Gauss and Gauss-Jordan eliminations, Matrix factorization,
+iterative method, bisection method, Newton-Raphson method, Secant method.
+4. Calculus Problems: Solution to limit problems, solution to derivative problems, partial
+derivatives, partial derivatives of implicit functions, derivative of parametric equations, gradient,
+divergence and curl, solution to indefinite, definite and improper integral problems, multiple
+integrals, Taylor and Fourier series expansion, path and line integrals, scalar and vector surface
+integrals, numerical differentiation, numerical integration.
+5. Differential equations: Numerical solution of ordinary differential equations, solution of special
+ordinary differential equations, solution of boundary value problems, Partial differential equation
+(PDE), Elliptical PDE, Parabolic PDE, Hyperbolic PDE.
+6. Transforms and Complex valued functions: Laplace transform and their inverse, Fourier
+transform and their inverse, z transform and their inverse, complex matrices, computation of
+poles and residues, solution of difference equations.
+7. Data Interpolation: Interpolation and data fitting of 1D, 2D and higher order, spline
+interpolation, fitting mathematical models, signal analysis and digital signal processing.
+8. Probability and Statistics: Probability density function (PDF) and cumulative distribution
+function (CDF), probability computation of continuous functions, Monte-Carlo solution, random
+walk problems, mean and variance of stochastic processes, moments of stochastic processes,
+covariance of multivariate stochastic processes, joint PDFs and CDFs, statistical estimation.
+RECOMMENDED BOOK(S)
+1. Otto, Stephen Robert, and James P. Denier, “An introduction to programming and numerical
+methods in MATLAB”, Springer, 2005.
+2. Bashier, Eihab BM., “Practical Numerical and Scientific Computing with MATLAB and Python”,
+CRC Press, 2020.
+3. Yang, Won Y., Wenwu Cao, Jaekwon Kim, Kyung W. Park, Ho-Hyun Park, Jingon Joung, Jong-Suk
+Ro, Han L. Lee, Cheol-Ho Hong, and Taeho Im, “Applied numerical methods using MATLAB”, John
+Wiley & Sons, 2020.
+4. Palm, William John, “Introduction to MATLAB for Engineers”, McGraw-Hill, 2011.
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+ECE356: RF and Microwave Circuit Design
+1. Introduction: Frequency spectrum, frequency behaviour of passive components & chip
+components.
+2. Transmission Line: Transmission lines, electrical equivalent circuit analysis, sending port
+impedance, input impedance, voltage standing wave, transmission line matching, smith chart,
+impedance and admittance transformations, impedance matching networks.
+3. Two-port Networks: Series and parallel networks, Z-parameter, Y-parameter and h-
+parameter, S-parameters, X-parameter, ABCD parameters, conversion of different network
+parameters.
+4. RF Filter Design: Basics of filter configurations, Butterworth and Chebyshev type filters, Filter
+design by the Image Parameter method and Insertion Loss method, Implementation of
+microwave filters.
+5. RF Transistor Amplifier Design: Amplifier characteristics, Amplifier parameters, stability
+criteria, Amplifier design for maximum gain, constant gain, noise figure and VSWR circles,
+Introduction to Doherty amplifier.
+6. RF Oscillators: Basic oscillator model, negative resistance and feedback oscillator designs,
+quartz oscillators, electronic tuning of oscillator, phase locked loop.
+7. RF Mixers: Basic characteristics of mixers, single ended mixers, single balanced
+RECOMMENDED BOOK(S)
+• Text Books
+1 Ludwig, R. and Bretchko, P., “RF Circuit Design”, Pearson Education, 2000.
+2 Misra, D.K., “Radio-frequency and Microwave Communication Circuits”, John Wiley & Sons,
+2001.
+• Reference Books
+1. Fooks, E.H. and Zakarevicius, R.A., “Microwave Engineering Using Microstrip Circuits,” Prentice-
+Hall, 1990
+2. Franco di Paolo, “Networks and Devices using Planar Transmission Lines,” CRC Press, 2000.
+3. Pozar, D.M., “Microwave Engineering”, 3rd Ed., John Wiley & Sons, 2004.
+4. Roberto Sorrentino and Giovanni Bianchi, “Microwave and RF Engineering” John Wiley & Sons,
+2010.
+5. B. Bhat and S. K. Koul, Stripline Like Transmission Lines For Microwave Integrated
+Circuits New Age Intl. Pvt Ltd., 2007.
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+ECE357: Introduction to Robotics
+1. Sensing, Localization, Mapping, Planning, Control and Actuation.
+2. Localization via Kalman/Complimentary Filter, localization with noisy data
+3. Mapping via Grid based Mapper, 2D, 2.5D and 3D grid based mapping
+4. Planning Via Arc based, Grid based planner and heuristic search.
+5. Dynamics and control via PID controller, Joint space control, iterative control for speed and
+direction of movement
+6. Navigation using waypoint follower, navigation in absence of GPS
+7. Forward and Inverse Kinematics, Jacobian representation.
+8. Basics of Computer vision, spatial descriptions and pose transformations.
+9. Basics of Neural networks and robot learning mechanisms
+10. Common types of Actuators, motors, and sensors and their principles
+11. Navigation mechanisms, differential and skid steering in mobile robots and drones
+RECOMMENDED BOOK(S)
+• Text Books
+1. Introduction to Autonomous Mobile Robots, Book by Illah Reza Nourbakhsh and Roland
+Siegwart 2nd edition
+2. Introduction to Robotics: Mechanics and Control, John J. Craig, Addison-Wesley Publishing
+Company, 3rd Edition,
+• Reference Books
+1. Robot Modelling and Control, M. Spong, M. Vidyasagar, S. Hutchinson, Wiley & Sons, 2005.
+2. Robotics, Vision, and Control, Peter Corke, Springer, 2011.
+3. Introduction to Robotics, P. J. McKerrow, ISBN: 0201182408
+4. Modern Robotics: Mechanics, Planning, and Control, Kevin Lynch and Frank Park, Cambridge
+University Press, 2017. ISBN: 9781107156302.
+ECE360: IoT - Architecture, Communication Technology, and Applications
+1. Introduction: Introduction of IoT, Architectural Overview, Design principles and needed
+capabilities, IoT applications, Sensing, Actuation, Basics of networking, Wireless sensor
+networks, M2M and IoT technology, Fundamentals - Devices gateways, Data management,
+Business processes in IoT, Role of Cloud in IoT, Security aspects in IoT.
+2. Elements of IoT
+3. Hardware components- Computing (Arduino/Raspberry Pi), Communication, Sensing,
+Actuation, I/O interfaces.
+4. Communication Protocols ZigBee, Bluetooth, Wi-Fi-IEEE802.11a,n,ac,ax,ah,af,p, LPWAN-
+LoRa, Sigfox, NB-IoT, LTE-M
+5. Software Components- Programming API’s (using Python/Node.js/Arduino) for
+communication protocols- MQTT, COAP, UDP, TCP
+6. IoT Application Development: Solution framework for IoT applications:-> Implementation of
+device integration, Data acquisition and integration, Device data storage- Unstructured data
+storage on cloud/local server, Authentication, authorization of devices
+7. Cloud, edge, and fog computing architectures for IoT applications. The OpenFog reference
+architecture. Case studies from various domains (details TBD).
+8. IoT Case Studies: IoT case studies and mini projects based on Industrial automation,
+Transportation, Agriculture, Healthcare, Smart Home, Smart building, Smart City
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+ECE361: Power System Analysis
+1. Per unit system representation. Primitive network, single phase and of three phase.
+2. Ybus and Zbus; Building algorithm for the formation of Zbus with coupling.
+3. Power system load flow studies, necessity, data requirements, network flow equations both in
+Polar and rectangular co-ordinates, line flow and line losses; types of busses for load flow;
+numerical methods of load flow solution- Gauss, Gauss Seidel, Newton Raphson methods in
+polar and rectangular co-ordinates without and with PV buses; Decoupled, fast decoupled and
+DC load flows. Their comparisons.
+4. Short-circuit analysis of power system; introduction to symmetrical component transformation
+and obtaining sequence components Generator, Transformer and transmission line impedances;
+sequence impedance diagrams of network and flow of currents in transformers. Computer
+methods for the solution of balance and unbalance faults in three phase networks.
+5. Power System stability, definition, elementary ideas of steady state, dynamic stability. Surge
+impedance loading and problems of long transmission lines, series and shunt compensation.
+6. Power System transient stability, determination of swing curve, Transient stability using equal
+area criteria, its limitations, calculation of swing curve by point by point method for single and
+multi- machine case. Methods to improve transient stability.
+RECOMMENDED BOOK(S)
+1. D.P. Kothari, I. J. Nagrath, “Power System Engineering”, 2nd Edition, Sixteen reprint, 2013
+McGraw Hill Education
+2. T.N. Nagsarkar, M.S. Sukhija, “Power System Analysis”7th Impression,2012, Oxford Publication
+3. M.A. Pai, Dheeman Chatterjee, Third Edition , 5th Reprint, 2017, Mc Graw Hill Education.
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+ECE362: Digital Communication
+1. Communications Signal and Systems: Introduction to Digital Communication, Representations
+of Bandpass Signals and Systems, Inner Product Spaces and Subspaces, Orthonormal bases, Gram
+Schmidt orthogonalization procedure, Geometric representation of Signals, Signal Space
+Representation of M-ary Signal Sets.
+2. Review of Random processes and random variables: Random variables, Some useful
+probability distributions: Uniform, Exponential, Gaussian, Rayleigh, Transformation of Random
+variables, expectation, variance. White Gaussian noise process: autocorrelation function and
+power spectral density, LTI filtering.
+3. Baseband and Passband Digital Data communication: Baseband digital data transmission in
+white Gaussian noise: Matched filter and correlation. Passband digital data transmission in noise:
+Transmission and reception (correlation-based) model. Hierarchy of digital modulation
+techniques and their constellations: BPSK, QPSK, M-ary QAM, M-ary PSK, Minimum Shift Keying
+(MSK), Frequency Shift Keying (FSK). Coherent detection of signals: Probability of error and
+performance comparison. Non-coherent reception and their performance. Intersymbol
+interference (ISI) and Equalization.
+4. Carrier and Symbol Synchronization: Importance in signal demodulation, carrier frequency
+and phase estimation– decision directed and power of N methods, symbol timing estimation–
+spectral-line, MMSE, and ML methods. Joint carrier and symbol synchronization.
+5. Fundamental Limits of Communication systems: Channel capacity, Coding and Decoding,
+Source Coding, Information Measure, Introduction to Error control: Linear Block codes,
+Convolution Codes, Hamming, and Turbo codes.
+6. Advanced Communication Techniques: Multichannel communications, Spread spectrum
+communications, OFDM.
+RECOMMENDED BOOK(S)
+• Text Books
+1 John G Proakis and Salehi, Digital Communication, 5th Edition, McGraw-Hill, 2008.
+2 Simon Haykin, “Communication Systems”, 4th Edition, John Wiley & Sons, 2001.
+3 Rodger E. Ziemer and William H. Tranter, “Principles of Communication-Systems, Modulation and
+Noise”, 7th Edition, John Wiley & Sons, 2015.
+4 B. P. Lathi, “Modern Digital and Analog Communication Systems”, 3rd Edition, Oxford University
+Press, 1998.
+• Reference Books
+1. John M. Wozencraft and Irwin Mark Jacobs, “Principles of Communication Engineering,” Wiley,
+1965.
+2. John R. Barry, Edward A. Lee, David G. Messerschmitt, Digital Communications, Springer, 3rd
+Edition, 2004.
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+ECE363: Computer Communication Networks
+Introduction, OSI Layers: the physical layer, the data link layer, the network layer, the transport layer, the
+session layer, the presentation layer, the application layer. The TCP/IP Architecture: Internet, IPV4, IPV6,
+Ethernet. WiFi, Cellular Networks: 3G, 4G, 5G, Control of Networks, Mathematical models and
+Performance analysis of Networks
+RECOMMENDED BOOK(S)
+1. Computer Networking – A Top-Down Approach by James F. Kurose and Ross, 8th Edition, 2020.
+2. High-performance Communication Networks by Jean Walrand and Pravin Varaiya, The Morgan
+Kaufmann series in networking, 2nd Edition, New Delhi: Elsevier, c2000.
+ECE365: Object Oriented Programming
+For the C++ variant:
+1. Object oriented analysis and design: Encapsulation, inheritance, polymorphism, operator
+overloading
+2. Preprocessor: Namespaces, macros, conditional compilation, name mangling and
+interoperability with C
+3. Functions and variables: Data types, local versus global variables, pointers and references, non-
+member functions, passing arguments by value versus reference, function overloading, default
+arguments, inline functions
+4. Structures: Structures, pointers to structures, poor man’s encapsulation using opaque structures
+5. Classes: Encapsulation, member functions, constructors and destructors, initializers, default
+constructor, static class members, nested classes, local classes
+6. Inheritance: Is-A relation between base and derived classes, access control and
+public/protected/private inheritance, multiple inheritance
+7. Streams: File/display/keyboard input/output
+8. Operator overloading: Syntactic sugar versus real use
+9. Error handling: Throwing, catching and propagating exceptions
+10. Templates and Generic programming: Templates, template parameters
+11. The Standard Template Library (STL): Vectors, sets, maps, etc
+12. Program structure: Introduction to the programming environment, header files, source files,
+compilation
+13. Debugging: Breakpoints, stepping through, watch variables, trace variables, stack trace
+14. Miscellaneous: Choosing a suitable development environment, coding standards, etc
+For the Python variant:
+1. Getting started
+2. Object types: Python's core data types like numbers, strings, lists, tuple, dictionary
+3. Statements and Syntax: Statements; assignments, expressions, and print; conditional
+statements; loops; iterations and comprehensions; the documentation interlude
+4. Functions and Generators: Basic functions, scopes, arguments, advanced function topics,
+comprehensions & Generations, the benchmarking interlude
+5. Modules and Packages: The big picture, module coding basics, module packages, advanced
+module topics
+6. Classes and OOP: The big picture, class coding basics, class coding details, operator overloading,
+designing with classes, advanced class topics
+RECOMMENDED BOOK(S)
+1. C++ Primer, Stanley Lippman, Josée Lajoie and Barbara Moo; Addison-Wesley, 5th edition
+2. Online: https://www.cplusplus.com/
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+ECE366: Antenna Theory and Wave Propagation
+1. Fundamental Concepts: Concept of Radiation (physical meaning), Potential functions &
+Electromagnetic field, Network Theorems, Radiation Pattern, near-field and far-field regions, basic
+parameters of antenna (directivity, gain, effective aperture, polarization, input impedance, and
+efficiency), Friis transmission equation, Methods of Excitation.
+2. Radiation from Wires, Loops, Aperture and Microstrip Antennas: Infinitesimal dipole, finite-
+length dipole, dipoles for mobile communication, small circular loop. Huygens’ principle, radiation
+from rectangular and circular apertures, design considerations, Babinet’s principle, Radiation from
+sectoral and pyramidal horns, design concepts, Basic characteristics of microstrip antennas, feeding
+methods, methods of analysis, design of rectangular and circular patch antennas.
+3. Antenna Arrays: N element linear array, Broadside and End fire array, pattern multiplication,
+Phased array, Adaptive array, Antenna synthesis- Binomial array.
+4. Special Antennas: Log-periodic antennas, Spiral Antennas, Helical Antennas, Modern Antenna:
+Reconfigurable Antenna, Dielectric Resonator Antennas, Active Antennas, Electronic band Gap
+Structure, Terahertz Antennas.
+5. Radio Wave Propagation: Modes of propagation, Structure of atmosphere, ground wave
+propagation, Tropospheric wave propagation, Duct propagation, Tropo-scatter propagation, Flat
+and curved earth concepts, Sky wave propagation, Virtual height, Critical frequency, Maximum
+usable frequency, Skip distance, Fading, Multi-hop propagation.
+RECOMMENDED BOOK(S)
+• Text Books
+1. Constantine A Balanis, “Antenna theory: Analysis and Design” John Wiley & sons, 2015.
+2. Raju, G. S. N. “Antennas and wave propagation”, Pearson Education India, 2006.
+• Reference Books
+1. Kraus, John D., Ronald J. Marhefka, and Ahmad S. Khan. “Antennas and wave propagation”, Tata
+McGraw-Hill Education, 2006.
+2. Edward C Jordan and Keith G Balmain, “Electromagnetic waves and radiating systems” Pearson
+Education; Second edition, 2015.
+ECE367: Digital Design with FPGAs
+Familiarisation with Xilinx Vivado Suite: i) Installation guide and settings for Xilinx Vivado Suite,
+ii) Description of various tool boxes available with Xilinx Vivado Suite.
+Verilog Concepts: i) Review of various design styles in Verilog, ii) Combinational and sequential
+logic iii) Finite state machine
+FPGA Architecture: i) Introduction to various programmable links: PLA, PAL, SPLD, CPLD, FPGA
+ii) Various FPGA Technologies iii) Generic architecture of FPGA iv) Familiarization of Nexus-4 FPGA
+board
+i) Introduction to Static Timing Analysis: STA Basics: What is STA, Purpose of STA, How
+does STA fit into the Design Flow, What are Timing Libraries, Elements of Static Timing,
+Introduction to Timing Arcs, Timing Arc Characteristic (Unateness, Slew & Delay).
+ii) Understanding Cell and Net Delays: Terminology for Cell and Net Delay, Different kind of
+Cell Delay, Cell Library Model, and Wire Load Model.
+iii) Understanding Clocks: Ideal Clock, Duty Cycle, Clock Skew, Clock Propagation, Clock
+uncertainty, Latency, and Understanding of Launch and Capture Clock.
+iv) Timing Paths & Timing Checks: Understanding Timing Paths: Start point, End Point, Timing
+Paths Types, Slack, Setup and Hold Time, Setup and Hold Violation, Recovery and Removal,
+Min Clock period, Path Exceptions: Multi-Cycle paths and false paths.
+v) Xilinx Design Constraints (XDC): Design Constraints, Syntax, and Design Objects: Chip, Cell,
+Block, Pin, Port, Clock, Environmental Constraints, Design Rules, Timing Constraints,
+Exceptions.
+Power Report and IP integration
+Design Applications: i) General Design Issues, and ii) Implementation of Memory and FIFO iii)
+Design for Wireless Communication Systems.
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+RECOMMENDED BOOK(S)
+1. Wayne and Wolf, “FPGA based system Design”, 11th edition, Pearson Publishing Private Limited.
+2. Samir Palnitkar, “Verilog HDL A guide to Digital Design and Synthesis”, SunSoft Press.
+3. Clive Maxfield, "The Design Warrior’s Guide to FPGA”, Elsevier Publishing.
+4. Andrew Moore and Ron Wilson, "FPGA for dummies”, 2nd special edition by INTEL, Wiley Publishing.
+ECE451: Design of CMOS Analog Circuits
+1. CMOS Fundamentals: MOSFET physics, concept of threshold voltage, body-effect, DC models, small-signal
+models, MOSFET frequency response
+2. Single-transistor non-differential stages: Common-source stage (with and without source degeneration),
+common-drain stage, common-gate stage
+3. Multi-transistor non-differential stages: Cascode stage, active cascode, super source follower
+4. Differential pairs: Basic differential pair, DC analysis, small signal analysis, common-mode and differential
+mode analysis, key metrics like CMRR/PSRR/Z in /Z out ,/V OS , effect of mismatch on key metrics
+5. Current mirrors: Simple current mirror, cascode current mirror, high-swing cascode current mirrors, Wilson
+current mirror
+6. Active loads: Complementary load, depletion load, diode-connected load, usage in a differential- pair
+7. Current sources: Widlar current source, Peaking current source, threshold-voltage-referenced current source,
+concept of sensitivity, supply-sensitivity of current sources, self-biasing and start- up circuits
+8. Bandgap voltage references: Motivation, temperature sensitivity, general principle, MOS implementation
+9. Case study of a 2-stage single-ended MOS Operational Amplifier: Schematic, discussion of metrics like
+input offset voltage, input bias current, input offset current, common-mode input range, CMRR, PSRR,
+frequency response and slew rate, and the desired design space parameters
+10. Feedback: Benefits of feedback, canonical treatment of feedback, various feedback styles and their effect on
+key metrics, modelling the loading by feedback networks
+11. Frequency response theory: Poles and zeros, Miller effect and its application to a common- source stage,
+OCTC and SCTC methods for calculating the dominant and most non-dominant pole, application of the OCTC
+method to a 2-transistor circuit
+12. Frequency response of feedback amplifiers, stability and compensation: Bode plots, Nyquist
+criterion for stability, Phase margin, frequency compensation by narrowbanding, adding a pole versus moving
+a pole, pole-splitting and Miller multiplication, slew rate
+RECOMMENDED BOOK(S)
+1 Analysis and Design of Analog Integrated Circuits, Paul R. Gray, Paul J. Hurst, Stephen H. Lewis and Robert G.
+Meyer; John Wiley & Sons, 5th edition
+2 Design of Analog CMOS Integrated Circuits, Behzad Razavi; McGraw Hill Education, 2nd edition
+ECE368: Special Topics in Microwave Engineering
+Advanced concepts in electromagnetics: uniqueness theorem, volume/surface equivalence theorems.
+Introduction to integral equations methods (IEM) by using the Huygen’s principle and the extinction
+theorem. Introduction to Green’s functions in one and two dimensions, Solving surface integral
+equations using the method of moments, how to deal with singularities, and use of quadrature rules,
+Solving volume integral equations using the Method of moments, Introduction to the Finite Element
+Method (FEM), basis functions in 1 and 2 dimensions , FEM formulations in 1 and 2 dimensions,
+Introduction to Finite Difference Time Domain methods (FDTD): Yee cells, update equations, stability,
+FDTD - Accuracy Analysis, Dispersion, Material specifications and Dispersive media , FDTD - Boundary
+conditions and their implementation, Applications of computational electromagnetics (CEM): Antenna
+problems, Applications of CEM: Phased array and Wireless System problems, Applications of CEM:
+Inverse Scattering problems
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+ECE452: Power System Operation and Control
+1. Economic Operation of Power System: Fundamental of power flow solutions, Power factor
+correction, Distribution of load between units within a plant, Distribution of load between plants,
+The transmission-loss equation, An interpretation of transformation C, Classical economic dispatch
+with losses, Automatic generation control, Unit commitment, Solving the unit commitment
+problems.
+2. Load Frequency Control and Control Area Concept: Automatic load-frequency control of single
+area systems: Speed-governing system, Hydraulic valve actuator, Turbine-generator response,
+Static performance of speed governor, Closing the ALFC loop, Concept of control area, ALFC of
+multi-control area systems (Pool operation): The two area systems, Modelling the Tie-Line, Block
+diagram representation of two area system, Dynamic response of two area system, Supervisory
+control and data acquisition (SCADA).
+3. Power System Stability Problems: Basic concepts and definitions, Rotor angle stability,
+Synchronous machine characteristics, Power versus angle relationship, Stability phenomena,
+Voltage stability and voltage collapse, Mid-term and long-term stability, Classification of stability.
+4. Small Signal Stability: State space concepts, Basic linearization technique, Participation factors,
+Eigen properties of state matrix, Small signal stability of a single machine infinite bus system,
+Studies of parametric effect: Effect of loading, Effect of KA, Effect of type of load, Stability
+improvement by power system stabilizers. Design of power system stabilizers.
+5. Transient Stability: Time domain simulations and direct stability analysis techniques (extended
+equal area criterion) Energy function methods: Physical and mathematical aspects of the problem,
+Lyapunov’s method, Modelling issues, Energy function formulation, Potential Energy Boundary
+Surface (PEBS): Energy function of a single machine infinite bus system, equal area criterion and
+the energy function, Multi-machine PEBS.
+6. Sub Synchronous Oscillations: Turbine generator torsional characteristics, Shaft system model,
+Torsional natural frequencies and mode shapes, Torsional interaction with power system controls:
+interaction with generator excitation controls, interaction with speed governors, interaction with
+nearby DC converters, Sub Synchronous Resonance (SSR): Characteristics of series capacitor -
+compensated transmission systems, Self – excitation due to induction generator effect, Torsional
+interaction resulting in SSR, Analytical methods, Counter measures to SSR problems.
+RECOMMENDED BOOK(S)
+1. John. J. Grainger & W. D. Stevenson, “Power System Analysis”, Mc Graw Hill Education, Fifteenth
+Reprint, 2003.
+2. O. I. Elgerd, “An Introduction to Electric Energy System Theory”, Mc Graw Hill Education, Second
+Edition, 2013.
+3. Prabha Kundur, “Power System Stability and Control”, Mc Graw Hill Education, Edition, Twentieth
+Reprint, 2016.
+ECE453: Foundations of Deep Learning
+1. Review of Machine Learning Concepts required for the Course.
+2. What is Deep Learning? Major architectures of deep neural networks. Applications in Computer
+Vision, Speech, and Natural Language Processing.
+3. Training of Deep Learning Networks.
+4. Convolutional Neural Networks (CNN) architecture and design, Backpropagation in convolutional
+layer, Transfer Learning, Building a CNN Model for CIFAR-10 Data.
+5. Autoencoders, Convolutional Autoencoder (CAE) architecture and design. Unsupervised learning
+using CAE.
+6. Sequence Analysis using Recurrent Neural Networks (RNN), LSTM based Recurrent Networks.
+Challenges in training Recurrent Networks and the Solutions, Back-Propagation Through Time
+(BPTT).
+7. Word Embedding Models for Vector-space Representation of Words: Word2Vec Models. Sequence
+Analysis to examine Speech and Language. Building a Recurrent LSTM Model for Sentiment
+Analysis using Twitter Dataset.
+8. Understanding the Fundamentals of Deep Reinforcement Learning.
+RECOMMENDED BOOK(S)
+1. M. Gopal, “Deep Learning: Core Concepts, Methods and Applications”, McGraw-Hill, 2022.
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+2. I. Goodfellow, Y. Bengio and A. Courville, “Deep Learning”, The MIT Press, 2016.
+3. R. S. Sutton and A. G. Barto, “Reinforcement Learning: An Introduction”, 2nd Edition, The MIT Press,
+2018.
+ECE454: Optical Fiber Communication
+Module 1: Optical Fibers
+Overview optical communication, other forms of communication systems, Basic elements of optical fiber
+links, Introduction to vector nature of light, Propagation of light, Ray model and wave model. Optical
+fiber: Types, Structure and wave guiding fundamentals, Optical fiber modes and analysis, Step and
+Graded Index Fibers.
+Module 2: Losses in Optical Fibers
+Signal degradation in Optical fiber due to dispersion and attenuation.
+Module 3: Optical sources and detectors
+Optical Sources: Basic light emission mechanism in semiconductors, LED and LASERs, Optical Detectors:
+Basic light absorption concepts in semiconductors, photodiodes, p-i-n detectors, detector responsivity,
+noise, Optical Receivers.
+Module 4:
+Optical Power Launching and Coupling: Lensing Scheme for coupling improvement, Fiber-to-Fiber
+Joints, Splicing Techniques, Optical fiber connectors. Design Considerations of Optical fiber Systems:
+Noise in detection process. Bit error rate. Optical receiver operation. Power Budget and Rise time
+Budget. WDM.
+Module 5: Advanced topics in Optical Communication
+Basics of Optical amplifiers, Optical amplifiers and soliton-based Communication, nonlinear effects in
+optical fiber links.
+RECOMMENDED BOOK(S)
+• Textbooks
+1. G. Keiser, Optical Fiber Communications, TMH.
+2. Ghatak & K. Thygarajan, Introduction to Fiber Optics, Cambridge.
+• Reference Books
+1. J. Gowar, Optical Communication Systems, PHI.
+2. J.M. Senior, Optical Fibre Communications: Principles & Practice, PHI
+ECE456: High Voltage Engineering
+1. Electric breakdown phenomenon in gases, liquid, and solid insulation materials, generation of high
+A.C. and D.C. voltages, generation of impulse voltages and currents, measurement of high voltages
+and currents, high voltage testing of electrical apparatuses, transients in power systems (lightning
+and switching induced transients), insulation coordination.
+2. Numerical computation of the electric field intensity in homogenous and multi-dielectric isotropic
+materials by using finite element method (FEM).
+3. Extra-high voltage (EHV) and ultra-high voltage (UHV) transmission systems, mitigation of audible
+noise, radio interference, corona loss, and high voltage gradients.
+RECOMMENDED BOOK(S)
+1. E. Kuffel, W. S. Zaengl, and J. Kuffel, High Voltage Engineering Fundamentals. Butterworth-
+Heinemann, Oxford, 2000.
+2. M. S. Naidu and V. Kamaraju, High Voltage Engineering. TMH Publications, 2000.
+3. R. K. Begumudre, Extra High Voltage AC Transmission Engineering. New Age Science Ltd., 2011.
+4. C. L. Wadhwa, High Voltage Engineering. New Age International Publishers, New Delhi, Second
+Edition, 2007
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+ECE457: Information Theory and Coding
+Preliminaries
+• Axiomatic development of Shannon’s entropy and its relevance
+• Relative Entropy, fundamental inequality , mutual information
+• Jensen’s inequality and other information theoretic inequalities
+• Entropy rate, Asymptotic Equipartition Property (AEP), Typical Sequences
+• Shannon- McMillan - Breiman Theorem.
+Source coding (data compression)
+• Block to variable length codes, prefix property, Kraft inequality
+• Noiseless coding theorem,
+• Shannon code, Huffman code and its optimality as a prefix code
+• Universal Compression algorithms-
+• Lempel - Ziv class universal codes – incremental parsing based LZ 78 and Sliding Window
+• Lempel - Ziv (LZ 77) code
+• Source coding with distortion (lossy compression),
+• Differential entropy, properties and contrast with entropy
+• Rate Distortion theorem and its converse
+Channel coding: capacity results for discrete memoryless channel, Gaussian channel
+• Joint Typicality
+• Shannon’s Channel Coding Theorem and its weak and strong converse
+• Error Correcting codes-
+• Parity check codes, cyclic codes
+• Channel Coding theorem for parity check codes
+• Low density parity check code
+• Polar codes (proposed for 5G)
+RECOMMENDED BOOK(S)
+Textbooks:
+1. Thomas M. Cover and Joy A. Thomas, Elements of Information Theory, John Wiley & Sons, 2006.
+2. Robert Ash, Information Theory, Reprint by Dover Publications, original 1965 by Wiley Inter
+science.
+ECE458: Radar Communications
+Radar and Radar Equation: Introduction, Radar block diagram and operation, frequencies, applications,
+types of displays, derivation of radar equation, minimum detectable signal, probability of false alarm and
+threshold detection, radar cross-section, system losses, propagation characteristics over land and sea.
+CW Radar – Doppler Effect, CW Radar, applications, FM – CW radar, altimeter, Multiple Frequency
+Radar. Pulse Radar – MTI, Delay Line Canceller, Multiple Frequencies, Range-gated Doppler Filters, Non-
+coherent MTI, Pulse Doppler Radar,
+Tracking Radar- Sequential lobing, conical scanning, monopulse, phase comparison monopulse, tracking
+in range, comparison of trackers.
+Detection & Estimation – Introduction, Matched Filter, Detection Criteria, Detector characteristics.
+Electronic countermeasure.
+Phased Arrays – Basic concepts, feeds, phase shifters, frequency scan arrays, multiple beams,
+applications, advantages and limitations. Navigational Aids: Direction Finder, VOR, ILS and Loran
+RECOMMENDED BOOK(S)
+1. M. I. Skolnik, Introduction Radar Systems, 2nd Edn, McGraw Hill Book Co.,1981
+2. F. E. Terman, Radio Engineering, McGraw Hill Book Co. (For Chapter 7 Only), 4th Edn. 1955
+3. Simon Kingsley and Shaun Quegan, Understanding Radar Systems, McGraw Hill Book Co., 1993.
+4. Nathanson, F E, “Radar Design Principles” Scitech Publishing.
+5. Hovanessian, S.A., "Radar System Design and Analysis", Artech House
+6. D.K.Barton, Modern Radar Systems Analysis, Artech House, 1988.
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+ECE459: Computational Electromagnetics
+1. Fundamental Concepts: Review of EM theory, Electrostatic Fields, Magnetostatic Fields, Time
+varying Fields, Boundary conditions, Wave Equations, Vector Potentials, Network Theorems,
+Classical Differential Equations, Classical Boundary Conditions
+2. Analytical Methods: Separation of Variables, Separation of variables in rectangular coordinate and
+related examples, Separation of variables in cylindrical coordinate and related examples,
+Separation of variables in spherical coordinate and related examples,
+3. Finite Difference Method: Basics of Finite Difference Method, Finite-Difference-Time-Domain
+Method, Stability and Accuracy, Practical application examples, Absorbing boundary Conditions,
+4. Finite Element Method: Introduction, Solution of Laplace’s Equation, Solution of Poisson’s
+Equation
+RECOMMENDED BOOK(S)
+• Computation Electromagnetics with MATLAB by Matthew N. O. Sadiku, fourth edition,
+CRC press
+• The Finite Difference Time Domain Method for Electromagnetics by Karl S Kunz, CRC
+Press.
+• Theory and Computation of Electromagnetic fields by Jian-Ming Jin, John Wiley & Sons
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+ECE460: Power System Protection and Switchgear
+1. Introduction of Protection Schemes: Principles of power system protection, Faults and abnormal
+operating conditions, classification of shunt faults, protection system attributes, system transducers,
+introduction of current transformer and potential transformer.
+2. Over-current Protection of Transmission Lines: Over-current relay and its types viz.
+Instantaneous over-current relay, definite time over-current relay, inverse time over- current relay,
+inverse definite minimum time over-current relay, very inverse and extremely inverse over-current
+relays, directional over-current relay and their applications.
+3. Distance Protection of Transmission Lines: Impedance relay, reactance relay, mho relay, effect of
+arc resistance on the reach of distance relays, distance protection of three phase transmission lines,
+three-stepped distance protection scheme, carrier-aided protection scheme of transmission lines.
+4. Differential Protection: Simple differential protection scheme, behaviour during internal and
+external faults, zone of protection of the differential relay, through fault stability, percentage
+differential relay, earth leakage protection, transformer protection, percentage differential relay with
+harmonic restraint, Buchholz relay, generator protection, protection under loss of excitation, induction
+motor protection, single phasing, phase faults, ground faults.
+5. Circuit Breakers: Isolators and circuit breakers, arc generation phenomenon, arc interruption
+theories, restriking and recovery voltages, rate of rise of recovery voltage, current chopping
+phenomenon, rating of circuit breaker, types of circuit breakers viz. air blast circuit breaker, vacuum
+circuit breakers, oil circuit breakers, SF6 circuit breaker, MCB, ELCB/RCCB.
+RECOMMENDED BOOK(S)
+• Textbooks
+1. Fundamentals of Power System Protection by Y. G. Paithankar and S. R. Bhide, 2nd Edition, PHI
+Learning.
+2. Switchgear, Protection and Power Systems by S. R. Rao, Khanna Publishers.
+3. Electrical Power Systems by C. L. Wadhwa, 3rd Edition, New Age International Ltd.
+4. Modern Power System Analysis by D. P. Kothari and I. J. Nagrath, Tata McGraw Hill.
+ECE461: HVDC Transmission
+1. Introduction to Line Commutated HVDC: HVDC applications, Comparison of AC and DC
+Transmission, Line-commutated HVDC components, LCC HVDC Topologies.
+2. Thyristor Converters: Three-phase uncontrolled bridge, three-phase Thyristor rectifier, Analysis
+of commutation overlap in Thyristor converter, Active and reactive power in a three phase
+Thyristor converter, Inverter operation, Analysis of 12-Pulse converter.
+3. Analysis of HVDC Converter: Equivalent circuit of rectifier bridge, Equivalent circuit of Inverter
+bridge, HVDC equivalent circuit.
+4. Converter Control Characteristics: HVDC V-I operating diagram, HVDC power reversal, Constant
+extinction angle (CEA) control, Constant current (CC) control, modification of inverter
+characteristics.
+5. HVDC Interaction with AC systems: Influence of converter extinction angle, Influence of reactive
+power compensation, power transfer between two AC systems, Systems dynamics with low short
+circuit ratio.
+6. Fault Management and HVDC System Protection: DC line faults, overvoltage protection, AC line
+faults.
+7. HVDC System Harmonics: Thyristor converter harmonics, Harmonic filters.
+8. HVDC with Voltage Source Converters: Voltage source converter (VSC) HVDC applications and
+topologies, performance and cost comparison with LCC HVDC, Introduction to multilevel VSC
+converters.
+9. Cables for HVDC Transmission: Underground and undersea cable transmission, different HVDC
+cable types, HVDC cable insulation.
+RECOMMENDED BOOK(S)
+1. K. R. Padiyar, HVDC Power Transmission Systems. New Age International Publishers, New Delhi,
+Second Edition, 2012.
+2. T. Gonen, Electric Power Transmission System Engineering: Analysis and Design. CRC Press, Taylor
+and Francis Group, New York, 2009.
+3. D. Jovcic and K. Ahmed, High Voltage Direct Current Transmission: Converters, Systems and DC Grid.
+John Wiley Publishers, 2015.
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+ECE369: Information Theory
+• Axiomatic development of Shannon’s entropy and its relevance,
+• Relative Entropy, fundamental inequality, mutual information
+• Jensen’s inequality and other information theoretic inequalities,
+• Entropy rate, Asymptotic Equipartition Property (AEP), Typical Sequences,
+• Shannon- McMillan - Breiman Theorem.
+• Data Compression: Block to variable length codes, prefix property, Kraft inequality,
+noiseless coding theorem,
+• Shannon code, Huffman code and its optimality as a prefix code,
+• Variable to fixed length codes, Tunstall code and its asymptotic optimality
+• Variable to variable length codes,
+• Universal Compression algorithms
+• Lempel - Ziv class of codes - LZ 78 and its optimality,
+• Sliding Window Lempel - Ziv (LZ 77) code
+• Application of LZ codes to hypothesis testing and change detection
+• source coding with distortion,
+• Differential entropy, properties and contrast with entropy, applications
+• Rate Distortion Theory, Rate Distortion theorem and its converse,
+• Channel capacity- Discrete Memoryless Channel, Gaussian channel, Joint Typicality,
+• Shannon’s Channel Coding Theorem and its converse Review of point-to point digital
+communication over LTI channel
+• Wireless channel models
+• Capacity of wireless channel
+• Performance of digital modulation schemes over wireless channel
+• Multi-antenna beam forming and diversity
+• Multi-input multi-output (MIMO) Communication system principles
+• Mutiple Access Schemes: OFDMA, CDMA
+• Introduction to Multi-user systems
+• Emerging technologies: 4G, 5G
+RECOMMENDED BOOK(S)
+• Textbooks
+1. Robert Ash, "Information Theory", Reprint by Dover Publications, original 1965 by Wiley Inter
+science.
+2. Thomas M. Cover and Joy A. Thomas, "Elements of Information Theory", John Wiley & Sons, 2006.
+ECE370: Wireless Communications
+• Review of point-to point digital communication over LTI channel
+• Wireless channel models
+• Capacity of wireless channel
+• Performance of digital modulation schemes over wireless channel
+• Multi-antenna beam forming and diversity
+• Multi-input multi-output (MIMO) Communication system principles
+• Mutiple Access Schemes: OFDMA, CDMA
+• Introduction to Multi-user systems
+• Emerging technologies: 4G, 5G
+RECOMMENDED BOOK(S)
+• Textbooks
+1. Wireless Communications by Andrea Goldsmith.
+• Reference Books:
+1. Fundamentals of Wireless Communications by David Tse and Pramod Viswanath (2005)
+Cambridge University Press.
+2. Principles of Mobile Communication by Gorden L. Stuber (2017) Springer.
+3. Wireless Communications by Andreas F. Molisch (2011) Wiley.
+4. Principles of Modern Wireless Communication Systems: Theory and Practice by Aditya
+Jagannatham (2016) McGraw-Hill Education.
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+ECE371: Detection and Estimation
+1.Introduction
+2. Hypothesis Testing
+3. Binary Hypothesis Testing
+4. Multiple Hypothesis Testing
+5. Composite Hypothesis Testing
+6. Signal Detection
+7. Convex Statistical Distances
+8. Performance Bounds for Hypothesis Testing
+9. Large Deviations and Error Exponents for Hypothesis Testing
+10. Sequential and Quickest Change Detection
+11. Detection of Random Processes
+12. Bayesian Parameter Estimation
+13. Minimum Variance Unbiased Estimation
+14. Information Inequality and Cramér–Rao Lower Bound
+15. Maximum Likelihood Estimation
+16. Signal Estimation
+RECOMMENDED TEXT BOOK(S)
+• Textbooks:
+1. Statistical Inference For Engineers And Data Scientists by P. Moulin and V. Veeravalli,
+Cambridge University Press (2019).
+2. Principles of Signal Detection and Parameter Estimation by B. C. Levy, Springer (2008).
+3. Fundamentals of Statistical Signal Processing, Volume I: Estimation by S. M. Kay, Prentice
+Hall (1993).
+4. Fundamentals of Statistical Signal Processing, Volume II: Detection by S. M. Kay, Prentice
+Hall (1993).
+5. An Introduction to Signal Detection and Estimation by H. V. Poor, Springer (1998).
+6. Detection, Estimation, and Modulation Theory: Part 1 by H. L. Van Trees, John Wiley and
+Sons (2004).
+ECE372: Modern Control Systems
+1. State Space Analysis and Design in Continuous Time: Controllability and observability, State
+feedback and state estimator design, Pole placement and observer design, Full-state feedback
+control.
+2. Introduction to Digital Control and Discrete-Time Systems and Difference Equations:
+Basics of digital control systems, Advantages and disadvantages of digital control, Sampled-data
+systems and discretization of continuous-time systems, Discrete-time signals and sequences, Z-
+transform and its properties, Transfer functions in the Z-domain.
+3. Digital Controllers and State-Space Analysis in Discrete-Time: Design of digital controllers
+using difference equations, PID controllers in the discrete-time domain, Discrete-time system
+modeling using state-space representation, Controllability and observability in discrete-time,
+State feedback and state estimator design.
+4. Lyapunov Stability Analysis: Introduction to Lyapunov's Direct Method, Lyapunov stability
+definitions: asymptotic stability, stability in the sense of Lyapunov, and exponential stability,
+Lyapunov functions and their role in stability analysis.
+5. Kalman Filter: Overview of Kalman filtering and its significance, The classical linear Kalman
+filter for linear systems, Application of the Kalman filter to estimate the state of linear dynamic
+systems.
+RECOMMENDED TEXT BOOK(S)
+• Textbooks:
+1. K. Ogata, Modern Control Engineering. Prentice Hall India Learning Private Limited, 5th edition,
+2015.
+2. K. Ogata, Discrete-Time Control Systems. Prentice Hall India Learning Private Limited, 2nd
+edition, 2005.
+• Reference Books:
+1. Dorf and Bishop, Modern Control Systems. Pearson, 13th Edition, 2016.
+2. Karl J. Åstrӧm and Bjӧrn Wittenmark, Computer Controlled Systems: Theory and Design. Dover
+Publication, 3rd edition, 2012.
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+3. Panos J. Antsaklis and Anthony N. Michel, A Linear Systems Primer. Birkhäuser, 2007th Edition,
+2007
+4. Franklin, Powell and Emami-Naeini, Feedback Control of Dynamic Systems. Pearson, 8th Edition,
+2018.
+5. Franklin G. F., Powell J. D., Workman M., Digital Control of Dynamic Systems. Addison-Wesley,
+3rd Edition, 1997.
+ECE373: Wireless Network Security
+1. Security in cellular Devices: Security in GSM, LTE, and 5G networks, Security issues in
+mobile devices and femtocells.
+2. Security in WLAN, WMAN, WiMax: Security goals, Security issues, Threat Types,
+Countermeasures
+3. Security in Ad hoc vehicular Networks: Architecture, Communication Protocols, Privacy and
+Secure Positioning
+4. Security in wireless sensor networks: secure key managements, secure routing protocols,
+location privacy protections, secure data aggregation, security architecture, cryptographic
+approaches, resilience on key management, trust management.
+5. Security in wireless mesh networks: Vulnerabilities, defence mechanisms, security
+standards and products
+6. Security in RFID Networks: Security requirements, Hardware based solutions, protocol-
+based solutions, security in commercial RFID devices.
+7. Introduction to Cryptography: Introduction to cryptography, Cryptographic Techniques:
+Plain Text and Cipher Text, Substitution Techniques, Transposition Techniques, Encryption
+and Decryption, Symmetric and Asymmetric Key Cryptography, Steganography, Key Range
+and Key Size, Possible Types of Attacks, Algorithms for encryption and decryption.
+8. Physical Layer Security: Need pf Physical layer security, Physical-layer threats, jamming
+techniques, eavesdropping, performance evaluation with and without CSI.
+RECOMMENDED TEXT BOOK(S)
+• Text Books:
+1. Lei Chen, Jiahuang Ji, Zihong Zhang (auth.) - Wireless Network Security Theories and
+Applications-Springer Berlin Heidelberg (2013).
+2. Panos C. Lekkas, Randall K. Nichols - Wireless security models, threats, and solutions- McGraw-
+Hill Professional (2001).
+3. Yulong Zou, Jia Zhu (Auth.) - Physical-Layer Security for Cooperative Relay Networks - Springer
+International Publishing (2016).
+• Reference Books:
+1. Wolfgang Osterhage - Wireless Network Security_ Second Edition-CRC Press (2018).
+2. Matthieu Bloch, João Barros - Physical-Layer Security From Information Theory to Security
+Engineering-Cambridge University Press (2011).
+3. Yang Xiao, Xuemin (Sherman) Shen, Ding-Zhu Du - Wireless Network Security- Springer (2007).
+ECE374: Reconfigurable Computing
+1. Introduction to reconfigurable computing: General Purpose Computing, Domain Specific
+Computing, Application Specific Computing, Reconfigurable Computing, Fields of application.
+2. Reconfigurable Architectures: Simple Programmable Logic Devices, Complex Programmable
+Logic Device, Field Programmable Gate Arrays, Fine-Grained and Coarse- Grained
+Reconfigurable architectures.
+3. Implementation and Programming Reconfigurable Systems: Integration, FPGA Design Flow,
+Logic Synthesis, Static reconfigurable systems, Run Time Reconfiguration.
+4. High-Level Synthesis and Mapping: Modelling, Temporal Partitioning Algorithms, Mapping to
+DEPARTMENT
+OF
+ELECTRICAL ENGINEERING
+LUTs of Different Input Sizes, Mapping to Complex Logic Blocks, Mapping Logic to Embedded
+Memory Blocks, Mapping to Macrocells.
+5. Temporal Placement: Offline Temporal Placement, Online Temporal Placement, Managing the
+Device’s Free Space with Empty Rectangles, Clustering, Partition-based Placement.
+6. On-line communication: Direct Communication, Communication Over Third Party, Bus-based
+communication, Network on Chip, The Dynamic Network on Chip.
+7. Reconfiguration Management and Partial reconfiguration design: Configuration Architectures-
+Single-context, Multi-context, Partially Reconfigurable, Relocation and Defragmentation,
+Pipeline reconfigurable, Block Reconfigurable, Partial Reconfiguration on Virtex Devices,
+Creating Partially Reconfigurable Designs.
+RECOMMENDED TEXT BOOK(S)
+• Text Books:
+1 Christophe Bobda- Introduction to Reconfigurable Computing:
+Architectures, A lgorithms and Applications, Springer Dordrecht, 2007.
+2 Scott Hauck, André DeHon, Reconfigurable Computing - The Theory and Practice of
+FPGA Based Computation, The Morgan Kaufmann Series in Systems on Silicon, 2008.
+• Reference Books
+1. R Vaidyanathan, Trahan Jerry, Dynamic Reconfiguration: Architectures and
+Algorithms, L Kluwer Academic, 2003.
+ECE375: Quantum Computing
+1. Quantum Axioms
+2. Quantum Gates
+3. Quantum Algorithms: Deutsch-Jozsa Algorithm, Quantum phase estimation, QFT, Shor’s
+factorization of numbers, Grover’s algorithm, HHL Quantum Algorithm.
+4. Computability, complexity theory.
+5. Quantum Error Correction Codes: CSS, Stabilizer codes
+6. Quantum Cryptography: QKD
+7. General Quantum Axioms, Entanglement
+8. Quantum State Detection.
+9. Quantum Machine Learning
+10. Programming based on Qiskit
+RECOMMENDED TEXT BOOK(S)
+• Text Books:
+1. Kaye, Laflamme, Mosca, Introduction to Quantum Computing, Oxford 2007.
+2. Rieffel and Polak, Quantum Computing, MIT Press, 2011.
+3. Nielsen and Chuang, Quantum Computation and Quantum Information, 2000.
+4. W. Scherer, Math of Quantum Computing-an Introduction, Springer, 2019.
+5. M. Schuld and F. Petruccione, Machine Learning with Quantum Computers, 2nd ed. Springer,
+2021
