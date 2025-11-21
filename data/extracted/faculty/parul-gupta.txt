@@ -1,0 +1,59 @@
+================================================================================
+Parul Gupta
+================================================================================
+
+Faculty at School of Natural Sciences
+
+Education
+--------------------------------------------------------------------------------
+October 2018
+: Doctor of Science: Mathematics, Universiteit Antwerpen, Belgium, Universität
+Konstanz, Germany.
+May 2012
+: BS-MS Dual Degree: Mathematics, Indian Institute of Science Education and
+Research (IISER) Mohali, India.
+
+Work Experience
+--------------------------------------------------------------------------------
+Feb 2020–Sept 2023
+: Postdoctoral Fellow, IISER Pune, India
+Nov 2018–Oct 2019
+: Postdoctoral Assistant, Universiteit Antwerpen, Belgium
+Oct 2017–Sept 2018
+: Doctoral Assistant, Technische Universität Dresden, Germany
+Oct 2013–Sept 2018
+: Doctoral Student (cotutelle), Universiteit Antwerpen, Belgium and Universität
+Konstanz, Germany.
+Oct 2012–Sept 2013
+: Predoctoral Student, Universität Konstanz, Germany
+
+Research Interests
+--------------------------------------------------------------------------------
+Quadratic forms, Central simple algebras, Valuation theory, Algebraic number theory, Differential central simple algebras.
+
+Select Publications
+--------------------------------------------------------------------------------
+A ruled residue theorem for function fields of elliptic curves, (with K.J. Becher
+and S. Mishra),  Journal of Pure and Applied Algebra,
+https://doi.org/10.1016/j.jpaa.2023.107492
+Splitting of differential quaternion algebras, (with Y. Kaur and A. Singh), Journal
+of Algebra,
+https://doi.org/10.1016/j.jalgebra.2023.06.022
+Splitting fields of differential symbol algebras, (with Y. Kaur and A. Singh),
+Journal of Pure and Applied Algebra, Volume 227, Issue 5, 2023,
+https://doi.org/10.1016/j.jpaa.2022.107280
+Square reflexive polynomials, (with K.J. Becher), Journal of Number Theory,
+Volume 238, 2022,
+https://doi.org/10.1016/j.jnt.2021.09.005
+Strong linkage for function fields of surfaces, (with K.J. Becher),
+Manuscripta Mathematica, Volume 168, 2022,
+https://doi.org/10.1007/s00229-021-01301-x
+Four-dimensional quadratic forms overs C((t))(X), Arxiv Der Mathematik, 2021,
+http://doi.org/10.1007
+.
+A ruled residue theorem for function fields of conics, (with K.J. Becher), Journal
+of Pure and Applied Algebra, Volume 225, Issue 6, 2021,
+https://doi.org/10.1016/j.jpaa.2020.106638
+Differential central simple algebras, (with Y. Kaur and A. Singh), accepted to the
+proceedings of the Kulkarni conference, 2022.
+https://arxiv.org/abs/2303.12430

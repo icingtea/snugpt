@@ -1,0 +1,237 @@
+================================================================================
+A. Satyanarayana  Reddy
+================================================================================
+
+Faculty at School of Natural Sciences
+
+Research Interest
+--------------------------------------------------------------------------------
+Algebraic Graph Theory, combinatorial matrix theory and Algebraic Number Theory.
+
+Education
+--------------------------------------------------------------------------------
+Ph.D, Indian Institute of Technology Kanpur
+M.Sc Mathematics, Andhra University
+M.A Education, Andhra University
+B.Sc, Ideal Degree College, Kakinada
+
+Work Experience
+--------------------------------------------------------------------------------
+• Lecturer in Mathematics, Vikas junior college, Kakinada, AP, India (1995-1997).
+• Lecturer in Mathematics, Rajiv Gandhi degree and PG college, Kakinada, AP, India (1995- 1996).
+• Lecturer in Mathematics, St.Mary’s college of education and PG college, Kakinada, AP, India (1999-2001).
+• Assistant Professor in Mathematics, C.V.R Engineering college, Hyderabad, AP, India (2001- 2006).
+• Assistant Professor, Sir Padampat Singhania University, Rajasthan, January 2012-June 2012.
+• Assistant Professor, Shiv Nadar University, Dadri, NCR from July 2012 to June 2019.
+• Associate Professor, Shiv Nadar Institution of Eminence, Dadri, NCR from July 2019 till date.
+
+Awards
+--------------------------------------------------------------------------------
+First position for oral presentation on Respectable Graphs, presented in a national seminar held at Brahmanand college, Kanpur on February 12, 2011.
+
+Journal Publications
+--------------------------------------------------------------------------------
+2025
+(a) Kavita Samant and A. Satyanarayana Reddy The Generating Graph of Dicyclic Groups, accepted for publication in Linear and Multilinear Algebra.
+2024
+(a) Shrinit Singh and A. Satyanarayana Reddy, Achiral Words. Communications in Algebra,
+53(1), 390–399.
+https://doi.org/10.1080/
+00927872.2024.2377805
+.
+(b) Shaik Basheeruddin Shaha,Vijay Kumar Chakka,Arikatla Satyanarayana Reddy et all,Properties of Type-2 Complex Conjugate Pair Sums and Their Corresponding Applications, APSIPA Transactions on Signal and Information Processing, 2024, 13, e32.
+(c) Khyati Sharma and A Satyanarayana Reddy, Groups having 11-cyclic subgroups, International journal of group theory, Vol 13, issue 2 (2024), 203-214. DOI: 10.22108/ijgt.2023.135547.1812.
+2023
+(a) Shivani Chauhan and A. Satyanarayana Reddy, Algebraic connectivity of Kronecker products of line graphs, acceptd for publication in Discrete Mathematics, Algorithms and Applications.
+(b) Shivani Chauhan and A. Satyanarayana Reddy, Spectral properties of edge Laplacian matrix, accepted for publication in Proceedings of the Jangjeon Mathematical Society.
+(c) A. Satyanarayana Reddy and Kavita Samant, Generating Graphs of Finite Dihedral Groups, accepted for publication in Results in Mathematics.
+(d) Shivani Chauhan and A. Satyanarayana Reddy, On the double covers of a line graph, accepted for publication in Contributions to Discrete Mathematics.
+(e) A. Satyanarayana Reddy, Pattern polynomial graphs, accepted for publication in Indian journal of pure and applied mathematics.
+(f) A. Satyanarayana Reddy and Chandrashekara BM, Elements of Zn, accepted for conference proceedings of International Conference on Graphs and Combinatorics-2022, with ISBN: 978-93-95283-23-6, Dec 1-3, Mangalore University.
+2022
+(a) Biswajit Koley, A.Satyanarayana Reddy, An irreducible class of polynomials over integers Journal of the Ramanujan Mathematical Society, Soc. 37, No.4 (2022) 319– 330.
+(b) Ayush Bhora, A. Satyanarayana Reddy, Permanent of 3×3 invertible matrices modulo n, #A67, INTEGERS 22 (2022).
+(c) Veer Singh Panwar, A. Satyanarayana Reddy, Positivity of Hadamard powers of few band matrices, Electronic Journal of Linear Algebra, (2022), Vol.38, 85–90.
+(d) Mallika Muralidharan and A. Satyanarayana Reddy, Alternating Sign Matrices, Black board, Bulletin of the Mathematics Teachers’ Association (India), (2022), Issue 4, 37–44.
+2021
+(a) Ayush Bohra, A. Satyanarayana Reddy, Permanents of 2x2 Matrices Modulo n, The PUMP Journal of Undergraduate Research, (2021) Vol.4, 141–145.
+(b) Monimala Nej and A. Satyanarayana Reddy, Exponents of Primitive Symmetric Companion Matrices, Indian J. Discrete Math., Vol. 7, No.1 (2021) pp. 43–66. 3
+2020
+(a) K. Siddharth Choudary, A. Satyanarayana Reddy, Calkin-Wilf tree, Resonance, Vo.25, No.7, 2020,1001–1013. DOI: https://doi.org/10.1007/s12045-020-1015-x
+(b) Siddharth Choudary, K and Satyanarayana Reddy, A. (2020) Number of tuples with a given least common multiple, Notes on Number Theory and Discrete Mathematics, 26
+(2), 53–60.
+(c) Biswajit Koley, A.Satyanarayana Reddy, An irreducibility criterion for polynomials over integers, Bulletin Mathematique de la Societe des Sciences Mathematiques de Roumanie, Volume 63 (111)/2020, Issue no. 1, pages 83-89.
+(d) Priyanka Grover, Veer Singh Panwar and A. Satyanarayana Reddy, Positivity properties of some special matrices Linear algebra and applications, Vol 596,(2020), 203–215.
+(e) B. S. Shaik, V. K. Chakka and A. Satyanarayana Reddy, Orthogonal and Non-Orthogonal Signal Representations Using New Transformation Matrices Having NPM Structure, IEEE Transactions on Signal Processing, vol.68,(2020), 1229–1242.
+(f) Biswajit Koley and A. Satyanarayana Reddy, Irreducibility of x n −a, The Mathematics Student, Vol. 89, Nos. 1-2, January-June (2020), 169–174.
+2019
+(a) Monimala Nej, A. Satyanarayana Reddy, A Note on the Exponents of Primitive Companion Matrices, Rocky Mountain journal of Mathematics, Volume 49, No.5, (2019), 1633–1645.
+(b) Devendra Prasad, Krishnan Rajkumar, A. Satyanarayana Reddy A survey on Fixed divisors Confluentes Mathematici, 11 no. 1 (2019), 29–52.
+(c) B. S. Shaik, V. K. Chakka and A. Satyanarayana Reddy, On Complex Conjugate Pair Sums and Complex Conjugate Subspaces, IEEE signal processing letters, vol 26, issue 9, (2019), 1403–1407.
+(d) Biswajit Koley, A.Satyanarayana Reddy, Irreducibility criterion for certain trinomials, Malaya Journal of Matematik, Vol. S, No. 1, (2019), 116–119.
+(e) Biswajit Koley, A.Satyanarayana Reddy, Cyclotomic factors of Borwein polynomials,The Bulletin of the Australian Mathematical Society, Vol. 100, Issue- 1 (2019), 41–47.
+(f) Abhijit Santha Jayanthan, A. Satyanarayana Reddy Number of non-primes in the set of units modulo n, The Mathematics Student, Vol. 88, Nos. 1-2, January-June (2019), 147–152.
+(g) B. S. Shaik, V. K. Chakka and A. Satyanarayana Reddy, A new signal representation using complex conjugate pair sums, IEEE Signal Processing Letters, vol. 26, issue 2 (2019) 252–256.4
+(h) Monimala Nej, A. Satyanarayana Reddy, Binary strings of length n with x zeros and longest k-runs of zeros, Indian journal of Mathematics, Vol. 61, No. 1, (2019), 111–139.
+2011-2018
+(a) Krishnan Rajkumar, A. Satyanarayana Reddy,Devendra Prasad, Fixed divisor of a multivariate polynomial over an arbitrary subset of the Cartesian product of a Dedekind domain,J. Korean Math. Soc. 55 (2018), No. 6, pp. 1305-1320. (https://arxiv.org/abs/1803.05780).
+(b) A.K.Lal and A.Satyanarayana Reddy, Non-singular circulant graphs and digraphs, Electronic Journal of Linear Algebra, Volume 26,(2013), 248–257.
+(c) A.Satyanarayana Reddy, Shashank K Mehta and A.K.Lal, Representation of Cyclotomic Fields and their Subfields, Indian J. Pure Appl. Math., 44(2)(2013),203–230.
+(d) A.Satyanarayana Reddy, Adjacency Algebra of Unitary Cayley Graph, Journal of Global Research in Mathematical Archives, Vol 1, Issue 1(2013), 77–84.
+(e) A.Satyanarayana Reddy, Few Non-derogatory Directed Graphs from Directed Cycles, International Journal of Graph Theory, Vol 1,Issue 2(2013), 41–53.
+(f) A.Satyanarayana Reddy Respectable Graphs, International Journal of Mathematical Combinatorics, Vol.2 (2011),104–110.
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+2012 and 2013
+(a) Teacher observer in MTTS program May-June 2012 held in IIT Kanpur, sponsored by National Board for Higher Mathematics, Govt of India.
+(b) Teacher observer in MTTS program from 20th May 2013 to 1st June 2013, held inNIT,Surat, Gujarat, sponsored by National Board for Higher Mathematics, Govt of India.
+2014
+(a) As a Resource person in mini-MTTS program from 9th June 2014 to 21st June 2014 conducted at IIT Patna, sponsored by National Board for Higher Mathematics (NBHM).
+(b) Resource person in Summer School- 29th June to 20th July 2014, organized by Department of Mathematics, SNU.
+(c) As a Resource person in mini-MTTS program from 2nd August 2014 to 12th August 2014 conducted at Jammu Kashmir Institute of Mathematical Sciences, Srinagar, sponsoredby NBHM.
+(d) Visiting Professor, Harish Chandra Research Institute, Allahabad, from 17/10/2014 to 24/10/2014.
+2015
+(a) As a tutor in AFS-II, held at SNU from 4th May to 30th, May, 2015.
+(b) As a resource person in MTTS-O-level, from 1st June to 27th June 2015, to be held atSNU, sponsored by NBHM.
+(c) As a resource person in AFS-III to be held at HRI, Allahabad from 29th June to 4th July 2015.
+(d) As a Resource person in mini-MTTS program from 26th July 2015 to 31st July 2015 conducted at Jammu Kashmir Institute of Mathematical Sciences, Srinagar, sponsored by NBHM.
+(e) As an Associate Teacher (Tutor) in IST (Instructional School for Teachers)-Number Theory held at Kerala School of Mathematics, Kozhikode, Kerala, from 5th October to 17th October 2015.
+2016
+(a) As an Associate Teacher (Tutor) in AIS(Advanced instructional School)-Matrix analysis held at Shiv Nadar university, Delhi from 2nd May to 22nd May, 2016.
+(b) As a resource person in MTTS-O-level, from 30th May to 25th June 2016, to be held at SNU, sponsored by NBHM.
+(c) As an Associate Teacher in IST (Instructional school for Teachers)-Algebraic Number Theory, held at S.P. Pune University, Pune, from 3rd October to 15th October 2016.
+(d) External examiner for M.Sc and M.Phil Mathematics student’s comprehensive viva, Devi Ahilya university, Indore from 14th December to 16th December, 2016.
+2017
+(a) As a Resource person for mini-MTTS program from 19th January, 2017 to 24th January 2017 conducted at Tripura University Agartala, sponsored by NBHM.
+(b) As a Resource person for MTTS program from 29th May, 2017 to 24th June 2017 held at IIT Indore.
+(c) Invited lecture on Applications of 0,1 matrices at Sri H.D Devegowda Government first grade college, Paduvalahippe, Hasan, Karnataka on 22nd September, 2017.
+(d) Invited Lecture on Nth roots of unity at Smt Rukmini Shedthi Memorial National Government First Grade College, Barkur, Karnataka on 26th September, 2017
+(e) Invited Lecture on Introduction to Algebraic Graph theory at Poornaprajna College, Udipi, Karnataka on 28th September, 2017.
+(f) Invited Lecture Series on Linear algebra and Number Theory at Dr. G. Shankar Government Women’s first grade college and PG study center, Udipi, Karnataka. from 23rd September to 30th September, 2017.
+(g) As a Resource person for mini-MTTS program from 4th December, 2017 to 9th December 2017 conducted at IIT Mandi, sponsored by NBHM.
+(h) Invited speaker for Annual Foundation school-1, held at IIT Delhi from 19th Dec to 23rd Dec, 2017.
+2018
+(a) As a resource person for MTTS program from 21st , May 2018 to 16th June 2018 conducted at SSN college of Engineering, Chennai, sponsored by NBHM.
+(b) As a resource person for Mini-MTTS program from 24th , Sep 2018 to 29th Sep 2018 conducted at RIE, Ajmer, Rajasthan, sponsored by NBHM.
+(c) Invited to give a seminar on introduction to algebraic graph theory at St Stephen’s College on 23rd October, 2018.
+(d) As a resource person for Mini-MTTS program from 3rd December to 8th December,2018 conducted at IIT Mandi, sponsored by NBHM.
+(e) As a resource person for Ganitha Poorna-2018, from 27th December to 31st December held at Poornaprajna College, Udipi.
+(f) Invited talk on Rings and fields at Dr. G. Shankar Government Women’s first grade college and PG study center, Udipi, Karnataka on 29/12/2018.
+2019
+(a) As a resource person for Mini-MTTS program from 7th January to 12th January,2019 conducted at SGTB Khalsa College, Sri Anandpur Sahib, sponsored by NBHM.
+(b) Associate teacher for AFS-1 (Annual Foundation School-1) from 6th May to 18th May 2019 held at HRI, Prayagraj.
+(c) As a resource person for MTTS program from 20th May to 15th June,2019 conducted at IISER Thiruvananthapuram, sponsored by NBHM.
+(d) As a resource person for Mini-MTTS program from 26th August to 1st September,2019 held at Silver Jubilee Government College, Kurnool, AP, sponsored by NBHM.
+(e) As a resource person for MTTS program from 2nd December to 7th December, 2019 going to be held at IIT, Mandi, sponsored by NBHM.
+(f) As a resource person for Ganitha Poorna-2019, from 27th December to 31st December held at Poornaprajna College, Udipi.
+2020
+(a) As a resource person for mini-MTTS program from 27th January, 2020 to 1st February,2020 held at VNIT, Nagpur, sponsored by NBHM.
+(b) As a resource person for mini-MTTS program from 17th February, 2020 to 22nd February,2020 held at DAV College for Women,Firozpur Punjab, sponsored by NBHM.
+(c) As an associate teacher for Virtual AFS-1, organized by SGGS, Nanded from 28th April to 30th May.
+(d) As a resource person for online MTTS program from 1st June to 20th June 2020.
+(e) Invited speaker for five day faculty development program from 13th July to 17th July 2020, organized by Commissionerate of collegiate edducation Govt of Andhra Pradesh.
+(f) Invited talk on Division Algorithm and its applications on 8th August,2020, organized by Poornaprajna College and post graduate center, Udipi, Karnataka.
+(g) Resource person for Online Foundation Course in Mathematics (OFCM-2020) organized by the MTTS Trust during 04-24 October, 2020.
+(h) Resource person for Online SDP on Linear algebra and its applications organized by Department of Mathematics SGTB Khalsa College, Sri Anandpur Sahib, Punjab from 26th October to 7th November 2020.
+(i) Resource person for 80th Refresher Course in Mathematics and Statistics Sciences for the college and university teachers organized by UGC-Human Development Center, Punjabi University, Patiala from 16th November to 28th November, 2020.
+(j) Invited talk on Pigeonhole Principle and Its Applications organized on 8th November, 2020 by Math club of MTTS Alumni.
+2021
+(a) Invited talk, Pi and Primes, on 14th March, 2021 organized by Adamas University, Kolkata.
+(b) Participated in many activities related to MTTS, some times as an instructor, some times as a coordinator.
+(c) Organizer and associate teacher for the Annual foundation school-II, held at Shiv Nadar University, 29 Nov 2021 to 8 Jan 2022.
+2022
+(a) Academic Coordinator for online OFCM-Followup-Real analysis, 9th Jan to 21st Jan 2022.
+(b) Academic Coordinator for online OFCM-Followup-Linear algebra, 31st Jan to 13 Feb 2022.
+(c) Resident Faculty for InIt Mathematics program held at IIT Bhilai from 7th March to 12th March, 2022 sponsored by NBHM.
+(d) Invited talk on “Applications of Coding theory and Cryptography” in an annual symposium “Real-life Applications of Mathematical Concepts” organized by The Mathematics Society and the Department of Mathematics of St. Stephen’s College, Delhi on 22nd April, 2022.
+(e) Invited as a resource person for Ganitha Poorna 2021-22, A Mathematics Nurture Programme from 9th May to 13th May, 2022 at the Poornaprajna College and Postgraduate Centre, Udupi.
+(f) Resident faculty for 30th MTTS Level-O program held at IIT Ropar from 23/05/2022 to 18/06/2022.
+(g) Resource faculty for Online Student Development Programme on Foundations of Real Analysis for the students of undergraduate classes August 06, 2022 to October 22, 2022 organized jointly by Department of Mathematics, Sidharth Government “Utkrisht” College Nadaun, Distt. Hamirpur, Himachal Pradesh Indian Science Congress Association (ISCA), Shimla Chapter.
+(h) Resource faculty for Online foundation Course in Mathematics (OFCM-2022), from 16/10/2022 to 05/11/2022, organized by MTTS trust, funded by NBHM.
+(i) Invited to give a short course on foundations to M.Sc students of Dr. G. Shankar Government Women’s first grade college and PG study center, Udipi, Karnataka, Nov 28-30, 2022.
+2023
+(a) Invited as a resource person for Ganitha Poorna 2022-23, A Mathematics Nurture Programme from 9th March to 13th March, 2023 at the Poornaprajna College and Postgraduate Centre, Udupi.
+(b) Invited to give a talk on Group actions to M.Sc students of Dr. G. Shankar Government Women’s first grade college and PG study center, Udipi, Karnataka on 11th March, 2023.
+(c) Invited to give a talk on Pi and Primes in a Webinar conducted on 14/03/2023 by the Department of Mathematics, Government Science College, Hassan.
+(d) Resident faculty for the program Initiation into Mathematics program held at Mangalore University from 13/03/2023 to 18/03/2023.
+(e) Resident faculty for 31st MTTS Level-1 program held at IIT Madras from 22/05/2023 to 17/06/2023.
+(f) Resident faculty for the program Initiation into Mathematics program held at Jammu & Kashmir Institute of Mathematical Sciences, Srinagar during July 10–18, 2023.
+(g) Resource person for Online Foundation Course in Mathematics (OFCM-2023) organized by the MTTS Trust, 20/08/2023 to 02/09/2023, 2023.
+2024
+(a) Resource faculty for Teacher Enrichment workshop held at SNU from February 5th to 10th, 2024.
+(b)Resident faculty for the program Initiation into Mathematics program held at Akal University, Talwandi Sabo, Punjab, during February 19–24, 2024.
+(c)Resident faculty for the program Initiation into Mathematics program held at,Ram Chandra Uniyal Govt. P. G. College is in Uttarkashi, UttaraKhand, during March 11–16, 2024.
+(d)Interaction with M.Sc students of Mangalore university on 22 and 23rd March, 2024.
+(e)Interaction with M.Sc students of PPC College, Udipi on Nilpotent elements in a ring, on 25th March, 2024.
+(f) Interaction with M.Sc students of Dr. G. Shankar Government Women’s First Grade College, Udipi, Projects in Mathematics, on 25th March, 2024.
+(g) Resident Faculty for the MTTS level-o program held at ICT Mumbai from 20th May 2024 to 15th June 2024.
+(h) Invited for a six day online Faculty development program on Discrete Mathematics, organized by Gitam University from 24th June to 29th June, 2024.
+(i) Resident Faculty for the Initiation into Mathematics held at IIT Jammu from 8th July 2024 to 13th July 2024.
+(j) Interaction with M.Sc students of Kuvempu University on few topics in Topology, Karnataka from 29th July-31st July 2024.
+(k) Interaction with M.Sc students of of Davangere University on few topics Algerba , Karnataka on 1st August 2024.
+(l) Resident Faculty for Teacher enrichment program on Group Theory, Linear algerba and Enumerative Combinatorics, Mangalore University, funded by Natinal Center for Mathematics from 5th August to 10th August, 2024
+(m) Interaction with M.Sc and B.Sc students of St. Aloysius University, Mangalore, Karnataka on few topics in Number Theory on 9th August, 2024.
+(n) Resident Faculty for the Initiation into Mathematics held at NIT Hamirpur, 16 Sep- 21 Sep, 2024.
+(o) Resident faculty for MTTS Overture Program at St. Aloysius University, Mangalore, Karnataka 27-28 September, 2024.
+(p) Interaction with M.Sc students of St. Aloysius University, Mangalore, Karnataka on Applications Archimedean property, 26th September 2024.
+(q) Invited as a resource person for a Faculty Development Program (FDP) on Discrete Mathematics Gitam Deemed to university, for two days on 19th October and 2nd November, 2024.
+(r) Invited to give a talk on The Role of Mathematics in Current Trending Fields for 11th − 12th standard students, on 19th December, 2024 Gitam University, Vishakhapatnam, AP.
+2025
+(a)Invited for a talk on Mathematical visual and combinatorial proof for the inaugural ceremony of Mathematics Society of Dayalbagh Educational Institute, Agra -282005 on 24/02/205.
+(b)Resident Faculty for the Initiation into Mathematics held at Mahatma Gandhi University, Nalgonda, Telangana during March 17-March 22, 2025.
+Conference Presentations
+1. A.Satyanarayana Reddy, Bose-Mesner algebra, open house-08, Department of mathematics and statistics, IITK, India.
+2. A.Satyanarayana Reddy, Non-singular η(x)-circulant digraphs, Presented in an International conference IMST-2010-FIM -IXX at Patna University, Patna, India.
+3. A.Satyanarayana Reddy, Association schemes from generously transitive graphs, Presented in a national workshop on Block designs and its applications, CMS, Banasthali University, Rajasthan on February 8, 2011.
+4. A.Satyanarayana Reddy, Respectable Graphs, Presented in a national seminar held at Brahmanand college, Kanpur on February 12, 2011.
+5. A.Satyanarayana Reddy, Pattern Polynomial graphs, presented in Spring school in discrete probability, ergodic theory and combinatorics held in Graz university of Technology, Graz, Austria from April 4 to April 15, 2011.
+6. As a participant, 2011 Summer School Random Motions and Random Graphs, TU, Berlin, Germany.
+7. A.Satyanarayana Reddy, Adjacency Algebra of Unitary Cayley Graph, 27th Annual Conference of the Ramanujan Mathematical Society (RMS), Organized by SNU.
+8. A. Satyanarayana Reddy, Shashank K Mehta and A.K.Lal,Pattern Polynomial graphs, IndiaTaiwan Conference on Discrete Mathematics, NCTU Taiwan, November 18-22, 2013.
+9. Remya Krishnan, A.Satyanarayana Reddy, and Pawan K. Dhar, Computational Analysis of miRNA “hubs” towards Therapeutic Applications at the conference and publication in Proceedings of the Kuala Lumpur conference Sept. 2014.
+10. Invited talk on Euler’s Product formula at “One-day national workshop on analysis and topology” on 27th September, 2017 Dr. G. Shankar Government Women’s first grade college and PG study center, Udipi, Karnataka.
+11. Invited talk on Graph Algebras, Two day conference on Graph theory and Discrete Mathematics, 5−6th February 2018, held at Mangalore University.
+12. Invited talk on Exponents of primitive graphs, Two day national conference on recent advancements in graph theory, November 9-10, 2019 held at Gujarat University, Ahmadabad.
+13. Invited talk on Edge Adjacency Matrix of a graph, Two day National Conference on emerging trends in Graph Theory (NCETGT-2020), February 27-28, 2020 held at Christ University, Bangalore.
+14. Prof M. Rajesh Kannan started weekly seminar series (
+http://www.facweb.iitkgp.ac.in/˜rkannan/gma.html)
+on Graphs, Matrices and Applications, presented a talk on Adjacency algebra of a Graph on 9/10/2020.
+15. Presented a talk entitled “Primitive Companion Matrices” at the 24 th Conference of the International Linear Algebra Society at National University of Ireland, Galway, June 20-24, 2022.
+16. invited lecture on Polynomials with integer coefficients divisible by cyclotomic polynomials during the Conference on Algebra, Analysis and Applications on 05 August 2022 at Dr. B. R. Ambedkar University Delhi (AUD).
+17. Invited talk on Numbers with a group theoretic property, National Conference on Scope of Research in Discrete mathematics as per NEP” (NCSRDMN-2022), Nov 28-30, Udipi.
+18. Invited talk on Elements of Zn, International Conference on Graphs and Combinatorics-2022, Dec 1-3, Mangalore University.
+19. Invited talk on On the number of cyclic subgroups of a finite group, 7th Dec, 2022 SRM-AP.
+20. Contributed talk on Generating graphs of finite Dihedral group 2023 Ural Workshop on Group Theory and Combinatorics Yekaterinburg-Online, Russia, August 21–27, 2023.
+21.Invited talk on n-cyclic groups, International Conference on Discrete Mathematics and Combinatorics (ICDMC-2023) held at Manipal Institute of Technology Bengaluru from 20th to 22nd December, 2023.
+22.Invited talk on Applications of matrices with entries zero or one one day national seminar on Discrete Mathematics and its applications held MGM college, Udipi on 26th March, 2024.
+23.Talk on How to involve students in the teaching learning process?, the third conference on the practice of teaching undergraduate Mathematics, Azim Premji University & St Joseph’s University, July 25–27, 2024.
+24.Invited talk on Generating graphs of Dihedral groups International conference on Mathematical analysis and its applications, Karnatak University Dharawad, 2nd August to 4th August 2024.
+25.Invited Talk on Generating graphs of finite groups International conference Graph Theory and its applications (ICGTA-2024) 3-5, October 2024. Christ College, Irinjalakuda, Kerala.
+26.Invited Talk on Graphs and Groups Second International Conference on Evolution in Pure & Applied Mathematics-2024 (ICEPAM-2024) 20-22, November 2024, Akal University, Talwandi Sabo, Punjab.
+27.Invited talk on Polynomials with integer coefficients divisible by cyclotomic polynomials International Conference on Diophantine Equations, Polynomials & Related Areas (ICDEPRA) - 2024 26-30 November 2024, Indian Statistical Institute, Delhi Centre, India.
+28.Invited to give a talk on Square and cube subgroup numbers, SSN college, Chennai, 6-7 January, 2025. 29.Invited as panel member for a panel discussion on the theme Teacher professional development in mathematics: Design and Implementation, MTA Northern Regional Conference at SCERT Haryana 31st Jan−2 nd Feb 2025.
+30.Invited to give a talk on Applications of n
+th
+roots of unity, International Seminar on Number Theory (ISNT 2025) from 5th to 7th February 2025, St. Berchmans College, Changanassery, Kerala.
+Poster presentations
+1. Presented a poster on Fibonacci numbers in the open house, as a part of Golden Jubilee celebrations of IITK, Kanpur.
+2. Presented a poster on Circulant Matrices , Departmental day of Mathematics and Statistics, as a part of Golden Jubilee celebrations of IITK, Kanpur.
+Ph.D students
+1. Dr. Devendra Prasad jointly with Prof Krishnan Rajkumar, JNU, India, defended thesis on 21st January, 2019.
+2. Ms. Monimala Nej defended thesis on 21st August, 2019.
+3. Mr. Biswajit Koley defended thesis on 19th March, 2020.
+4. Mr. Veer Singh Panwar, jointly with Prof Priyanka Grover SNIOE defended thesis on 14th Nov, 2022.
+5. Ms. Shivani Chauhan defended thesis on 27th February, 2024.
+6. Mr. Shrinit Singh jointly with Prof Amber Habib SNIOE, defended thesis on 28th April, 2025.
+7. Ms. Khyati Sharma (in progress).
+8. Ms. Kavita Samant (in progress).
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances
+--------------------------------------------------------------------------------
+Serb Matrix project File NO. MTR/2019/001206 for three years 2020 to 2022 titled Polynomials with integer coefficients divisible by cyclotomic polynomials.
+
+Advisory work with NGOs / Government / International Bodies
+--------------------------------------------------------------------------------
+1. Faculty advisor of Math club of MTTS alumni
+2. Invited member of MTTS trust

@@ -1,0 +1,95 @@
+================================================================================
+Chandranandan Gangopadhyay
+================================================================================
+
+Faculty at School of Natural Sciences
+
+Research Interests
+--------------------------------------------------------------------------------
+Algebraic Geometry,  Moduli spaces of  sheaves, Toric varieties.
+https://sites.google.com/view/chandro/home
+
+Education Details
+--------------------------------------------------------------------------------
+Ph.D- TIFR Mumbai (2019)
+MSc.- CMI (2014)
+BMath (Hons.) ISI Bangalore (2012)
+
+Work Experience
+--------------------------------------------------------------------------------
+INSPIRE Faculty Fellow, IISER Pune (2022-2025)
+Post Doctoral Fellow, IIT Bombay (2020-2022)
+Post Doctoral Fellow, IMSc (2019-2020)
+
+Academic Achievements/Awards
+--------------------------------------------------------------------------------
+INSPIRE Faculty Fellowship,2021.
+
+Journal Publications
+--------------------------------------------------------------------------------
+Equivariant Vector Bundles on complexity-one T varieties and Bruhat-Tits Buildings (with Jyoti Dasgupta, Kiumars Kaveh and Christopher Manon)
+International Mathematics Research Notices
+, Issue 10, May 2025, arXiv:
+2406.02912
+.
+Infinitesimal deformations of some Quot schemes, II (with Indranil Biswas and Ronnie Sebastian),
+Revista Matematica Complutense
+, Volume 38, pg. 459-480, 2024, arXiv:
+2409.06434
+.
+Picard Groups of Some Quot Schemes (with Ronnie Sebastian),
+International Mathematics Research Notices
+, pg. 9194-921, Issue 11, Volume 2024, June 2024, arXiv:
+2210.17179
+.
+Infinitesimal deformations of some Quot Schemes (with Indranil Biswas and Ronnie Sebastian),
+International Mathematics Research Notices
+, pg. 8067–8100, Issue 9, Volume 2024, May 2024. , arXiv:
+2203.13150
+.
+Irreducibility of some nested Hilbert schemes (with Parvez Rasul and Ronnie Sebastian),
+Proceedings of the American Mathematical Society
+, pg. 1857-1870, Vol. 152, 2024, arXiv:
+2209.09003
+.
+Seshadri constants on some Quot schemes (with Krishna Hanumanthu and Ronnie Sebastian),
+Forum Mathematicum
+, pg. 1591-1603, Vol. 33, No. 6, 2021, arXiv:
+2104.13111
+.
+Nef cone of some Quot schemes on a smooth projective curve (with Ronnie Sebastian),
+Comptes Rendus Mat́hematique
+, Acad ́emie des Sciences, Paris, pg. 999-1022, Vol. 359, No. 8, 2021, arXiv:
+2006.16666
+.
+Fundamental Group Schemes of some Quot Schemes on a smooth projective curve (with Ronnie Sebastian),
+Journal of Algebra
+, pg. 290-305, Vol. 562, November 2020, arXiv:
+1909.10775
+.
+Automorphisms of relative Quot schemes,
+Proceedings - Mathematical Sciences
+, Paper No. 85, Vol. 129, November 2019 , arXiv:
+1812.10446
+.
+Direct image of vector bundles and connections (with Indranil Biswas and Michael Lennox Wong),
+Beitr ̈age zur Algebra und Geometrie
+, pg. 137-156, Vol. 60, March 2019.
+Stability of sheaves over Quot schemes,
+Bulletin des Sciences Math ́ematiques
+, pg. 66-85, Vol. 149, November 2018.
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+”Nef and Effective Cones of some Quot Schemes”,
+Discussion Meeting on Algebraic Geometry
+, Tata Institute of Fundamental Research Mumbai, February 2025.
+”Nef and Effective Cones of some Quot Schemes”,
+Workshop on Sheaf Stable Pairs and Birational Geometry
+, Tsinghua University, China, June 2024.
+”Infinitesimal Deformations of some Quot Schemes”, Annual
+Conference of Ramanujan Mathematical Society
+, Sri Sivasubramaniya Nadar College of Engineering, Chennai, December 2022.
+”Infinitesimal Deformations of some Quot Schemes”,
+Conference on topics in Algebraic Geometry and Commutative Algebra
+, SRM University, Andra Pradesh, July 2022.

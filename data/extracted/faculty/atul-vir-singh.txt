@@ -1,0 +1,22 @@
+================================================================================
+Atul Vir Singh
+================================================================================
+
+Faculty at School of Engineering
+
+Research Interest
+--------------------------------------------------------------------------------
+Microelectronics, Semiconductor Materials and Devices
+
+Journal Publications
+--------------------------------------------------------------------------------
+Vinay Sharma, Ananya Goel, Madhur Deo Upadhayay, Atul Vir Singh, A Pi-Shaped Slot Antenna for 5.2 GHz WLAN MIMO Application, IETE Journal of Research (Taylor & Francis), vol. 67, pp. 1-13, Jan 25, 2021, DOI: 10.1080/03772063.2021.1873201
+Vinay Sharma, Madhur Deo Upadhayay, Atul Vir Singh, Jitendra Prajapati, Hammer Shaped Element-Based Compact MIMO Antenna For WLAN Application, Progress In Electromagnetics Research Letters (EMW Publishing), Vol. 97, pp.121-130, Jan. 2021. (impact factor 1.898) DOI:10.2528/PIERL21031604
+Vinay Sharma, Madhur Deo Upadhayay, Atul Vir Singh, Travelling Wave Antenna Based MIMO for 5GHz WLAN Band Application With Pattern Diversity, International Journal of Electronics, Jan. 2022. DOI: 10.1080/00207217.2021.2001867
+Jyotirmoy Dutta, Atul Vir Singh, Sonal Singhal, Madhur Deo Upadhayay, A comparative study on the design and simulation of TFBAR and polyimide-TFBAR based RF bandpass filters Microsystem Technologies, Issue 12, 2017.
+Jyotirmoy Dutta, Atul Vir Singh, Sonal Singhal, Madhur Deo Upadhyay, "Design and Simulation of a Zinc Oxide Thin Film Bulk Acoustic Resonator Filter for 2.6 GHz Band Applications", IETE Journal of Research, Vol. 62, Issue. 1, 2016.
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+Invited Lecture on Semiconductor Process Technology and Circuit Simulation at Government Engineering College Jhalawar, Rajasthan on 19th April 2018 and 21th April 2018 under Technical Education Quality Improvement Programme (TEQIP).
+Invited Lecture on MEMS and FBAR Technology at Government Engineering College Jhalawar, Rajasthan on 17th March 2017 and 18th March 2017 under Technical Education Quality Improvement Programme (TEQIP).

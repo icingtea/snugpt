@@ -1,0 +1,47 @@
+================================================================================
+Venkatnarayan  Hariharan
+================================================================================
+
+Faculty at School of Engineering
+
+Research Interest
+--------------------------------------------------------------------------------
+semiconductor device/compact modelling as well as interconnect modelling, especially the core physical principles that have gained prominence in the advanced process nodes in these fields. He also wishes to focus on ab-initio modelling, developing and implementing novel modelling capabilities in tools, and expose the students to modelling activities that up until now are generally glossed over, such as semiconductor band structure calculations, etc.
+Know more:
+Click here
+
+Education
+--------------------------------------------------------------------------------
+2008
+Ph.D. in Electrical Engineering IIT Bombay
+2003
+MS in Electrical Engineering Santa Clara University
+1991
+B.Tech in Electrical Engineering IIT Bombay
+
+Awards
+--------------------------------------------------------------------------------
+2017
+2nd best paper award, SNUG Silicon Valley, 2017
+2009
+IESA TechnoInventor Award, 2009 (formerly ISA)
+
+Journal Publications
+--------------------------------------------------------------------------------
+V. Hariharan et al, “Drain Current Model for Nanoscale Double-Gate MOSFETs”, Elsevier Solid-State Electronics, 2009
+V. Hariharan et al, “An Improvement to the Numerical Robustness of the Surface Potential Approximation for Double-Gate MOSFETs", IEEE Trans. Electron Devices, 2009
+V. Hariharan et al, “A CAD-Compatible Closed-form Approximation for the Inversion Charge Areal Density in Double-Gate MOSFETs”, Elsevier Solid-State Electronics, 2009
+V. Hariharan et al, “Drain Current Model Including Velocity Saturation for Symmetric Double-Gate MOSFETs”, IEEE Trans. Electron Devices, 2008
+Y. Kobayashi, C. R. Manoj, K. Tsutsui, V. Hariharan et al, "Parasitic Effects in Multi-Gate MOSFETs", IEICE Trans. on Electronics, 2007
+Y. Kobayashi, K. Tsutsui, K. Kakushima, V. Hariharan et al, "Parasitic Effects Depending on Shape of Spacer Region on FinFETs", ECS Trans., 2007
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+V. Hariharan, et al, “Improved Methodology for Modeling Clock Skew in Hold Analysis”, SNUG Silicon Valley, 2017
+V. Hariharan et al, “Closed Form Current and Conductance Model for Symmetric Double-Gate MOSFETs using Field-dependent Mobility”, NSTI Nanotech 2008, Boston, June 2008
+V. Hariharan et al, “Drain Current Model for Undoped Symmetric Double-Gate FETs using a Velocity Saturation Model with Exponent n=2”, ISDRS 2007, College Park, Dec 2007
+Gave an invited talk on scaling issues in MOSFETs at the SIES Graduate School of Technology, Mumbai in Aug 2007
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances
+--------------------------------------------------------------------------------
+V. Hariharan, “Design considerations for ground-clearance and wheel-base for navigating nonstandard speed-bumps”, Grin Technical Report, 2017. Available: https://www.grin.com/document/358591

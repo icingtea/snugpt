@@ -1,0 +1,65 @@
+================================================================================
+Sumit Shekhar
+================================================================================
+
+Faculty at School of Engineering
+
+Education Details
+--------------------------------------------------------------------------------
+2018–2023
+:  Ph.D., Hasso Plattner Institute, Potsdam University, Potsdam, Germany,
+Dissertation - Image and Video Processing based on Intrinsic Attributes.
+2015–2017
+:  M.Sc., Visual Computing,
+Saarland University, Saarbrücken, Germany.
+2006–2010
+:  B.Tech., Computer Science and Engineering,
+SASTRA University, Thanjavur, India.
+
+Work Experience
+--------------------------------------------------------------------------------
+June 2024 – Aug 2024
+Senior Researcher,
+Ennoventure Technologies Pvt. Ltd
+,
+Bengaluru, India.
+Apr 2023 – May 2024
+Postdoctoral Researcher,
+Hasso Plattner Institute (Digital Health and Machine Learning Group),
+Potsdam, Germany.
+Oct 2018 – Mar 2023
+Research Assistant (PhD Candidate),
+Hasso Plattner Institute (Computer Graphics Systems Group),
+Potsdam, Germany.
+Jan 2018 – Sept 2018
+Research Intern,
+Max Planck Institute for Informatics (Computer Graphics Group),
+Saarbrücken, Germany.
+Nov 2013 – Feb 2015
+Senior Engineer,
+Virtusa India Private Limited,
+Chennai, India.
+Jul 2010 – Nov 2013
+System Engineer,
+Tata Consultancy Services Limited (TCS),
+Chennai, India.
+
+Research Interests
+--------------------------------------------------------------------------------
+Computational Photography, Inverse Rendering, Neural Rendering, Image-based Rendering
+
+Select Publications
+--------------------------------------------------------------------------------
+(Journal) S. Shekhar, M. Reimann, M. Hilscher, A. Semmo, J. Döllner, and M. Trapp. Interactive Control over Temporal Consistency while Stylizing Video Streams, Computer Graphics Forum, Proceedings of EGSR, 2023.
+(Journal) S. Shekhar, M. Reimann, J. Wattasseril, A. Semmo, J. Döllner, and M. Trapp, ALIVE: Adaptive-Chromaticity for Interactive Low-light Image and Video Enhancement, Journal of WSCG, 2023.
+(Journal) S. Shekhar, M. Reimann, M. Mayer, A. Semmo, S. Pasewaldt, J. Döllner, and M. Trapp, Interactive Photo Editing on Smartphones via Intrinsic Decomposition, Computer Graphics Forum, Proceedings of Eurographics, 2021.
+(Conference) S. Shekhar, S. Beigpour, M. Ziegler, M. Chwesiuk, D. Paleń, K. Myszkowski, J. Keinert, R.Mantiuk and P. Didyk, Light-Field Intrinsic Datset, British Machine Vision Conference (BMVC), 2018.
+(Journal) S. Beigpour, S. Shekhar, M. Mansouryar, K. Myszkowski, and H-P. Seidel, Light-Field Appearance Editing Based on Intrinsic Decomposition, Journal of Perceptual Imaging, 2018.
+
+Conference Presentations
+--------------------------------------------------------------------------------
+VMV 2019, CW 2020, Eurographics 2021, EGSR 2023, WSCG 2023
+
+Poster Presentations
+--------------------------------------------------------------------------------
+SIGGRAPH Appy Hour 2019 and 2022

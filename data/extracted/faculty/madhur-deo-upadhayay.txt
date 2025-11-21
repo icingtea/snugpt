@@ -1,0 +1,154 @@
+================================================================================
+Madhur Deo Upadhayay
+================================================================================
+
+Faculty at School of Engineering
+
+Research Interest
+--------------------------------------------------------------------------------
+Active and passive circuits for RF & Microwave, RFID, EMC/EMI Antennas: Passive & Active Antenna, OAM Antenna, MIMO Antenna
+Know more:
+Click here
+
+Education
+--------------------------------------------------------------------------------
+2014
+Ph.D.
+Indian Institute of Technology Delhi, India
+2004
+Master of Engineering
+Dr Bhimrao Ambedkar University Agra, India
+2002
+Bachelor of Engineering
+Dr Bhimrao Ambedkar University Agra, India
+
+Work Experience
+--------------------------------------------------------------------------------
+2019
+Associate Professor,
+Department of Electrical Engineering, School of Engineering, Shiv Nadar University, Delhi-NCR
+08/13
+06/19
+Assistant Professor,
+Department of Electrical Engineering, School of Engineering, Shiv Nadar University, Delhi-NCR
+03/13
+08/13
+Project Scientist,
+IIT Delhi,
+Delhi, India
+08/11
+02/13
+Research Associate,
+IIT Delhi,
+Delhi, India
+08/04
+06/06
+Lecturer
+Rajasthan, India
+
+Awards
+--------------------------------------------------------------------------------
+2014
+International Travel Support from DST, Science and Engineering Research Board (SERB) for paper presentation in IEEE International Wireless Symposium (IWS 2014) X?ian China.
+2009
+CSIR international Travel Grant for Research paper presentation in ISAP 2009, Bangkok, Thailand.
+2006
+Research Assiatantship, IIT Delhi
+1995
+Certificate of Merit under National Scholarship Scheme of M.H.R.D, (Govt. of India) in honor of merit position in Secondary School Exam, 1995
+
+Journal Publications
+--------------------------------------------------------------------------------
+1. Manali Saini, Udit Satija, Madhur Deo Upadhayay, ?One-dimensional convolutional neural network architecture for classification of mental tasks from electroencephalogram?, Biomedical Signal Processing and Control, Volume 74, April 2022, pp. 103494. DOI:10.1016/j.bspc.2022.103494.
+
+2.Vinay Sharma, Madhur Deo Upadhayay, Atul Vir Singh ?Travelling Wave Antenna Based MIMO for 5GHz WLAN Band Application With Pattern Diversity?, International Journal of Electronics, Jan. 2022. DOI: 10.1080/00207217.2021.2001867.
+
+3.Kailash Chandra, Mahendra Kumar & Madhur Deo Upadhayay, ?Triple Band Compact Monopole Antenna for Applications Like Bluetooth, WiMAX and WLAN?, IETE Journal of Research, Sept.2021, DOI: 10.1080/03772063.2021.1967791
+
+4.Vinay Sharma , Madhur Deo Upadhayay, Atul Vir Singh, Jitendra Prajapati, ?Hammer Shaped Element-Based Compact MIMO Antenna For WLAN Application?, Progress In Electromagnetics Research Letters (EMW Publishing), Vol97, pp.121-130, Jan. 2021. (impact factor 1.898)  DOI:10.2528/PIERL21031604.
+
+5. Vinay Sharma, Ananya Goel, Madhur Deo Upadhayay, Atul Vir Singh, ?A Pi-Shaped Slot Antenna for 5.2 GHz WLAN MIMO Application, IETE Journal of Research (Taylor & Francis), vol. 67, pp. 1?13, Jan 25, 2021, DOI: 10.1080/03772063.2021.1873201.
+
+6. Shailendra Singh, Madhur Deo Upadhayay, Srikanta Pal, ?Study on Generation of  Higher  Order  Orbital  Angular Momentum Modes and Parameters Affecting the Vortex?, Iranian Journal of Electrical and Electronics Engineering (Springer),Vol 17, issue 2, June 2021. ?DOI: 10.22068/IJEEE.17.2.1822.
+
+7.Manali Saini, Udit Satija, Madhur Deo Upadhayay, ?Wavelet Based Waveform Distortion Measures for Assessment of Denoised EEG Quality with Reference to Noise-Free EEG Signal?, IEEE Signal Processing Letters, Vol 27, pp1260 -1264, 03 July 2020 (DOI 10.1109/LSP.2020.3006417).
+
+8.Shailendra Singh, Madhur Deo Upadhayay, Srikanta Pal, ?OAM Wave Generation Using Square Shape Patch Antenna as Slot Array Equivalence?, IEEE Antenna Wave and Propagation Letters, 2020, ISSN 1548-5757, DOI: 10.1109/LAWP.2020.2976611.
+
+9.Manali Saini, Udit Satija, Madhur Deo Upadhayay, ?An Effective Automated Method for Detection and Suppression of Muscle Artifacts from Single-Channel EEG Signal?, IET Healthcare Letter, Jan., 2020.
+
+10.Kailash Chandra, Mahendra Kumar, Madhur Deo Upadhayay, ?Compact Triple-Band CPW-Fed Monopole Antenna for Bluetooth/WiMAX/WLAN Applications?, Iranian Journal of Science and Technology, Transactions of Electrical Engineering (Springer), pp.1 -7,  Sept. 17, 2019, ISSN 2228-6179, DOI 10.1007/s40998-019-00265-9.
+
+11. Jyotirmoy Dutta, Atul Vir Singh, Sonal Singhal, Madhur Deo Upadhayay, A comparative study on the Design and Simulation of a TFBAR and Polyimide-TFBAR based RF Bandpass Filter" Microsystem Technologies Springer-Verlag Berlin Heidelberg, March 2017. Pp 1-7, (DOI: 10.1007/s00542-017-3374-0). P ISSN 0946-7076, E ISSN 1432-1858, (impact factor 1.195).
+
+12. Jyotirmoy Dutta, Atul Vir Singh, Sonal Singhal, Madhur Deo Upadhayay, ?Design and Simulation of a Zinc Oxide Thin Film Bulk Acoustic Resonator Filter for 2.6 GHz Band Applications?, IETE journal of Research 62(1)7, July 24, 2016.pp 3 -8, DOI 10.1080/03772063.2015.1062734.(impact factor 0.909).Citation 5 ISSN 03772063
+
+13. Madhur Deo Upadhayay, Ananjan Basu, M. P. Abegaonkar and S. K. Koul, ?Active Antenna Using BJT with Floating Base,? IEEE Microwave and Wireless Communication Letters, vol 23, no. 4, April 2013, pp 202-204, 10.1109/LMWC.2013.2247748. Electronic ISSN: 1558-1764, Print ISSN: 1531-1309, (citation 3), Impact factor (2.236).
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+1.Deepak Yadav, J. Pillai, Madhur Deo Upadhayay, Jitendra Prajapati and N. Babu, "An Octagon Patch Antenna for OAM Mode Generation," 2022 IEEE Delhi Section Conference (DELCON), 2022, pp. 1-5, doi: 10.1109/DELCON54057.2022.9779786.
+2.J. Pillai, D. Yadav, J. Prajapati, M. D. Upadhayay and N. Babu, "Compact Wideband H-Shaped Slot Antenna for Sub-THz Applications," 2022 IEEE Delhi Section Conference (DELCON), 2022, pp. 1-6, doi: 10.1109/DELCON54057.2022.9753032.
+3.Shreya Sharad and Madhur Deo Upadhayay, "Graphene antenna on polyamide for 2.4GHz WLAN applications," 2022 IEEE Delhi Section Conference (DELCON), 2022, pp. 1-5, doi: 10.1109/DELCON54057.2022.9752959.
+4.Jyothishree Pillai, Deepak Yadav, Jitendra Prajapati, Madhur Deo Upadhayay and Naveen Babu, "Quad-Band Graphene Antenna for 60?120 GHz Indoor Communication System," 2021 IEEE Indian Conference on Antennas and Propagation (InCAP), 2021, pp. 276-279, doi: 10.1109/InCAP52216.2021.9726413.
+5.Vinay Sharma, Madhur Deo Upadhayay and Atul Vir Singh, "Design of Two-Element Antipodal MIMO Antenna for ISM Band Application," 2021 IEEE Indian Conference on Antennas and Propagation (InCAP), 2021, pp. 113-116, doi: 10.1109/InCAP52216. 2021.9726342.
+6.Shreya Reddy Chillakuru, Nandakrishnan M and Madhur Deo Upadhayay, "Triangular Metamaterial Loaded Antenna for Low RCS Stealth Application," 2022 International Conference for Advancement in Technology (ICONAT), 2022, pp. 1-7, doi: 10.1109/ICONAT53423.2022.9726127.
+7.Dilshan Singh, Kartikeya Chaturvedi, Madhur Deo Upadhayay, "Flyswatter Shaped Antenna for 8 Element Beam Forming Network utilizing Butler Matrix," 2021 2nd Global Conference for Advancement in Technology (GCAT), 2021, pp. 1-5, doi: 10.1109/GCAT52182.2021.9587529.
+8. Shilpam Saxena, Raghavendra Sharma, Madhur Deo Upadhayay, Apurv Shrivastava, Pankaj Mishra, ?Novel filtenna for wireless applications, June 2021, Materials Today: Proceedings,  DOI:10.1016/j.matpr.2021.05.213.
+9. Madhur Deo Upadhayay, Anuj Vijay, Prameela Madhumathi, Prerna Avinash, ?E-Band [70GHz] Uniform Circular Array of Planar Horn Antenna for MIMO/ OAM Applications?, 2021 The IEEE International Conference on Intelligent Technologies, Hubballi, India (CONIT'21)- Hybrid Conference, June 25-27, 2021. DOI: 10.1109/CONIT51480.2021.9498435.
+10.Nandakrishanan M, Shreya Reddy Chillakuru, Madhur Deo Upadhayay, ?Low RCS Antenna Loaded with Stepped Impedance Resonator and Metamaterials?, 2021 6th International Conference for Convergence in Technology (I2CT) Pune, India. Apr 02-04, 2021. ISBN: 978-1-7281-8876-8/21. DOI: 10.1109/I2CT51068.2021.9417978.
+11. Shailendra Singh, Siddhant Gupta, Madhur Deo Upadhayay, Srikanta Pal, ?Exponential Flare Slot Vivaldi OAM Antenna for Near Field Communication in EVs and HEVs?, 2021 International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Jan. 21-23, 2021, GRIET, Hyderabad. 978-1-7281-5681-1/20, DOI: 10.1109/SeFet48154.2021.9375790.
+12.Manali Saini, Udit Satija, Madhur Deo Upadhayay, ?Variational Mode Decomposition Based Mental Task Classification from Electroencephalogram?, 2020 IEEE 17th India Council International Conference (INDICON), Dec.11-13, 2020, NSIT, New Delhi, India.
+13.Vinay Sharma, Madhur Deo Upadhayay, Atul Vir Singh, ?Compact antenna for multi-input-multi-output applications at 5.8GHZ ISM band?, National Conference on Role of Electronics Engineering in Current Societal Changes (REECSC -2020), June 20- 21, 2020, MITS Gwalior India, sponsored by IETE India.
+14.Shilpam Saxena, Madhur Deo Upadhayay, Raghavendra Sharma, Apurv Srivastava ?Novel Triple Band Antenna For Wireless Communication?, 7th International Conference on Signal Processing and Integrated Networks (SPIN 2020), Feb. 27 -28, 2020, Noida, India.
+15.Shailendra Singh, Madhur Deo Upadhayay, Srikanta Pal ?OAM Wave Generation Using Inner feed Annular Slot Microstrip Radiator?, 7th International Conference on Signal Processing and Integrated Networks (SPIN 2020), Feb. 27 -28, 2020, Noida, India.
+16.Shailendra Singh, Madhur Deo Upadhayay, Srikanta Pal ?Dual-Band Triple Mode OAM Generation Using Annular Slot Microstrip Radiator?, 7th International Conference on Signal Processing and Integrated Networks (SPIN 2020), Feb. 27 -28, 2020, Noida, India.
+17.Hritik Singhal Aswin S, Vinay Sharma, Jitendra Prajapati, Madhur Deo Upadhayay, ?High Gain Hexagonal Patch Antenna for V2V Communication?, 7th International Conference on Signal Processing and Integrated Networks (SPIN 2020), Feb. 27 -28, 2020, Noida, India.
+18.Vidhish Vedala, Abhishesk Shandiliya, Madhur Deo Upadhayay, ?Compact Rat-Race Coupler?, 7th International Conference on Signal Processing and Integrated Networks (SPIN 2020), Feb. 27 -28, 2020, Noida, India.
+19. V Nagisha, V Nivesha, Madhur Deo Upadhayay, ?Quadrature Coupler with Enhanced Coupling Bandwidth and DC Isolation for C-Band Applications?, 7th International Conference on Signal Processing and Integrated Networks (SPIN 2020), Feb. 27 -28, 2020, Noida, India.
+20.Raasi Chenna, Vijayadithya Doddi, Sumanth Gurram, Vinay Sharma and Madhur Deo Upadhayay, ?Tunable Notch Wide Band Filter Using Stubs? IEEE Sponsored 4th International Conference for Convergence in Technology (I2CT) 2018, March 28 to 30, 2019, Pune, India.
+21. P. Harshini Rao, Vinay Sharma, Madhur Deo Upadhayay and Atul Vir Singh, ?Dual Band Slot Antenna for MIMO Applications? 6th International Conference on Signal Processing and Integrated Networks (SPIN 2019), March 07 -08, 2019, Noida, India.
+22.  Parul Garg, Vinay Sharma, Madhur Deo Upadhayay and Atul Vir Singh, ?Dual Band Butterfly Planar Antenna for WLAN  Applications?, 6th International Conference on Signal Processing and Integrated Networks (SPIN 2019), March 07 -08, 2019, Noida, India.
+23.Raasi Chenna, Vijayadithya Doddi, Sumanth Gurram, Vinay Sharma, Madhur Deo Upadhayay, ?Compact edge and end coupled wide band filter with notch at 5GHz? 1st International Conference on Sustainable Energy and Future Electric Transportation(SeFET2019) Feb 14 -16, 2019, Hyderabad, India. https://doi.o rg/10.1051/e3sconf/20198701021.
+24.  Sai Varun Alapati, Indusaiteja Nadella, Phaneendra Babu Bobba, Madhur Deo Upadhayay, ?Development of wireless charging system along with power line communication used in Electric Vehicles?, 1st International Conference on Sustainable Energy and Future Electric Transportation(SeFET2019) Feb 14 -16, 2019, Hyderabad, India. https://doi.o rg/10.1051/e3sconf/20198701021.
+25.Sai Sreekar Siddula ; P.C. Jain ; Madhur Deo Upadhayay ?Real Time Monitoring and Controlling of Water Level in Dams using IoT?, 2018 IEEE 8th International Advance Computing Conference (IACC), Gr Noida, India, 14-15 Dec. 2018, pp. 14- 19. 10.1109/IADCC.2018.8692099, E-ISBN978-1-5386-6678-4.
+26. Shailendra Singh, Srikant Pal, Madhur Deo Upadhayay, ?Study of OAM Mode Purity by Changing the Orientation of Antenna Element?, 2018 3rd IEEE International Conference on Recent Trends in Electronics, Information & Communication Technology (RTEICT 2018), Sri Venkateshwara College of Engineering, Bengaluru, India, May 18-19, 2018.
+27.Vinay Sharma, Madhur Deo Upadhayay, Atul Vir Singh, ?Dumbbell Shape Antenna for MIMO Applications?, IEEE Sponsored 3rd International Conference for Convergence in Technology (I2CT) 2018, Pune, India, April 7 to 8, 2018.
+28. Sidhhant Gupta, Madhur Deo Upadhayay, Srikanta Pal, ?Graphene Based Monopole Terahertz Antennas on Polyimide Substrate?, International Conference on Advances in Communication and Computing Technology (ICACCT2018), sponsored by IEEE Bombay Section, Feb. 8 to 9, 2018, Sangamner, India Best Student paper award
+29.  Sidhhant Gupta, Madhur Deo Upadhayay, Srikanta Pal,?A Distributed MEMS Based Biosensor For Detection of Staphylococcus Aureus?, International Conference on Advances in Communication and Computing Technology (ICACCT2018), sponsored by IEEE Bombay Section, Feb. 8 to 9, 2018, Sangamner, India.
+30.Vinay Sharma, Madhur Deo Upadhayay, Atul Vir Singh, ?Step Shape Antenna for MIMO Applications?, International Symposium on Antenna Propagation 2017, Phuket, Thailand, pp 1-2, Oct 30 to Nov 2, 2017(E-ISBN 978-1-5386-0465-6, P-ISBN 978-1-5386-0466-3).
+31.Shilpam Saxena, Madhur Deo Upadhayay, Raghavendra Sharma, ?A Design of Reconfigurable Antenna Using Novel DGS with PIN Diode for Reducing Adverse Effects of Co-Site Interference and Jamming?, Fifth International Conference On Contemporary Engineering and Technology 2017 (ICCET), March 24 -25, 2017, Chennai, India.
+32.Shailendra Singh, Srikant Pal, Madhur Deo Upadhayay,? Generation of OAM Mode Using Radially Oriented Circular Array? IEEE Asia Pacific Microwave Conference (APMC 2016), pp1-4,  Dec 5 -9, 2016, Delhi, India. (E ISBN 978-1-5090-1592-4, P-ISBN 978-1-5090-1593-1).
+33.Padarthi Sindhuja, Vinay Sharma, Madhur Deo Upadhayay, Atul Vir Singh ?Simulation and Analysis of Actuation Voltage of Electrostatically Actuated RF MEMS Cantilever and Fixed ? Fixed Switches with Variable Beam Parameters? 2016 International Conference on Micro-Electronics & Telecommunication Engineering (ICMETE 2016), SRM university, Ghaziabad, India, September 22 -23, 2016, pp 450 -454. (E ISBN 978-1-5090-3411-6, P-ISBN978-1-5090-3412-3).
+34.Richa Verma, Swapnil Khilariwal, Madhur Deo Upadhayay, ?Slotted Ground Circular Antenna for Personal Communication System (PCS) & Broadcasting?, IEEE international Conference on Recent Trends in Electronics Information Communication Technology (RTEICT 2016), pp1444 to 1447 May 20-21,2016, SVCE, Bangalore, India.E ISBN 978-1-5090-0774-5.
+35.Swapnil Khilariwal, Richa Verma, Madhur Deo Upadhayay, ?Design of Notch Antenna for 5GHz High Speed LAN?, IEEE international Conference on Wireless Communications, Signal Processing and Networking (WiSPNET 2016), pp999 to 1002 March 23-25,2016, Sri Sivasubramaniya Nadar College of Engineering, Chennai-603110, India E ISBN 978-1-4673-9338-6.
+36.Madhur Deo Upadhayay, Ananjan Basu, M P Abegaonkar, Shiban K Koul, ?Injection Locking in Active Antenna ?, International Symposium on Antennas and Propagation, 9-12th November 2015, pp 1 to 4, Hobart, Tasmania, Australia. ISBN 978-4-8855-2303-8.
+37.Vikas K Rai, Mithilesh Kumar, Madhur Deo Upadhayay, ?Design UWB Antenna for Short Distance Wireless Communication System? IEEE International Conference on Computational Intelligence and Communication Networks (CICN-2015), Jabalpur, India, Dec.12 -14, 2015, pp 16 to 19. DOI: 10.1109/CICN.2015.12, E ISSN 2472-7555
+38. Vikas K Rai, Mithilesh Kumar, Madhur Deo Upadhayay, ?Design of Compact Ultra Wide Band Antenna for Wireless Communication System? 6th International Conference on Computer and Communication Technology (ICCCT-15), MNNIT Allahabad, India, pp. 433-436, Sept 25 ? 27, 2015. Published at ACM New York, NY, USA ?2015 ACM New York, NY, USA ?2015, ISBN: 978-1-4503-3552-2, doi>10.1145/2818567.2818688.
+39.Madhur Deo Upadhayay, Ananjan Basu, M P Abegaonkar, Shiban K Koul, ?Frequency Switchable Active Antenna? 4th IEEE Asia Pacific Conference on Antenna Propagation (APCAP 2015), Bali, Indonesia, June 30 ? July 03, 2015, pp 425-426.EISBN 978-1-4799-8897-6.
+40.Hridesh Verma, Mithilesh Kumar, R S Meena, Madhur Deo, Upadhayay,? Re-configurable Ring Resonator for Oscillator Application,? 2015 International Conference on Futuristic Trends in Computational Analysis and Knowledge Management (ABLAZE 2015), Feb. 25- 27 2015, pp 548-551. DOI: 10.1109/ABLAZE.2015.7154922, EISBN 978-1-4799-8433-6.
+41.Hridesh Verma, Mithilesh Kumar, R S Meena, Madhur Deo Upadhayay,? Tunable Ring Resonator for Oscillator Application,? 5th International Conference on Advanced Computing & Communication Technologies (ACCT 2015), Rohtak, Feb. 21-22, 2015, pp. 26-29, DOI: 10.1109/ACCT.2015.39.EISSN 2327-0659.
+42.Jyotirmoy Dutta, Atul Vir Singh, Sonal Singhal, Madhur Deo Upadhayay ?Design and Simulation of a Film Bulk Acoustic Resonator based RF filter for Broadband PCS system" International Conference on MEMS and Sensor (ICMEMSS2014), IIT Madras, 18-20 Dec. 2014.
+43.Jyotirmoy Dutta, Atul Vir Singh, Sonal Singhal, Madhur Deo Upadhayay, ?MBVD Equivalent Model of a ZnO/Al Based Film Bulk Acoustic Resonator for Microwave Filter Applications? Seventh ISSS International Conference on Smart Materials Structures and Systems ISSS 2014, IISc, Bangalore, India, July 08-11, 2014.
+44.Madhur Deo Upadhayay, Mahesh P. Abegaonkar, Ananjan Basu and Shiban K. Koul ?Circular Polarised Dual Port Annular Slot Antenna? IEEE International Wireless Symposium (IWS-2014), Xian, China, 24-26 March 2014. pp1 to 4, 10.1109/IEEE-IWS.2014.6864272, E ISBN 978-1-4799-3403-4.
+45. D Joshi, Madhur Deo Upadhayay, S D Joshi, ?Robust language and speaker identification using image processing techniques combined with PCA? , IEEE International Conference on Signal Processing and Communication (ICSC-2013), JIIT Noida, India, Dec. 12-14, 2013, pp.213-218.ISBN 978-1-4799-1605-4.
+46.Kiran P Singh, Anurag Paliwal, M. D. Upadhayay, ?Novel Design of Passive Mixer for Communication System?, Proceedings of the 2013 Third International Conference on Advanced Computing & Communication Technologies (ACCT? 13), Rohtak, India, April 6-7, 2013, pp. 202-207, ISBN: 978-0-7695-4941-5.
+47.  Kiran Singh, Anurag Paliwal and M. D. Upadhayay ?Novel approach for Loss Reduction in LPF for Sattelite Commnuication System? in 3rd IEEE International Advance Computing Conference (IACC-2013), Ghaziabad, India, February 22-23, 2013, pp.207-211. E ISBN 978-1-4673-4529-3.
+48.Kiran Singh, Madhur Deo Upadhayay ?Ultra-Wide Band Power Divider for Communication System? in International Conference on Microwaves Antenna, Propagation and Remote Sensing (ICMARS 2012), Jodhpur, India, Dec.11-15, 2012.
+49.Madhur Deo Upadhayay ?Multiband Frequency Reconfigurable Antenna? in National level Seminar on ? Future Trends in Technology & Management? Sachdeva Institute of Technology, India, March 2, 2012.
+50.Madhur Deo Upadhayay, Mahesh P. Abegaonkar, Ananjan Basu and Shiban K. Koul ?Dual Frequency Active Antenna? presented in IEEE Applied Electromagnetics Conference (AEMC-2011), Kolkata, India, 18-22 Dec. 2011, pp. 1 to 4. E/P ISBN 978-1-4577-1099-5/8. IEEE DOI 10.1109/AEMC.2011.6256826.
+51. Kiran Singh, Anurag Paliwal and Madhur Deo Upadhayay ?Loss Reduction in Low Pass Filter Using Defected Ground Structure? in International Conference on Microwaves Antenna, Propagation and Remote Sensing (ICMARS 2011), Jodhpur, India, Dec.7-10, 2011, pg 161-162.
+52.Madhur Deo Upadhayay, Mahesh P. Abegaonkar, Ananjan Basu and Shiban K. Koul ?Rectangular Slot Resonator for Frequency Reconfigurable Active Antenna? published in International Symposium on Antenna and Propagation (ISAP-2011), Jeju, South Korea, 25-28 October 2011. ISBN 9781424495610.
+53.Mithilesh Kumar, Madhur Deo Upadhayay and Harish Kumar ?Frequency Tunable Patch Antenna? in National Conference on Power and Energy Systems 2011 (NCPES-2011), RTU, Kota, India, April 23-24, 2011, PP.33.
+54.Kiran Singh, Namrata Parik and Madhur Deo Upadhayay ?Utilisation of Demerits of EM Radiation against Harmful Insects? in International Conference on Microwaves Antenna, Propagation and Remote Sensing (ICMARS 2010), Jodhpur, India, Dec.14-17, 2010.
+55.Kiran Singh, Ripu Sudana and Madhur Deo Upadhayay ?Behavioural Change of Insects on Exposure to EM Radiation? in National Conference on Advances in Video, Cyber Learning and Electronics 2010 (ADVICE-2010), NITTTR, Chandigrah, India, Feb. 18-19, 2010, PP.607-613.
+56.Mithilesh Kumar, Madhur Deo Upadhayay and Satish Chand Gupta ?Slotted Ground Rectangular Microstrip Patch Antenna? in National Conference on Advances in Video, Cyber Learning and Electronics 2010 (ADVICE-2010), NITTTR, Chandigrah, India, Feb. 18-19,2010, PP.333-341.
+57.   Kiran Singh, Ripu Sudana and Madhur Deo Upadhayay ?Biological Effects Of EM Radiations? in International conference on microwaves antenna, propagation and remote sensing (ICMARS 2009), Jodhpur, India, Dec.19-21, 2009 pg. 134.
+58.Mithilesh Kumar, Madhur Deo Upadhayay ?Multiple Frequencies Integrated Antenna for Radiation? in International conference on microwaves antenna, propagation and remote sensing (ICMARS 2009), Jodhpur, India, Dec.19-21, 2009 pg. 62.
+59.Madhur Deo Upadhayay, Mahesh P. Abegaonkar, Ananjan Basu and Shiban K. Koul ?Dual Port ASA for Frequency Switchable Active Antenna? in Asia Pacific Microwave Conference (APMC), 2009, Singapore, 7- 10 December 2009, pp. 2722-2725. Citations 2 E-ISSN 2165-4743.
+60.Madhur Deo Upadhayay, Mahesh P. Abegaonkar, Shiban K. Koul and Ananjan Basu ?Dual Frequency Three Port Antenna for FSK Active Antenna? International Symposium on Antenna and Propagation (ISAP-2009), Bangkok, Thailand, 20-23 October 2009, pp.1055-1058.ISBN 9786167262093 Citation 1.
+61. Kiran Singh, Pradeep C. and Madhur Deo Upadhayay ?10 Way Willkinson Power Divider? National conference on advanced in communication technologies & application ? NCACA2009, Udaipur, India, 12- 14 May 2009, pp.320-325.
+62.Madhur Deo Upadhayay, Mahesh P. Abegaonkar, Shiban K Koul and Ananjan Basu ?Dual Port Dual Frequency Radiator for Active Antenna Application? National conference on advanced in communication technologies & application ? NCACA2009, Udaipur, India, 12- 14 May 2009, pp.117-120.
+63.  Madhur Deo Upadhayay, Mithilesh Kumar ?RF Amplifier Design using BJT? International conference on emerging & futuristic system and technology, Alwar, India, April 09-11, 2009, LIET Alwar, and sponsored by IE, India, pp.574.
+64. Madhur Deo Upadhayay, Mithilesh Kumar ?Planar Antennas? National Conference on Recent Trends in Communication & Electronic Design, Alwar, India, 7 March 2009, sponsored by IEEE MTTS Delhi Chapter.
+65. Madhur Deo Upadhayay, Mahesh P. Abegaonkar and Ananjan Basu ?Dual Port Frequency Reconfigurable Radiator for Active Antenna Application? National Symposium on Antenna and Propagation - APSYM 2008, Cochin, India, pp. 73-76, 29- 31 December 2008. ISBN 978-81-906050-6-9.

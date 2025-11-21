@@ -1,0 +1,53 @@
+================================================================================
+Ajit Kumar
+================================================================================
+
+Faculty at School of Natural Sciences
+
+Research Interest
+--------------------------------------------------------------------------------
+Machine Learning
+Reinforcement Learning
+Large Language Models (LLMs)
+Agentic AI
+
+Education
+--------------------------------------------------------------------------------
+2011, Ph.D., Mathematics, University of Houston
+
+Area of Expertise
+--------------------------------------------------------------------------------
+PyTorch
+RLlib
+LangChain
+LangGraph
+Moodle Plugins
+
+Journal Publications
+--------------------------------------------------------------------------------
+Renu Saraswat, Ajit Kumar
+Stock Price Forecasting With Integration of Sectoral Behavior: A Deep Auto-Optimized Multimodal Framework.
+2025
+Amrita Singh, Ajit Kumar, Snehasis Mukherjee, Naga Suresh Veerapu
+Automatic Detection of Virus Infection Patterns in Foci Images Using Switchable Convolutions.
+2024
+Praveen L., A. Kumar, S. Mitra
+A Numerical Study Toward Harvesting Power From Train Slipstream Using Savonius Rotor
+.
+Journal of Energy Resource Technology
+. May 2020
+Praveen L., J. S. Saini, A. Kumar, S. Mitra
+Improvement in Savonius Wind Turbines Efficiency by Modification of Blade Designs—A Numerical Study
+.
+Journal of Energy Resource Technology
+. June 2020
+Veliz-Cuba, A. Kumar, K. Josic.
+Piecewise linear and boolean models of chemical reaction networks
+.
+Bulletin of Mathematical Biology
+. Volume 76-12. Pages 2945-2984. 2014
+A. Kumar and K. Josic.
+Reduced models of networks of coupled enzymatic reactions
+.
+Journal of Theoretical Biology
+. Volume 278-1. Pages 87-106. 2011

@@ -1,0 +1,61 @@
+================================================================================
+Biswajit Guchhait
+================================================================================
+
+Faculty at School of Natural Sciences
+
+Research Interest
+--------------------------------------------------------------------------------
+Ultrafast spectroscopy, Chemical dynamics in solution, Deep eutectic solvents, and Molecular dynamics simulation
+
+Education
+--------------------------------------------------------------------------------
+2013
+, Ph.D., S.N. Bose National Center, Kolkata
+2007
+, M.Sc., Vidyasagar University, West Bengal, India
+2005
+, B.Sc., Vidyasagar University, West Bengal, India
+
+Work Experience
+--------------------------------------------------------------------------------
+10/13-07/16
+Postdoctoral Research Fellow, Max-Born-Institute for Nonlinear Optics and Short Pulse Spectroscopy, Berlin, Germany
+10/16-05/18
+Postdoctoral Research Fellow, Colorado State University, Fort Collins, USA
+08/18-06/19
+Postdoctoral Research Fellow, Ruhr University Bochum, Bochum, Germany
+
+Awards
+--------------------------------------------------------------------------------
+2006
+, National Eligibility Test, NET (CSIR fellowship award for JRF)
+2007
+, Graduate Aptitude Test in Engineering, GATE (all India rank 2nd in Chemistry)
+2008
+, National Eligibility Test, NET (CSIR fellowship award for JRF, 2nd time)
+2009
+, Best Poster Award in annual meeting of S N Bose National Centre, Kolkata
+2011
+, SERC Fellowship for international travel, DST, New Delhi, India
+
+Journal Publications
+--------------------------------------------------------------------------------
+Sushila, Rafia Siddiqui, Sayan Patra, Kumar Shivam, Arnab Sil, Biswajit Guchhait, Haiquan Tian, Ramesh Kataria, Soumyabrata Goswami, Paloth Venugopalan, and Ranjan Patra, Halogen bond mediated self-assembly of mononuclear lanthanide complexes: Perception of supramolecular interactions, slow magnetic relaxation and photoluminescence properties. Inorganic Chemistry, 61, 2022, 11484.
+Fabio Novelli*, Biswajit Guchhait*, Martina Havenith Towards Intense THz Spectroscopy on Water: Characterization of Optical Rectification by GaP, OH1, and DSTMS at OPA Wavelengths. Materials, 13, 2020, 1311 (*co-first authors).
+Biswajit Guchhait*, Clara A. Tibbetts, Kathryn M. Tracy, Bradley M. Luther, Amber T. Krummel* Ultrafast vibrational dynamics of a trigonal planar anionic probe in ionic liquids (ILs): A Two-dimensional infrared (2DIR) spectroscopic investigation. Journal of Chemical Physics, 152, 2020, 164501. (*for correspondence).
+Kathryn M. Tracy*, Biswajit Guchhait*, Clara A. Tibbetts, Bradley M. Luther and Amber T. Krummel Visualizing chemical dynamics in an ionic liquid microdroplet using ultrafast 2D IR microscopy. ChemRxiv 2019 DOI: https://doi.org/10.26434/chemrxiv.9936464.v1 (*co-first authors).
+Yingliang Liu*, Biswajit Guchhait*, Torsten Siebert, Benjamin Fingerhut, Thomas Elsaesser Molecular Coupling and Energy Exchange Between DNA and Water Mapped by Femtosecond Infrared Spectroscopy of Backbone Vibrations. Structural Dynamics, 4, 2017, 044015 (*Co-first Authors).
+Torsten Siebert*, Biswajit Guchhait*, Yingliang Liu, Benjamin Fingerhut, Thomas Elsaesser Range, Magnitude, and Ultrafast Dynamics of Electric Fields at the Hydrated DNA Surface. Journal of Physical Chemistry Letters, 7, 2016, 3131 (*Co-first Authors). Spotlight article. In Phys.org, ScienceDaily.
+Biswajit Guchhait, Yingliang Liu, Torsten Siebert Thomas Elsaesser Ultrafast Vibrational Dynamics of the DNA Backbone at Different Hydration Levels Mapped by Two-Dimensional Infrared Spectroscopy. Structural Dynamics, 3, 2016, 043202. Most read and highly cited article. In AIP News, Phys.org, ScienceDaily.
+Biswajit Guchhait, Yingliang Liu, Torsten Siebert, Thomas Elsaesser Hydration of Native DNA: Ultrafast Structural Dynamics and Short-Range Electric Fields. Proceedings International Conference on Ultrafast Phenomena, UM4A. 5, 2016.
+Sandipa Indra, Biswajit Guchhait, Ranjit Biswas Structural Anomaly and Dynamic Heterogeneity in Cycloether/Water Binary Mixtures: Signatures from Composition Dependent Dynamic Fluorescence Measurements and Computer Simulations. Journal of Chemical Physics, 144, 2016, 124506.
+Torsten Siebert, Biswajit Guchhait, Yingliang Liu, Rene Costard, Thomas Elsaesser Anharmonic Backbone Vibrations in Ultrafast Processes at the DNA-Water Interface. Journal of Physical Chemistry B, 119, 2015, 9670.
+
+Working Papers / Monographs / Policy Papers / Case Studies
+--------------------------------------------------------------------------------
+Arnab Sil, Suman Das, Biswajit Guchhait, Ion clustering and diffusion in amide-based ionic deep eutectic solvents: A microstructural investigation using NMR spectroscopy and molecular dynamics simulation, Journal of Physical Chemistry B, 2022 (to be submitted soon).
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances
+--------------------------------------------------------------------------------
+Title: Photoinduced Charge Transfer and Forster Energy Transfer Dynamics in Supported Ionic Liquid Membranes PI: Biswajit Guchhait Funding Agency: DST-SERB Amount Sanctioned: INR ~27,00,000.00, duration: (2021-2023).

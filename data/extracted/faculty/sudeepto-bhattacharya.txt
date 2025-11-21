@@ -1,0 +1,82 @@
+================================================================================
+Sudeepto Bhattacharya
+================================================================================
+
+Faculty at School of Natural Sciences
+
+Research Interest
+--------------------------------------------------------------------------------
+Ecological applications of complex networks
+Simplicial structures in complex networks
+Applications of complex networks in modelling biological and social-ecological systems
+Mathematical foundations of complex systems
+Biological and social applications?of classical and evolutionary game theory
+
+Education
+--------------------------------------------------------------------------------
+Ph.D., students (since 2014, degree awarded): Shashankaditya Upadhyay (Presently Postdoctoral Fellow, IIT Delhi) Rinku Sharma (joint supervision) (Presently Postdoctoral Fellow, Harvard University, USA) Aniruddha Deka (joint supervision) (Presently Postdoctoral Fellow, Pennsylvania State University, USA)
+
+Work Experience
+--------------------------------------------------------------------------------
+Not available
+
+Area of Expertise
+--------------------------------------------------------------------------------
+Mathematical Modelling
+Network Science
+
+Awards
+--------------------------------------------------------------------------------
+Not available
+
+Journal Publications
+--------------------------------------------------------------------------------
+Nupur Rautela, Saurabh Shanu, Alok Agarwal, Sudeepto Bhattacharya, Arijit Roy. Geospatial Modelling of Overlapping Habitats for Identification of Tiger Corridor Networks in the Terai Arc Landscape of India. Geocarto International. DOI: https://doi.org/10.1080/10106049.2022.2095444, 2022.
+Rinku Sharma, Shashankaditya Upadhyay, Sudeepto Bhattacharya, Ashutosh Singh. Abiotic stress responsive miRNA and transcription factor mediated gene regulatory network in Oryza sativa: Construction and structural measure study. Frontiers in Genetics 12:618089.  DOI: 10.3389/fgene.2021.618089, 2021.
+Rinku Sharma, Shashankaditya Upadhyay, Bashrat Bhat, Garima Singh, Sudeepto Bhattacharya, Ashutosh Singh. Abiotic stress induced miRNA-TF-gene regulatory network: A structural perspective. Genomics 112: 412 ? 422, 2020.
+Shashankaditya Upadhayay, Tamali Mandal, Arijit Roy, Prasad Pathak, Girish Agarwal, Sudeepto Bhattacharya. A network theoretic study of potential invasion and spread of Lantana camara in a part of Rajaji Tiger Reserve, India. Ecological Complexity 40: 100793, 2019.
+Saurabh Shanu, Jobin Idiculla, Qamar Qureshi, Yadvendradev Jhala, Amit Aggarwal, Priti Dimri, Sudeepto Bhattacharya. A graph theoretic approach for modelling tiger corridor network in Central India-Eastern Ghats landscape complex, India. Ecological Informatics 50: 76 ? 85, 2019.
+Rinku Sharma, Garima Singh, Sudeepto Bhattacharya, Ashutosh Singh.    
+Comparative transcriptome meta-analysis of Arabdopsis thaliana under draught and cold stress. PLOS ONE. DOI: 10.1371/1/journal.pone.0203266, 2018.
+S. Upadhyay, A. Roy, M. Ramprakash, J. Idiculla, A. S. Kumar, S. Bhattacharya. A structural perspective on ecological connectivity in Western Himalayas. Proceedings of SIAM Conference on Mathematics of Planet Earth 2018, Philadelphia, USA, September 2018, SIAM, 2018.
+Shashankaditya Upadhyay, Arijit Roy, M. Ramprakash, Jobin Idiculla, A. Senthil Kumar, Sudeepto Bhattacharya. A network theoretic study of ecological connectivity in Western Himalayas. Ecological Modelling 359: 246 ? 257, 2017.
+Saurabh Shanu, Sudeepto Bhattacharya. A computational approach for designing tiger corridors in India. P. Bhattacharya et al. (Eds.) Proceedings of 3rd International Conference on Next Generation Computing 2017, Springer, 2017.
+Ganesh Prabhu, Sudeepto Bhattacharya, Michael P. Krein, N. Sukumar. Investigating of similarity and diversity threshold networks generated from diversity-oriented and focussed chemical libraries. Journal of Mathematical Chemistry. DOI: 10.1007/s10910-016-0657-0, 2016.
+Arijit Roy, Sudeepto Bhattacharya, M. Ramprakash, A. Senthil Kumar. Modelling critical patches of connectivity for invasive Maling bamboo (Yushania maling) in Darjeeling Himalayas using graph theoretic approach. Ecological Modelling 329: 77 ? 85, 2016.
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+Udit Raj, Moumita Karmakar, Sudeepto Bhattacharya. Simplicial structures in ecological networks. International Conference on Advances in Mechanics, Modelling, Computing and Statistics (ICAMMCS-2022), BITS Pilani, India, March 2022.
+Saurabh Shanu, Nupur Rautela, Arijit Roy, Sudeepto Bhattacharya. A graph theoretic approach for modelling tiger corridor networks in Terai Arc Landscape Complex, India. International Society for Ecological Modelling Global Conference, Salzburg, Austria, October 2019.
+Saurabh Shanu, Nupur Rautela, Arijit Roy, Sudeepto Bhattacharya. A graph theoretic approach for modelling tiger corridor network in Terai Arc Landscape. Second International Conference on Applications of Mathematics to Nonlinear Sciences, Tribhuvan University, Kathmandu, Nepal, June 2019.
+Some ecological applications of complex networks. Invited talk delivered at Joint Five Days National Workshop on Advances in Mathematical Sciences and Applications, Organised by The Indian Mathematics Consortium-Dayalbagh Educational Institute, Agra, India, April 2019.
+Some algebraic explorations in the structure of undirected graphs. Invited talk delivered at Joint Five Days National Workshop on Advances in Mathematical Sciences and Applications, Organised by The Indian Mathematics Consortium-Dayalbagh Educational Institute, Agra, India, April 2019.
+Ranjini Bhattacharya, Rupa Mishra, Sudeepto Bhattacharya, Anindita Chakrabarty. Interpreting the secretome-mediated cross-talk between cells participating in therapy-induced senescence: An evolutionary game-theoretic perspective. International Conference on Multiscale Simulation & Mathematical Modelling of Complex Biological Systems, Jawaharlal Nehru University, New Delhi, India, January 2019.
+S. Upadhyay, S. Bhattacharya. A comparative study of ecological networks using spectral projections of normalized graph Laplacian. International Conference on Applied and Computational Mathematics, Indian Institute of Technology, Kharagpur, India, November 2018.
+S. Upadhyay, S. Bhattacharya. A spectral graph theoretic study of food web networks.International Conference on Recent Advances in Pure and Applied Mathematics, Delhi Technological University, New Delhi, India, October 2018.
+S. Upadhyay, A. Roy, M. Ramprakash, J. Idiculla, A. S. Kumar, S. Bhattacharya. A structural perspective on ecological connectivity in Western Himalayas. SIAM Conference on Mathematics of Planet Earth 2018, Philadelphia, USA, September 2018.
+Saurabh Shanu, Sudeepto Bhattacharya, Ajay Prasad. Self-Organized Bacterial Evolutionary Dynamics: Fractal Characteristics. International Conference, Intelligent Communication, Control, Devices ICICCD 2017, Dehradun, India, December 2017.
+Shashankaditya Upadhayay, Prasad A. Pathak, Girish Agrawal, Sudeepto Bhattacharya. A network-theoretic modelling of spatial distribution of Lantana camara in Rajaji Tiger Reserve, India. The International Society for Ecological Modelling Global Conference, Jeju, Korea, September 2017.
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances
+--------------------------------------------------------------------------------
+Title: A study of community-based resource management of water in the Uttarakhand Himalayas: A network-theoretic perspective
+Role: Principal Investigator (Co-PI: Moumita Karmakar & Ajay Dandekar, C-PACT, Shiv Nadar University)
+Duration: May 2019 ? May 2022 (Extended)
+Funding agency: IDRC, Government of Canada. Status: Completed.
+Title: Exploring the applications of chemical space networks in molecular library design and drug design
+Role: Co-Principal Investigator (PI: N. Sukumar, Co-PI: Subhabrata Sen, Department of Chemistry, Shiv Nadar University)
+Duration: September 2018 ? April 2022
+Funding agency: DST-SERB, Government of India. Status: Completed.
+Title: Complexity, water, pastoralism and adaptation: Arid region study of Ramgarh area in the Thar region
+Role: Principal Investigator (jointly with Ajay Dandekar, C-PACT, Shiv Nadar University); (Co-PI: Rahul Ghai, IIHMR University)
+Duration: February 2021 ? December 2022
+Funding agency: IDRC, Government of Canada. Status: Ongoing.
+Title: Operationalisation of Socio-Ecological Approach to Livelihoods
+Role: Co-Principal Investigator (PI: Rajeswari Raina, Department of IRGS, Co-PI: Saptarshi Ghosh & Suchishmita Tarafdar, Department of Economics, Shiv Nadar University) 
+Duration: June 2017 ? June 2018
+Funding agency: Foundation for Ecological Security & The David and Lucile Packard Foundation. Status: Completed.
+Title: Pilot Project on Identi?cation of lantana network elements in Rajaji Tiger Reserve, Uttarakhand
+Role: Principal Investigator (Co-PI: Prasad Pathak & Girish Agarwal, Department of Civil Engineering, Shiv Nadar University)
+Duration: November 2015 ? August 2016
+Funding agency: Shiv Nadar University. Status: Completed.

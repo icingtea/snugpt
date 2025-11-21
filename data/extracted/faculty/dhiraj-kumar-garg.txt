@@ -1,0 +1,78 @@
+================================================================================
+Dhiraj Kumar Garg
+================================================================================
+
+Faculty at School of Engineering
+
+Research Interest
+--------------------------------------------------------------------------------
+Numerical Modeling and Simulation, Computational Fluid Dynamics (CFD), Polymerization Reaction (Free radical polymerization), Coiled Flow Inverter Microreactors (CFIM), Chaotic Advection, Process Intensification, Process Safety, Process System Dynamics and Control, Process Engineering, and Heat Transfer-Heat Exchanger Design
+Know more:
+Click here
+
+Education
+--------------------------------------------------------------------------------
+2014
+, Ph.D., (Process Engineering/Process simulation), University of Strasbourg, France
+2010
+, M.Tech., (Chemical Engineering), Indian Institute of Technology Delhi, India
+2003
+, B.Tech., (Chemical Engineering), Guru Gobind Singh Indraprastha University (GGSIPU), Delhi, India
+
+Work Experience
+--------------------------------------------------------------------------------
+2015-Till date
+Assistant Professor, Department of Chemical Engineering, Shiv Nadar University, Delhi-NCR
+2008
+Scientific Officer-D, Nuclear Power Corporation of India Ltd.
+
+Awards
+--------------------------------------------------------------------------------
+2016
+, Project grant (INR 17.6 lakh) under Young Scientist Scheme (No. YSS/2015/002088) in 2015 for three years
+2015
+, International travel grant for young scientist awarded by DST for attending conference Pacifichem 2015 (15th -20th Dec, 2015) in Honolulu, Hawaii, USA
+2012
+, ISCRE Poster Award for poster titled, Improvement of the control of polymer architectures by means of a coil flow inverter microreactor authored by D. Parida, C.A. Serra, Y. Hoarau, D.K. Garg, at ISCRE 22, 22nd International Symposium on Chemical Reaction Engineering, 02-05 Sep 2012, Maastricht, The Netherlands.
+2006
+, Got an outstanding promotion to SO-D in 2006 during work tenure in NPCIL
+2003
+, University Topper in B.Tech. (Chemical Engineering), GGSIP University, 2003
+
+Journal Publications
+--------------------------------------------------------------------------------
+D.K. Garg, C.A. Serra, Y. Hoarau, D. Parida, M. Bouquey, R. Muller, Numerical Investigations of Perfectly Mixed Condition at The Inlet of Free Radical Polymerization Tubular Microreactors of Different Geometries. Macromol Theor Simul, 17 July 2020, https://doi.org/10.1002/mats.202000030. Impact factor- 1.636.
+D.K. Garg, C.A. Serra, Y. Hoarau, D. Parida, M. Bouquey, R. Muller, Numerical Investigations of Different Tubular Microreactor Geometries for The Synthesis of Polymers Under Unmixed Feed Condition. Macromol Theor Simul, 02 Jun-2020, https://doi.org/10.1002/mats.202000008. Impact factor-1.636.
+D.K. Garg, C.A. Serra, Y. Hoarau, D. Parida, M. Bouquey, R. Muller, New Transformation Proposed for Improving CFD Simulation of Free Radical Polymerization Reactions in Microreactors. Microfluid Nanofluid, 14 Dec-2014, 18 (5-6), 1287-1297. DOI: 10.1007/s10404-014-1527-3. Impact factor-2.384. Citations-3.
+D.K. Garg, C.A. Serra, Y. Hoarau, D. Parida, M. Bouquey, R. Muller, Analytical Solution of Free Radical Polymerization: Applications-Implementing Non-isothermal Effect. Macromolecules, 02 Dec-2014, 47 (24), 8514-8523. DOI: 10.1021/ma501964h. Impact factor-5.914. Citations-2.
+D.K. Garg, C.A. Serra, Y. Hoarau, D. Parida, M. Bouquey, R. Muller, Analytical Solution of Free Radical Polymerization: Applications-Implementing Gel Effect Using CCS Model. Macromolecules, 18 Nov-2014, 47 (23), 8178-8189. DOI: 10.1021/ma501251j. Impact factor-5.914. Citations-13.
+D.K. Garg, C.A. Serra, Y. Hoarau, D. Parida, M. Bouquey, R. Muller, Analytical Solution of Free Radical Polymerization: Applications-Implementing Gel Effect Using AK Model. Macromolecules, 27 Oct-2014, 47 (21), 7370-7377. Impact factor-5.914. Citations-9.
+D.K. Garg, C.A. Serra, Y. Hoarau, D. Parida, M. Bouquey, R. Muller, Analytical Solution of Free Radical Polymerization: Derivation and Validation. Macromolecules, 01 Jul-2014, 47 (14), 4567-4586. Impact factor-5.914. Citations-14.
+D. Parida, C.A. Serra, D.K. Garg, Y. Hoarau, R. Muller, M. Bouquey, Flow Inversion: an Effective Means to Scale-up Controlled Radical Polymerization Tubular Microreactors, Macromolecular Reaction Engineering, 09 May-2014, 8 (8),597-603. Impact factor-1.543. Citations-19.
+D. Parida, C.A. Serra, F. Bally, D.K. Garg, Y. Hoarau, F. Bally, R. Muller, M. Bouquey, Coil Flow Inversion as a Route to Control Polymerization in Microreactors, Macromolecules, 06 May 2014, 47 (10), 3282-3287. Impact factor-5.914. Citations-36.
+D. Parida, C.A. Serra, R.I. Gmez, D.K. Garg, Y. Hoarau, M. Bouquey, R. Muller, Atom Transfer Radical Polymerization in Continuous-Microflow: Effect of Process Parameters, Journal of Flow Chemistry, 28 Apr-2014, 4 (2), 92-96. Impact factor-1.658. Citations-6.
+D. Parida, C.A. Serra, F. Bally, D.K. Garg, Y. Hoarau, Intensifying The ATRP Synthesis of Statistical Copolymers by Continuous Micromixing Flow Techniques. Green Processing and Synthesis, 21 Nov 2012, 1 (6), 525-532. Impact factor-0.782. Citations-14.
+F. Bally, D.K. Garg, C.A. Serra, Y. Hoarau, C. Brochon, D. Parida, T. Vandamme, G. Hadziioannou, N. Anton, Improved Size-Tunable Preparation of Polymeric Nanoparticles by Microuidic Nanoprecipitation. Polymer, 12 Oct-2012, 53 (22), 5045-5051. Impact factor-3.364. Citations-62.
+
+Books and Book Chapters (Authored / Edited / Reviewed)
+--------------------------------------------------------------------------------
+C. A. Serra, D. Parida, F. Bally, D.K. Garg, Y. Hoarau, V. Hessel, Micro-Chemical Plants, Chapter in Encyclopedia of Polymer Science and Technology; 4th ed., 06 Sep 2013, Wiley-VCH, Weinheim (Germany), DOI: 10.1002/0471440264.pst612. Citations-2.
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+DP Rao, Shachi Shanbaug, D. Garg, S Kumar, Errors in the Prediction of Irrigated Pressure Drop, Holdup, and Flooding Velocity By Stichlmair, Bravo and FAIR (GAS SEP AND PURIF. 3,19-28(1989), AIChE Annual Meeting 2020, 16-20 Nov 2020, Virtual, USA.
+D.K. Garg, C.A. Serra, Y. Hoarau, Semi-Batch Free Radical Polymerization Reactor Modelling and Simulation Using Analytical Solution, Advancements in Polymeric Materials APM 2017, 11-13 Feb 2017, Bengaluru, India.
+D.K. Garg, C.A. Serra, Y. Hoarau, D. Parida, M. Bouquey, R. Muller, Analytical solution of free radical polymerization: Application to the numerical modeling and simulation of polymerization reactions in coiled flow inverters, Pacifichem 2015, 13th - 20th Dec 2015, Honolulu, Hawaii, USA.
+D.K. Garg, Y. Hoarau, C.A. Serra, Numerical Modelling and Simulation of Semi-Batch Free Radical Polymerization Reactor Operation Using Analytical Solution with AK Gel Model, AIChE Annual Meeting 2015, 08-13th Nov 2015, Salt Lake City, UT, USA.
+D.K. Garg, Y. Hoarau, C.A. Serra, Algorithm to Deal with Very Large and Very Small Numbers to Enable Utilization of Analytical Solution of Free Radical Polymerization during Gel Effect, AIChE Annual Meeting 2015, 08-13th Nov 2015, Salt Lake City, UT, USA.
+D.K. Garg, Y. Hoarau, C.A. Serra, D. Parida, Derivation of analytical solution for the Free Radical Polymerization reaction conducted in a constant volume, isothermal, well mixed batch reactor and its applications to CFD modelling, WCCE9, 9th World Congress of Chemical Engineering, 18-23 Aug 2013, Seoul, South Korea.
+D.K. Garg, Y. Hoarau, C.A. Serra, D. Parida, Analytical solution of FRP for constant volume, isothermal, well mixed batch reactor and its application, WPPRE 2013, 2nd Working Party on Polymer Reaction Engineering, 24-26 May 2013, Hamburg, Germany.
+D.K. Garg, Y. Hoarau, C.A. Serra, D. Parida, Numerical simulation of polymerization reactions in tubular microsystems: effect of reactor geometry, WPPRE 2012, 1st Working Party on Polymer Reaction Engineering, 11-13 Oct 2012, Lyon, France.
+D.K. Garg, Y. Hoarau, C.A. Serra, D. Parida, Flow improving polymerization reactions in coil flow inverter, EFMC9, 9th European Fluid Mechanics Conference, 09-13 Sep 2012, Rome, Italy.
+D.K. Garg, Y. Hoarau, C.A. Serra, D. Parida, Numerical modelling of polymerization reactions in different tubular microreactor geometries, ISCRE22, 22nd International Symposium on Chemical Reaction Engineering, 02-05 Sep 2012, Maastricht, The Netherlands.
+D.K. Garg, Y. Hoarau, C.A. Serra, D. Parida, Numerical investigations of different microreactor geometries for the synthesis of polymers, CHISA 2012, 20th International Congress of Chemical and Process Engineering, 25-29 Aug 2012, Prague, Czech Republic.
+D.K. Garg, Y. Hoarau, C.A. Serra, Numerical modeling of polymerization reaction in CFI, CFM 2011, XXème Congrès Français de Mécanique, 28 Aug-02 Sep 2011, Besançon, France.
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances
+--------------------------------------------------------------------------------
+Title-Numerical Study and Analysis of Chaotic Advection During Free Radical Polymerization Reactions in Coiled Flow Inverter Microreactor, PI- Dr. Dhiraj Garg, DST SERB, INR17.6 lakh, 3 years (05 Apr 2016-4 Apr 2019).

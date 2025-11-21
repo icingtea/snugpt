@@ -1,0 +1,47 @@
+================================================================================
+Sonia Khetarpaul
+================================================================================
+
+Faculty at School of Engineering
+
+Research Interest
+--------------------------------------------------------------------------------
+Querying and mining Spatio-Temporal Data, Social Network Analysis, NLP, and Information Retrieval
+Know more:
+Click here
+
+Education
+--------------------------------------------------------------------------------
+2016, Ph.D., Indian Institute of Technology, Delhi, India
+2004, M.Tech., (IT), Guru Gobind Singh Indraprastha University, Delhi
+
+Work Experience
+--------------------------------------------------------------------------------
+06/17-Present, Assistant Professor, Shiv Nadar University, Gautam Buddha Nagar, Uttar Pradesh
+12/09-11/15, Teaching Assistant, IIT Delhi, Delhi
+06/05-11/09, Assistant Professor, Northern India Engineering College, Delhi
+06/01-05/04, Lecturer, Guru Premsukh Memorial College of Engineering, Delhi
+
+Awards
+--------------------------------------------------------------------------------
+2010, Received IBM PhD Fellowship
+
+Journal Publications
+--------------------------------------------------------------------------------
+Refereed Journal Publications
+Mishra, Saurabh, and Sonia Khetarpaul. uR-tree: a spatial index structure for handling multiple point selection queries. Multimedia Tools and Applications, pp. 1-19, 2022, Springer Nature.
+Sonia Khetarpaul. Mining location based social networks to understand the citizens check-in patterns. In Springer Computing, pp. 1-27, 2021, Springer Nature.
+Singh, Rajeev Kumar, Sonia Khetarpaul, Rohan Gorantla, and Sai Giridhar Allada. SHEG: summarization and headline generation of news articles using deep learning. In Neural Computing and Applications, pp. 1-15, 2021, Springer Nature.
+Sonia Khetarpaul, S. K. Gupta and L. Venkata Subramaniam. Mining optimal meeting points for moving users in spatio-temporal space. In Springer Journal of Social Network Analysis and Mining (SNAM), Volume 8(1):50, July 2018, Springer Nature.
+Sonia Khetarpaul, S. K. Gupta and L. Venkata Subramaniam. Spatio- Temporal-Social(STS) Data Model - Correlation Social Networks and Spatio- Temporal Data. In Springer Journal of Social Network Analysis and Mining (SNAM), Volume 6(1), pp. 1-17, September 2016, Springer Nature.
+Refereed Conference Publications
+Mishra, Saurabh, and Sonia Khetarpaul. Predicting Taxi Hotspots in Dynamic Conditions using Graph Neural Network. pp. 89-102. In Australasian Database Conference Springer, Cham, 2022.
+Sonia Khetarpaul, Dolly Sharma, Jackson I. Jose and Mohith S. Real-time Detection and Visualization of Traffic Conditions by Mining Twitter Data. pp. 141-152. In Australasian Database Conference, Springer, Cham, 2022.
+Dolly Sharma, Sonia Khetarpaul, Ambreesh Parthsarthy, Mohit Kumar S and Sparsh Agarwalla. Performance prediction of songs on online music platforms. pp. 209-216. In Australasian Database Conference, Springer, Cham, 2022.
+Mohith, S., Rebhav Guha, Sonia Khetarpaul, and Samant Saurabh. Team Selection Using Statistical and Graphical Approaches for Cricket Fantasy Leagues. In International Conference on Research Challenges in Information Science, pp. 719-726. Springer, Cham, 2022.
+Mishra, Saurabh, and Sonia Khetarpaul. Optimal Placement of Taxis in a City Using Dominating Set Problem. In Australasian Database Conference. pp. 111-124. Springer, Cham, 2021.
+Sonia Khetarpaul, Dolly Sharma, Mayuri Gupta, and Vaibhav Gautam. A Real Time Analysis of Offensive Texts to Prevent Cyberbullying. In Australasian Database Conference, pp. 152-165. Springer, Cham, 2021.
+Mohith, S., Jackson I. Jose, Sonia Khetarpaul, and Dolly Sharma. Analyzing Tweets to Understand Factors Affecting Opinion on Climate Change. In Australasian Database Conference, pp. 99-110. Springer, Cham, 2021.
+Manika Mittal, Shivangi Goel, Sonia Khetarpaul. Monitoring Social Media Content for Religious Context. In proceedings of 17th International Conference on Machine Learning and Data Mining, MLDM 2021.
+Gupta, Akash, Neha Tandon, and Sonia Khetarpaul. Influence-Time-Proximity Driven Locations Recommendation Model: An Integrated Approach. IEEE Region 10 Conference (TENCON), pp. 1381-1386. IEEE, 2019.
+Sonia Khetarpaul, S. K. Gupta and L. Venkata Subramaniam. Correlating Social Interconnections of Users with Spatio-Temporal Check-ins Behavior. In Proceedings of the 11th International Workshop on Spatial and Spatiotemporal Data Mining (SSTDM 2016) in Cooperation with IEEE ICDM 2016.

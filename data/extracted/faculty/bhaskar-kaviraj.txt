@@ -1,0 +1,89 @@
+================================================================================
+Bhaskar Kaviraj
+================================================================================
+
+Faculty at School of Natural Sciences
+
+Research Interest
+--------------------------------------------------------------------------------
+Two dimensional materials for device applications
+Two-dimensional materials such as graphene and transition metal dichalcogenides (TMDC) such as MoS2, WSe2, MoSe2, MoTe2, etc have emerged as brand new photonic materials due to their unique properties and multiple functions. TMDS's are atomically thin semiconductors of the type MX2 with a transition metal (M) atom and a chalcogen (X) atom (S, Se, Te). One layer of M atoms is sandwiched between two layers of X atoms. They are the part of the family of 2D materials, a name to emphasize their thickness. The discovery of graphene shows different properties emerge when a bulk crystal of macroscopic dimensions is thinned down to atomic layers. Like graphite, TMD bulk crystals are formed of monolayers bound to each other by Van der Waals attraction. Our research group exploits several interesting properties of TMDC's mentioned
+below to investigate photocatalytic dye degradation, hydrogen evolution reaction (HER), supercapacitors and many other physical phenomena
+(i) TMD monolayers MoS2, WS2, MoSe2, WSe2, MoTe2 have a direct band gap, and can be used in electronics as transistors and in optics as emitters and detectors.
+(ii) The TMD monolayer crystal structure has no inversion center, which allows to access a new degree of freedom of charge carriers, namely the k-valley index, and to open up a new field of physics: valleytronics
+(iii) The strong spin-orbit coupling in TMD monolayers leads to a spin-orbit splitting of hundreds meV in the valence band and a few meV in the conduction band, which allows control of the electron spin by tuning the excitation laser photon energy and handedness. The work on TMD monolayers is an emerging research and development field since the discovery of the direct bandgap and the potential applications in electronics and valley physics. TMDs are often combined with other 2D materials like graphene and hexagonal boron nitride to make van der Waals heterostructure. These heterostructures need to be optimized to be possibly used as building blocks for many different devices such as transistors, solar cells, LEDs, photodetectors, fuel cells, photocatalytic and sensing devices. Some of these devices are already used in everyday life and can become smaller, cheaper and more efficient by using TMD monolayers.
+
+Education
+--------------------------------------------------------------------------------
+2007
+, Ph.D., Indian Institute of Technology Kharagpur
+1998
+, Master of Science, Jadavpur University
+1996
+, Bachelor of Science, Burdwan University
+
+Work Experience
+--------------------------------------------------------------------------------
+12/13-Present
+Assistant Professor, Department of Physics, School of Natural Sciences, Shiv Nadar University, Delhi-NCR
+07/13-11/13
+Visiting Faculty, Indian Institute of Science Education and Research (IISER), Bhopal, India
+02/13-03/13
+Post-doctoral research Associate, Kyoto University, Japan
+01/11-12/12
+MANA Research Associate, National Institute of Materials Science, Tsukuba, Japan
+02/09-01/11
+Research Engineer, CEA (French Atomic Energy Commission), Grenoble, France
+02/08-01/09
+Post-Doctoral Research Associate, Georgia State University, Atlanta, USA
+01/07-01/08
+Post-Doctoral Research Associate, Laboratory of Electrical Engineering in Paris (LGEP), Paris, France
+
+Research Funding
+--------------------------------------------------------------------------------
+a.
+Title of Project
+: Understanding the dominant sites in sulfur vacancy activated molybdenum disulfide electrocatalyst towards hydrogen evolution reaction
+Funding Agency
+: · SERB, Govt of India (CRG/2022/002737)
+Amount Sanctioned & Duration:
+INR 32,22,432 (Three years)
+Role:
+Principal Investigator (PI)
+b.
+Title of Project
+: Engineering perpendicular magnetic anisotropy with materials having low spin orbit coupling
+Funding Agency
+: UGC-DAE (IUC-Indore), Govt. Of India
+Amount Sanctioned & Duration
+: INR 18,00,000 (Three years)
+Role
+: Principal Investigator (PI)
+
+Journal Publications
+--------------------------------------------------------------------------------
+Cost-Effective and Highly Efficient Manganese-Doped MoS2 Nanosheets as Visible-Light-Driven Photocatalysts for Wastewater Treatment- Dhirendra Sahoo, SHIVAM TYAGI, SRISHTI AGARWAL, Jyoti Shakya, Nasir Ali, Won Jong Woo,
+B. Kaviraj, Langmuir 39
+7109
+(2023)
+Magnetic Skyrmions in Chiral Ferromagnets: Electrical Transport Properties and Device Applications, Bhaskar Kaviraj and Jaivardhan Sinha, ECS Journal of Solid State Science and Technology, 11 115003 (2022).
+High-Performance MnO2 Nanowire/MoS2 Nanosheet Composite for a Symmetrical Solid-State Supercapacitor, Dhirendra Sahoo, Jyoti Shakya, Sudipta Choudhury, Susanta Sinha Roy, Lalita Devi, Budhi Singh, Subhasis Ghosh, Bhaskar Kaviraj ACS Omega 7 16895 (2022).
+A simple two-step strategy to synthesize defect-rich MoS2 nanocrystals for enhanced electrochemical hydrogen evolution, Dhirendra Sahoo, Jyoti Shakya, Sudipta Choudhry, Budhi Singh, Bhaskar Kaviraj AIP Advances 12 035119 (2022).
+Edge Rich Ultrathin Layered MoS2 Nanostructures for Superior Visible Light Photocatalytic Activity, Dhirendra Sahoo, Jyoti Shakya, Nasir Ali, Won Jong Yoo, Bhaskar Kaviraj- Langmuir 38, 4, 1578-1588 (2022).
+Cost-effective synthesis of 2D molybdenum disulfide (MoS2) nanocrystals: An exploration of the influence on cellular uptake, cytotoxicity, and bio-imaging, Dhirendra Sahoo, Sushreesangita P Behera, Jyoti Shakya, Bhaskar Kaviraj Plos One 17 (1) e0260955 (2022).
+Cost effective liquid phase exfoliation of MoS2 nanosheets and photocatalytic activity for wastewater treatment enforced by visible light, Dhirendra Sahoo, Birendra Kumar, Jaivardhan Sinha, Subhasis Ghosh, Susanta Sinha Roy and Bhaskar Kaviraj Scientific Reports 10 10759 (2020).
+Relativistic torques induced by currents in magnetic materials: physics and experiments, Bhaskar Kaviraj, Jaivardhan Sinha RSC Advances (8) 25079-25093 (2018).
+Magnetic properties of microwave-plasma (thermal) chemical vapour deposited Co-filled (Fe-filled) multiwall carbon nanotubes: comparative study for magnetic device applications- A Mathur, Tuhin Maity, Shikha Wadhwa, B Ghosh, Sweety Sarma, Sekhar C Ray, Bhaskar Kaviraj, Susanta S Roy, Saibal Roy Materials Research Express 5 076101 (2018).
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+Synthesis and Characterization of Luminescent WS2 Nanosheets through One-step Liquid Phase Exfoliation, International Conference in Advancements in Materials Science and Technology) to be held at Sathyabama Institute of Science and Technology, Chennai, India during Nov 2-4, 2022.
+One Pot Synthesis of Ultrathin MoS2 Nanosheets using Cost-Effective Liquid Phase Exfoliation Technique, International Conference in Advancements in Materials Science and Technology) to be held at Sathyabama Institute of Science and Technology, Chennai, India during Nov 2-4, 2022.
+"Impact of Thickness on Optical Properties of MoS2 Thin Films Obtained from Chemical Vapor Deposition" XXI International Workshop on Physics of Semiconductor Devices (IWPSD) organized by IIT Delhi (December 14-17, 2021).
+"Strongly luminescent MoS2 nanosheets prepared by liquid phase exfoliation without any surfactant" ICC 2019, 3rd International Conference on Condensed Matter and Applied Physics, 14-15th October, 2019 organized by Govt. Engineering College, Bikaner, Rajasthan during October 14-15, 2019.
+"Synthesis of MoS2 nanosheets by liquid phase exfoliation and application for purification of waste water under visible light", International conference on advanced materials (ICAM-2019) organized by Jamia Milia Islamia University (March 6-7, 2019).
+"Swift heavy ion irradiation in ZnO films", International conference on advance in basic sciences (ICABS-2019) organized by GDC memorial college, Haryana (Feb 7-9, 2019).
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances
+--------------------------------------------------------------------------------
+'Engineering perpendicular magnetic anisotropy with materials having low spin orbit coupling' PI: Dr. Bhaskar Kaviraj, Co-PI: Dr. Jaivardhan Sinha, Funding Agency: UGC-DAE Consortium for Scientific Research, Project approved, Funds awaited from UGC, Duration: 3 Years.

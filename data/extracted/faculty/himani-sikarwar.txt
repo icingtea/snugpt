@@ -1,0 +1,63 @@
+================================================================================
+Himani Sikarwar
+================================================================================
+
+Faculty at School of Engineering
+
+Biography
+--------------------------------------------------------------------------------
+Himani Sikarwar has completed her PhD from Indian Institute of Technology (IIT) Jodhpur under the supervision of Dr. Debasis Das. Himani's research focuses on advance security solutions for large scale and highly dynamic Internet of Vehicles (IoV), hardware security and the use of Physical Unclonable Functions (PUFs).
+Her professional experience includes teaching as an Assistant Professor at well-regarded institutions where she contributed significantly to student development and academic programs. Her research achievements are highlighted by numerous publications in top-tier conferences and Transactions such as IEEE TNSM, TDSC, TITS and TVT.
+Himani has also engaged in international collaborations with University of Padua, Italy (Prof. Mauro Conti) and
+National Sun Yat-sen University, Taiwan (Prof. Chun-I Fan)
+. In addition to her research, Himani has taken on leadership roles, including serving as Vice Secretary of the ACM Student Chapter at IIT Jodhpur.
+
+Education Details
+--------------------------------------------------------------------------------
+Ph.D. 2024 Indian Institute of Technology, Jodhpur (Raj.)
+M.Tech. 2017 National Institute of Technology, Hamirpur (HP)
+B.Tech. 2014 Govt. Engg. College, Ajmer (Raj.
+
+Work Experience
+--------------------------------------------------------------------------------
+Assistant Professor, RCEW Jaipur (July 2020- Feb 2022)
+Assistant Professor, RCEW Jaipur (June 2018- July 2019)
+Assistant Professor, PGI Jaipur (July 2017- Dec 2017)
+
+Research Interests
+--------------------------------------------------------------------------------
+Security and Privacy in Internet of Vehicles (IoV) and Vehicular Ad hoc Network (VANET), Hardware Security, Physical Unclonable Functions (PUF)
+
+Academic Achievements/Awards
+--------------------------------------------------------------------------------
+Student Travel Grants for participating in the 23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing 2023.
+Participated in ACM INDIA GRAD COHORT,  AICWiC-2020: ACM-W India Celebration of Women in Computing, and WIPSIP-2022: IEEE Women in Sensors- Idea to Prototype.
+Held Vice-Secretary position 2021-22, ACM Student Chapter IIT Jodhpur.
+
+National and International Recognition
+--------------------------------------------------------------------------------
+Worked on collaborative project of India- Taiwan Government
+Title:
+Lightweight Anonymous Authentication and Communication Protocol for IoV (Collaboration with Distinguished Prof. Chun-I Fan, Department of Computer Science and Engineering, National Sun Yat-sen University, Taiwan)
+
+Journals
+--------------------------------------------------------------------------------
+H. Sikarwar, H. Vasudev, D. Das, M. Conti and K. K. Mondal, "SECURE: Secure and Efficient ProtoCol Using Randomness and Edge-Computing for Drone-Assisted Internet of Vehicles," in IEEE Transactions on Network and Service Management {IF: 5.3}, doi: 10.1109/TNSM.2024.3462746.
+H. Sikarwar, A. Nahar, D. Das, "DyBatch: Message prioritization and priority-driven batch verification in large-scale IoV networks," IEEE Transactions on Vehicular Technology, 2024. {IF: 6.8 [Accepted]}.
+H. Sikarwar and D. Das, "SecEdge: Secure Edge-Computing-Based Hybrid Approach for Data Collection and Searching in IoV," in IEEE Transactions on Network and Service Management {IF: 5.3}, vol. 21, no. 1, pp. 1213-1225, Feb. 2024, doi: 10.1109/TNSM.2023.3299264.
+H. Sikarwar and D. Das, "A Novel MAC-Based Authentication Scheme (NoMAS) for Internet of Vehicles (IoV)," in IEEE Transactions on Intelligent Transportation Systems {IF: 8.5}, vol. 24, no. 5, pp. 4904-4916, May 2023, doi: 10.1109/TITS.2023.3242291.
+H. Sikarwar and D. Das, "Towards Lightweight Authentication and Batch Verification Scheme in IoV," in IEEE Transactions on Dependable and Secure Computing {IF: 7.3}, vol. 19, no. 5, pp. 3244-3256, 1 Sept.-Oct. 2022, doi: 10.1109/TDSC.2021.3090400.
+
+Conferences
+--------------------------------------------------------------------------------
+A. Nahar, H. Sikarwar, S. Jain and D. Das, "CacheIn: A Secure Distributed Multi-layer Mobility-Assisted Edge Intelligence based Caching for Internet of Vehicles," 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing (CCGrid), Bangalore, India, 2023, pp. 437-446, doi: 10.1109/CCGrid57682.2023.00048.
+H. Sikarwar and D. Das, "SMMAP: Secure MAC-based Mutual Authentication Protocol for IoV," In Proceedings of the 24th International Conference on Distributed Computing and Networking (ICDCN '23). Association for Computing Machinery, New York, NY, USA, 330–335. https://doi.org/10.1145/3571306.3571431.
+H. Sikarwar and D. Das, "EECAAP: Efficient Edge-Computing based Anonymous Authentication Protocol for IoV," 2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC), Bengaluru, India, 2022, pp. 302-307, doi: 10.1109/HiPC56025.2022.00047.
+H. Sikarwar and D. Das, "A Lightweight And Secure Authentication Protocol for WSN," 2020 International Wireless Communications and Mobile Computing (IWCMC), Limassol, Cyprus, 2020, pp. 475-480, doi: 10.1109/IWCMC48107.2020.9148483.
+H. Sikarwar, A. Nahar and D. Das, "LABVS: Lightweight Authentication and Batch Verification Scheme for Universal Internet of Vehicles (UIoV)," 2020 IEEE 91st Vehicular Technology Conference (VTC2020-Spring), Antwerp, Belgium, 2020, pp. 1-6, doi: 10.1109/VTC2020-Spring48590.2020.9129180.
+H. Sikarwar, D. Das, S. Kalra, "Efficient authentication scheme using blockchain in IoT devices," In Proceedings of the 34th International Conference on Advanced Information Networking and Applications (AINA-2020), Caserta, Italy (pp. 630-641).
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+Conference Presentations:
+23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing 2023 held in IISc Banglore.

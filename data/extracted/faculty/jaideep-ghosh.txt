@@ -1,0 +1,501 @@
+================================================================================
+Jaideep Ghosh
+================================================================================
+
+Faculty at School of Management and Entrepreneurship
+
+Research and Teaching Interests
+--------------------------------------------------------------------------------
+Mathematical modeling, numerical simulations, and empirical analysis in business and management (innovation and creativity  of employees in information technology and systems; informal social networks of employees in organizational setting)
+Nonlinear dynamics and complex systems, and
+Econometric studies of large-scale economic, financial, and social systems
+
+Education
+--------------------------------------------------------------------------------
+1991-96
+,
+Ph.D. in Physics, Department of Physics and Astronomy, University of Pittsburgh, Pittsburgh, Pennsylvania, USA. Specialization: Theoretical physics (Field theoretic models of spinors and twistors in curved spacetime)
+1999-2000
+,
+Postdoctoral Fellow in Computational Neurobiology, Department of Neurobiology, School of Medicine, University of Pittsburgh, Pittsburgh, Pennsylvania, USA
+1997-99
+,
+M.S., Department of Information Science and Telecommunications, University of Pittsburgh, Pittsburgh, Pennsylvania, USA
+1989-90
+,
+Junior Research Fellowship (JRF), UGC-CSIR, Government of India, India
+1987-89
+,
+M.Sc. Physics, Department of Physics, University of Calcutta, Calcutta, India
+1982-86
+,
+B.Sc. Physics (Honors) with Mathematics and Statistics, St. Xavier’s College, University of Calcutta, Calcutta, India
+
+Work Experience
+--------------------------------------------------------------------------------
+2015-Present
+Professor, Department of Decision Sciences, Operations Management, and Information Systems, School of Management and Entrepreneurship (SME), Shiv Nadar University, Gautam Buddha Nagar, Uttar Pradesh – 201314, India
+2011 (Sept.)-2016
+Ramanujan Fellow Scientist – Department of Science and Technology. Government of India, New Delhi, India. Research Institute: Council of Scientific and Industrial Research, New Delhi, India
+2013 (May-June)
+Visiting Professor, School of Development Studies, Ambedkar University, New Delhi, India
+2008 – 2011
+Faculty, Department of Information Systems and Operations Management, School of Management, George Mason University, Virginia, USA
+2003-2011
+Faculty, Computer Information Systems and Technology Department, University of Maryland, University College, Maryland, USA
+2006-2008
+Senior R&D Advisor and Architect, Department of R&D, Automatic Data Processing, Inc., USA
+2001-2006
+Senior Analyst in Telecommunications Services, Verizon Communications, USA
+2000-2001
+Senior Systems Analyst and Advising Consultant, United States Federal Government, Lockheed Martin, Inc., USA
+1992-2000
+Research Associate & Teaching Fellow, University of Pittsburgh, Pennsylvania, USA
+1991-1992
+Simulations Modeling and Applications Consultant, Solid State Semiconductor Research Laboratory, Joint Project of the University of Pittsburgh, Pennsylvania, USA and Westinghouse, Inc., USA
+1990-1991
+Teaching Assistant, University of Pittsburgh, Pennsylvania, USA
+1989-1990
+UGC-CSIR Junior Research Fellow, Jadavpur University, Calcutta, India
+
+Awards And Fellowships
+--------------------------------------------------------------------------------
+Best Paper Award
+, 2025.
+the 21st International Conference on Business Management (ICBM) 2025 in Sri Lanka
+, February 19-20.
+Paper
+: On Digital Transformation in Commercial Banks: An Indexing Methodology for Enhanced Strategic Planning.
+Best Paper Runners-Up Award
+, 2024.
+9th PAN IIM World Management Conference,
+Indian Institute of Management, Sambalpur, January 22 – 24.
+Paper
+: Engineering with vendor’s creativity and client’s vision of innovation.
+Best Paper Award
+,
+2018
+. International Conference on Financial Markets and Corporate Finance, Indian Institute of Technology, Kanpur, July 12 – 14
+Paper
+: Socio-structural embeddedness of corporate board interlocks and its influence on capital Investment structures of Indian firms: An exploration of dynamics with simulations
+Best Paper Award
+,
+2017
+. Indian Academy of Management, Indian Institute of Management, Indore, December 18 – 20
+Paper
+: Socio-structural embeddedness in board interlocks: Examining firm performance of ordinary and Indian business-group firms. (With A. Dutta.)
+Best Paper Award
+,
+2014
+. 15thAnnual Global Information Technology Management World Conference, Philadelphia, USA
+Paper
+: Structure-functional aspects of co-authorship networks in information systems, technology, and economics: A Social network study. (With Kshitij, A., &Kadyan, S.)
+Ramanujan Fellowship
+,
+2011–2016
+. Department of Science and Technology (DST), Government of India, INDIA
+Best Paper Award
+,
+2013
+. 14thAnnual Global Information Technology Management World Conference, Kuala Lumpur, Malaysia
+Paper
+: Dynamics of innovative technology incorporation by the Indian small enterprise industry
+Stanley Drazek Teaching Excellence
+, 2011. University of Maryland University College, USA
+Best Paper Award
+, 2010. 11thAnnual Global Information Technology Management World Conference, Washington, D. C., USA
+Paper
+: Organizational knowledge optimization and distribution in an offshore, dispersed development project
+Best Track Chair Award
+, 2010. 11thAnnual Global Information Technology Management World Conference, Washington, D. C., USA
+Track
+: Decision support and knowledge management in IT outsourcing
+Teaching Fellowship Award
+, 1992 - 1998. University of Pittsburgh, Pittsburgh, Pennsylvania, USA
+Junior Research Fellowship (JRF) Award
+, 1989. UGC-CSIR, Government of India, INDIA
+National Scholarship
+, 1980. Department of Education, Government of India, INDIA
+
+Publication/ Journal/Book / Teaching Cases Details
+--------------------------------------------------------------------------------
+Ghosh, J. (with coauthors). 2025. Why Do Women Professionals Leave the IT Field? Ten Insights and Recommendations from the World IT Project.
+IEEE Engineering Management Review
+. In Press. Publ.: IEEE Society, U.S.A. ISSN: (
+IF: 2.08
+)
+Ghosh, J. (with coauthors). 2025. Organizational strategy and IT workforce during times of environmental turbulence.
+IEEE Transactions on Engineering Management
+, 72: 925-936. Publ.: IEEE Society, U.S.A. ISSN: 0018-9391. (
+ABDC: A. IF: 6.146
+)
+Ghosh, J. (with coauthors). 2024. Global perspectives on organizational information systems issues: An enigma in search of a theoretical framework.
+Information & Management
+, 61(8): Article 104034. https://doi.org/10.1016/j.im.2024.104034. Publ.: Elsevier B.V. ISSN: 0378-7206. (
+ABDC: A*. IF: 8.2
+)
+Ghosh, J. (with coauthors). 2024. Friendship Circles: A Solution to the Problem of IT Turnaway?
+Proceedings of the 30
+th
+Americas Conference on Information Systems (AMCIS 2024)
+. Publ.: Association for Information Systems (AIS), U.S.A. Just accepted for publication in Proceedings.
+Goswami, P., & Ghosh, J. 2024. Alleviating help-seeking stigma among depressed college students through shadow social marketing: A meso-level intervention to a wicked problem.
+Social Marketing Quarterly
+, 30(1): 61-82. https://doi.org/10.1177/15245004231225457. Publ.: Sage. ISSN: 0263-2373. (
+ABDC: B. IF: 3.4
+)
+Ghosh, J. 2023. “Holy curiosity of inquiry”: An investigation into curiosity and work performance of employees.
+European Management Journal
+,
+41(5), 673-686. https://doi.org/10.1016/j.emj.2022.05.004. Publ.: Elsevier. ISSN: 0263-2373. (
+ABDC: B. IF: 7.5
+)
+Ghosh, J. (with coauthors). 2023. Are IT workers from Mars? An examination of their national culture dimensions.
+The DATA BASE for Advances in Information Systems
+, 54(4): 31-52. https://doi.org/10.1145/3631341.3631345. Publ.: Association for Computing Machinery (ACM). ISSN: 0095-0033. (
+ABDC: A. IF: 2.083
+)
+Kshitij, A., & Ghosh, J. 2023. Ocean renewable energy: A comparative study of Indian and global collaborative research for sustainability and policy implications.
+Journal of Scientometric Research
+, 12(2): 357-371. DOI: 10.5530/jscires.12.2.032. ISSN: 2321-6654 (Print); 2320-0057 (Online).
+Ghosh, J (with coauthors). 2023. Sorry, the World is not flat: A global view of organizational information systems issues.
+IEEE Transactions on Engineering Management
+, 70
+(2), 777-783. DOI: https://doi.org/10.1109/TEM.2021.3109790. Publ.: IEEE Society, U.S.A. ISSN: 0018-9391. (
+ABDC: A. IF: 6.146
+)
+Ghosh, J. (with coauthors). 2022. Global Perspectives on IT Occupational Culture: A Three-Way Cultural Analysis.
+Communications of the Association for Information Systems (CAIS)
+. (In Press). DOI: 10.17705/1CAIS.05139. Publ.: Association for Information Systems (AIS), USA. ISSN: 1529-3181. (
+ABDC: A. IF: 1.787
+).
+Ghosh, J. (with coauthors). 2022. Individuality matters: A world view of individual issues of IT professionals.
+Communications of the Association for Information Systems (CAIS)
+, 51(16), 369-401. DOI: 10.17705/1CAIS.05116. Publ.: Association for Information Systems (AIS), USA. ISSN: 1529-3181. (
+ABDC: A. IF: 1.787
+).
+Ghosh, J. 2021. The Davids and the Goliaths: Investment dynamics and performance differentials of small firms and family-controlled large firms in four sectors of the Indian market.
+Applied Finance Letters
+,
+20, 130-150. DOI: https://doi.org/10.24135/afl.v10i.410. Publ.: Auckland Centre for Financial Research. ISSN: 2253-5799 (Print), Online: 2253-5802. (
+ABDC: B. IF: 0.53
+)
+Ghosh, J (with coauthors). 2021. Information technology issues and challenges of the globe: the world IT project.
+Information & Management
+,
+58(8), 103545, 61-68. DOI: https://doi.org/10.1016/j.im.2021.103545. Publ.: Elsevier B.V. ISSN: 0378-7206. (
+ABDC: A*. IF: 8.2
+)
+Ghosh, J (with coauthors). 2021. Insights from the World IT Project survey of IS organizational trends.
+MIS Quarterly Executive
+,
+20(1), 61-68. DOI: 10.17705/2msqe.00042. Publ.: Association for Information Systems (AIS), USA. ISSN: 1540-1960. (
+ABDC: A. IF: 4.371
+)
+Ghosh, J. 2019. The Blockchain: Opportunities for research in information systems and information technology.
+Journal of Global Information Technology Management
+,
+22(4), 235-242. DOI: 10.1080/1097198X.2019.1679954. Publ.: Routledge – Taylor and Francis. ISSN: 1097-198X (Print), 2333-6846 (Online). (
+ABDC: B. IF: 3.519
+)
+Ghosh, J (with coauthors). 2018. Trekking the Globe with the World IT Project.
+J
+ournal of Information Technology Case and Application Research
+, 20(1), 3-8. DOI: 10.1080/15228053.2018.1451942. Publ.: Taylor and Francis. ISSN: 1522-8053 (Print), 2333-6897 (Online).
+Ghosh, J., & Kshitij, A. 2017. Examining the emergence of large-scale structures in collaboration networks: Methods in sociological analysis.
+Sociological Methods & Research
+, 46(4), 821-863. DOI 10.1177/0049124115606153. Publ.: Sage. ISSN: 0049-1241 (Print), 1552-8294 (Online). (
+ABDC: A. IF: 6.933. 5-year IF: 7.368
+)
+Social Sciences, Mathematical Methods: 1 out of 51.
+Sociology: 5 out of 150.
+Journal information:
+http://journals.sagepub.com/impact-factor/smr
+.
+Ghosh, J (with coauthors). 2017. The World IT project: History, trials, tribulations, lessons, and recommendations.
+Communications of the Association for Information Systems (CAIS)
+,
+41(1), 389-413. DOI: 10.17705/1CAIS.04118. Publ.: Association for Information Systems (AIS), USA. ISSN: 1529-3181. (
+ABDC: A. IF: 1.787
+)
+Ghosh, J. 2017. Dynamics of knowledge-intensive production: An agency-structure framework.
+Journal of Mathematical Sociology
+,
+41(2), 104-126. DOI: 10.1080/0022250X.2017.1320996. Publ.: Routledge – Taylor and Francis. ISSN: 0022-250X (Print), 1545-5874 (Online). (
+IF: 2.776
+)
+Ghosh, J. 2016. Big data analytics: A field of opportunities for information systems and technology researchers.
+Journal of Global Information Technology Management
+,
+19(4), 1-6. DOI: 10.1080/1097198X.2016.1249667. Publ.: Routledge – Taylor and Francis. ISSN: 1097-198X (Print), 2333-6846 (Online). (
+ABDC: B. IF: 3.519
+)
+Ghosh, J., Dutta, A., & Kshitij, A. 2016. Structures of corporate board interlocks and firm performance: Evidence from India.
+Academy of Management Proceedings
+, 2016(1). DOI: 10.5465/ambpp.2016.10170. Publ.: Academy of Management, U.S.A. ISSN: 0065-0668 (Print), 2151-6561 (Online).
+Ghosh, J. 2016. Balancing self-directed and peer-induced efforts in an information technology collaborative software development: A network approach.
+Proceedings of the 22nd Americas Conference on Information Systems (AMCIS)
+. Publ.: Association for Information Systems, U.S.A.
+Ghosh, J. & Kshitij, A. 2016. Higher education in basic science and socioeconomic characteristics of students’ life in India: An exploratory study.
+Social Indicators Research
+. 125(1), 311-337. DOI 10.1007/s11205-014-0827-z. Publ.: Springer. ISSN: 0303-8300 (Print), 1573-0921 (Online). (
+ABDC: A. IF: 2.38
+)
+Ghosh, J., Kshitij, A., & Kadyan, S. 2015. Functional information characteristics of large-scale research collaboration: network measures and implications.
+Sci
+entometrics
+, 102(2), 1207-1239. DOI 10.1007/s11192-014-1475-4. Publ.: Springer. ISSN: 0138-9130 (Print), 1588-2861 (Online). (
+ABDC: A. IF: 3.702
+)
+Kshitij, A., Ghosh, J., & Gupta, B. M. 2015. Embedded information structures and functions of co-authorship networks: evidence from cancer research collaboration in India.
+Scien
+tometrics
+, 102(1), 285–306. DOI 10.1007/s11192-014-1310-y. Publ.: Springer. ISSN: 0138-9130 (Print), 1588-2861 (Online). (
+ABDC: A. IF: 3.702
+)
+Ghosh, J. 2014. IT in India and the Indian Region.
+Journal of Global Information Technology
+Management
+, 17, 147-149. DOI 10.1080/1097198X.2014.951297. Publ.: Routledge – Taylor and Francis. ISSN: 1097-198X (Print), 2333-6846 (Online). (
+ABDC: B. IF: 3.519
+)
+Ghosh, J. & Kshitij, A. 2014. An integrated examination of collaboration co-authorship networks through structural cohesion, holes, hierarchy, and percolating clusters.
+Journal of the Association for Information Science and Technology
+,
+65(8), 1639-1661. DOI: 10.1002/asi.23058. Publ.: John Wiley, U.S.A. ISSN: 2330-1643. (
+ABDC: A*. IF: 2.687
+)
+Ghosh, J. 2013. Optimal information production in product development environments: A model with simulations.
+IEEE Transactions on Engineering Management
+, 60(3), 604-616. DOI: 10.1109/TEM.2012.2233743. Publ.: IEEE Society, U.S.A. ISSN: 0018-9391. (
+ABDC: A; IF: 6.146
+)
+Ghosh, J. & Kshitij, A. 2013. Cohesiveness, structural holes, hierarchy, and giant clusters: An integrated examination.
+Academy of Management Proceedings
+, 2013(1). DOI: 10.5465/AMBPP.2013.10819. Publ.: Academy of Management, U.S.A. ISSN: 0065-0668 (Print), 2151-6561 (Online).
+Ghosh, J. 2013. Dynamics of innovative technology incorporation by the Indian small enterprise industry.
+Proceedings of the 14
+th
+Global Information Technology Management Association World Conference
+, Kuala Lumpur, Malaysia.
+Ghosh, J. 2012. Distributed task scheduling and human resource distribution in industrial service solution production: a simulation application.
+International
+Journal of Production Research
+, 51(10), 2900-2914. DOI: 10.1080/00207543.2012.748229. Publ.: Routledge – Taylor and Francis. ISSN: 00207543, 1366588X. (
+ABDC: A
+)
+Ghosh, J. 2012. Innovative technology acceptance and diffusion of software products: A model of US-Asian comparative dynamics.
+Proceedings of the 13
+th
+Global Information Technology Management Association World Conference
+,
+2012, Bangalore, India.
+Ghosh, J. & De, Ranjan. 2012. Management of global customer accounts: Concepts and issues in a symmetric feedback interaction model.
+Proceedings of the 12
+th
+Global Information Technology Management Association World Conference
+, Bangalore, India.
+Ghosh, J. 2011. Knowledge dispersal in a collaborative software development project.
+Proceedings of the 11
+th
+Global Information Technology Management Association World Conference
+, Las Vegas, Nevada, U.S.A.
+Ghosh, J. 2011. The dynamics of a globally outsourced software development project: A systems management model.
+Proceedings of the 9th Annual International Smart Sourcing Conference
+, Delhi, INDIA.
+Ghosh, J. 2010. Concurrent, overlapping development and the dynamic system analysis of a software project.
+IEEE Transactions on Engineering Management
+, 57(2), 270-287. DOI: 10.1109/TEM.2009.2023138. Publ.: IEEE Society, U.S.A. ISSN: 0018-9391. (
+ABDC: A. IF: 6.146
+)
+Ghosh, J. 2010. Balanced management, distribution, and production of knowledge in a dispersed collaborative offshore project: An optimization model with simulations.
+Proceedings of the
+11
+th
+Annual Global Information Technology Management World Conference
+,
+Washington, D.C., U.S.A.
+Ghosh, J. 2009. Software development of a globally distributed multicomponent project: A theoretical model and simulations.
+Journal of Global Information Technology Management
+, 12(3), 29-54. DOI: 10.1080/1097198X.2009.10856496. Publ.: Routledge – Taylor and Francis. 1097-198X (Print), 2333-6846 (Online). (
+ABDC: B. IF: 3.519
+)
+Ghosh, J. 2008. Offshore outsourcing and concurrent product development.
+Proceedings of the 9
+th
+Global Information Technology Management Association World Conference
+, Atlanta, Georgia, U.S.A.
+Ghosh, J. with Frauendiener, J., & Newman, E. T. 1996. Twistors and the asymptotic properties of massless spin-
+3
+2
+fields.
+Classical and Quantum Gravity
+, 13(3), 461-480. DOI: 10.1088/0264-9381/13/3/012. Publ.: Institute of Physics. ISSN: 0264-9381 (Print), 1361-6382 (Online).
+Ghosh, J. with Mukherjee, T. K., & Sengupta, S. 1990. Branching ratio of two-electron-one-photon transitions in doubly ionized low-Z atoms.
+Physical Review A
+, 42, 3125-3128. DOI: 10.1103/PhysRevA.42.3125. Publ.: American Physical Society.
+ISSN: 2469-9926 (Print), 2469-9934 (Online)
+.
+S.No
+Publication/ Journal/Book / Teaching Cases Details
+Collaborator
+Institutional details of the Collaborator
+Year
+Document Type
+1
+Dynamics of knowledge-intensive production: An agency-structure framework. Journal of Mathematical Sociology, 41(2), 104-126.
+None
+2017
+Journal article
+2
+The World IT project: History, trials, tribulations, lessons, and recommendations. Communications of the Association for Information Systems (CAIS), 41(1), 389-413.
+P. Palvia, T. Jacks, A. Serenko & A. Turan
+University of NC, USA
+2017
+Journal article
+3
+Examining the emergence of large-scale structures in collaboration networks: Methods in sociological analysis. Sociological Methods & Research, 46(4), 821-863.
+A. Kshitij
+CSIR, India
+2017
+Journal article
+4
+Freedom of Novelty Creation and Innovation by Vendor Firms in Offshore Development of IT Products and Services. Indian Academy of Management 2017, IIM, Indore.
+None
+2017
+Conference Proceedings
+5
+Socio-structural Embeddedness in Board Interlocks: Examining Firm Performance of Ordinary and Indian Business-Group Firms. Indian Academy of Management 2017, IIM, Indore.
+A. Dutta
+George Mason University, USA
+2017
+Conference Proceedings
+6
+Trekking the Globe with the World IT Project. Journal of Information Technology Case and Application Research, 20(1), 3-8.
+P. Palvia, T. Jacks, A. Serenko & A. Turan
+University of NC, USA
+2018
+Journal article
+7
+Organizational, Technology, and Individual IT Issues in India. 12th Annual ISDSI Conference, SPJIMR, India.
+P. Palvia & D. Abraham
+University of NC, USA abd Allinace University, India
+2018
+Conference Proceedings
+8
+Tabooed Non-Consumption of Mental Health Support Services and Dependence on Informal Social Support Networks: A Study Using Mixed Methodology. 12th NASMEI International Marketing Conference. Great Lakes Institute of Management, India.
+P. Goswami & L. Raja
+SNU
+2018
+Conference Proceedings
+9
+Socio-structural embeddedness of corporate board interlocks and its influence on capital Investment structures of Indian firms: An exploration of dynamics with simulations. International Conference on Financial Markets and Corporate Finance 2018, Indian Institute of Technology, Kanpur, India.
+None
+2018
+Conference Proceedings
+10
+Can Social Support Network Analysis help design better Campaigns targeting Clinically Depressed College Students? Conference of the Journal of the Academy of Marketing Science, Indian School of Business, Hyderabad, India.
+P. Goswami
+SNU
+2018
+Conference Proceedings
+11
+The Blockchain: Opportunities for research in information systems and information technology. Journal of Global Information Technology Management, 22(4), 235-242.
+None
+2019
+Journal article
+12
+The World IT Project. Global Issues in Information Technology. Publ.: World Scientific. ISBN: 978-981-120-863-8; 978-981-120-865-2. https://doi.org/10.1142/11508 (May 2020).
+P. Palvia, T. Jacks, A. Serenko & A. Turan
+University of NC, USA
+2020
+Book (Co-edited), including authorship of several chapters
+13
+Insights from the World IT Project survey of IS organizational trends. MISQ X, 20(1), 61-68.
+P. Palvia, T. Jacks, A. Serenko & A. Turan
+University of NC, USA
+2021
+BoJournal article
+14
+Sorry, the World is not flat: A global view of organizational information systems issues. IEEE Transactions on Engineering Management, XX(X), XX-XX.
+P. Palvia, T. Jacks, & A. Serenko
+University of NC, SA
+2021
+Journal article
+15
+Information technology issues and challenges of the globe: the world IT project. Information & Management, 58(8), 103545, 61-68.
+P. Palvia, T. Jacks, & A. Serenko
+University of NC, USA
+2021
+Journal article
+16
+The Davids and the Goliaths: Investment dynamics and performance differentials of small firms and family-controlled large firms in four sectors of the Indian market. Applied Finance Letters, 20, 130-150.
+None
+2021
+Journal article
+17
+A Design Re-frame to Address Stigma in Help-seeking of Depressed College goers: A Case Study using Shadow Social Marketing. 46th Annual Macromarketing Conference - Macromarketing Putting the Local into Global, New Zealand.
+P. Goswami
+SNU
+2021
+Conference Proceedings
+18
+A qualitative study on consumers' quest for well-being: A case of transition from  offline to online learning in India during the Covid-19 epidemic. 46th Annual Macromarketing Conference - Macromarketing Putting the Local into Global, New Zealand.
+D. Gogia, S. Talur & P. Goswami
+SNU
+2021
+Conference Proceedings
+19
+Individuality Matters: A World View of Individual Issues of IT Professionals. Communications of the Association for Information Systems (CAIS). Just accepted.
+P. Palvia, T. Jacks, & A. Serenko
+University of NC, USA
+2022
+Journal article
+20
+“Holy Curiosity of Inquiry”: An Investigation into Curiosity and Work Performance of Employees. European Management Journal. Elsevier. Just accepted.
+None
+2022
+Journal article
+21
+Are IT workers from Mars? An examination of their national culture dimensions. The Data Base for Advances in Information Systems. Association for Computing Machinery (ACM). Just accepted.
+P. Palvia, T. Jacks, & A. Serenko
+University of NC, USA
+2022
+Journal article
+22
+Global Perspectives on IT Occupational Culture: A Three-Way Cultural Analysis. Communications of the Association for Information Systems (CAIS). Just accepted.
+T. Jacks, P. Palvia, & A. Serenko
+Southern Illinois University Edwardsville, USA
+2022
+Journal article
+
+Book (Co-edited), including authorship of several chapters
+--------------------------------------------------------------------------------
+Ghosh, J. (Co-edited). 2020.
+The World IT Project. Global Issues in Information Technology.
+Publ.: World Scientific.
+ISBN: 978-981-120-863-8; 978-981-120-865-2
+https://doi.org/10.1142/11508 (May 2020).
+BOOK CHAPTERS
+Ghosh, J.
+India: Science and Technology. Eds. P. Banerjee, S. Bhattacharya, P. K. Biswas, N. Kumar, V. Kumar, K. Mandal, K. Mehra, S. Pohit, J. Suman, R. S. Raina, & Y. Suman. CSIR – NISTADS. Cambridge University Press. ISBN: 978-93-84463-04-5. 2015.
+Socioeconomic factors influencing science students’ educational mobility at higher secondary and undergraduate levels. S&T Human Resource chapter.
+Collaboration structures of cancer researchers in India: A socio-professional network analysis. S&T Outputs chapter.
+Demography, start-up and evolution of informal sector enterprises. S&T and Industry chapter.
+Nature and types of business links and their relation to technology up-gradation and productivity growth of informal sector. S&T and Industry chapter.
+Informal sector financing: Regional and sectoral pattern, adequacy and linkages with growth and start-ups. S&T and Industry chapter.
+Ghosh, J. Technology acceptance and innovation diffusion of software products in Asian consumer markets: A systems model.Socio-economic and Technological Innovations: Mechanism and Institutions. Eds. K. Mandal, N. Asheolova, S.Kirdina. CSIR – NISTADS and the Russian Academy of Sciences. Narosa Publishing House. ISBN: 978-81-8487-339-9. 2014.
+BOOK REVIEWS
+Ramburuth, P., Stringer, C., &Serapio, M. (2013). Dynamics of International Business: Asia-Pacific Business Cases. Cambridge: Cambridge University Press. 264. ISBN-13: 978-1107675469. In Journal of Global Information Technology Management, 17, 217–219, 2014.
+K. C. Raveendranathan, K. C. (2013). Communication Systems Modelling and Simulation: Using MATLAB and Simulink. Universities Press. In Science and Culture, 80 (9-10), 300-301, 2014.
+
+Conference proceedings
+--------------------------------------------------------------------------------
+Freedom of Novelty Creation and Innovation by Vendor Firms in Offshore Development of IT Products and Services. Indian Academy of Management 2017, IIM, Indore.
+Socio-structural Embeddedness in Board Interlocks: Examining Firm Performance of Ordinary and Indian Business-Group Firms. Indian Academy of Management 2017, IIM, Indore.
+Organizational, Technology, and Individual IT Issues in India. 12th Annual ISDSI Conference, SPJIMR, India.
+Tabooed Non-Consumption of Mental Health Support Services and Dependence on Informal Social Support Networks: A Study Using Mixed Methodology. 12th NASMEI International Marketing Conference. Great Lakes Institute of Management, India.
+Socio-structural embeddedness of corporate board interlocks and its influence on capital Investment structures of Indian firms: An exploration of dynamics with simulations. International Conference on Financial Markets and Corporate Finance 2018, Indian Institute of Technology, Kanpur, India.
+Can Social Support Network Analysis help design better Campaigns targeting Clinically Depressed College Students? Conference of the Journal of the Academy of Marketing Science, Indian School of Business, Hyderabad, India.
+A Design Re-frame to Address Stigma in Help-seeking of Depressed College goers: A Case Study using Shadow Social Marketing. 46th Annual Macromarketing Conference - Macromarketing Putting the Local into Global, New Zealand.
+A qualitative study on consumers' quest for well-being: A case of transition from offline to online learning in India during the Covid-19 epidemic. 46th Annual Macromarketing Conference - Macromarketing Putting the Local into Global, New Zealand.

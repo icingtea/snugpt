@@ -1,0 +1,182 @@
+================================================================================
+Samarendra Pratap Singh
+================================================================================
+
+Faculty at School of Natural Sciences
+
+Research Interest
+--------------------------------------------------------------------------------
+Advanced Materials and Surface Engineering,
+Alternate Energy (Solar, Wind, Bio-fuels, etc.),
+Semiconductor Materials and Devices
+Surface and Nano Science,
+Soft Matter & Biophysics
+
+Education
+--------------------------------------------------------------------------------
+Ph.D. (Physics), Indian Institute of Technology Kanpur (IITK)
+M.Sc. (Physics), Banaras Hindu University (BHU) Varanasi
+B.Sc. (Physics, Chemistry), U.P. College (Autonomous Institution) Varanasi
+
+Work Experience
+--------------------------------------------------------------------------------
+06/18 ? Present: Associate Professor, Department of Physics, School of Natural Sciences, Shiv Nadar IoE
+07/11-05/18: Department of Physics, School of Natural Sciences, Shiv Nadar University, Delhi-NCR
+01/11-05/11: Scientist, Institute of Materials Research and Engineering (IMRE), Singapore
+01/10-12/10: Senior Research Engineer/Research Scientist & Engineer-II, Institute of Materials Research and Engineering (IMRE), A
+STAR, Singapore
+07/05-12/09: Research Engineer/Research Scientist & Engineer-II, Institute of Materials Research and Engineering (IMRE), A
+STAR, Singapore
+
+Funding
+--------------------------------------------------------------------------------
+Development of sensors for blast and blight diseases and stomatal activity measurement in rice (O. Sativa L.);
+Principal Investigator (PI): Samarendra P. Singh, Co-PI: S. K. Ghosh;
+Collabarative centres: IAS, BHU, BITS Pilani, IIT Roorkee and AU-KBC Research Centre, Chennai 
+Funding Agency: NASF, ICAR; Sanctioned Amount:  2.4 Cr 
+Period: 2019-2022
+FIST Infrastructure development Project 2017
+PI: S. Dhar, Co-PIs: Samarendra P. Singh, A. Kanjilal, P. Johari, S. S. Roy, S. Ghosh & B. Kaviraj 
+Funding Agency: DST; Sanctioned Amount: 1.89 Cr
+Efficient Large-Area Semi-Transparent Organic Photovoltaic (STOPV) Devices For Power Generating Window Applications
+PI: Samarendra P. Singh; Co-PI: Aloke Kanjilal 
+Funding agency: Technology mission DST, Government of India; Sanctioned Amount: INR 47.25 Lakhs;
+Period (2017-2020)
+
+Awards
+--------------------------------------------------------------------------------
+2000: Best Poster Award in ?12th International Workshop on The Physics of Semiconductor Devices? at IITM, Chennai held from 16-20 Dec. 2003.
+2008: Dedicated Service Award 2011, IMRE A*STAR Singapore.
+2011: Awarded with ?Excellence? award for teaching and services at SNU for the period 2011-2014.
+2021: Excellence award for research 2021, Shiv Nadar University, Gautam Buddha Nagar
+
+Journal Publications
+--------------------------------------------------------------------------------
+(Selected)
+
+1. Thu-Trang Do, Yasunori Takeda, Tomohito Sekine, Yogesh Yadav, Sergei Manzhos, Krishna Feron, Samarendra P. Singh, Shizuo Tokito, and Prashant Sonar,  Bottom Gate Top Contact Organic Transistors Using Thiophene and Furan flanked Diketopyrrolopyrrole Polymers and Its Comparative Study, 7, 035014 (2022) 
+
+2. Yogesh Yadav and Samarendra P. Singh, Effect of dielectric surface passivation on organic field-effect transistors: spectral analysis of the density of trap-states, Semiconductor Science and Technology, 37, 015015 (2022)
+3. M. Raveendra Kiran, Yogesh Yadav, Samarendra P. Singh, Chitosan-based memory devices: filamentary versus interfacial resistive switching, J. Phys. D: Appl. Phys. 55, 055302 (2021)
+4. Sanjay Sahare, Hong Duck Pham, Dechan Angmo, Prachi Ghoderao, Jennifer M Macleod, Sadaf Bashir Khan, Shern-Long Lee, Samarendra P. Singh, Prashant Sonar, Emerging Perovskite Solar Cell Technology: Remedial Actions for the Foremost Challenges,  Advanced Energy Materials, 11(42), 2170166 (2021) 
+5. Basanagouda B. Patil, Yasunori Takeda, Subhash Singh, Amandeep Singh, Thu Trang Do, Kostya (Ken) Ostrikov, Samarendra P. Singh, Shizuo Tokito, Ajay K. Pandey, Prashant Sonar, Single and Dual Gate Organic Field-Effect Transistors based on Diketopyrrolopyrrole-Diethirnothiophene Polymers: Performance Modulations via Dielectric Interfaces,  Materials Research Express, 8(9), 096301 (2021)
+6. Yogesh Yadav, Sajal K. Ghosh, and Samarendra P. Singh, High-performance Organic Field-effect Transistors Gated by Imidazolium-based Ionic Liquids, ACS Applied Electronic Materials, 3, 1496?1504 (2021)
+7. Basanagouda. B. Patil, Yasunori Takeda, Subhash Singh, Tony.Wang, Thu Trang Do, Samarendra P. Singh, Shizuo Tokito, Ajay K. Pandey, Prashant Sonar, Electrode and Dielectric Layer Interface Device Engineering Study Using Furan Flanked Diketopyrrolopyrrole-Dithienothiophene Polymer-Based Organic Transistors, Scientific Reports, 10(1), 19989 (2020)
+8. Basanagouda B. Patil, Yasunori Takeda, Thu Trang Do, Amandeep Singh, Tomohito Sekine, Soniya D. Yambem, Shizuo Tokito, Samarendra P. Singh, Ajay K. Pandey, Prashant Sonar, Reduced Threshold Voltages and Enhanced Mobilities in Diketopyrrolopyrrole? Dithienothiophene Polymer, Physica Status Solidi a, 2000097 1-7 (2020)
+9. Barla Rajkumar, Lubna Khanam, E. N. Koukaras, G. D. Sharma, Samarendra P. Singh, and Bimlesh Lochab, Cardanol- and Guaiacol-Sourced Solution-Processable Green Small Molecule-Based Organic Solar Cells,  ACS Sustainable Chem. Eng., 15, 5891 (2020)
+10. Kunal Jha, Yogesh Yadav, Shashi Srivastava, Dwaipayan Chakraborty, Priya Johari, Samarendra Pratap Singh; Parthapratim Munshi, Structure-Property Relationship in an Organic Semiconductor: Insights from Energy Frameworks, Charge Density Analysis and Diode Device, Crystal Growth & Design, DOI: 10.1021/acs.cgd.9b00244, (2019).
+11. Shashi. B. Srivastava, M. H. Modi, Sajal. K. Ghosh and Samarendra P. Singh, Investigation of the buried planar interfaces in multi-layered inverted organic solar cells using X-ray reflectivity and impedance spectroscopy, Journal of Physics-Condensed Matter, 31 (12),124003 (2019)
+12. Thu. T. Do, Basanagouda B. Patil, Samarendra P. Singh, Soniya D. Yambem, Krishna Feron, Kostya K. Ostrikov, John M. Bell, Prashant Sonar, Vinylene and benzo[c][1,2,5]thiadiazole: effect of the ?-spacer unit on the properties of bis(2-oxoindolin-3-ylidene)-benzodifuran-dione containing polymers for n-channel organic field-effect transistors,  RSC Adv., 8, 38919 (2018).
+13. Monisha, N. Yadav, Shashi B. Srivastava, Samarendra P. Singh, Bimlesh Lochab, Sustainable one-step strategy towards low temperature curable superparamagnetic composite based on smartly designed Iron nanoparticles and cardanol benzoxazine,  Journal of Materials Chemistry A, 6, 2555 (2018).
+14. R. Sen, Samarendra P. Singh, P. Johari, Strategical Designing of Donor-Acceptor-Donor based Organic Molecules for Tuning their Linear Optical Properties,  Journal of Physical Chemistry A, 122, 492 (2017).
+15. Shashi B. Srivastava, S. K. Srivastava and Samarendra P. Singh, Molecular-Shape-Induced Efficiency Enhancement in PC61BM and PC71BM Based Ternary Blend Organic Solar Cells,  Journal of Physical Chemistry C 121, 17104, (2017).
+16. Gourav Bhattacharya, S. K. Jothiramalingam, Shashi B. Srivastava, J. P. Thomas, S. Deshmukh, Paulius Pobedinskas, Samarendra P. Singh, Kam Tong Leung, Marlies K. Van Bael, Ken Haenen, Susanta Sinha Roy, Probing the flat band potential and effective electronic carrier density in vertically aligned nitrogen-doped diamond nanorods via electrochemical method, Electrochimica Acta, 246, 68 (2017).
+17. Shashi B. Srivastava, P. Sonar and Samarendra P. Singh, Analysis of degradation mechanisms in donor-acceptor copolymer based organic photovoltaic devices using impedance spectroscopy,  Materials Research Express 3, 096202 (2016).
+18. Shashi B. Srivastava, P. Sonar and Samarendra P. Singh, Charge transport studies in donor-acceptor block copolymer PDPP-TNT and PC71BM based inverted organic photovoltaic devices processed in room conditions,  AIP Advances 5, 077177 (2015).
+19. P. Johari and Samarendra P. Singh, Dependence of the Structure and Electronic Properties of D-A-D Based Molecules on the D/A Ratio and the Strength of the Acceptor Moiety, J. Phys. Chem. C, 119, 14890 (2015).
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+(Selected)
+
+1. Lubna Khanam and Samarendra P. Singh, Enhanced performance and stability 
+of ternary organic solar cells based on fullerene acceptors and PEIE dipole 
+interfacial transport layer, American Physical Society (APS) March Meeting2022, March 14?18, 2022; Chicago
+
+2. Ushasri Mukherjee and Samarendra P. Singh, Organic Solar cells processed in 
+environment friendly solvent, International Conference on Nanotechnology for 
+Sustainable Living and Environment (ICON-NSLE)-2022, BITS Pilani
+
+3. Bishwajit Mandal and Samarendra P. Singh, ?Light stimulated synaptic 
+behavior of a two terminal lateral diode based on the bulk heterojunction of 
+PBTTT: PCBM?, Presentation at IWPSD 2021 conference.
+
+4. Yogesh Yadav and Samarendra P. Singh, ?Low-temperature Solution-processed ZrO2 and Ta2O5 for High-performance Solution-processed Organic Fieldeffect Transistors?, Presented at DAE-SSPS symposium 2021.
+
+5. Bishwajit Mandal and Samarendra P. Singh, ?Light Stimulated Artificial 
+Synapses Based on Polymer Semiconductors PBTTT and PFO?, Abstract 
+submitted to DAE-SSPS symposium 2021. 
+
+6. Yogesh Yadav and Samarendra P. Singh, "Examining the Performance in LowPower Flexible OFETs: An Energetics Perspective", APS March Meeting 2021.
+
+7. Lubna Khanam, Yogesh Yadav, and Samarendra P. Singh, "Investigation of charge transport at interfaces in inverted organic solar cells with PEIE interfacial layer", ICONN 2021, February 1-3, 2021.
+
+8. Samarendra P. Singh, "A research-centric four-year Physics UG curriculum at Shiv Nadar University for fostering diverse scientific skills" at the 8th Annual Convention-2020 organized by The Indian Association of Physics Teachers (IAPT) RC-13.
+
+ 9. Shashi B. Srivastava and Samarendra P. Singh, ?Elucidating the impact of molecular-shape of fullerenes in  ternary polymer solar cells?, Invited talk in The First International Conference of Polymeric and Organic Materials organized at the Yamagata University, Japan (January 24-26, 2019).
+
+ 10. Yogesh Yadav and Samarendra P. Singh, ?Electrolyte-Gated Organic Field-Effect Transistors: A Potential Biosensor Platform? Invited talk in Life Science Research & its Interface with Engineering and Allied Sciences (LSRIEAS), organized at BITS, Pilani.
+
+11. Sanjay Sahare, Lubna Khanam, Vinay Shankar and Samarendra P. Singh, ?High Performance Semitransparent Polymer Solar Cells? presentation in the conference ?International Conference on Nano-Structured Materials and Devices (ICNSMD-2018)?, December 17-20, 2018.
+
+12. Shashi B. Srivastava, S. K. Srivastava and Samarendra P. Singh, ?8.5% Efficient Fullerene-Alloy Based Ternary Bulk Heterojunction Polymer Solar Cells?,  International workshop on Physics of semiconductor devices (IWPSD) 2017, New Delhi.
+
+ 13. Samarendra P. Singh, ?Organic Photovoltaics: Research at Shiv Nadar University?, Workshop on flexible electronics, NCFlexiE IIT Kanpur, July 2017.
+
+  14. Shashi B. Srivastava, Divambal A. Gupta, Bimlesh Lochab and Samarendra P. Singh, ?Zinc oxide:organic semiconductor hybrid composite for an application in organic solar cells?, Materials Research Society (MRS) Fall 2017 meeting, Boston, USA.
+
+  15. Shashi B. Srivastava and Samarendra P. Singh, ?Proficient ternary blend organic photovoltaic device with PC61BM as an interface modulator?, APS March 2017 meeting, The American Physical Society, USA.
+
+  16. Shashi B. Srivastava, M. H. Modi, Sajal K. Ghosh and Samarendra P. Singh, ?Investigation of the buried interfaces in multi-layered inverted organic photovoltaic device using X-ray reflectivity?, MRS Spring 2016.
+
+   17. Shashi B. Srivastava, M. H. Modi, Sajal K. Ghosh and Samarendra P. Singh, ?Investigation of Interfacial Morphology in Bulk Heterojunction Organic Photovoltaic Device Using X-ray Reflectivity?, ISMC 2016 BARC, Mumbai.
+
+   18. Samarendra P. Singh and Shashi B. Srivastava, ?Charge transport studies in bulk heterojunction based inverted organic photovoltaic devices processed in room ambient?, Aligarh Nano 2016, AMU Aligarh.
+
+  19. Shashi B. Srivastava, P. Sonar, Samarendra P. Singh, ?Charge transport studies in a donor-acceptor type polymer PDPP-TNT:PCBM-C60 based bulk heterojunction devices?, IWPSD 2015, IISc Bangalore.
+
+  20. Shashi B. Srivastava, P. Sonar, Samarendra P. Singh, ?Charge transport studies in a donor-acceptor type polymer PDPP-TNT and fullerene C-70 based bulk heterojunction devices?, ICMAT 2015 (28 June-3rd July 2015).
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances
+--------------------------------------------------------------------------------
+1. Developing infection imaging agent of peptides and deciphering their interactions with the cell membranes
+
+Principal Investigator (PI): Sajal K. Ghosh, Co-PI: Samarendra P. Singh, 
+
+  Funding Agency: BRNS, DAE; Sanctioned Amount:  26.91 Lakhs 
+
+   Period: 2022-2025
+
+2. Development of sensors for blast and blight diseases and stomatal activity measurement in rice (O. Sativa L.);
+
+    Principal Investigator (PI): Samarendra P. Singh, Co-PI: S. K. Ghosh;
+
+   Collabarative centres: IAS, BHU, BITS Pilani, IIT Roorkee and AU-KBC Research Centre, Chennai 
+
+   Funding Agency: NASF, ICAR; Sanctioned Amount:  2.4 Cr 
+
+   Period: 2019-2023
+
+3. FIST Infrastructure development Project 2017
+
+    PI: S. Dhar, 
+
+   Co-PIs: Samarendra P. Singh, A. Kanjilal, P. Johari, S. S. Roy, S. Ghosh & B. Kaviraj 
+
+    Funding Agency: DST; Sanctioned Amount: 1.89 Cr
+
+4. Efficient Large-Area Semi-Transparent Organic Photovoltaic (STOPV) Devices For Power Generating Window Applications
+
+    PI: Samarendra P. Singh; Co-PI: Aloke Kanjilal 
+
+    Funding agency: Technology mission DST, Government of India; 
+   Sanctioned Amount: INR 47.25 Lakhs;
+
+    Period (2017-2021)
+
+Patents / Copyright (filed / granted)
+--------------------------------------------------------------------------------
+(Selected)
+
+1. Indian Patent: Low-Cost Syringe Based Printer for Printing of a Patterned Thin Film of Solution Processable Organic and/or Inorganic Materials and Application in Organic Electronics Thereof, Inventors: Aman Khatkar, Vamsi Krishna G, Yogesh Yadav, Lubna Khanam, Ramesh Gupta, Samarendra P. Singh, Patent App. No.: 202111051417, November 10, 2021
+
+2. Indian Patent: Biofeedstock-derived functional groups based organic semiconductors and synthesis thereof, Inventors: Raj Kumar Barla, Nagarjuna, Lubna  Khanam, Samarendra P. Singh and Bimlesh Lochab, Indian Patent Journal, Patent App. No.: 202111012988, March 25, 2021
+
+3. Indian Patent: ?Fullerene Based Hybrid Inorganic-Organic Composites and Synthesizing Method Thereof? Applicant: Shiv Nadar University?, Inventors: Shashi. B. Srivastava and Samarendra P. Singh, Indian Patent Journal, Patent App. No.: 201711040818, May 17, 2019.
+
+4. Technology Transfer: US patent # US8624232 ?Ambipolar polymeric semiconductor materials and organic electronic devices?, Inventors: P. Sonar, Samarendra P. Singh, Mui Siang Soh, Yuning Li? licensed by Corning Inc., USA.
+
+Advisory work with NGOs / Government / International Bodies
+--------------------------------------------------------------------------------
+1. Member, SPIC MACAY, National executive (2013-2015).
+2. Secretary, SPIC MACAY U.P. (2020-present)

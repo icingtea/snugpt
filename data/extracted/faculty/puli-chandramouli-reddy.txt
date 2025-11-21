@@ -1,0 +1,77 @@
+================================================================================
+Puli Chandramouli Reddy
+================================================================================
+
+Faculty at School of Natural Sciences
+
+Research Interest
+--------------------------------------------------------------------------------
+Evolutionary Developmental Biology, Regeneration Biology, Epigenetics and Genomics
+
+Education
+--------------------------------------------------------------------------------
+Ph.D, University of Pune
+M.Sc, University of Hyderabad
+B.Sc, Andra University
+
+Work Experience
+--------------------------------------------------------------------------------
+10/21 ? Present
+Assistant Professor,
+Department of Life Sciences, School of Natural Sciences, Shiv Nadar University, Delhi-NCR
+2019 ? 2021
+Visiting Scientist,
+Zoologisches Institut, University of Kiel,
+Germany
+2018
+Early Career Fellow,
+India Alliance
+2017
+Research Associate III,
+Indian Institute of Science Education and Research,
+Pune
+2013 ? 2016
+DBT-Research Associate,
+Indian Institute of Science Education and Research,
+Pune
+
+Awards
+--------------------------------------------------------------------------------
+2018
+FEBS journal best poster award at Indo-US conference on ?Transcription, chromatin structure, DNA repair and genomic instability? held at IISc, Bangalore (March, 6-10, 2018).
+2018
+Wellcome Trust/DBT India Alliance Research Early Career Fellowship award from 2018.
+2013 ? 2016
+DBT Research associate fellowship award from 2013 to 2016.
+2011
+Recipient of travel fellowship to attend 44th JSDB annual meeting in Okinawa, Japan (2011).
+2004
+Qualified the Joint CSIR-UGC Junior Research Fellowship (JRF) and Eligibility for lectureship National Eligibility Test (NET) held on 27th June, 2004.
+
+Journal Publications
+--------------------------------------------------------------------------------
+Mishra, V., Patil, S., Reddy, P.C.*, and Lochab, B.* (2022). Combinatorial delivery of CPI444 and vatalanib loaded on PEGylated graphene oxide as an effective nanoformulation to target glioblastoma multiforme: In vitro evaluation. Frontiers in oncology 12. (*Corresponding author)
+Patil, S., Mishra, V.S., Yadav, N., Reddy, P.C., and Lochab, B. (2022). Dendrimer-Functionalized Nanodiamonds as Safe and Efficient Drug Carriers for Cancer Therapy: Nucleus Penetrating Nanoparticles. ACS Applied Bio Materials 5, 3438-3451.
+Pillai, A., Gungi, A., Reddy, P.C.*, and Galande, S.* (2021). Epigenetic regulation in hydra: Conserved and divergent roles. Frontiers in Cell and Developmental Biology 9, 663208. (*Corresponding author)
+Pradhan, S.J., Reddy, P.C., Smutny, M., Sharma, A., Sako, K., Oak, M.S., Shah, R., Pal, M., Deshpande, O., and Dsilva, G. (2021). Satb2 acts as a gatekeeper for major developmental transitions during early vertebrate embryogenesis. Nature Communications 12, 1-19.
+Unni, M., Reddy, P.C., Pal, M., Sagi, I., and Galande, S. (2021). Identification of Components of the Hippo Pathway in Hydra and Potential Role of YAP in Cell Division and Differentiation. Frontiers in genetics 12.
+Reddy, P.C., Gungi, A., Ubhe, S., and Galande, S. (2020). Epigenomic landscape of enhancer elements during Hydra head organizer formation. Epigenetics & chromatin 13, 1-16.
+Reddy, P.C., Pradhan, S.J., Karmodiya, K., and Galande, S. (2020). Origin of RNA Polymerase II pause in eumetazoans: Insights from Hydra. Journal of biosciences 45, 8.
+Naik, S., Unni, M., Sinha, D., Rajput, S.S., Reddy, P.C., Kartvelishvily, E., Solomonov, I., Sagi, I., Chatterji, A., and Patil, S. (2020). Differential tissue stiffness of body column facilitates locomotion of Hydra on solid substrates. Journal of Experimental Biology 223.
+Reddy, P.C., Gungi, A., Ubhe, S., Pradhan, S.J., Kolte, A., and Galande, S. (2019). Molecular signature of an ancient organizer regulated by Wnt/?-catenin signalling during primary body axis patterning in Hydra. Communications biology 2, 1-11.
+Khare, S.P., Shetty, A., Biradar, R., Patta, I., Chen, Z.J., Sathe, A.V., Reddy, P.C., Lahesmaa, R., and Galande, S. (2019). NF-?B signaling and IL-4 signaling regulate SATB1 expression via alternative promoter usage during Th2 differentiation. Frontiers in immunology 10, 667.
+Reddy, P.C., Ubhe, S., Sirwani, N., Lohokare, R., and Galande, S. (2017). Rapid divergence of histones in Hydrozoa (Cnidaria) and evolution of a novel histone involved in DNA damage response in hydra. Zoology 123, 53-63.
+
+Books and Book Chapters (Authored / Edited / Reviewed)
+--------------------------------------------------------------------------------
+Reddy, P.C.*, Gungi, A., and Unni, M. (2019). Cellular and molecular mechanisms of Hydra regeneration. Evo-Devo: Non-model Species in Cell and Developmental Biology, 259-290. (*Corresponding author)
+
+Media Articles
+--------------------------------------------------------------------------------
+"Hydra as model system"; UNIZEIT (04-07-2020) https://www.uni-kiel.de/en/university/details/news/puli-reddy#
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances
+--------------------------------------------------------------------------------
+?Identification of cell type transitions  and their regulation by hedgehog signalling in re-establishment of organizer centre during hydra regeneration?, PI: Reddy, P.C., India Alliance DBT and WellcomeTrust Early Career Fellowship, INR:1,04,87,800, 2018-2022 (5 years)
+
+"Elucidation of specification mechanisms of male germ cells and epigenetic reprogramming during gametogenesis in Hydra", Startup Research Grant (SRG), PI: Reddy, P.C., SCIENCE & ENGINEERING RESEARCH BOARD (SERB), INR 26,00,000, 2022-2024 (2 years)

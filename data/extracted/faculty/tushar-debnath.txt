@@ -1,0 +1,258 @@
+================================================================================
+Tushar Debnath
+================================================================================
+
+Faculty at School of Natural Sciences
+
+Education Details
+--------------------------------------------------------------------------------
+2016
+: PhD (Chemistry), Bhabha Atomic Research Centre, Mumbai, India
+2011
+: M.Sc. (Chemistry), Jadavpur University, Kolkata, India
+2009
+: B.Sc. (Chemistry Hons.), Jadavpur University, Kolkata, India
+
+Work Experience
+--------------------------------------------------------------------------------
+Since Jan. 2024:
+Ramanujan Faculty Fellow,
+Department of Chemistry, School of Natural Sciences, Shiv Nadar Institution of Eminence, Delhi-NCR
+Jun. 2022 – Jan. 2024
+: Ramanujan Fellow, Centre for Nanotechnology, IIT Guwahati, India
+Nov. 2018 – Jun. 2022
+: Group Leader & AvH Fellow, Department of Physics, Ludwig-Maximilians-University, Munich, Germany
+May 2018
+: Visiting Scientist, SLAC National Accelerator Laboratory, California, USA
+Sept. 2016 – Aug. 2018
+: Postdoctoral Research Fellow, Division of Chemistry and Biological Chemistry, Nanyang Technological University, Singapore
+
+Research Interests
+--------------------------------------------------------------------------------
+Experimental Physical Chemistry, Optical & Ultrafast Spectroscopy, Semiconductor Physics, Plasmonic Nanomaterials, Optoelectronics, Energy Research
+
+Academic Achievements/Awards
+--------------------------------------------------------------------------------
+2022
+: Scientific Breakthrough Publication Award, CeNS LMU Munich for paper in Nano Letters
+2022
+: Ramanujan Faculty Fellowship (Chemical Sciences)
+2020
+: Best Junior Scientist Publication Award, CeNS LMU Munich for paper in Nature Communications
+2020
+: First Place Winner of ‘Science as Art’ image at the virtual Materials Research Society Fall meeting, Boston, USA
+2018
+: Alexander von Humboldt Fellowship, Germany
+2014
+: Best Poster Award, IPS-2014, Berlin, Germany
+2014
+: INST-CNR Rao Poster award for excellence in research, ICONSAT-2014, Chandigarh, Punjab, India
+2011
+: Qualified All India GATE-2011, and All India CSIR-UGC NET, June 2011
+2010
+: Qualified All India CSIR-UGC NET, December 2010
+
+National and International Recognition
+--------------------------------------------------------------------------------
+2022:
+Ramanujan Fellow, India
+2018:
+Alexander von Humboldt Fellow, Germany
+
+Publications
+--------------------------------------------------------------------------------
+Full list of publications: https://scholar.google.co.in/citations?user=2NmKiAMAAAAJ&hl=de
+2024
+v. Schwerin,
+T. Debnath*,
+J. Feldmann, and Q. A. Akkerman. Size-Tunable Manganese Doped Spheroidal CsPbCl3 Quantum Dots.
+J. Phys. Chem. Lett.
+2024
+(Accepted).
+Sahu,
+T. Debnath*,
+and K. Sahu. Reversible CsPbBr3 ↔ CsPb2Br5 Transformation via Reverse Micellar Aqueous Solution.
+J. Phys. Chem. Lett.
+2024
+(Accepted).
+He, Y. Wang,
+T. Debnath
+, M. Döblinger, Q. A. Akkerman, J. Feldmann, and A. Dey. Silver-nanoclusters and -vacancies Influence the Optical Properties of Spherical Cs2AgBiCl6 Nanocrystals.
+Adv. Opt. Mater.
+2024
+, 2302898.
+H. Shah and
+T. Debnath*.
+CuInS2 Decorated Perovskite Nano-architecture: Halide-Driven Energy and Electron Transfer.
+J. Phys. Chem. Lett.
+2024
+15, 9, 2580–2586.
+Mann, F. He, Q. Akkerman,
+T. Debnath*
+and J. Feldmann. A Bound Exciton Resonance Modulated by Bulk and Localized Coherent Phonons in Double Perovskites.
+J. Phys. Chem. Lett.
+2024
+, 15, 2169–2176.
+Samanta, S. Paul, and
+T. Debnath
+*
+. Obtaining Ligand-free Aqueous Au-Nanoparticles using Reversible CsPbBr
+3
+↔ Au@CsPbBr
+3
+Nanocrystal Transformation.
+Small
+2024
+, 2311712.
+Fang, P. Li, L. Zhang, X. Li, J. Zhang, C. Qin,
+T. Debnath,
+* W. Huang, R. Chen. Stimulating phonon bottleneck effect in organic semiconductors by charge-transfer mediated J-aggregation.
+J. Am. Chem. Soc.
+2024
+, 146, 1, 961–969.
+2023
+Bhattacharya, A. Bhakat, and
+T. Debnath
+*
+. Breaking AgInTe
+2
+Quantum Dot Chain to Prepare AgInTe
+2
+-ZnS Janus Nanocrystals.
+Inorg.
+Chem.
+2023
+, 62 (49), 20219–20227.
+Fang, Y. Wang, M. Kurashvili, S. Rieger, W. Kasprzyk, Qingli Wang, J. K. Stolarczyk, J. Feldmann and
+T. Debnath
+*. Simultaneous Hydrogen Generation and Exciplex Stimulated Emission in Photobasic Carbon Dots.
+Angew. Chem. Int. Ed.
+2023
+, e202305817.
+Das, and
+T. Debnath
+*. Giant Exciton Stokes Shift in Interfacially Prepared Cs(Mn/Pb)Cl
+3
+Alloy Nanoplatelets.
+J. Phys. Chem. Lett.
+2023
+, 14 (25), 5940−5948 (Front Cover).
+Manna,
+T. Debnath*
+and S. Bhandari. Chemical coupling of halide perovskite nanocrystals with metal quinolate complex for white light generation.
+Chem. Commun.
+2023
+, 59, 1469-1472.
+Manna, S. Pal, T. Goswami, S. Bhandari and
+T. Debnath
+*
+. Halide Driven Halogen-Hydrogen Bonding versus Chelation in Perovskite Nanocrystals: A Concept of Charge Transfer Bridging.
+J. Phys. Chem. Lett.
+2023,
+14 (2), 354−362.
+2022
+Das and
+T. Debnath*.
+Water Triggered Chemical Transformation of Perovskite Nanocrystals.
+Chem. Eur. J.
+2022
+, 29 (5), e202202475. DOI: 10.1002/chem.202202475.
+Barfüßer, S. Rieger, A. Dey, A. Tosun, Q. A. Akkerman,
+T. Debnath
+*
+and J. Feldmann. Confined Excitons in Spherical-like Halide Perovskite Quantum Dots.
+Nano Letters
+2022
+, 22, 22, 8810–8817 (Front Cover).
+Wu, Y. Wang, M. Kurashvili, A. Dey, M. Döblinger, Q. Zhang, J. Feldmann, H. Huang and
+T. Debnath
+*. Interfacial Manganese-doping in CsPbBr
+3
+Nanoplatelets by Employing a Molecular Shuttle.
+Angew. Chem. Int. Ed.
+2022,
+61 (15), e202115852.
+Debnath*
+. Introducing…
+Angew. Chem. Int. Ed.
+2022
+, 61 (15), e202201081.
+Kurashvili, I. Polishchuk, A. Lang, S. Strohmair, A. Richter, S. Rieger,
+T. Debnath,*
+B. Pokroy and J. Feldmann. Disorder and Confinement Effects to Tune the Optical Properties of Amino Acid Doped Cu2O Crystals.
+Adv. Funct. Matter.
+2022
+, 32 (27), 2202121.
+Before 2022
+Debnath
+,* D. Sarker, H. Huang, Z.-K. Han, A. Dey, L. Polavarapu, S. V. Levchenko, and J. Feldmann. Coherent Vibrational Dynamics Reveals Lattice Anharmonicity in Organic-inorganic Halide Perovskite Nanocrystals.
+Nat. Commun.
+2021
+, 12, 2629.
+Paul, E. Bladt, A. Richter, M. Döblinger, Y. Tong, H. Huang, A. Dey, S. Bals,
+T. Debnath
+,* L. Polavarapu and J. Feldmann. Manganese Doping Induced Quantum Confinement within Host Perovskite Nanocrystals through Ruddlesden Popper Defects.
+Angew. Chem. Int. Ed.
+2020,
+59 (17), 6794-6799 (Back Cover).
+Fang,
+T. Debnath
+, S. Bhattacharyya, M. Döblinger, J. Feldmann & J. K. Stolarczyk. Photobase effect for just-in-time delivery in photocatalytic hydrogen generation.
+Nat. Commun.
+2020
+, 11 (1), 5179.
+Debnath
+and H. N. Ghosh. Ternary Metal Chalcogenides: Into the Exciton and Bi-exciton Dynamics.
+J. Phys. Chem. Lett.
+2019,
+10, 20, 6227-6238 (Front Cover).
+Debnath
+, M. S. B. M. Yusof, P. J. Low, Z.-H. Loh. Ultrafast Structural Rearrangement Dynamics Induced by the Photodetachment of Phenoxide in Aqueous Solution.
+Nat. Commun.
+2019,
+10, 2944.
+Debnath
+, D. Sebastian, S. Maiti and H. N. Ghosh. Tuning Hole and Electron Transfer from Photo-excited CdSe Quantum Dot to Phenol Derivatives: Effect of Electron Donating and Withdrawing Moiety.
+Chem. Eur. J
+2017
+, 23, 7306 – 7314.
+Debnath
+, K. Parui, S. Maiti and H. N. Ghosh. An Insight of Interface through Excited State Carrier Dynamics for Promising Enhancement of Power Conversion Efficiency in Mn doped CdZnSSe Gradient Alloy.
+Chem. Eur. J
+2017
+, 23, 3755 – 3763.
+Debnath
+, S. Maiti and H. N. Ghosh. Unusually Slow Electron Cooling to Charge Transfer State in CdTeSe Alloy Nanocrystal Mediated Through Mn Atom.
+J. Phys. Chem. Lett.
+2016
+, 7, 1359–1367.
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+“Halide Driven Energy and/or Charge Transfer Dynamics in Perovskite Nanocomposite” NaMoSBio, IISER Kolkata, January 2024. (Invited Talk)
+“Exciton, Biexciton and Charge Transfer Dynamics in Perovskite Nanocrystals” TSRP, BARC Mumbai, January 2024. (Invited Talk)
+“Water-triggered Strategy for Doping in Low-dimensional Perovskites” HyPE, IACS Kolkata, December 2023. (Invited Talk)
+“Excitons and Coherent Phonons in Perovskite Nanocrystals” Department of Chemistry, IIT Guwahati, August 2023. (Invited Talk)
+“Excitons and Coherent Phonons in Perovskite Nanocrystals” APMD 2023, S & T online platform, India, June 2023. (Oral Talk)
+“Exciton, Biexciton and Coherent Phonon Dynamics of Versatile Perovskite Nanocrystals: Nanocubes, Nanopletelets and Spherical Quantum Dots” UFS 2022, IISER TVM, India, November 2022. (Contributed Talk)
+“Intrinsic Lattice Anharmonicity in Hybrid Perovskite Nanocrystals”, EMRS Fall (Online), Warsaw, Poland, September 2021 (Oral Talk).
+“Coherent Phonon Dynamics Reveals Intrinsic Lattice Anharmonicity in Hybrid Perovskite Nanocrystals”, ICL2020 (online), China, July 2021 (Oral Talk).
+“Vibrational Wave-packet Dynamics Reveals Intrinsic Lattice Anharmonicity in Hybrid Perovskite Nanocrystals”, Internet NanoGe Conference on Nanocrystals 2021, Munich (Oral Talk)
+“Phonon Vibrational Dynamics Reveals Intrinsic Lattice Anharmonicity in Hybrid Perovskite Nanocrystals”, Materials Research Society Fall meeting 2020 (virtual), Boston, USA (Oral Talk).
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances
+--------------------------------------------------------------------------------
+2024 - 2027
+DST-SERB Core Research Grant (CRG), India (CRG/2023/000519), Amount: ~70 Lakh (Accepted)
+2022 - 2027
+DST-SERB, India (RJF/2021/000125), Amount: ~38 Lakh
+(
+Ongoing)
+2018 – 2021
+Alexander von Humboldt Foundation, Germany (AOSt-Nr. 15070118238289),
+Amount: ~20 Lakh
+(Completed)
+
+Peer Review Service
+--------------------------------------------------------------------------------
+Regular peer-reviewer of several ACS, RSC, Willey, Nature, Science, Elsevier, etc. journals.

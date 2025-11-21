@@ -1,0 +1,67 @@
+================================================================================
+Tatini  Rakshit
+================================================================================
+
+Faculty at School of Natural Sciences
+
+Research Interest
+--------------------------------------------------------------------------------
+Bioanalytical Chemistry, Single-Molecule Manipulation, Force Based Microscopy and Spectroscopy, Bioelectronics
+Visit my Lab:
+Click Here
+
+Education
+--------------------------------------------------------------------------------
+2014
+Ph.D. Indian Association for the Cultivation of Science, Kolkata
+2008
+M.Sc. Jadavpur University, Kolkata
+2006
+B.Sc. Jadavpur University, Kolkata
+
+Work Experience
+--------------------------------------------------------------------------------
+12/21 - Present
+Assistant Professor, Department of Chemistry, School of Natural Sciences, Shiv Nadar University, Delhi-NCR
+11/18-11/21
+DST Inspire Faculty Fellow, S. N. Bose National Centre for Basic Sciences, Kolkata
+10/16-08/18
+Postdoctoral Fellow, National Cancer Institute (NCI), National Institute of Health (NIH), Bethesda, MD
+03/14-09/16
+Postdoctoral Fellow, Case Western Reserve University, School of Medicine, Cleveland, Ohio
+
+Awards
+--------------------------------------------------------------------------------
+2020 - 2023
+Core Research Grant from SERB in Interdisciplinary Life Sciences
+2018 - 2023
+DST-Inspire faculty fellowship and Grant in Chemical Sciences.
+2016 - 2018
+NIH Postdoctoral Fellowship.
+2014 - 2016
+Postdoc Fellowship , School of Medicine, CWRU, USA
+2008 - 2013
+Qualified in National Eligibility Test (NET), Junior and Senior Research fellowship.
+2006 - 2008
+Indira Gandhi Post Graduate Scholarship by UGC.
+
+Journal Publications
+--------------------------------------------------------------------------------
+Label-Free Physical−Analytical Techniques Reveal Epigenetic Modifications of Breast Cancer Chromosomes. T. Agrawal, D. Paul, S. Saroj, A. Ali, V. Choubey, D. Mukherjee, S. Pal, T. Rakshit, Journal of Physical Chemistry B, 2023, DOI: 10.1021/acs.jpcb.3c00147
+A Mechanoelastic Glimpse on Hyaluronan-Coated Extracellular Vesicles. D. Paul, D. Mukherjee, A. Paul, Saroj S., M. Ghoshal, S. Pal, D. Senapati, J. Chakrabarti, S.K. Pal, T. Rakshit. The Journal of Physical Chemistry Letters, 2022, DOI: 10.1021/acs.jpclett.2c01629
+Importance of Extracellular Vesicle Derived RNAs as Critical Colorectal Cancer Biomarkers. B. Datta, D. Paul, T.Dey, S. Pal, T. Rakshit. ACS Bio & Med Chem Au (Invited review article), 2022, DOI: 10.1021/acsbiomedchemau.1c00043
+PEG Mediated Fusion of Extracellular Vesicles with Cationic Liposomes for the Design of Hybrid Delivery Systems. D. Mukherjee, D. Paul, S. Sarker, Sushmita; Md. N. Hasan, R. Ghosh, S. Prasad, P. Vemula, R. Das, A. Adhikary, Arghya, S. K. Pal, T. Rakshit. ACS Applied Biomaterials, 2021 , DOI: 10.1021/acsabm.1c00804.
+Intriguing Biomedical Applications of Synthetic and Natural Cell-Derived Vesicles: A Comparative Overview (Review article). B. Dutta, D. Paul, U. Pal, T. Rakshit. ACS Applied Biomaterials, 2021, DOI: 10.1021/acsabm.0c01480
+Identification of Biomarker Hyaluronan on Colon Cancer Extracellular Vesicles Using Correlative AFM and Spectroscopy. D. Paul, A. Roy, A. Nandi, B. Dutta, P. Borar, S. K. Pal, D. Senapati, T. Rakshit. The Journal of Physical Chemistry Letters, 2020, DOI: 10.1021/acs.jpclett.0c01018
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+Invited speaker at Young Scientist Conclave, Indian Chemical Society, “Colon Cancer Biomarkers from Extracellular Vesicles: A Biophysical Approach”, July 31, 2022.
+Invited speaker at Gangeya Student Chapter, "Biophysics Week Celebration", organized by IISER Kolkata, “Fishing out Colon Cancer Biomarkers from Extracellular Vesicles”, March 27, 2021.
+Invited speaker at International Conference on Biotechnology Advances, National Institute of Raipur, Chhattisgarh, “Nanomechanical Properties of Nucleosomes using AFM”, Jan 8-9, 2020.
+Invited speaker at Soft Matter Young Investigators’ Meet (SMYIM), “Rhodhopsin signalling in Retinal Membranes by Single Molecule Detection Approach”, May 12-14, 2019, Shillong, India
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances
+--------------------------------------------------------------------------------
+DST-Inspire faculty grant (2018-2023), 35 lakhs (Chemical Science) as PITitle of the project: Biophysical characterization of extracellular vesicles (EVs) using single-molecule detection (SMD) methods: a potential non-invasive diagnostic tool.
+SERB Core Research Grant, (2020-2023), 47 lakhs (Interdisciplinary Life Sciences) As PI Title of the project: Quantitative study on single-chromosome elasticity and its relevance to chromosome fragility in cancer.

@@ -1,0 +1,100 @@
+================================================================================
+Suchi Kumari
+================================================================================
+
+Faculty at School of Engineering
+
+Education Details
+--------------------------------------------------------------------------------
+2020, Ph.D. Computer Science & Engineering, NIT Delhi
+2014, M.Tech., Computer Science & Engineering, IIITDM Jabalpur
+2012, B.Tech., Computer Engineering & Engineering, Integral University Lucknow
+
+Work Experience
+--------------------------------------------------------------------------------
+01/24-Present, Assistant Professor, Department of Computer Science and Engineering, School of Engineering, Shiv Nadar University, Delhi-NCR
+07/2019-12/2023, Bennett University, Greater Noida
+
+Research Interests
+--------------------------------------------------------------------------------
+Network Science, Complex Networks, Social Network Analysis, Communication Networks, Robustness Analysis
+
+Academic Achievements/Awards
+--------------------------------------------------------------------------------
+Got “certificate of merit” in class 10th for ‘first’ position among the girls in the district
+Azure Fundamental certified since February 2023.
+Senior Member IEEE
+
+Memberships
+--------------------------------------------------------------------------------
+IEEE, ACM
+
+Journals
+--------------------------------------------------------------------------------
+Rajesh Kumar, Suchi Kumari, and Anubhav Mishra. "Robustness of multilayer networks: A graph energy perspective." Physica A: Statistical Mechanics and its Applications 628 (2023): 129160, doi: 10.1016/j.physa.2023.129160.
+Samya Muhuri, Suchi Kumari, Suyel Namasudra and Seifedine Kadry, "Analysis of the Pertinence of Indian Women’s Institutions in Collaborative Research," in IEEE Transactions on Computational Social Systems, 2022, doi: 10.1109/TCSS.2022.3183949.
+Rajesh Kumar, Suchi Kumari, Manju Bala, Minimizing the Effect of Cascade Failure in Multilayer Networks with Optimal Redistribution of Link Loads, Journal of Complex Networks, Volume 9, Issue 6, December 2021, cnab043, doi: 10.1093/comnet/cnab043.
+Suchi Kumari, Rajesh Kumar, Seifedine Kadry, Suyel Namasudra, and David Taniar. "Maintainable stochastic communication network reliability within tolerable packet error rate." Computer Communications Vol. 178, pp. 161-168, 2021, doi: 10.1016/j.comcom.2021.07.023
+Suchi Kumari and Suyel Namasudra, “System reliability evaluation using budget constrained real d-MC search.” Computer Communications, Vol. 171, pp. 10-15, 2021, doi: 10.1016/j.comcom.2021.02.004
+Suchi Kumari, Riteshkumar Jayprakash Yadav, Suyel Namasudra and Ching-Hsien Hsu, “Intelligent Deception Techniques against Adversarial Attack on Industrial System.” International Journal of Intelligent Systems, DOI: 10.1002/int.22384, 2021.
+Rajesh Kumar, Suchi Kumari and Manju Bala, “Quantum Mechanical Model of Information Sharing in Social Networks” Social Network Analysis and Mining, Vol. 11, No. 1, pp. 1-12, 2021, doi: 10.1007/s13278-021-00741-3.
+Suchi Kumari, Abhishek Saroha and Anurag Singh, “Efficient edge rewiring strategies for enhancement in network capacity.” Physica A: Statistical Mechanics and its Applications, Vol. 545, pp. 123552, 2020, doi: 10.1016/j.physa.2019.123552.
+Suchi Kumari and Anurag Singh, “Effect of correlation on the traffic capacity of Time-Varying Communication Network.” Modern Physics Letter B, Vol. 33, No. 26, pp. 1950314, 2019, doi: 10.1142/S0217984919503147.
+Suchi Kumari and Anurag Singh, “Fair End to End Window Based Congestion Control in Time-Varying Data Communication Networks.” International Journal of Communication Systems, DOI: 10.1002/dac.3986, May 2019.
+Suchi Kumari and Anurag Singh, “Effect of correlations on routing and modelling of Time-Varying Communication Networks.” Acta Physica Polonica B, vol. 50, No. 02, 2019.
+Suchi Kumari and Anurag Singh, “Modeling and Performance Studies of Time-Varying Communication Networks”, Advances in Complex Systems, Vol. 21, No. 02, pp. 1850006, 2018, doi: 10.1142/S0219525918500066.
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+Tanmay Singh, Parijat Rai, Saumil Sood, Siddhant Nigam, and
+Suchi Kumari
+, “Adversarial Attacks and Defences of Various Artificial Intelligence Models in
+SmartTechCon conference
+2023.
+Harmohanjeet Kaur, Pooja Shah, Samya Muhuri, and
+Suchi Kumari
+, “A Disease Prediction Framework based on Predictive Modelling.” In
+International Conference on Data Science and Network Engineering
+(ICDSNE 2023).
+Rajesh Kumar, Rachit Talwar, Manik Sharma,
+Suchi Kumari
+, Shivani Goel, Kanika Malhotra, and Faiz Ahmed, “Malware Detection in URL using Machine Learning Approach”. In
+International Advanced Computing Conference
+, Springer, Cham, 2022.
+Suchi Kumari
+, Samya Muhuri, and Swati Chandna. "Enhancing Network Robustness Using Statistical Approach Based Rewiring Strategy." In
+International Advanced Computing Conference
+, pp. 633-645. Springer, Cham, 2021.
+Suchi Kumari
+and Anurag Singh. “Community structured time-varying communication networks.” In
+Communication Systems & Networks (COMSNETS), 2018 10th International Conference on
+, pp. 513-515. IEEE, 2018.
+Suchi Kumari
+, Anurag Singh and Hocine Cherifi, "Optimal Local Routing Strategies for Community Structured Time-Varying Communication Networks." Accepted in CSoNet 2017 (Computational Social Network), Hong Kong, Aug.3-5, 2017.
+Suchi Kumari
+and Anurag Singh, Modeling of Data Communication Networks using Dynamic Complex Networks and its Performance Studies, In 5th International Workshop on Complex Networks and their Applications November 30-December 02, 2016, Milan, Italy.
+Suchi Kumari
+, Anurag Singh and Priya Ranjan, Towards A Framework for Rate Control on Dynamic Communication Networks, In Proceedings of the International Conference on Internet of things and Cloud Computing (ICC '16), ACM, New York, NY, USA, Article 12, 7 pages, 2016.
+Suchi Kumari
+, Aparajita Ojha, “Maintainable Stochastic Flow Network with High QoS: A Quick and Practical Approach”
+,
+accepted in International Conference on Advances in Computing and Communications (ACC-2014).
+
+Poster Presentations
+--------------------------------------------------------------------------------
+Presented
+poster in Inter Research Student Seminar in Computer Science at
+IRISS 2018
+held in VNIT Nagpur on 16th February 2018.
+Attended
+and
+presented
+a poster at International Conference on the Networked Digital Earth at
+ICNDE 2018
+held in IIT Kharagpur from 7th to 9th March 2018.
+Attended
+and
+selected
+for poster presentation in the ICTS program
+"Dynamics of Complex Systems: Workshop on Complex Networks (WCN)"
+held from 26 - 30 June 2018 at ICTS-TIFR, Bangalore.

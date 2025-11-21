@@ -1,0 +1,118 @@
+================================================================================
+Karnish Nasrin Ahmed Tapadar
+================================================================================
+
+Faculty at School of Engineering
+
+Biography
+--------------------------------------------------------------------------------
+Karnish Nasrin Ahmed Tapadar has done her Ph.D. in Computer Science and Engineering at the Indian Institute of Technology Guwahati (IITG) under the supervision of Dr. Manas Khatua and Prof. Tamarapalli Venkatesh. She holds an M.Tech. in Computer Science and Engineering from the National Institute of Technology Durgapur, where she was awarded the Institute Gold Medal.
+Her research focuses on Computer Networks, particularly IoT, 6TiSCH, IEEE 802.15.4e, and Security-by-Design in IoT, along with performance evaluation of communication protocols, wireless networks, and sensor networks. Her work has been published in reputed journals and conferences.
+Karnish has served as an Assistant Professor at CV Raman Global University and contributed significantly to student development and academic programs. She has also worked as a teaching assistant at IIT Guwahati and mentored M.Tech. students in their thesis work. She qualified GATE 2016 and UGC-NET 2018 and was awarded the MHRD Fellowship for her Ph.D. Additionally, she has received travel grants to attend prestigious conferences such as ICDCN 2022, COMSNETS 2024, and ICSTE 2023.
+She has been actively involved in academic leadership, volunteering at conferences and workshops at IIT Guwahati.
+
+Education Details
+--------------------------------------------------------------------------------
+Ph.D. 2025, Computer Science and Engineering, Indian Institute of Technology Guwahati
+M.Tech 2018, Computer Science and Engineering, National Institute of Technology Durgapur, CGPA-9.19/10
+Master of Computer Science 2014, Assam Central University
+
+Work Experience
+--------------------------------------------------------------------------------
+Teaching Staff - Indian Institute of Technology Guwahati, India August 2024- December 2024
+Teaching Assistant - Indian Institute of Technology Guwahati, India January 2019 - December 2023
+Junior Research Fellow - Assam Central University, India Jan 2016 - June 2016
+Assistant Professor - CV Raman Global University, Bhubaneswar, India July 2018 - December 2018
+
+Research Interests
+--------------------------------------------------------------------------------
+Internet of Things (IoT), Wireless Networks, Sensor Networks, 6TiCSH, IEEE 802.15.4e, Performance Evaluation of IoT protocols, and Security-by-Design in IoT.
+To learn more about my work, please visit
+https://karnish.github.io/karnish-tapadar/
+
+Academic Achievements/Awards
+--------------------------------------------------------------------------------
+Qualified GATE in CSE discipline, 2016 with AIR 4006 and score 500.
+Secured 1st class 1st position (Institute Gold Medalist) in M.Tech.
+Qualified UGC-NET (Assistant Professor) in CS & IT discipline, 2018.
+Received Travel grant to attend COMSNETS 2024 conference from COMSNETS organization.
+Received Travel grant to attend ICSTE’2023 conference from IIT Guwahati, India.
+Received MHRD Fellowship (2019-2023) for Ph.D. through GATE.
+Received MHRD Scholarship for M.Tech (2016-2018) through GATE.
+Received Merit-cum-Means Scholarship during Integrated MCS from Ministry of Minority.
+Bagged first prize in a Teaching competition conducted by Jawahar Navodaya Vidyalaya, India in 2008.
+Received Participation Certificate for SERB-INAE workshop on Pedagogy Training for Teaching & Research Excellence.
+
+National and International Recognition
+--------------------------------------------------------------------------------
+Recipient of travel grants from COMSNETS 2024
+Recipient of MHRD fellowships for Ph.D. and M.Tech
+GATE, UGC NET Qualified
+
+Memberships
+--------------------------------------------------------------------------------
+IEEE Membership since December 2023 (Membership ID: 99681062)
+ACM Membership since 2019 (Membership ID: 7262559)
+
+Journals
+--------------------------------------------------------------------------------
+Elsevier Ad Hoc Networks K. Tapadar, M. Khatua, and T. Venkatesh, “Traffic rate agnostic end-to-end delay optimization using receiver-based adaptive link scheduling in 6TiSCH networks,” in Ad Hoc Networks Journal, 2024.
+K. Tapadar, M. Khatua, and T.Venkatesh, “Securing Cell Scheduling Function in TSCH-based Industrial IoT Networks”in Ad Hoc Networks (Under major revision)
+K. Tapadar, M. Khatua, and T.Venkatesh,“Holistic Design for Collision Detection and Mitigation in Link Schedules of 6TiSCH Networks”in Transactions on Emerging Telecommunications Technologies, WILEY
+
+Conferences
+--------------------------------------------------------------------------------
+• IEEE COMSNETS K. Tapadar, M. Khatua, and T.Venkatesh, “Latency-Aware Cell Deletion in Link Scheduling for 6TiSCH Networks,” in Proc. of 16th International Conference on COMmunication Systems & NETworkS (COMSNETS), Jan 2024, pp. 613-617.
+• IEEE INDICON K. Tapadar, A.Sakre, M. Khatua, and T.Venkatesh, “Vulnerability in Cell Scheduling Function for 6TiSCH Networks: Impact and its Mitigation,” in Proc. of 20th India Council International Conference (INDICON), December 2023, pp. 1185-1192.
+• Springer ICSTE K. Tapadar, and P. Singh, and M. Khatua, “LMSF: Lightweight Minimal Scheduling Function for 6TiSCH Networks,” in Proc. of International Conference on Science, Technology and Engineering (ICSTE), February 2023, pp. 463-472.
+• ACM ICDCN K. Tapadar, M. Khatua, and T.Venkatesh, “IMSF: Improved Minimal Scheduling Function for Link Scheduling in 6TiSCH Networks,” in Proc. of 23rd International Conference on Distributed Computing and Networking (ICDCN), Jan 2022, pp. 124-127.
+
+Research Projects
+--------------------------------------------------------------------------------
+Adaptive Cell Scheduling Function of 6TiSCH Network for Efficient Data Communication in Industrial IoT
+Sponsor: Science & Engineering Research Board (SERB), Govt. of India (under SRG scheme)
+Duration: Dec’2019 - Jun’2022 (As part of my Ph.D. thesis work)
+Designation: Senior Research Fellow
+Project Overview: This project aims to develop enhanced link scheduling functions for 6TiSCH networks for efficient management of TSCH cells used in data communication, focusing on enhancing the network's performance in the context of IIoT.
+Principal Investigator: Dr. Manas Khatua, IIT Guwahati
+Publications: ICDCN’22, ICSTE’23, COMSNETS’24, Elsevier ADHOC’24
+Security-by-Design in IoT: Securing IoT Protocols against Cyber Attacks in Industrial IoT Applications
+Sponsor: Science & Engineering Research Board (SERB), Govt. of India (under CRG Scheme)
+Duration: Dec’2024 - Jun’2027 (As part of my Ph.D. thesis work)
+Designation: Senior Research Fellow
+Project Overview: The main goal is to investigate and design security schemes for 6TiSCH IoT protocols. Often, IoT protocol designs overlook security during control message exchanges, creating vulnerabilities that can be exploited. Therefore, incorporating security into the design of each protocol in 6TiSCH networks is crucial. Specifically, I aim to secure the link scheduler MSF and the associated 6P protocol.
+Principal Investigator: Dr. Manas Khatua, IIT Guwahati
+Publications: INDICON’23
+Collaborative Research Works
+Assisted in M.Tech. Thesis work of five students, Mr. Priyanshu Singh, Mr. Aditya Tandon, Mr. Naladala Jeshwant, Mr. Aditya Kumar Sakre, and Mr. Singarapu Pavan Kummar, who were students of Dr. Manas Khatua, Assistant Professor, IIT Guwahati.
+
+Oral Presentations
+--------------------------------------------------------------------------------
+Presented IMSF: Improved Minimal Scheduling Function for Link Scheduling in 6TiSCH Network at IIIT Delhi on 6
+th
+January 2022
+Presented LMSF: Lightweight Minimal Scheduling Function for 6TiSCH Networks at
+NIT Manipur on 18
+th
+February 2023
+Presented Vulnerability in Cell Scheduling Function for 6TiSCH Networks: Impact and its Mitigation at
+CMR Institute of Technology, Hyderabad on 16
+th
+December 2023
+Presented Latency-aware Cell Deletion in Link Scheduling for 6TiSCH Networks at IISc Bangalore on
+4
+th
+January 2024
+
+Professional Services
+--------------------------------------------------------------------------------
+Reviewer of IEEE Internet of Things Journal
+Reviewer of IEEE ICCINS-2023, Mylavaram, AP, India
+Reviewer of Journal of The Institution of Engineers (India): Series B (IEIB)
+Faculty Placement Coordinator of IT Department from July -December 2018 at CV Raman Engineering College.
+
+Workshop and Training
+--------------------------------------------------------------------------------
+Participated in Workshop on Pedagogy Training for Teaching & Research Excellence, organised by SERB-INAE & IIT Guwahati from 15-16 March, 2024.
+Participated in the North-East Winter School on “Graph Algorithms with special focus on Applications to Networks and VLSI” organized by ISI Kolkata and Assam University from February 22-24, 2016.
+Participated in Zonal Seminar (East Zone) on Next Generation Wireless, organised by The Institution of Electronics and Telecommunication Engineers (IETE), at IIT Guwahati from 27-28th May, 2022

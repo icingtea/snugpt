@@ -1,0 +1,398 @@
+================================================================================
+Sajal Kumar Ghosh
+================================================================================
+
+Faculty at School of Natural Sciences
+
+Research Interest
+--------------------------------------------------------------------------------
+Working in the field of experimental
+soft matter physics,
+including biophysics. The major focuses are on the following fields:
+(a)
+Rheology of viscoelastic materials
+(b)
+P
+hysics
+of cellular membrane
+(c)
+Wetting/dewetting of
+nanostructured
+surfaces
+(d)
+Physics of DNA and other biopolymers
+Know more:
+Click here
+
+Education
+--------------------------------------------------------------------------------
+2008: Ph.D
+in Physics
+Raman Research Institute, Bangalore,
+(Jawaharlal Nehru University, New Delhi)
+2001: M
+aster of Science (M
+.Sc
+) - Physics
+Department of Physics, University of Kalyani, West Bengal.
+1999
+: Bachelor of Science (B
+.Sc
+) - Physics
+Department of Physics, University of Kalyani, West Bengal.
+
+Work Experience
+--------------------------------------------------------------------------------
+July 2020 – Present
+Associate Professor
+Department of Physics, School of Natural Science (SNS)
+Shiv Nadar Institution of Eminence (SNIoE)
+Dec. 2013 – June 2020
+Assistant Professor
+Department of Physics, School of Natural Science (SNS)
+Shiv Nadar Institution of Eminence (SNIoE)
+Nov. 2010 – Nov. 2013
+Post-doctoral scholar
+Department of Physics, University of California- San Diego, USA.
+April 2008 – Oct. 2010
+Post-doctoral scientist
+Department of Physics, University of Goettingen, GERMANY
+
+Awards & Honors
+--------------------------------------------------------------------------------
+DST travel & experiment grants to perform synchrotron X-ray experiments in Photon Factory (PF), KEK, Tsukuba, Japan: (i) June 2015, (ii) Nov. 2015, (iii) February 2017, (iv) April 2017, (v) February 2018, (vi) June 2018, and (vii) Nov. 2019 (viii) December 2022, (ix) May 2023
+DST travel & experiment grants to perform synchrotron X-ray experiments in PETRA III, Hamburg, Germany, (i) November 2018, (ii) June 2022 (iii) June 2023
+DST travel grant to deliver invited lecture at 19th International Union of Pure and Applied Biophysics (IUPAB) and 11th European Biophysical Societies' Association (EBSA) Congress in Edinburgh, Scotland (2017).
+Scored 97.0032 percentile in Joint Entrance Screening Test (JEST) conducted all over India. Research Fellowship was awarded by the Raman Research Institute (Department of Science and Technology, Government of India), Bangalore (2002).
+Qualified and scored rank in Graduate Aptitude Test in Engineering (GATE) in PHYSICS (
+2002).
+Merit Scholarship by the University of Kalyani for ranking first in the Bachelor of Science    (B. Sc) Examination in Physics (2000).
+N
+ational Merit Scholarship, Department of Higher Secondary Education, West Bengal, India (
+1995).
+National Merit Scholarship, Department of Secondary Education, West Bengal, India (1993).
+
+Funding
+--------------------------------------------------------------------------------
+1. Title: Deciphering mechanism of diseases caused by imbalance of phenylalanine: A biophysical study by X-ray and Neutron scatterings
+Funding: UGC-DAE, Mumbai Centre
+Role: Principal Investigator (PI)
+Project Cost: 17 Lakhs (Approx.): Ongoing
+2. Title: Developing infection imaging agent of peptides & deciphering their interactions with cell membrane
+Funding: Scientific & Engineering Research Board (SERB), Gov. of India
+Role: Principal Investigator (PI)
+Project Cost: 27 Lakhs (Approx.): Ongoing
+3. Title: Development of sensors for blast and blight diseases and stomatal activity measurement in rice (O. Sativa L.)
+Funding: National Agricultural Science Fund (NASF), ICAR
+Role: Co-Principal Investigator (Co-PI)
+Project Cost: 70 Lakhs (Approx.): Ongoing
+4. Title: Toxicity of Ionic liquids: Investigating with model cellular membrane
+Funding: UGC-DAE, Mumbai Centre
+Role: Principal Investigator (PI)
+Project Cost: 17 Lakhs (Approx.): Completed
+5. Title: Biophysical study of forming and controlling nano-sized domain in model cellular membrane
+Funding: UGC-DAE, Mumbai Centre
+Role: Principal Investigator (PI)
+Project Cost: 35 Lakhs (Approx.): Completed
+6. Title: Investigation of optical properties of Al2O3/ZrO2 nanocrystalline multilayers for ion beam dosimetry.
+Funding: Department of Atomic Energy (DAE), Board of Research in Nuclear Sciences (BRNS)
+Role: Co-Principal Investigator (Co-PI)
+Project Cost: 34.86 Lakhs. Completed
+
+Journal Publications
+--------------------------------------------------------------------------------
+67. A. Seth, R. P. Giri, N. Hayen, P. Hitaishi, B. M. Murphy,
+S. K. Ghosh*;
+Cholesterol modulated assembly of graphene oxide nano-flakes at a phospholipid interface;
+Colloids and Surfaces B: Biointerfaces
+2025
+, 255, 114934
+(https://doi.org/10.1016/j.colsurfb.2025.114934)
+66. G. Sharma, S. Mitra, A. Bhattacharyya and
+S. K. Ghosh*;
+A magnetorheological study of an uncoated nanoparticle-dispersed magnetic ionic liquid;
+Soft Matter
+,
+2025
+, 21, 4368
+(
+https://doi.org/10.1039/D5SM00193E
+)
+65. V. K. Sharma, J. Gupta, H. Srinivasan, P. Hitaishi,
+S. K. Ghosh
+, S. Mitra, Quantifying Ionic Liquid Affinity and Its Effect on Phospholipid Membrane Structure and Dynamics;
+Langmuir
+2025
+, 41, 11547−11562
+(
+https://doi.org/10.1021/acs.langmuir.5c00651
+)
+64. D. Kaushik, V. Kumar, V. K. Sharma, and
+S. K. Ghosh*
+; Role of Cholesterol in Mediating Interaction of Antidepressant Amitriptyline with Phospholipid Membranes,
+Langmuir
+(2025),
+41, 15372−15383
+(
+https://doi.org/10.1021/acs.langmuir.5c01028
+)
+63.N. Jaglan, G. Sharma, P. Hitaishi, R. P. Giri, N. Hayen, B. M. Murphy, and
+S. K. Ghosh
+; Assembling Xanthan Gum at the Air−Water Interface and  Disentangling It with Ionic Liquids;
+Langmuir
+2025, 41, 8535−8544
+https://doi.org/10.1021/acs.langmuir.4c04743
+62.M. S. Panda, S. Raghav,
+S. K. Ghosh
+, and H. Chakraborty; gp41 Fusion Peptide Alters the Properties of Lipid Monolayer at the Air−Water Interface in a Cholesterol-Dependent Fashion: Implications in Membrane Fusion;
+Langmuir
+2025, 41, 6103−6112
+https://doi.org/10.1021/acs.langmuir.4c05071
+61. J. Gupta, V. K. Sharma, P. Hitaishi, H. Srinivasan, S. Kumar,
+S. K Ghosh
+and S. Mitra;
+Structural Reorganizations and Nanodomain Emergence in Lipid Membranes Driven by Ionic Liquids
+;
+Langmuir (
+2025
+), 41, 79−90.
+https://doi.org/10.1021/acs.langmuir.4c02896
+60. A. Seth, P. Mandal, P. Hitaishi, R. P. Giri, B. M. Murphy and
+S. K. Ghosh
+;
+Assembly of graphene oxide vs. reduced graphene oxide in a phospholipid monolayer at air–water interfaces
+Physical Chemistry Chemical Physics (
+2025
+),
+2025, 27, 1884.
+https://doi.org/10.1039/D4CP02706J
+59. R. Singh, D. Kaushik, S. M. Kamil, D. K. Satapathy,
+S. K. Ghosh
+;
+Ionic liquid-controlled evaporation kinetics of an aqueous sessile drop
+,
+Journal of Molecular Liquids
+(2025)
+418, 126672.
+https://doi.org/10.1016/j.molliq.2024.126672
+58. S. Raghav, P. Hitaishi, R. P. Giri, A. Mukherjee, V. K. Sharma and
+S. K. Ghosh
+; Selective assembly and insertion of ubiquicidin antimicrobial peptide in lipid monolayers,
+Journal of
+Materials Chemistry B (
+2024
+);
+https://doi.org/10.1039/D4TB01487A
+57. D. Kaushik, P. Hitaishi, A. Kumar, D. Sen, S. M. Kamil, and
+S. K. Ghosh
+; Modulating a model membrane of sphingomyelin by a tricyclic antidepressant drug,
+Chemistry and Physics of Lipids
+(
+2024
+) 263 105419,
+https://doi.org/10.1016/j.chemphyslip.2024.105419
+56. V. K. Sharma, J. Gupta, J. B. Mitra, H. Srinivasan, V. G. Sakai,
+S. K. Ghosh
+and S. Mitra, The Physics of Antimicrobial Activity of Ionic Liquids,
+The Journal of Physical Chemistry Letters
+(
+2024
+),
+https://doi.org/10.1021/acs.jpclett.4c01066
+55. A. Seth, D. Kaushik, and
+S. K. Ghosh*
+, X-ray scatterings to probe the structure and assembly of biomimetic membranes,
+European Physical Journal Special Topic (
+2024
+),
+https://doi.org/10.1140/epjs/s11734-024-01189-0
+(An invited review article)
+54. S. Kumar, N. Kaur, P. Hitaishi,
+S. K. Ghosh
+, V. S. Mithu and H. A. Scheidt; Role of Cholesterol in Interaction of Ionic Liquids with Model Lipid Membranes and Associated Permeability,
+Journal of Physical Chemistry B (
+2024
+), 128, 5407−5418.
+53. A. Seth, M. Raval, B. Mandal, P. Hitaishi, P. Mandal, S. P. Singh and S. K. Ghosh*, Nanostructured antimicrobial ZnO surfaces coated with an imidazolium-based ionic liquid,
+Materials Advances
+(2024),
+5, 3186–3197 (Cover story of the journal)
+52. P. Mandal* and
+S. K. Ghosh*
+, Graphene-Based Nanomaterials and Their Interactions with Lipid Membranes,
+Langmuir
+(2023),
+39, 18713−18729 (An invited review article)
+51. G. Sharma, A. Seth, R. P. Giri, N. Hayen, B. M. Murphy, and S. K. Ghosh*, Ionic Liquid-Induced Assembly of DNA at Air-Water Interface, Langmuir, 39, 16079-16089 (2023).
+50. S. Mitra, V. K. Sharma, and S. K. Ghosh*, Effects of ionic liquids on biomembranes: A review on recent biophysical studies, Chemistry and Physics of Lipids, 256, 105336 (2023) (A review article)
+49. P. Hitaishi, M. Raval, A. Seth, S. Kumar, V. S. Mithu, V. K. Sharma, and S. K. Ghosh*, Cholesterol controlled interaction of ionic liquids with model cellular membranes, Langmuir, 39, 9396-9405 (2023)
+48. D. Kaushik, P. Hitaishi, A. Kumar, D. Sen, S. M. Kamil and S. K. Ghosh*, Temperature-dependent anomalous viscosity of aqueous solutions of imidazolium-based ionic liquids, Soft Matter, 19, 5674 - 5683 (2023) (Cover story of the journal)
+47. G. Sharma, S. Mitra, S. M. Kamil, and S. K. Ghosh*; Shear-induced phase transition in the aqueous solution of an imidazolium-based ionic liquid; Journal of Chemical Physics (2023), 158, 094904
+46. R. Gupta and S. K. Ghosh*; Discerning perturbed assembly of lipids in a model membrane in presence of violacein: Effects of membrane hydrophobicity, BBA-Biomembrane (2023) 1865, 4, 184130
+45. N. Kaur, M, Fischer, Markus, P. Hitaishi, S. Kumar, V. K. Sharma, S. K. Ghosh*, G. Gahlay, H. Scheidt and V. S. Mithu; How 1,n-Bis(3-alkylimidazolium-1-yl) alkane Interacts with the Phospholipid Membrane and Impacts the Toxicity of Dicationic Ionic Liquids; Langmuir (2022), 38, 45, 13803–13813
+44. P. Hitaishi, A. Seth, S. Mitra and S. K. Ghosh*; Thermodynamics and in-plane viscoelasticity of anionic phospholipid membranes modulated by an ionic liquid, Pharmaceutical Research (2022), 39, 2447-2458
+43. P. Mandal, S. K. Ghosh* and H. S. Grewal*; Graphene oxide coated aluminium as an efficient antibacterial surface, Environmental Technology & Innovation (2022) 28, 102591
+42. R. Gupta, V. K. Sharma, J. Gupta and S. K. Ghosh*; 1, 3 dialkylated imidazolium ionic liquid causes interdigitated domains in a phospholipid membrane, Langmuir (2022), 38, 11, 3412–3421
+41. P. Mandal, J. Ivvala, H. S. Arora, Harpreet, S. K. Ghosh and H. S. Grewal; Bioinspired Micro/nano Structured Aluminium with Multifaceted Applications, Colloids and Surfaces B: Biointerfaces (2022), 211, 112311
+40. P. Hitaishi, P. Mandal and S. K. Ghosh*; Partitioning of a Hybrid Lipid in Domains of Saturated and Unsaturated Lipids in a Model Cellular Membrane, ACS Omega (2021), 6, 50, 34546 -34554
+39. P. Mandal, R. P. Giri, B. Murphy and S. K. Ghosh*; Self-assembly of Graphene Oxide Nano-flakes in Lipid Monolayer at Air-water Interface, ACS Applied Materials and Interfaces (2021), 13, 57023-57035
+38. R. Gupta, J. Kumari, S. Pati, S. Singh, M. Mishra, S. K. Ghosh*, Interaction of cyclotide Kalata B1 protein with model cellular membranes of varied electrostatics, International Journal of Biological Macromolecules (2021) 191, 852–860
+37. P. Mandal, J. Ivvala, H. S. Arora, H. S. Grewal, S. K. Ghosh*, Structured aluminium surfaces with tunable wettability fabricated by a green approach, Materials Letters (2021), 300, 130186
+36. R. Gupta, S. Mitra, S. Chowdhury, G. Das, R. Priyadarshini, M. Mukhopadhyay and S. K. Ghosh*, Discerning perturbed assembly of lipids in a model membrane induced by violacein, BBA - Biomembranes (2021), 1863,183647
+35. Y. Yadav, S. K. Ghosh and S. P. Singh, High-performance Organic Field-effect Transistors Gated by Imidazolium-based Ionic Liquids; ACS Applied Electronic Materials (2021), 3, 1496−1504
+34. S. Mitra, V. K. Sharma, J. B. Mitra, S. Chowdhury, M. K. Mukhopadhyay, R. Mukhopadhyay and S. K. Ghosh*; Thermodynamics and structure of model bio-membrane of liver lipids in presence of imidazolium-based ionic liquids, BBA - Biomembranes (2021), 1863, 183589
+33. R. Gupta, A. Singh, V. Srihari, and S. K. Ghosh*; Ionic Liquid-Induced Phase-Separated Domains in Lipid Multilayers Probed by X ray Scattering Studies; ACS Omega (2021), 6, 4977-4987
+32. P. Mandal, G. Bhattacharya, A. Bhattacharyya, S. S. Roy and S. K. Ghosh*, Unravelling the Structural Changes of Phospholipid Membranes in Presence of Graphene Oxide, Applied Surface Science (2021), 539, 148252
+31. . P. Mandal, G. Perumal, H. S. Arora, S. K Ghosh* and H. S. Grewal*; Green Manufacturing of Nanostructured Al-Based Sustainable and Self-cleaning Metallic Surface,
+Journal of Cleaner Production (2020), 278, 123373
+30. R. Karim, D. Panda, A. Adhikari, P. Haldar, P. Mandal, S. K. Ghosh, S. Bedanta, A. Barman, and I. Sarkar, Electrodeposited Heusler alloy films with enhanced magneto-optical property, Materials Today Communications (2020), 25, 101678
+29. V. K. Sharma, S. K Ghosh, V. G. Sakai and R. Mukhopadhyay, Enhanced Microscopic Dynamics of a Liver Lipid Membrane in the Presence of an Ionic Liquid, Frontiers in Chemistry (2020), 8, 577508
+28. S. D. Sarkar, S. Mitra and S. K. Ghosh*, Relating the Physical Properties of Aqueous Solutions of Ionic Liquids with Their Chemical Structures
+European Physical Journal - E (2020), 43, 55
+27. P. Mandal, A. Shishodia, N. Ali, S. Ghosh, H. S. Arora, H. S. Grewal, and S. K. Ghosh*, Effect of topography and chemical treatment on the hydrophobicity and antibacterial activities of micropatterned aluminium surfaces, Surface Topography: Metrology and Properties (2020) , 8, 025017
+26. S. Mitra, R. Das, A. Singh; M. K. Mukhopadhyay, G. Roy, and S. K. Ghosh*, Surface activities of a lipid-analogue room temperature ionic liquid and its effects on phospholipid membrane,
+Langmuir (2020), 36, 328- 339
+25. K. Bakshi, S. Mitra, V. K. Sharma, M. S. K. Jayadev, V. G. Sakai, R. Mukhopadhyay, A. Gupta and S. K. Ghosh*, Imidazolium-based ionic liquids cause mammalian cell death due to modulated structures and dynamics of cellular membrane, BBA-Biomembranes (2020), 1862, 183103
+24. S. Mitra, R. Karri, P. K Mylapalli, A. B. Dey, G. Bhattacharya, G. Roy, S. M. Kamil, S. Dhara, S. K. Sinha and S. K. Ghosh*, Re-entrant Direct Hexagonal Phases in a Lyotropic System of Surfactant Induced by an Ionic Liquid, Liquid Crystal (2019), 46:9, 1327-1339
+23. J.-Jin Song, R. Bhattacharya, Y. Yang, S. K. Ghosh, S. K. Sinha, H. Kim, J. Chang, H. Kim, T. P. Russell, T. Tang, G. Arya, H. Guo, S. Narayanan and Z. Jiang, One-Dimensional Anomalous Diffusion of Gold Nanoparticles in a Polymer Melt, Physical Review Letters (2019), 122, 107802
+22. S. B. Srivastava, M. H. Modi, S. K. Ghosh and S. P. Singh, Investigation of the buried planar interfaces in multi-layered inverted organic solar cells using X-ray reflectivity and impedance spectroscopy, Journal of Physics-Condensed Matter (2019) 31(12):124003
+21. S. Mitra, D. Ray, G. Bhattacharya, R. Gupta, D. Sen,V. K. Aswal and S. K. Ghosh*, Probing the effect of a room temperature ionic liquid on phospholipid membranes in multilamellar vesicles, European Biophysics Journal (2019) 48(2):119-129
+20. G. Bhattacharya, R. P. Giri, A. Dubey, S. Mitra, R. Priyadarshni, A. Gupta, M. K. Mukhopadhyay and S. K. Ghosh*, Structural changes in cellular membranes induced by ionic liquids: From model to bacterial membranes, Chemistry & Physics of Lipids (2018), 215, 1-10
+19. G. Bhattacharya, S. Mitra, P. Mandal, S. Dutta, R. P. Giri and S. K. Ghosh*; Thermodynamics of interaction of ionic liquids with lipid monolayer;
+Biophysical Reviews (2018), 10, 709-719
+18. A. Barman, C. P. Saini, P. K. Sarkar, G. Bhattacharjee, G. Bhattacharya, S. Srivastava, B. Satpati, D. Kanjilal, S. K. Ghosh, S. Dhar, and A. Kanjilal; Resistive switching behavior in oxygen ion irradiated TiO2-x films; J.Phys. D: Appl Phys (2018),51, 065306
+17. V. K. Sharma, S. K. Ghosh, P. Mandal, T. Yamada, K. Shibata, S. Mitra and R. Mukhopadhyay; Effects of ionic liquids on the nanoscopic dynamics and phase behaviour of a phosphatidylcholine membrane. Soft Matter (2017), 13, 8969.
+16. G. Bhattacharya, R. P. Giri, H. Saxena, V. V. Agrawal, A. Gupta, M. K. Mukhopadhyay and S. K. Ghosh*; X-ray Reflectivity Study of the Interaction of an Imidazolium-Based Ionic Liquid with a Soft Supported Lipid Membrane, Langmuir (2017), 33, 1295-1304
+15. R. P. Giri, M K. Mukhopadhyay, M. Mitra, A. Chakrabarti, M. K. Sanyal, S. K. Ghosh, S. Bera, L. B. Lurio, Y. Ma and S. K. Sinha; Differential adsorption of a membrane skeletal protein, spectrin, in phospholipid membranes; Euro Phys. Lett. (2017), 118, 58002
+14. A. Barman, C. P. Saini, P. K. Sarkar, A. Roy, B. Satpati, D. Kanjilal, S. K. Ghosh, S. Dhar, and A. Kanjilal, Probing electron density across Ar+ irradiation-induced self-organized TiO2-xnanochannels for memory application, Applied Physics Letters (2016) 108, 244104
+13. Y. Ma, S. K. Ghosh, D. A. DiLena, S. Bera, L. B. Lurio, A. N. Parikh, and S. K. Sinha, Cholesterol Partition and Condensing Effect in Phase-Separated Ternary Mixture Lipid Multilayers. Biophysical Journal (2016), 110, 1355-1366.
+12. Y. Ma, S. K. Ghosh, S. Bera, Z. Jiang, C. M. Schleputz, E. Karapetrova, L. B. Lurio and S. K. Sinha Anomalous partitioning of water in coexisting liquid phases of lipid multilayers near 100% relative humidity. Phys.Chem.Chem.Phys., (2016), 18, 1225-1232
+11. Y. Ma, S. K. Ghosh, S. Bera, Z. Jiang, S. Tristram-Nagle, L. B. Lurio and S. K. Sinha, Accurate calibration and control of relative humidity close to 100% by X-raying a DOPC multilayer. Phys. Chem. Chem. Phys. (2015), 17, 3570-3576.
+10. S. K. Ghosh*, B. Salgin, D. Pontoni, T. Reusch, P. Keil, D. Vogel, M. Rohwerder, H. Reichert, and T. Salditt, Structure and volta potential of lipid multilayers: Effect of x-ray irradiation, Langmuir (2013), 29, 815-824.
+9. A. V. Radhakrishnan, S. K. Ghosh, G. Pabst, V. A. Raghunathan & A. K. Sood, Tuning DNA-amphiphile condensate architecture with strongly binding counterions Proc. Natl. Acad. Sci (PNAS), USA. (2012), 109, 6394-6398
+8. S. K. Ghosh, S. Castorph, O. Konovalov, R. Jahn, T. Salditt, M. Holt, Measuring Ca2+ induced structural changes in lipid monolayers: implication for synaptic vesicles Exocytosis, Biophysical Journal, (2012), 102, 1394-1402
+7. S. K. Ghosh*, S. Aeffner and T. Salditt, Effect of PIP2 on DOPC bilayer structure and phase behavior: An x-ray scattering study ChemPhysChem, (2011), 12, 2633-2640
+6. S. K. Ghosh, S. Castorph, O. Konovalov, R. Jahn, M. Holt and T. Salditt, In vitro study of interaction of synaptic vesicles with lipid membranes.; New J. Phys. (2010), 12, 105004
+5. S. Castorph, L. Arleth, M. Sztucki, U. Vainio, S. K. Ghosh, R. Jahn, M. Holt and T. Salditt, Synaptic Vesicles Studied by SAXS: Derivation and Validation of a Model Form Factor J. Phys.: Conf. Ser. (2010), 247, 012015
+4. S. K. Ghosh, V. Rathee, R. Krishnaswamy, V. A. Raghunathan & A. K. Sood, Re-entrant Phase Behaviour of a Concentrated Anionic Surfactant System with Strongly Binding Counterions,Langmuir (2009), 25, 8497-8506.
+3. S. K. Ghosh & V. A. Raghunathan, Structure of Mesh Phases in a Cationic Surfactant System with Strongly Bound Counterions: Influence of the Surfactant head group and Counterions,Langmuir (2009), 25, 2622-2688
+2. S. K. Ghosh, R. Ganpathy, R. Krishnaswamy, J. Bellare, V. A. Raghunathan & A. K. Sood, Structure of Mesh Phases in a Cationic Surfactant System with Strongly Bound Counterions. Langmuir (2007), 23, 3606-3614.
+1. R. Krishnaswamy, S. K. Ghosh, S. Lakshmanan, V. A. Raghunathan & A. K. Sood, Phase Behaviour of a Concentrated Aqueous Solution of Cetyltrimethylammonium Bromide (CTAB) and Sodium Hydroxy Naphthoate (SHN), Langmuir (2005), 21, 10439-10443.
+
+Books and Book Chapters
+--------------------------------------------------------------------------------
+Hitaishi and
+S. K. Ghosh
+; Chapter 8:
+In-situ characterizations of floating films
+; Book: Langmuir Blodgett Films: Fundamentals to Applications; 1st Edition (
+2025
+); ISBN: 9780323857864, Elsevier
+D. Kaushik, V. K. Sharma and
+S. K. Ghosh
+; Chapter 5:
+Perturbed structure of a vesicle by an antimicrobial peptide
+;
+Book:   ADVANCES IN BIOMEMBRANES AND LIPID SELF-ASSEMBLY;
+1st Edition (
+2025
+); ISBN: 978-0-443-42821-0, ISSN: 2451-9634, Elsevier Academic     Press
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+Invited
+Lectures (Selected)
+1.
+Inducing domains in lyotropic liquid crystalline phases of multicomponent membrane of phospholipids
+, Recent Perspectives on Liquid Crystalline Materials: Chemistry, Physics and Biological applications, 4-5th October, 2021
+, Dept. of Chemistry, Assam University, Silchar, INDIA
+2.
+Probing the ionic liquid induced perturbed self-assembly of phospholipids
+, The Department of Physics, Christian-Albrechts-University Kiel, Germany, 22nd June 2022, Department research seminar
+3.
+Perturbing self-assembly of amphiphiles by ionic liquids
+, Department of Physics, University of Rome "La Sapienza", Roma, Italy, 1st July 2022, Department research seminar
+4
+. Extreme Wetting Behaviour of a Hierarchically Structured Metallic Surface
+CompFlu-2019, 5-7 December 2019, IISER-Bhopal, Bhopal. India.
+5.
+Re-entrant Direct Hexagonal Phases in a Lyotropic System Induced by Ionic Liquids
+ICLCPN-2019, 13-15 December 2019, Mahatma Gandhi University, Kottayam, Kerala, India.
+6.
+Multidisciplinary approaches in understanding the anti-bacterial activities of ionic liquids
+JNCASR-SNU Symposium, 8-9 December 2019, JNCASR, Bengaluru, India.
+7.
+Synchrotron X-rays and Neutron Scattering Studies of Anti-bacterial activities of Imidazolium-based Ionic Liquids
+, 63rd DAE-Solid State Physics Symposium, December 2018, Guru Jambheshwar University of Science and Technology, Hisar, India.
+8.
+Effect of imidazolium-based ionic liquids on the structure and dynamics of cellular membrane: From model to mammalian membranes
+, November 2018, Department of Physics, University of Goettingen, Germany.
+9.
+Re-entrant phase transition in a lyotropic liquid crystalline system induced by an ionic liquid
+, September 2018, Users’ meeting at Indian Bemaline held at Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR), Bangalore, India.
+10.
+Self-assembled structures of soft-materials by synchrotron x-ray scattering
+, December 2017, Discussion meeting on Synchrotron Science, Saha Institute of Nuclear Physics, Kolkata, India.
+11
+. Interaction of imidazolium-based ionic liquids with soft supported lipid membrane
+, 19th IUPAB and 11th EBSA Congress Edinburgh, July 2017, UK).
+12.
+Soft supported lipid bilayer to study cellular membrane
+, May 2015, Institute of Materials Structure Science, High Energy Accelerator Research Organization [Tokai Campus], Japan.
+13.
+Model bio-membranes on soft surfaces
+, 3rd International Conference on Physics at Surfaces and Interfaces (PSI2014), February 2014, Puri, India.
+Conference Publications
+1. P. Hitaishi and
+S. K. Ghosh,
+Effects of L-Phenylalanine on a Model Phospholipid Membrane,
+Proceedings of the DAE Solid State Physics Symposium, Page: 109-110, Vol. 55 (
+2021
+)
+2. Effect of ionic liquids on the structures of ripple phases of model cellular membranes,
+S. Mitra, and
+S. K. Ghosh
+*,
+AIP Conference proceeding
+(
+2020
+) 2265, 030024
+.
+3. Co-existence of two lamellar phases in phospholipid multilayers induced by an ionic liquid, R. Gupta and
+S. K. Ghosh
+*,
+AIP Conference Proceeding
+(
+2020
+), 2265, 030032
+4. Structure of an Intermediate Mesh Phase in a Mixed Surfactant System.
+S. K. Ghosh
+, R. Krishnaswamy, V. A. Raghunathan & A. K. Sood
+Proceedings of the  DAE-Solid State Physics Symposium, India, Page 209, Vol 51, 209 (
+2006
+)
+.
+
+Scholarly Services
+--------------------------------------------------------------------------------
+Peer Review Service
+Journals
+1. DST-SERB funded projects
+2. Langmuir (ACS Journal)
+3. ACS Sustainable Chemistry & Engineering
+4. ACS Biomaterials Science & Engineering
+5. Physical Chemistry Chemical Physics (RSC Journal)
+6. Science Translational Medicine (AAAS Journal)
+7. The Journal of Physical Chemistry Letters (ACS Journal)
+8. ACS-Omega
+9. The Journal of Membrane Biology (Springer)
+10. Soft Matter (RSC Journal)
+11. iScience (Cell Press)
+12. Journal of Surface Science and Technology
+Membership in academies/committees
+1. Indian Physics Society: Life member
+2. Indian Association for Physics Teachers: Life member
+3. Material Research Society of India: Life member
+4. Indian Biophysical Society: Life member
+5. Society for Materials Chemistry (SMC): Life Member
+6. Association of Asia Pacific Physical Society: Division of Cond. Matter Physics: Life Member

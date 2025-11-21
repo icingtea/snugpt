@@ -1,0 +1,72 @@
+================================================================================
+Tanvi Deora
+================================================================================
+
+Faculty at School of Natural Sciences
+
+Research Interest
+--------------------------------------------------------------------------------
+Neurobiology and Biomechanics of Insect Pollination, Tactile sensing, Multisensory integration, Flight control, Sensory ecology
+To learn more, please visit our lab webpage
+Click Here
+
+Education
+--------------------------------------------------------------------------------
+2016, Int.Ph.D. (Neurobiology), National Centre for Biological Sciences, Tata Institute of Fundamental Research
+,
+Bangalore, India
+2008, B.Sc. (Biological Sciences), Sri Venkateswara College, University of Delhi
+
+Work Experience
+--------------------------------------------------------------------------------
+05/23-Present, Faculty Fellow, Department of Life Sciences, School of Natural Sciences, Shiv Nadar University, Delhi-NCR
+2021, Post-Doctoral Fellow, University of Washington, Seattle, USA
+
+Journal Publication
+--------------------------------------------------------------------------------
+Bustamante,JJr, AhmedM,Deora T, FabienB, DanielTL. Abdominal movements in insect flight reshape the role of non-aerodynamic structures for flight maneuverability I: Model predictive control for flower tracking,Integrative Organismal Biology, 2022;, obac039,https://doi.org/10.1093/iob/obac039
+Deora T, Ahmed MA, Brunton BW, Daniel TL. Learning to feed in the dark: how light level influences feeding in the hawkmothManduca sexta.Biology Letters.2021 Sep;17(9):20210320.
+Deora T, Ahmed MA, Daniel TL, Brunton BW. Tactile active sensing in an insect plant pollinator.Journal ofExperimental Biology. 2021 Feb 15;224(4):jeb239442.
+Deora T, Sane SP. Wings and halteres act as coupled dual oscillators in flies.eLife. 2021 Nov 16;10.7554/eLife.53824.
+Pratt B,Deora T, Mohren T, Daniel T. Neural evidence supports a dual sensory-motor role for insect wings.Proceedings of the Royal Society B: Biological Sciences. 2017 Sep 13;284(1862):20170969.
+Deora T, Singh AK, Sane SP. Biomechanical basis of wing and haltere coordination in flies.Proceedings of theNational Academy of Sciences. 2015 Feb 3;112(5):1481-6.
+Parween R, Pratap R,Deora T, Sane SP. Modeling strain sensing by the gyroscopic halteres, in the dipteran soldier fly, Hermetia illucens.Mechanics Based Design of Structures and Machines. 2014 Jul 3;42(3):371-85.
+
+Reviews
+--------------------------------------------------------------------------------
+Deora T. Webless spiders reverse bungee jump to catch prey.Proceedings of the National Academy ofSciences. 2022 Oct 11;119(41):e2214006119.(A commentary article)
+Aiello BR, Stanchak KE, Weber AI, Deora T, Sponberg S, Brunton BW. Spatial distribution of campaniform sensilla mechanosensors on wings: Form, function, and phylogeny.Current Opinion in Insect Science. 2021 Jun24.
+Deora T, Gundiah N, Sane SP. Mechanics of the thorax in flies.Journal of Experimental Biology. 2017 Apr 15;220(8):1382-95.
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+2023,
+Invited speaker for Adaptive Motion in Animals and Machines conference in Kobe, Japan, June 6-9, 2023 symposium
+Beyond Aerodynamics – the Role of Mechanics, Materials, and Morphing in Flight
+.
+2023, Jawaharlal Nehru Center for Advanced Scientific Research on
+Tactile sensing and learning in insect feeding and plant pollination
+.
+2023, Invited speaker for Society of Integrative and Comparative Biology 2023 symposium
+The role of mechanosensation in robust movement
+(declined due to unavailable visa post pandemic).
+2022, on
+Mechanics and neural control of movement in natural contexts at
+Center for Neuroscience, Indian Institute of Science, Bangalore
+Tata Institute of Fundamental Research, Mumbai
+2022, on the
+Biomechanics and mechanosensory feedback in insect feeding and flight control at
+Indian Institute of Technology, Mumbai
+Department of Biological Sciences, Tata Institute of Fundamental Research, Mumbai
+National Center for Biological Sciences, TIFR, Bangalore
+Indian Institute of Science, Education and Research, Kolkata
+2018, Keynote speaker at the Nature Inspired Flight Technologies and Ideas, SOAR meeting in Seattle, Washington on the
+Role of touch in plant-insect pollinator interactions
+.
+2018,
+Indian Institute of Science Education and Research (IISER), Pune
+on Insect Flight: from Neural Control to Ecological Implications
+.
+2015, Centre for Ecological Sciences (CES) at India Institute of Science (IISc), Bangalore, India organized by the Ecology Students’ Society, CES, IISc, Bangalore on
+The Role of Passive mechanics in coordinating wing and haltere motion in flies
+.

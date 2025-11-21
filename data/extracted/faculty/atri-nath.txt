@@ -1,0 +1,46 @@
+================================================================================
+Atri Nath
+================================================================================
+
+Faculty at School of Engineering
+
+Research Interest
+--------------------------------------------------------------------------------
+Plasticity constitutive modeling and Fatigue high strain rate behavior
+
+Education
+--------------------------------------------------------------------------------
+2020
+, Ph.D., Indian Institute of Technology Kharagpur
+2012
+, M.Tech., Indian Institute of Technology Kharagpur
+2010
+, B.E., Jadavpur University
+
+Work Experience
+--------------------------------------------------------------------------------
+2021
+Principal Project Scientist, Indian Institute of Technology Delhi, Delhi
+2013
+Research Fellow, Indian Institute of Technology Kharagpur, Kharagpur
+Assistant Surveyor, Research and Rule Development (Structures), Indian Register of Shipping
+
+Journal Publications
+--------------------------------------------------------------------------------
+Atri Nath, Sudhirkumar V. Barai, and Kalyan Kumar Ray, "Estimation of cyclic hardening/ softening and ratcheting response of materials through an algorithm to optimize parameters in Chaboches hardening rule" Fatigue & Fracture of Engineering Materials & Structures 45(2022):1847-1865. 10.1111/ffe.13704
+Atri Nath, Sudhirkumar V. Barai, and Kalyan Kumar Ray. Experimental and simulation studies on cyclic-plasticity of structural mild steels, Journal of Constructional Steel Research 182(2021): 106652. 10.1016/j.jcsr.2021.106652
+Kalyan Kumar Ray, Ushasi Roy, Ayan Ray, Mamta Kumari, Atri Nath. Underlying deformation mechanisms for the fracture behavior of BCC and FCC high entropy alloys, Theoretical and Applied Fracture Mechanics 113(2021): 102948. 10.1016/j.tafmec.2021.102948
+Atri Nath, Sudhirkumar V. Barai, and Kalyan Kumar Ray. A generalized Model towards Predicting Monotonic and Cyclic Deformation Behavior of Cyclically Stable Materials. Procedia Structural Integrity 23(2019): 263268.10.1016/j.prostr.2020.01.097
+Atri Nath, Sudhirkumar V. Barai, and Kalyan Kumar Ray. "Prediction of asymmetric cyclic-plastic behaviour for cyclically stable non-ferrous materials." Fatigue & Fracture of Engineering Materials & Structures 42(2019): 2808-2822. 10.1111/ffe.13124
+Atri Nath, Kalyan Kumar Ray, and Sudhirkumar V. Barai. "Evaluation of ratcheting behaviour in cyclically stable steels through use of a combined kinematic-isotropic hardening rule and a genetic algorithm optimization technique." International Journal of Mechanical Sciences 152 (2019): 138-150. 10.1016/j.ijmecsci.2018.12.047
+
+Books and Book Chapters (Authored / Edited / Reviewed)
+--------------------------------------------------------------------------------
+Nath, A., Ghoshal, R., Barai, S.V. and Ray, K.K., 2022. Simulation of Cyclic Mean Stress Relaxation and Ratcheting for Aluminium 7050 Alloy. In Recent Advances in Computational and Experimental Mechanics, Vol II (pp. 65-75). Springer, Singapore.
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+Simulation of cyclic mean stress relaxation and ratcheting for aluminium 7050 alloy, 1st Online International Conference on Recent Advances in Computational and Experimental Mechanics, Indian Institute of Technology Kharagpur, India, (2020).
+Atri Nath, Sudhirkumar V. Barai, and Kalyan Kumar Ray. A Generalized Model towards Predicting Monotonic and Cyclic Deformation Behavior of Cyclically Stable Materials, 9th International Conference on Materials Structure & Micromechanics of Fracture, Brno University of Technology, Czech Republic, (2019).
+Atri Nath, Sarthak Jain, and Sudhirkumar V. Barai. A damage plasticity approach to simulate brace failure due to cyclic loading, ASCE-Engineering Mechanics Institute Conference, American Society of Civil Engineers, Cambridge, Massachusetts, USA (2018).
+Atri Nath, Kalyan Kumar Ray, and Sudhirkumar V. Barai. Determination of parameters for Chaboches combined hardening model using optimization technique, in 7th International Conference on Creep, Fatigue and Creep-Fatigue Interaction, Indian Institute of Metals, Kalpakkam, Chennai, India (2016).

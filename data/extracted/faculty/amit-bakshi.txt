@@ -1,0 +1,44 @@
+================================================================================
+Amit Bakshi
+================================================================================
+
+Faculty at School of Engineering
+
+Research Interests
+--------------------------------------------------------------------------------
+Short-Circuit Strength Analysis of Power Transformers, Electrical Machines, and Solution of Nonlinear ODEs Using Homotopy Perturbation Method
+Know more:
+Click here
+
+Education
+--------------------------------------------------------------------------------
+2013, Ph.D., Department of Electrical Engineering, I.I.T. Bombay
+2008, M.Tech., Department of Electrical Engineering, N.I.T. Hamirpur
+2006, B.Tech., Electrical Engineering, Kurukshetra University
+
+Work Experience
+--------------------------------------------------------------------------------
+01/22-Present, Associate Professor, Department of Electrical Engineering, School of Engineering, Shiv Nadar Institution of Eminence, Delhi-NCR
+01/14 – 12/21, Assistant Professor, Department of Electrical Engineering, School of Engineering, Shiv Nadar Institution of Eminence, Delhi-NCR
+
+Journal Publications
+--------------------------------------------------------------------------------
+Irala Kumar and Amit Bakshi, “Effect of empirical constant of Ramberg-Osgood relation on the buckling strength of transformer inner winding,” IEEE Transactions on Power Delivery, vol. 39, no. 2, pp. 1307-1309, April 2024.
+Irala Kumar and Amit Bakshi, “Effects of axial sticks and proof stress of conductor material on the buckling strength of transformer inner winding,” IEEE Transactions on Power Delivery, vol. 37, no. 6, pp. 5465-5468, December 2022.
+Amit Bakshi, “Effect of width of axial supporting spacers on the buckling strength of transformer inner windings,” IEEE Transactions on Power Delivery, vol. 34, no. 6, pp. 2278-2280, December 2019.
+Amit Bakshi, “An investigation of winding curvature effect on the mechanical strength of transformer windings,” IEEE Transactions on Power Delivery, vol. 30, no. 4, pp. 1821-1826, August 2015.
+Amit Bakshi and S. V. Kulkarni, “Analysis of buckling strength of inner windings in transformers under radial short-circuit forces,” IEEE Transactions on Power Delivery, vol. 29, no. 1, pp. 241-245, February 2014.
+Amit Bakshi and S. V. Kulkarni, “Coupled electromagnetic-structural analysis of the spiraling phenomenon in a helical winding of a power transformer,” IEEE Transactions on Power Delivery, vol. 29, no. 1, pp. 235-240, February 2014.
+Amit Bakshi and S. V. Kulkarni, “Towards short-circuit proof design of power transformers,” International Journal for Computation and Mathematics in Electrical and Electronic Engineering (COMPEL), vol. 31, no. 2, pp. 692-702, 2012.
+Amit Bakshi and S. V. Kulkarni, “Eigenvalue analysis for investigation of tilting of transformer winding conductors under axial short-circuit forces,” IEEE Transactions on Power Delivery, vol. 26, no. 4, pp. 2505- 2512, October 2011.
+Amit Bakshi and S. V. Kulkarni, “Analysis of winding disk in transformer under the action of axial electromagnetic forces by Green’s function approach,” International Journal of Applied Electromagnetics and Mechanics, vol. 34, no. 4, pp. 237-247, 2010.
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+Invited Lectures
+"Aspects that Influence the Buckling Strength of Transformer Windings- An Advanced Review", 7th International Advanced Research Workshop on Transformers (ARWtr) 2022, Baiona, Spain, 23-26 October, 2022.
+Conference Presentations
+Irala Kumar and Amit Bakshi, "Effect of Flexibility of Axial Supporting Spacers on the Buckling Strength of Transformer Inner Winding," 7th International Advanced Research Workshop on Transformers (ARWtr-2022), 23-26 October, Baiona, Spain, 2022.
+Amit Bakshi and S. V. Kulkarni, “Mechanical deformation analysis of inner winding of a transformer using finite element method,” Proceedings ICCMS 09, Third International Congress on Computational Mechanics and Simulation, IIT Bombay, 1-5 December 2009, pp. 289-290.
+Amit Bakshi, R. V. Thakar, S. V. Kulkarni, and S. Vora, “Mechanical stress and deformation analysis of transformer winding using finite element method,” TRAFOTECH – 2010, International Conference on Transformers, Mumbai, 18-19 January 2010, pp. I-1 − I-5.
+Amit Bakshi and S. V. Kulkarni, “Towards short-circuit proof design of power transformers,” 3rd International Advanced Research Workshop on Transformers (ARWtr-2010), 3rd – 6th October 2010, Santiago de Compostela, Spain, pp. 366-371.

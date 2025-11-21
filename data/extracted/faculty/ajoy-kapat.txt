@@ -1,0 +1,398 @@
+================================================================================
+Ajoy Kapat
+================================================================================
+
+Faculty at School of Natural Sciences
+
+Research Interest
+--------------------------------------------------------------------------------
+Chemistry of metalloradicals and modern radical chemistry.
+Asymmetric Catalysis (organocatalysis, transition metal catalysis & synergistic catalysis)
+Biomimetic synthesis of biologically active natural products utilizing cascade reactions.
+Insight-driven development of chemical transformations utilizing computational studies and experimental techniques (mechanistic study of homogeneous catalysis).
+Know more:
+Click here
+
+Education
+--------------------------------------------------------------------------------
+Period
+Degree
+Institution
+Location
+09/2007 – 08/2011
+Ph.D. in Organic Chemistry
+University of Bern
+Switzerland
+07/2004 – 07/2006
+M.Sc in Chemistry
+Indian Institute of Technology Madras
+Chennai, Tamil Nadu, India
+08/2001 – 07/2004
+B.Sc in Chemistry (Honours), First Class
+University of Calcutta
+West Bengal, India
+
+Work Experience
+--------------------------------------------------------------------------------
+07/19-
+ongoing
+Assistant Professor, Department of Chemistry, School of Natural Sciences, Shiv Nadar University, Delhi-NCR
+04/19-06/19
+Visiting Research Scientist, Institute of Organic Chemistry, RWTH Aachen University, Germany
+11/14-03/19
+Postdoctoral Research Fellow, Institute of Organic Chemistry, RWTH Aachen University, Germany
+05/14-10/14
+Research Associate-I, Organic Chemistry Section, Indian Association for the Cultivation of Science, India
+08/12-01/14
+Postdoctoral Research Fellow, Frick Chemistry Laboratory, Princeton University, USA
+09/11-03/12
+Assistant-I, Department of Chemistry and Biochemistry, University of Bern, Switzerland
+
+Awards
+--------------------------------------------------------------------------------
+2024,
+International Travel Support (ITS) Scheme (ITS/2024/002192)
+2022,
+Special Call-SERB Research Grant (SCP/2022/000168; 62 Lacks)
+2022,
+Special Call-SERB Research Grant (SCP/2022/000168; 62 Lacks)
+2020,
+Start-up SERB Research Grant (SRG/2020/000606; 26 Lacks)
+2019,
+Research Grant from Shiv Nadar University
+2016,
+Molecular Science & Engineering Travel Grant from RWTH Aachen University
+2016,
+Best poster presentation award sponsored by European Journal of Inorganic Chemistry
+2014-2016,
+Post-Doctoral Fellowship from RWTH Aachen University
+2012-2014,
+Swiss National Science Foundation Post-Doctoral Fellowship
+2010,
+2nd Best poster presentation award, Swiss Chemical Society fall meeting, ETH Zurich
+2010,
+SCNAT/SCS Chemistry Travel Award
+2007-2009,
+ESKAS Scholarship from Swiss Federal Commission
+2005,
+Award of Merit-cum-Means Scholarship from IITM
+
+Journal Publications
+--------------------------------------------------------------------------------
+17)
+“
+Efficient Access of Heterocycles Utilising Inherent Carbodicationic Reactivity of Ynone”
+A. Ahmad, K.Indu, S. A. Siddiqui, L. Gupta, K. D. Dubey*,
+A. Kapat*
+Chem. Eur. J.
+2025,
+31
+,
+e202501082.
+16)
+“
+The Role of the Carbonyl Group in C−C Triple Bond Cleavage of Ynones via Grob-Type Fragmentation
+Under Acidic Conditions
+”
+A. Ahmad, S. A. Siddiqui, P. Tyagi, L. K. Gupta, K. D. Dubey*,
+A. Kapat*
+,
+J. Org. Chem
+.
+2025
+, 90, 10, 3580-3589.
+15)
+“
+Regioselective Synthesis of Tetrahydrocarbazole Core of Akuammiline Alkaloids via Palladium-Catalyzed
+Intramolecular Arylation Reaction”
+N. M. Rao, A. Shelke, P. B. Singh, A. Ahmad,
+A. Kapat*
+J. Org. Chem.
+2024
+, 89,
+4461-4466
+.
+14)
+“
+Design and Synthesis of Co-Initiators via Base-Catalysed Sequential Conjugate Addition: Application in
+Photoinduced Radical Polymerisation Reaction
+”
+A.
+Ahmad, S. A. Siddiqui, G. Mittal, N. Sukumar*,D. Dubey*,
+A. Kapat*
+,
+Chem. Eur. J.
+2023
+, 29,
+e202301844
+.
+13)
+“Studies Directed towards the Synthesis of the Acridone Family of Natural Products: Total Synthesis of
+Acronycines and Atalaphyllidines”
+T Mandal, S Karmakar,
+A Kapat
+, J Dash*
+ACS Omega
+2021
+,
+6
+, 27062.
+12)
+“Stereoselective and Stereospecific Triflate Mediated Intramolecular Schmidt Reaction: Easy Access to
+Alkaloid Skeletons”
+P. Renaud*; L. Gnägi; R. Arnold, F. Giornal, H. Jangra,
+A. Kapat
+, E. Nyfeler, R. M.Schärer; H. Zipse*,
+Angew. Chem. Int. Ed
+.
+2021
+,
+18
+, 10179.
+11)
+“Stereochemical Control of the Triflate Mediated Intramolecular Schmidt Reaction”
+L. Gnagi, F. Giornal, H. Jangra, A.
+Kapat,
+Nyfeler, H. Zipse*, R. B. Scharer, P. Renaud*,
+ChemRxiv,
+2020
+Before joining SNIoE
+10)
+“Synthesis of E-olefins by intramolecular radical relocation”
+A. Kapat,
+T. Sperger, S. Guven, and F. Schoenebeck*
+Science
+2019,
+363,
+391.
+Highlighted in Chemistry World
+:
+https://www.chemistryworld.com › news › 3010084.article)
+9)
+“Potassium tertiary butoxide mediated direct alkyne addition to Isatine”
+K. Dhara,
+A. Kapat
+, Ghosh, T. And J. Dash*
+Synthesis
+2016
+, 48,
+4260
+.
+(Qualified for the competition for the best paper award in Synthesis)
+8)
+“Factors that control C-C cleavage versus C-H bond hydroxylations in copper-catalyzed oxidations of
+ketones with O2”
+A. S.-K. Tsang
+§
+,
+A. Kapat
+§
+, F. Schoenebeck*
+J. Am. Chem. Soc.
+2016
+,
+138
+, 518
+.
+(
+§
+ASKT and AK contributed equally).
+(Most accessed paper in December 2016) (Highlighted in ChemInform
+2016
+47 29)
+7) “
+Transition-metal free hydration of nitriles using potassium tert-butoxide under anhydrous condition” G.
+Midya,
+A. Kapat
+,
+S. Maiti, J. Dash*
+J. Org. Chem.
+2015
+,
+80,
+4148.
+(Highlighted in
+http://www.organic-chemistry.org/synthesis/C2O/amides.shtm
+http://www.organic-chemistry.org/abstracts/lit4/898.shtm
+)
+6)
+“Unexpected conversion of alkyl azides to alkyl iodides and of aryl azides to N-tert-butyl anilines”,
+J. Maury, L.Feray*, M. P. Bertrand*,
+A. Kapat
+, P. Renaud*,
+Tetrahedron
+2012
+,
+68
+, 9606.
+5)
+“Radical azidation reactions and their application in the synthesis of alkaloids”
+G. Lapointe,
+A. Kapat
+, K.Weidner, and P. Renaud*
+Pure Appl. Chem.
+2012
+, 84, 1633.
+4)
+“Radical procedure for the efficient formal anti-Markovnikov hydroazidation of alkenes”
+A. Kapat
+,A.Konig, F. Montermini and P. Renaud*
+J. Am. Chem. Soc
+.
+2011
+,
+133
+, 13890.
+3)
+“Intramolecular Schmidt reaction involving primary azidoalcohols under nonacidic conditions:
+synthesis of indolizidine (
+-)-167B”,
+A. Kapat
+, E. Nyfeler, G. T. Giuffredi, and P. Renaud*,J.
+Am. Chem. Soc.
+2009
+,
+131
+, 17746.
+2)
+“An intramolecular Schmidt reaction strategy for the synthesis of a methyl analogue of Crispine – A”,P.
+Synthil Kumar,
+A. Kapat
+, S. Baskaran*
+,
+Tet.
+Lett.
+2008
+,
+49
+, 1241.
+1)
+“Synthesis of Crispine - A analogues via an intramolecular Schmidt reaction”,
+A. Kapat
+, P. Synthil Kumar,S. Baskaran*
+,
+Beilstein
+J.
+Org.
+Chem.
+2007
+,
+3
+, 49.
+
+Books and Book Chapters (Authored / Edited / Reviewed)
+--------------------------------------------------------------------------------
+EDITORIAL APPOINTMENTS & REVIEW ACTIVITIES:
+Editorial Board Member,
+Scientific Archives of Dental Sciences
+2024
+Certificate of Appreciation from the ACS as a peer reviewer 2024
+Certificate of Reviewing from Elsevier as a peer reviewer 2024
+Certificate of Appreciation from the ACS as a peer reviewer 2023
+Certificate of Appreciation from the ACS as a peer reviewer 2022
+
+Working Papers / Monographs / Policy Papers / Case Studies
+--------------------------------------------------------------------------------
+Not Applicable
+
+Media Articles
+--------------------------------------------------------------------------------
+Media Coverage of Our Research Work:
+Our recent work on photoinduced radical polymerisation involving hydrogen atom transfer reaction and its application to dental restoration and 3D printing has been covered by a leading media house
+i)
+https://x.com/thebetterindia/status/1926647042098479120
+ii)
+https://www.indiatoday.in/health/story/3d-printing-your-tooth-how-an-indian-breakthrough-has-changed-dentistry-2623310-2024-10-28
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+List of Invited Talks:
+Invited Delegate, India Chem 2024, Ministry of Chemicals & Fertilisers, Department of Chemicals & Pharmaceuticals Government of India (October 2024)
+Invited Lecture, ICREST 2024, Jamia Islamia University, Delhi  (July 2024)
+Invited Session Chairperson, Bern-SRC 2024, University of Bern, Switzerland (June 2024)
+Invited Lecture, OCS-ECR 2024, IIT Jammu  (March 2024)
+Invited Delegate, ETCS 2024, IIT Kharagpur  (March 2024)
+Invited Talk: Massachusetts Institute of Technology, USA.
+Invited Talk: Indian Institute of Science Education and Research, Thiruvananthapuram, India.
+Invited Talk: Indian Institute of Science Education and Research, Berhampur, India.
+Invited Talk: Indian Institute of Technology, Palakkad.
+Invited Talk: Centre of Biomedical Research, Lucknow.
+Invited Talk: Indian Institute of Technology, Gandhinagar.
+Invited Talk: Tata Institute of Fundamental Research, Mumbai.
+Invited Talk: Indian Institute of Technology, Roorkee.
+Invited Talk: Indian Institute of Technology, Hyderabad.
+Invited Talk: Vidyasagar University, Department of Chemistry, Midnapore.
+Invited Talk: Indian Institute of Technology, Kharagpur.
+Invited Talk: National Institute of Science Education and Research, Bhubaneswar.
+List of Poster Presentations:
+Poster Presentation, Annual IIT Madras Symposium & The First Mid-Year Meeting of the Chemical Research Society of India, Chennai, India.
+Poster Presentation, 11th Belgian Organic Synthesis Symposium, Ghent, Belgium.
+Poster presentation, Swiss Chemical Society Fall meeting, University of Zurich, Switzerland.
+Oral Presentation, First year graduate student symposium, University of Bern, Switzerland.
+Poster Presentation, Swiss Chemical Society Fall meeting, EPFL Lausanne, Switzerland.
+Poster Presentation, 45th Euchem Conference on Stereochemistry, Brunnen, Switzerland.
+Poster Presentation, Euchem Conference on Organic Free Radicals, Bologna, Italy.
+Poster Presentation, Swiss Chemical Society Fall meeting, ETH Zurich, Switzerland.
+Poster Presentation: Bioanorganisches Symposium 2016, RWTH Aachen, Germany.
+Poster Presentation: 21st International Conference on Organic Synthesis, IIT Bombay, India.
+Poster Presentation: 9th New Year's Symposium 2017, Institute of Organic Chemistry, RWTH Aachen, Germany.
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances
+--------------------------------------------------------------------------------
+Ongoing:
+Project Title:
+Enantioselective Catalytic Radical Fluorination of Nonactivated C(sp
+3
+)-H Bond
+PI:
+Dr. Ajoy Kapat
+Co-PI (if any):
+Not Applicable
+Funding Agency:
+Science and Engineering Research Board (SERB)
+Budget:
+62,51,863.00 INR
+Date of Approval:
+04-11-2022
+End Date:
+03-11-2025
+Completed:
+Title:
+Development of Palladium-Catalyzed Triple Cascade for the Synthesis of Tetracyclic Core of
+Apocynaceae
+Family of Indole Alkaloids: Combined Experimental & Computational Based Mechanistic Study and Structure Activity Relationship Study
+Principal Investigator:
+Dr. Ajoy Kapat
+Host Institute:
+Department of Chemistry, School of Natural Products, Shiv Nadar University
+Scheme:
+Start-up Research Grant (
+SRG/2020/000606
+)
+Date of Approval:
+17-12-2020
+End Date:
+17-12-2022
+
+Patents / Copyright (filed / granted)
+--------------------------------------------------------------------------------
+“
+Nickel-catalysed olefin isomerisation for the preparation of E-alkenes
+”
+A. Kapat
+and F. Schoenebeck*
+RD-42066 (filed on 21.09.2018).
+"Highly Atom Economical Process for Synthesis of Novel Co-Initiator for Photo-Induced Radical Polymerisation”.
+A. Ahmad, G. Mittal,
+A. Kapat*
+PCT/IN2023/050615
+"
+Dental Composite And Method Thereof Dental Composite And Method of Curing Thereof
+”.
+A. Ahmad, G. Mittal,
+A. Kapat*
+PCT/IN2023/050616
+
+Advisory work with NGOs / Government / International Bodies
+--------------------------------------------------------------------------------
+Not Applicable

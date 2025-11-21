@@ -1,0 +1,199 @@
+================================================================================
+Prasun Kumar Roy
+================================================================================
+
+Faculty at School of Natural Sciences
+
+Profile Summary
+--------------------------------------------------------------------------------
+Dr Roy is a researcher and teacher of neuroscience and bio-engineering. As a medical doctor he has been pursuing the field of imaging since his training at Institute of Postgraduate Medical Education and Research, Calcutta University. He has been a Research Scientist at University of Connecticut, Storrs, USA, and Visiting Professor at University Medical Centre, Utrecht, Netherlands. He comes with a wide spectrum of research, teaching and clinical experience, including that in Indian Institute of Technology – Banaras Hindu University, Varanasi, National Brain Research Centre (Deemed University), Gurgaon (Delhi NCR), besides clinical positions in healthcare field. At Shiv Nadar University Institution of Eminence, he has organized the Laboratory on Neuroscience, Cognition and Brain Imaging.
+Earlier, at I.I.T. – B.H.U., Dr Roy has been Head and Professor, School of Bio-Medical Engineering. Here he set up and led the Computational Neuroscience and Neuro-Imaging Laboratory with an intensive PhD program, and also developed and steered the Healthcare Domain of the National Mission of Data Analytics and Predictive Technology (NM-DAPT), sponsored by DST, Govt. of India, as also the Technology Innovation Hub, Healthcare area. He is well-known among the university-wide student community for developing and innovative highly-acclaimed courses on Neurotechnology and Cognitive Technology, and on Neuro-informatics and Brain Imaging for Cognitive Science and Healthcare Technology.
+Beforehand, at National Brain Research Centre (Deemed University), he has been Director, Incharge, Professor, and Additional Professor. There he organized the setting up of the National Neuro-Imaging Facility, the pioneering high-field MRI - EEG based Functional Brain Imaging Centre in the country, in cooperation with Philips Electronics, Netherlands. He has been Faculty Incharge of NBRC Clinical Neuroscience Unit (Neurology, Psychology, Neurosurgery), that he organized at Govt. General Hospital - Gurgaon. He is member of the steering committee of the Brain Map program, Office of Principal Science Adviser, Govt. of India. In the various institutions that he has associated with, Dr Roy has developed intensive research groups on clinical neuroscience and neuro-imaging areas, as screening, diagnostics or therapeutic monitoring in neurodegenerative disorders (as dementia and ageing deficits), neurovascular disease (as stroke) and neuro-oncological conditions.
+
+Awards
+--------------------------------------------------------------------------------
+Tata Innovation Fellowship Award, DBT, Govt. of India.
+Indian National Academy of Engineering: Fellowship.
+National Academy of Sciences, India: Fellowship.
+National Academy of Medical Sciences, India: Fellowship.
+Saxena Award in Biomedical Engineering. National Academy of Medical Sciences
+Overseas Associateship Award, DBT, GOI.
+Visiting Scholar Award, American Cancer Society.
+Visiting Investigator Award. American Federation of Medical Research.
+
+Research Interest
+--------------------------------------------------------------------------------
+Our group works in the "Laboratory on Neuroscience, Cognition and Brain Imaging".
+Each human covets a healthy life, growing and ageing gracefully. However, neurocognitive disturbances may creep in amd mar the path of well-being. For amelioration of brain disorders, the research in our laboratory deals with neuroprotection measures, whether applied to neurodegenrative disorder, neuro-oncology and neuropsychiatry or mental health. We use various techniques encompassing neuroimaging, systems biology, physiology, cellular studies and computational biology.
+In the dementia area, we are investigating the pathways whereby brain's toxic protein amyloid is efficaciously eliminated by liver or kidney, a novel therapeutic approach for neuroprotection in neurodegenerative disease.
+Furthermore, in neuro-oncology, we are formulating a procedure to enhance malignant cell kill and protection of normal neurocognitive tissue during brain tumor radiotherapy or chemotherapy.
+In mental health, we are assessing the brain network alteration or perception errors that occur high-stress individuals or psychotic patients, such changes can critically handicap proper cognitive functioning of these individuals, and the research provides leads to remediation.
+Under sponsorship of Indian Space Research Organization (ISRO), we are enhancing the possibility of astronaut’s neuroprotection, by evaluating cognitive activation-level in adverse situations, so that due precautionary measures can be taken.
+
+Work Experience
+--------------------------------------------------------------------------------
+Distinguished Professor, Dept. of Life Science, Shiv Nadar University (Institution of Eminence), Delhi NCR.
+Co-Head, SNU-Dassault Centre of Excellence on Research and Innovation, Shiv Nadar University (Institution of Eminence), Delhi NCR
+Head & Professor, School of Bio-Medical Engineering, I.I.T. - B.H.U., Varanasi.
+Director, i/c, Professor, Addl. Professor, National Brain Research Centre (Deemed University), Gurgaon (Delhi NCR).
+Visiting Professor, University of Connecticut, Storrs, USA.
+Research Scientist, University of Connecticut, Storrs, USA.
+
+Journal Publications
+--------------------------------------------------------------------------------
+Baghel B, Kumari B, Bhattacharjee B, Sharma S,
+Roy P K.
+High resilience of human cerebellum in Alzheimer's disease: Reciprocal coupling of cellular anabolic and catabolic fluxes enable intensive neuroprotection. 3 Biotech Journal: Appl. Bio., 15(5), 1-17, 2025.
+Bhattacharjee A, Purohit P,
+Roy PK
+. Neuroimaging-based drug discovery for amyloid clearance therapy in Alzheimer's disease using validated causation analysis, Psychiatry Research: Neuroimaging,
+345: 11890,
+1-15, 2024.
+Bhattachejee A,
+Roy PK
+. MRI tractographic validation of drug-enhanced hepatic clearance of amyloid-beta and the therapeutic potential for Alzheimer’s Disease: A pilot study.
+Brain Disorders, 13:100112
+, 1-9, 2024.
+Bhattachejee,
+P.K. Roy.
+Conjoint hepatobiliary-enterohepatic cycles for amyloid excretion and enhancing its drug-induced clearance: A systems biology approach to Alzheimer’s disease.
+Journal of Biomolecular Structure and Dynamics. 12,
+1-24, 2023.
+Kumari, C. Sakode, L. Raghavendran,
+P. K. Roy.
+Computational systems biology approach for permanent tumor elimination and normal tissue protection using negative biasing: Experimental validation in malignant melanoma as case study.
+Mathematical Biosciences and Engineering. 20,
+9572-9606, 2023.
+Bhattacherjee, P. Purohit,
+P. K. Roy
+. Neuroprotective Drug Discovery From Phytochemicals and Metabolites for CNS Viral Infection: A Systems Biology Approach With Clinical and Imaging Validation.
+Frontiers in Neuroscience, 16,
+1-24, 2022.
+P. Purohit,
+P. K. Roy.
+Interaction between spatial perception and temporal perception enables preservation of cause-effect relationship: Visual psychophysics and neuronal dynamics.
+Mathematical Biosciences and Engineering. 20
+, 9101-9134, 2023.
+Kumari, C. Sakode, L. Raghavendran,
+P. K. Roy.
+A mechanistic analysis of spontaneous cancer remission phenomenon: Identification of genomic basis and effector biomolecules for therapeutic applicability,
+3 Biotech Journal, 13,
+1-22, 2023.
+Purohit, P. Dutta,
+P. K. Roy.
+Empirically validated theoretical analysis of visual-spatial perception under change of nervous system arousal.
+Frontiers in Computational Neuroscience, 17,
+1-26, 2023.
+Ruttala R, Purohit P, Bhattacharjee A, Kumari B,
+Roy PK
+. MRI-DTI Imaging Reveals Specific Neuro-degeneration Signature in Precuneus Node of Awareness Processing in Brain under Alzheimer’s Disease,
+J. Adv. Appl. Scientific Research. 4(4)
+, 102-111, 2022.
+Pareek V, Paul S,
+Roy PK.
+Corpus Callosum Remodeling in Glioma tumor: Constancy of Fiber Density and Anisotropy in MRI.
+Canadian J Neurol Sci. 49(2):
+282-286, 2022. doi: 10.1017/cjn.2021.64.
+Pal S, Arora A, Midha R, Vu D,
+Roy P K,
+et al, Autistic traits and individual brain differences: Functional network efficiency reflects attentional and social impairments, structural nodal efficiencies index systemising and theory-of-mind skills,
+Molecular Autism : Journal of Autism and Neurodevelopment Disorders, 12 (1),
+1-26, 2021. doi: 10.1186/s13229-020-00377-8
+Pareek V, Paul S, Rallabandi V,
+Roy PK.
+Patterning of Corpus Callosum integrity in Glioma Brain Tumour observed by MRI: Effect of 2-D bi-axial lamellar brain architecture.
+Journal of Neuro-Oncology, 144(1),
+165-177, 2020.
+Pareek V, Nath B,
+Roy PK.
+Role of Neuroimaging Modalities in the Assessment of Oxidative Stress in Brain.
+CNS and Neurological Disorders: Drug Targets, 18(5),
+372-381, 2019.
+Shilpa D, Chaudhry S, Lall B,
+Roy PK.
+Tractography-based Score for Learning Effective Connectivity from Multimodal Imaging.
+IEEE Transactions on Bio-Medical Engineering, 65
+: 198-221, 2018.
+Pareek V, Subramanyam V,
+Roy, PK
+. A Correlational Study between Micro-structural White matter properties and Macro-structural Gray matter volume across Normal Ageing.
+Magnetic Resonance Insights, 11,
+1-13, 2018.
+Alam A, Rallabandi V,
+Roy PK,
+Systems biology of Immunomodulation for post-Stroke Neuroplasticity: Multimodal implications for Pharmacotherapy and Neurorehabilitation,
+Frontiers in Neurology, 7(94),
+1-16, 2016.
+Shilpa D, Chaudhry S, Lall B,
+Roy PK.
+Learning Effective Connectivity from fMRI using Autoregressive hidden Markov model with missing data,
+J. Neuroscience Methods, 278
+, 87 100, 2017.
+Rathee R, Rallabandi VPS,
+Roy, PK.
+Age-Related Differences in White Matter Integrity in Healthy Human Brain: Evidence from Structural MRI and Diffusion Tensor Imaging.
+Magnetic Resonance Insights, 9,
+1-12, 2016.
+Subhadip Pal,
+Roy, PK.
+Strategy for Stochastic Dose-rate induced Enhanced Elimination of Malignant Tumour without Needing Dose-escalation,
+Mathematical Medicine & Biol., 33(3),
+319-328, 2015.
+Ottey W, Diesen E, Rajiv R, Subhadip Pal, Subramanyam V,
+Roy PK.
+Ageing Alterations in Whole-Brain Networks during Adulthood Mapped with Minimum Spanning Tree Indices: The Interplay of Density, Connectivity Cost and Life Time Trajectory,
+NeuroImage: The Journal of Brain Function, 109,
+171-189, 2015.
+Jyothirmayi, V, Subramanyam V, Shripad, K,
+Roy, PK.
+Monoamine Neuromodulation of Cognitive Association A Multiscale Study: Pathway Signalling, Electrophysiological Analysis and fMRI Response.
+Frontiers in Neuroinformatics. 8,
+2015. DOI: 10.3389/conf.fninf.2013.09.00036
+Datta, S., Chakraborty, S, Mulpuru, S., Tiwary,B., Chakrabarti, N., and
+Roy, PK.
+MRI characteristics of temporal lobe epilepsy using rapidly-measurable spatial indices with hemispheric asymmetry and gender features.
+Neuroradiology, 57(9),
+873-886, 2015.
+Chandrashekhar, R, Radhakant, P, Kapoor, S, Subramanyam V,
+Roy, PK.
+Multimodal Therapy for Complete Regression of Malignant Melanoma using Constrained Nonlinear Optimal Dynamic Inversion,
+Biomedical Signal Analysis and Control. 12,
+198-211, 2014.
+Pal, Subhadip,
+Roy, PK.
+Study of radiation dose-rate fluctuation effect on tumour cell survival using stochastic analysis,
+Physics in Medicine and Biology, 57,
+1561-70, 2012.
+Rallabandi V,
+Roy, PK
+. Magnetic Resonance Image Enhancement using Stochastic Resonance in Fourier domain,
+Magnetic Resonance Imaging, 28,
+1361-73, 2010.
+Budhachandra, K, Shukla, V,
+Roy PK,
+Thermal Conduction Tensor Imaging and Energy Flow Mapping of the Brain: A feasibility study using MRI.
+Annals of Biomedical Engineering. 38,
+3070-83, 2010.
+
+Sponsored Research Projects
+--------------------------------------------------------------------------------
+Autonomic Neural Performance Index estimation using Cardiovascular, Respiratory and Behavioral Recordings, Indian Space Research Organization (ISRO). As P.I.
+Cybersecurity of Critical Infrastructure; National level Medical Grid Systems, DST, P.I.
+3-D Optimization of Neuro-Rehabilitation Therapy for Children with Brain Injury, Dassault Systemes Foundation, P.I.
+Neuroprotective Smart Textile for Preventing Cerebral Palsy: Countering Brain Injury in Children. NTTM Mission, Govt. of India, PI.
+National Mission on Data Analytics and Predictive Technologies: Healthcare Domain (Consortium program), SERB-ICPS (as healthcare coordinator).
+Microglia Dynamics and its Modulation in Traumatic Brain Injury: Enhancing the Window of Neuroprotection, Royal Academy of Medical Sciences - U.K. (as Indian proposer/collaborator).
+Spatiotemporal Dynamics of the Neural System: Perceptual Spatio-temporal Mapping and Information Flux Imaging with clinical applicability, Meity (Ministry of Electronics & I.T.), PI
+International Model Project for Indian Integration with Global Imaging System (India Brain Grid), Office of Principal Science Adviser, PI
+Investigating the role of altered brain network dynamics and connectivity in Schizophrenia, Royal Society - U.K. (as Indian proposer/collaborator).
+Using Stereo Imaging to develop a ready automated method for screening of Alzheimer-type mild cognitive impairment from Normal Ageing. DBT, 2012-17. PI
+Clinical & Translational Neuroscience Centre, DBT, GOI. As PI
+Centre for Excellence in Epilepsy & Magneto-Encephalo Graphy (MEG), DBT, GOI (as NBRC investigator).
+Indo-Australian cooperation for enhancing early diagnosis and prediction in the aged population, Dept. of Foreign Affairs, Australian Govt. PI
+Processing Pre-Clinical MRI data for Structural and Functional Connectivity. Dutch Universities Foundation. PI
+National Neuro-Imaging Facility, DBT (as Co-I, then PI).
+Multimodal Tensor Information Neuroimaging, European Union. PI
+Vector Flow Neuroimaging, Dutch Universities Foundation. PI
+Stochastic Resonance Effect in Computed Tomography and Tomotherapy, DRDO. PI
+Neural Thermodynamics & Information Processing, Indo-U.S. Science & Technology Forum. PI
+3-D Optimization of Neuro-Rehabilitation Therapy for Children with Brain Injury, La Fondation Dassault Systèmes. PI

@@ -1,0 +1,647 @@
+================================================================================
+Aloke Kanjilal
+================================================================================
+
+Faculty at School of Natural Sciences
+
+Research Interest
+--------------------------------------------------------------------------------
+Interests are interdisciplinary in nature and deal with a variety of outstanding problems in science and technology. The efforts are centered on physics and engineering, involving ideas, techniques, and conundrums from other fields such as material science, ion beam physics, optics, magnetism, and chemistry. The motivations are the following:
+Synthesis and (structural, optical, transport or magnetic) characterization of nanostructures (such as quantum dots, nanotubes, nanowires, nanorods, nanocrystals etc.), thin films, and/or low-dimensional heterostructures, and composite materials
+Integration of the nanoscale materials including 2D materials for developing powerful electronic, photonic, optoelectronic and magnetic devices
+Processing of emerging materials, and to carry out interdisciplinary research in the broad areas of flexible electronics, nuclear reactors and renewable energy with special emphasis on photovoltaic materials and radiation detectors
+Defect engineering at surfaces and interfaces of thin films for exploring novel physical properties
+Materials under extreme environment including ion beam exposure
+Research Areas Surface and Nano Science
+Know more:
+Click here
+
+Education
+--------------------------------------------------------------------------------
+Ph.D., Indian Institute of Technology (IIT), Delhi
+M.Sc., Indian Institute of Technology (IIT), Delhi
+
+Work Experience
+--------------------------------------------------------------------------------
+Professor
+July 2019 onward,
+Department of Physics, School of Natural Sciences, Shiv Nadar University, Gautam Buddha Nagar, Uttar Pradesh, India.
+Associate Professor
+January 2013 – June 2019,
+Department of Physics, School of Natural Sciences, Shiv Nadar University, Gautam Buddha Nagar, Uttar Pradesh, India.
+Postdoctoral Research Associate
+October 2010 – December 2012, Center for Materials Under eXtreme Environment (CMUXE), School of Nuclear Engineering, Purdue University, Indiana, USA
+Research Scientist (including Alexander von Humboldt research fellowship)
+April 2007 – Jan. 2010, Semiconductor Materials Division, Helmholtz-Zentrum Dresden Rossendorf
+(HZDR),
+Dresden, Germany
+Research Scientist in low dimensional systems at surfaces (INFM-CNR Fellowship)
+November 2004 – March 2007,
+INFM-CNR
+LOTUS Surface Physics Laboratory, Department of Physics, University of Rome “La   Sapienza”, Rome, Italy
+Post Doctoral Fellow in Nanoscience
+May 2003 – March 2004, Nanomaterials Laboratory, National Institute for Materials Science (NIMS), Tsukuba, Japan
+Assistant Research Professor in Semiconductor Nanostructures
+February 2002 – April 2003, Department of Physics and Astronomy, University of Aarhus, Denmark
+
+Awards
+--------------------------------------------------------------------------------
+2020
+, Outstanding Research Award during The Circle of Excellence Award Ceremony held on April 6, 2021 on the special occasion of 10th anniversary celebration of Shiv Nadar University
+2016
+, Self-organized nanochannels in TiO2 films for resistive switching device application in International Conference on Thin Films (ICTF-2017) at National Physical Laboratory, New Delhi (Best Paper Presentation Award)
+2013
+, Research Excellence Award for the FY2013-14 from Shiv Nadar University, India
+2006
+, Alexander von Humboldt research fellowship awarded by the Alexander von Humboldt Foundation in Bonn, Germany
+1998
+, Istituto Nazionale per la Fisica della Materia (INFM) Research Scientist Fellowship granted by INFM-CNR, Italy
+1997
+, 3rd prize for poster presentation for the title Silicon dioxide layers with embedded germanium nanocrystals in 1st annual iNANO meeting, University of Aarhus, Denmark
+1995
+, Merit-cum-Means award granted by Indian Institute of Technology (IIT), Delhi, India
+
+Journal Publications
+--------------------------------------------------------------------------------
+“
+Tailoring Structural, Chemical, and Photocatalytic Properties of ZnO@β-SiC Composites: Effect of Annealing Temperature and Environment
+” Bisweswar Santra, Saptarshi Pal, Sabyasachi Saha,
+Aloke Kanjilal
+, ACS Omega (
+https://doi.org/10.1021/acsomega.3c03957
+).
+“
+Multi-level Threshold Switching and Crystallization Characteristics of Nitrogen Alloyed GaSb for Phase Change Memory Application
+” Joshua Asirvatham, Lukasz Walczak,
+Aloke Kanjilal
+, Proc. Natl. Acad. Sci., India, Sect. A Phys. Sci. (
+https://doi.org/10.1007/s40010-023-00832-0
+).
+“
+Experimental and theoretical evidence of ion engineering in nanocrystalline molybdenum disulfide memristor for non-filamentary switching actions and ultra-low-voltage synaptic features
+”
+Dip Das, Joshua Asirvatham, Minh-Anh Luong, Alain Claverie, Priya Johari,
+Aloke Kanjilal
+,
+J. Mater. Chem. C
+11
+, 7782 (2023).
+“
+Improvement of Moisture Barrier and Tensile Properties of Pectin Films by Incorporating Terminalia catappa Linn. Leaf Wax and Xylitol
+” Shumyla Mehraj, Mayank Garg, Bisweswar Santra, Harpreet Singh Grewal,
+Aloke Kanjilal
+, Yamini Sudha Sistla, J. Polym. Environ.
+31
+(3), 13 (2023).
+“
+Modulation of the Work-Function of TiO2 Nanotubes by Nitrogen Doping: Implications for the Photocatalytic Degradation of Dyes
+” S. Bhowmick, C.P. Saini, B. Santra, L. Walczak, A. Semisalova, M. Gupta,
+A. Kanjilal
+, ACS Appl. Nano Mater.
+6
+, 50 (2023).
+“
+Castor Oil and Cocoa Butter to Improve the Moisture Barrier and Tensile Properties of Pectin Films
+” Shumyla Mehraj, Gouri Pandey, Mayank Garg, Bisweswar Santra, Harpreet Singh Grewal,
+Aloke Kanjilal
+, Yamini Sistla, J. Polym. Environ. 31, 312 (2023).
+“
+Atomic Scale Microstructural Insights of Superconducting β-Tungsten Thin Films
+” A. Chattaraj, M. M. Patidar, V. Ganesan, S. Joulie, V. Serin, A. Claverie, V. Kumar,
+A. Kanjilal
+, J. Mater. Res. 37, 4338 (2022).
+“
+Ab initio study of the structural stability and Dirac fermion behaviour in A3B (A = Cr, Mo, W; B = Al, Ga, In, Si, Ge, Sn, Be) and W3M, M = Ru, Ta, Re, Os, Ir, Au compounds
+” Ananya Chattaraj,
+Aloke Kanjilal
+, Vijay Kumar, Physica B: Phys. Cond. Mat. 646, 414315 (2022).
+“
+Revealing the Impact of Pre-structural Ordering in GaSb Thin Films
+” Joshua Asirvatham, Minh Anh Luong, Kiran Baraik, Tapas Ganguli, Alain Claverie,
+Aloke Kanjilal
+, J. Phys. Chem. C 126 (36), 15405–15414 (2022).
+“
+Influence of ion implantation on depth dependent phase transition on TiO2 films, anatase nanostructure
+and Photo-absorption Behavior
+” A. K. Manna, S. R. Joshi, B. Satpati, P. Dash, A. Chattaraj, S. K. Srivastava,
+A. Kanjilal
+, D. Kanjilal, S. Varma, Current Appl. Phys. 43, 1 (2022).
+“
+Defect engineered blue photoluminescence in ZnO:Al/TiO2 heterostructures
+” C.P. Saini,
+S. Bhowmick,
+A. Barman, N. Kumar, A. Das, S. A. Khan, A. Claverie, D. Kanjilal,
+R. N. Mahato, K. Singh,
+A. Kanjilal
+, J. Appl. Phys. 132, 065302 (2022).
+“
+Large shift in surface plasmon resonance wavelength with growth of embedded Au nanoparticles in fullerene C60 by collision cascades
+” V. Chaudhary, R. Vishnoi, A. Salim, H. Dixit, J. Bhardwaj, D. Gupta, U. K. Dwivedi, D. Rathore, G. D. Sharma, K. V. Kamma, P. Kumar,
+A. Kanjilal
+, S. Bishnoi, S. Aggarwal, R. Singhal, J. Alloys and Compounds 924, 166420 (2022).
+“
+Aliovalent Ta-doping Engineered Oxygen Vacancy Configuration for Ultra-Low-Voltage Resistive Memory Devices: A DFT-Supported Experimental Study
+” A. Barman, D. Das, S. Deshmukh, P. K. Sarkar, D. Banerjee, R. Hübner, M. Gupta, C. P. Saini, S. Kumar, P. Johari, S. Dhar,
+A. Kanjilal
+, ACS Appl. Mater. Interf. 14, 34822 (2022).
+“
+Growth dependent structural ordering and stability in β-tungsten films for spintronic applications
+” A. Chattaraj, J. Asirvatham, G. Das, G. Manna, P. Saha, V. Kumar,
+A. Kanjilal
+, J. Appl. Phys. 131, 125301 (2022).
+“
+Crucial role of oxygen on the bulk and surface electronic properties of stable β phase of tungsten
+” A. Chattaraj, S. Julie, V. Serin, A. Claverie, V. Kumar,
+A. Kanjilal
+, Sci. Rep. 12, 3865 (2022).
+“Resistive Switching Properties and Photoabsorption Behavior of Ti ion implanted ZnO thin films”
+A. Manna, P. Dash, D. Das, S. Srivastava, P. Sahoo,
+A. Kanjilal
+, D. Kanjilal, S. Varma, Ceramics International 48, 3303 (2022).
+“
+Single-step Synthesis of Core-Shell Diamond-Graphite Hybrid
+Nano-needles as Efficient Supercapacitor Electrode
+”
+D. Banerjee
+, K. J. Sankaran, S. Deshmukh, C. J. Yeh, M. Gupta, I. N. Lin, K. Haenen,
+A. Kanjilal
+, S. S. Roy
+,
+Electrochimica Acta 397, 139267 (2021).
+“
+Development of wavelength-resolved 3D-integrated TL and OSL reader system
+” D. R. Mishra, S. Pal, S. Bhowmick, L. Paliwal, A. K. Singh, S. S. Sutar, A. K. Bakshi,
+A. Kanjilal
+, Eng. Res. Exp. 3, 035047 (2021)
+“
+Annealing temperature driven near surface crystallization with improved luminescence in self-patterned alumina films
+” S. Pal, S. Bhowmick, S. A. Khan, A. Claverie, D. Kanjilal, A. K. Bakshi,
+A. Kanjilal
+,
+J. Mater. Sci.: Mater. Electron.
+32
+, 11709 (2021)
+.
+“
+Carbon doping induced defect centers in anodized alumina with enhanced optically stimulated luminescence
+”
+S. Bhowmick,
+S. Pal,
+A. Singh, S. A. Khan,
+D. R. Mishra, R. J. Choudhary, D. M. Phase,
+T. K. Chini, A. K. Bakshi,
+A. Kanjilal
+,
+J. Mater. Sci.: Mater. Electron.
+32, 10635 (2021).
+“
+Metal-induced progressive alteration of conducting states in memristors for implementing an efficient analog memory:
+A DFT Supported Experimental Approach
+” D. Das, A. Barman, P. K. Sarkar, P. Rajput, S. N. Jha, R. Hübner, D. Kanjilal, P. Johari,
+A. Kanjilal
+, J. Mater. Chem. C 9, 3136 (2021).
+“
+Unveiling Temperature Mediated Dual-band Edge in TiO2
+Nanotubes with Enhanced Photocatalytic Effect
+”
+S. Bhowmick, R. Sen, C. P. Saini, M. Gupta, D. M. Phase, R. Singhal,
+A. Kanjilal
+,
+J. Phys. Chem. C
+125, 4846 (2021).
+“
+Induced Vacancy Assisted Filamentary Resistive Switching Device Based On RbPbI3-xClx Perovskite for RRAM Application
+” U. Das, D. Das, B. Paul, T. Rabha, S. Pattanayak,
+A. Kanjilal
+, S. Bhattacharjee, P. Sarkar, A. Roy, ACS Appl. Mater. Interf. 12, 41718 (2020).
+“
+Unravelling oxygen driven α to β phase transformation in tungsten
+”
+A. Chattaraj, M. Balal, A. K. Yadav, S. R. Barman, A. K. Sinha, S. N. Jha, S. Joulie, V. Serin, A. Claverie, V. Kumar,
+A. Kanjilal
+, Scientific Reports 10, 14718
+(2020).
+“
+Dynamic Surface evolution and scaling studies on TiO2 thin films by Ti+ ion implantation
+” A. K. Manna,
+A. Kanjilal
+, D. Kanjilal, S. Varma, Nucl. Inst. Meth. Phys. Res. B 474, 68 (2020).
+“
+Single-step grown boron doped nanocrystalline diamond-carbon nanograss hybrid as an efficient supercapacitor electrode
+” D. Banerjee, K. J. Sankaran, S. Deshmukh, M. Ficek, C. J. Yeh, J. Ryl, I. N. Lin, R. Bogdanowickz,
+A. Kanjilal
+, K. Haenan, S. S. Roy, Nanoscale 12, 10117 (2020).
+“
+Synergistic Effect of Singly Charged Oxygen Vacancies and Ligand-Field for Regulating Transport Properties of Resistive Switching Memories
+” D. Das, A. Barman, S. Kumar, A. K. Sinha, M. Gupta, R. Singhal, P. Johari,
+A. Kanjilal
+, J. Phys. Chem. C 123, 26812 (2019).
+“
+Revealing carbon mediated luminescence centers with enhanced lifetime in porous alumina
+”
+S. Bhowmick, S. Pal, A. Singh, M. Gupta, D. M. Phase, A. K. Singh,
+A. Kanjilal
+, J. Appl. Phys. 126, 164904 (2019).
+“
+Tailoring superhydrophobic ZnO nanorods on Si pyramids with enhanced visible range antireflection property
+” D. Sharma, S Bhowmick, A. Das,
+A. Kanjilal
+, C. P. Saini, Mater. Res. Expr. 6, 095047 (2019).
+“
+3D Hierarchical Boron Doped Diamond-Multilayered Graphene Nanowalls as an Efficient Supercapacitor Electrode
+”
+D
+.
+Banerjee, K
+.
+J
+.
+Sankaran, S
+.
+Deshmukh, M
+.
+Ficek, G
+.
+Bhattacharya, J
+.
+Ryl
+,
+D
+.
+M
+.
+Phase, M
+.
+Gupta, R
+.
+Bogdanowicz, I-N
+.
+Lin,
+A
+.
+Kanjilal
+, K
+.
+Haenen, S
+.
+S
+.
+Roy,
+J. Phys. Chem. C 123, 15458 (2019).
+“
+Probing the impact of surface reactivity on charge transport in dimensional phase changed tungsten films
+” A. Chattaraj, S. Khan, Ł. Walczak,
+A. Kanjilal
+, J. Mater. Sci.: Mater. Electron. 30, 8278 (2019).
+“
+Resistive switching in reactive electrode-based memristor: Engineering bulk defects and interface inhomogeneity through bias characteristics
+” A. Kumar, M. Das, P. Sharma, V. Garg, B. S. Sengar, A. Barman,
+A. Kanjilal
+, A. Kranti, S. Mukherjee, Semicond. Sci. Technol
+34
+,
+035014 (2019).
+“
+The effect of Ti+ implantation on the Anatase-Rutile Phase Transformation and Resistive Switching properties of TiO2 thin films
+” A. Manna, A. Barman, S. R. Joshi, B. Satpati, P. Dash, A. Chattaraj, S. K. Srivastaava, P. K. Sahoo,
+A. Kanjilal
+, D. Kanjilal, S. Varma, J. Appl. Phys. 124, 155303 (2018).
+“
+Probing the impact of energetic argon ions on the structural properties of ZnO:Al/TiO2 heterostructures
+” C. P. Saini, A. Barman, N. Kumar, R. Cours, S. Joulie, V. Serin, A. Claverie, A. K. Sinha, D. Kanjilal,
+A. Kanjilal
+, J. Appl. Phys. 124, 155305 (2018).
+“
+Carbon doping controlled thermoluminescent defect centers in nanoporous alumina for ion beam dosimetry
+” S. Bhowmick, S. Pal, D. Das, S.A. Khan, V.K. Singh, S.R. Barman, D. Kanjilal, R. Hübner,
+A. Kanjilal
+, J. Appl. Phys. 124, 134902 (2018).
+“
+Oxygen mediated phase transformation in room temperature grown TiO2 thin films with enhanced photocatalytic activity
+” D. Banerjee, A. Barman, S. Deshmukh, C. P. Saini, G. Maity, S. K. Pradhan, M. Gupta, D. M. Phase, S. S. Roy,
+A. Kanjilal
+, Appl. Phys. Lett. 113, 084103 (2018).
+“
+Resistive Switching Behavior in Oxygen Ion Irradiated TiO2-x Films
+” A. Barman, C. P. Saini, P. Sarkar, G. Bhattacharjee, G. Bhattacharya, S. Srivastava, B, Satpati, D. Kanjilal, S. Ghosh, S. Dhar,
+A. Kanjilal
+J. Phys. D: Appl. Phys. 51, 065306 (2018).
+“
+Nanoscale evidence of self-recovery of resistive switching in TiO2 films
+” A. Barman, C. P. Saini, D. Das, S. Dhar, M. Singh, A. K. Sinha, D. Kanjilal, M. Gupta, D. Phase,
+A. Kanjilal
+, J. Phys. D: Appl. Phys.  50, 475304 (2017).
+“
+Impact of Self-Trapped Excitons on Blue Photoluminescence in TiO2 Nanorods on Chemically Etched Si Pyramids
+” C. P. Saini, A. Barman, D. Banerjee, O. Grynko, S. Prucnal, M. Gupta, D. Phase, A. K. Sinha, D. Kanjilal, W. Skorupa,
+A. Kanjilal
+, J. Phys. Chem. C 121, 11448 (2017).
+“
+Role of Oxygen Vacancy on the Hydrophobic Behavior of TiO2 Nanorods on Chemically Etched Si Pyramids
+” C. P. Saini, A. Barman, D. Das, B. Satpati, S. R. Bhattacharyya, D. Kanjilal, A. Ponomaryov, S. Zvyagin,
+A. Kanjilal
+, J. Phys. Chem. C 121, 278 (2017).
+“
+Ion irradiation induced modifications of P3HT: A donor material for organic photovoltaic devices
+” T. Sharma, R. Singhal, R. Vishnoi, G. B. V. S. Lakshmi, S. Chand, S. K. Biswas, D. K. Avasthi,
+A. Kanjilal
+, Vacuum 135, 73 (2017).
+“
+Multilevel programming in NiOy/NiOx bilayer resistive switching devices
+” P. Sarkar, S. Bhattacharjee, A. Barman,
+A. Kanjilal
+, Asim Roy, Nanotechnology 27, 435701 (2016).
+“
+Probing electron density across Ar+ irradiation-induced self-organized TiO2-x nanochannels for memory application”
+A. Barman, C.P. Saini, P. Sarkar, A. Roy, B. Satpati, D. Kanjilal, S.K. Ghosh, S. Dhar, and
+A. Kanjilal
+, Appl. Phys. Lett. 108, 244104 (2016).
+“
+Self-decorated Au nanoparticles on antireflective Si pyramids with improved hydrophobicity
+” C. P. Saini, A. Barman, M. Kumar, B. Satpati, T. Som,
+A. Kanjilal
+, J. Appl. Phys. 113, 134904 (2016).
+“
+Defect-engineered optical bandgap in self-assembled TiO2 nanorods on Si pyramids
+” C. P. Saini, A. Barman, B. Satpati, S. R. Bhattacharyya, D. Kanjilal,
+A. Kanjilal
+, Appl. Phys. Lett. 108, 011907 (2016).
+“
+Self-organized titanium oxide nano-channels for resistive memory application
+” A. Barman, C. P. Saini, P. Sarkar, B. Satpati, S. R. Bhattacharyya, D. Kabiraj, D. Kanjilal, S. Dhar,
+A. Kanjilal
+, J. Appl. Phys. 118, 224903 (2015).
+“
+Thickness-dependent blue shift in the excitonic peak of conformally grown ZnO:Al on ion-beam fabricated self-organized Si ripples
+” T. Basu, M. Kumar, S. Nandy, B. Satpati, C. Saini,
+A. Kanjilal
+, T. Som, J. Appl. Phys. 118, 104903 (2015).
+“
+60 keV Ar+-ion induced modification of microstructural, compositional, and vibrational properties of InSb
+”
+D. P. Datta, S. K. Garg, B. Satpati, P. K. Sahoo,
+A. Kanjilal
+, S. Dhara, D. Kanjilal, T. Som,
+J. Appl. Phys. 116, 143502 (2014).
+“
+Improved broadband antireflection in Schottky-like junction of conformal Al-doped ZnO layer on chemically textured Si surfaces
+” C. P. Saini, A. Barman, M. Kumar, P. K. Sahoo, T. Som,
+A. Kanjilal
+, Appl. Phys. Lett. 105, 123901 (2014).
+“
+Tailoring room temperature photoluminescence of antireflective silicon nanofacets
+”
+T. Basu, M. Kumar,
+A. Kanjilal
+, J. Ghatak, P. K. Sahoo, T. Som,
+J. Appl. Phys. 116, 114309 (2014).
+“
+Argon-ion-induced formation of nanoporous GaSb layer: Microstructure, infrared luminescence and vibrational properties
+” D. P. Datta,
+A. Kanjilal
+, B. Satpati, S. Dhara, T. D. Das, P. K. Sahoo, D. Kanjilal, T. Som, J. Appl. Phys. 116 , 033514 (2014).
+“
+Tunable antireflection from conformal Al-doped ZnO films on
+nanofaceted Si templates
+” T. Basu, M. Kumar, P. K. Sahoo,
+A. Kanjilal
+, T. Som, Nanoscale Res. Lett. 9, 192 (2014).
+“
+Temporal evolution of nanoporous layer in off-normally ion irradiated GaSb
+” D. P. Datta,
+A. Kanjilal
+, S. K. Garg, P. K. Sahoo, D. Kanjilal, T. Som, J. Appl. Phys. 115, 123515 (2014).
+
+Books and Book Chapters (Authored / Edited / Reviewed)
+--------------------------------------------------------------------------------
+“Germanium quantum dots in SiO2: fabrication and characterization”
+A. N
+ylandsted Larsen,
+A. Kanjilal
+, J. Lundsgaard Hansen, P. Gaiduk, N. Cherkashin, A. Claverie, P. Normard, E. Kapalanakis, D. Tsoukalas, K.-H.
+Heinig, Physics, chemistry and application of nanostructures, 2003, Eds. V. E. Borisenko, S. V. Gaponenko, and V. S. Gurin (
+World Scientific Singapore, 2003,
+) p. 439;
+ISBN: 981-238-381-6.
+“
+Structural investigation of solid-state reaction processed ZnO/SiC composites
+” Bisweswar Santra, Saptarshi Pal,
+Aloke Kanjilal
+(
+Walnut Publisher, 2023
+)
+, ISBN 978-195730264-5
+.
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+National Advisory Committee Member of 1st National Conference on Mapping the “Materials Genome” at Shiv Nadar University, 8-10 March, 2013.
+“
+Blue-violet electroluminescence of Er-doped SiO2 with Ge nanocrystals
+” on 19th Feb. 2015 at
+Current Trend in Condensed Matter Physics
+organized by National Institute of Science Education and Research, Bhubaneswar, India (Contributory invited talk).
+“
+Extreme ultraviolet reflectivity of Ru mirrors: Effect of secondary electrons
+” on 23rd June 2015 at Saha Institute of Nuclear Physics (SINP), Kolkata
+(Invited talk).
+“
+Ion beam engineered self-organized nano-channels in TiO2 layers for resistive switching application
+” at
+Low Energy Ion Beam Facility Workshop at Inter University Accelerator Centre (IUAC) on 3rd November 2015
+(Invited talk).
+“
+Ion beam produced TiOx nanochannels for developing resistive switching memory devices
+” at
+International Conference on Nanostructuring by Ion Beams (ICNIB-2015) in Agra on 24 November 2015
+(Invited talk).
+“
+Ion beam technique for developing nanoscale resistive switching devices
+” at 2nd National Workshop on Ion Beam Induced Growth and Engineering of Materials (IBIGEM-2016) at Kurukshetra University on 5th March 2016
+(Invited talk).
+“
+Development of Resistive Switching Devices by Ion Beams-1 & 2
+” at International Workshop on Ion Beams in Materials Science on 25 and 27th September, 2016 at Inter University Accelerator Centre (IUAC), New Delhi
+(Invited talk).
+“
+Study of the self-organized nano-channels for Resistive Switching Devices
+” in an international conference, called Ion Beam in Materials Engineering and Characterization (IBMEC)-2016 at Inter University Accelerator Centre (IUAC), New Delhi on 30th September 2016
+(Invited talk).
+“
+Self-organized TiOx nano-channels for memory application
+” in an international conference, called International Conference on Functional Oxides and Nanomaterials (ICFON-2016) at Saurashtra University, Rajkot on 11th November 2016
+(Invited talk).
+“
+Application of metal oxide nanostructures for ion beam dosimetry
+” in a thematic workshop on Techniques & Instrumentation in Materials Research (TIMR) organized jointly by UGC-DAE Consortium for Scientific Research (CSR), Indore and Devi Ahilya Vishwavidyalaya (DAVV), Indore at UGC-DAE CSR, Aug. 21-22, 2017
+(Invited talk).
+“
+Ion beam engineering of TiO2-based resistive switching devices
+” in an
+International Conference on Nanostructures by Ion Beam (ICNIB 2017) at Devi Ahilya Vishwavidyaalya (DAVV) (University)
+, Indore from Oct. 11-13, 2017
+(Invited talk).
+Invited for a panel discussion on the “Future of Ion Beam Research” at the international Conference on Nanostructures by Ion Beam (ICNIB 2017) at Devi Ahilya Vishwavidyaalya, Indore from Oct. 11-13, 2017
+(Invited talk)
+.
+“
+Challenges in silicon solar cells and their modifications by ion beams
+” in the International School on Ion Beams in Energy Materials (IBEM) at IUAC, New Delhi on 13th July, 2018
+(Invited talk)
+.
+“
+Implanted ion species driven controlling performance of TiO2-based resistive random access memory devices
+” in 5th International conference on Ion Beams in Materials Engineering and Characterizations, at IUAC, New Delhi, Oct. 9-12, 2018
+(Invited talk)
+.
+“
+Ion beam engineered TiO2 films for resistive random access memory devices
+” in the Two Day National Conference on Recent Advances in Condensed Matter Physics, held at Kurukshetra University on Oct. 12-13, 2018
+(Invited talk)
+.
+“
+Ion beam engineering of nano-scale resistive random access memory devices
+” at
+the International conference on Emerging Advanced Nanomaterials 2018 (ICEAN-2018) held at Newcastle, Australia from 30 Oct. to 2 Nov. 2018 (Invited talk).
+“
+Thermoluminescent nanostructured alumina for ion beam dosimetry
+” in the International Conference on Physics, Society and Technology 2019 (ICPST-2019) held at Delhi University on 17-19 Jan. 2019
+(Invited talk)
+.
+“
+Self-assembled Nanoscale Resistive Switching Devices
+” in the International Symposium on Advances in Functional & Biological Materials (ISAFBM-2019) organized by Humboldt Academy Lucknow and Physics Department, University of Lucknow and held at Hilton Garden Inn., Gomti Nagar, Vibhuti Khand, Lucknow on 28th Feb. 2019
+(
+Invited talk,
+also Session Chair).
+“
+Investigation of chemical and electronic properties of low dimensional TiO2 films
+” in Indus Synchrotron User’s Meeting (ISUM)
+at Devi Ahilya Vishwavidyaalya (DAVV University)
+, during March 27-30, 2019
+(Invited talk)
+.
+“
+Advancement in memory devices in defence perspective
+”
+at Joint Cypher Bureau (JCB) laboratory of DRDO
+, located beside Metcalfe House, M G Marg, Civil Lines, Delhi on 28/08/2019
+(Guest Lecture).
+“
+Exploration of metal oxide microstructures in futuristic devices
+” in the 12th Asia-Pacific Microscopy Conference (APMC12), held at the Hyderabad international convention centre from 3-7 Feb. 2020
+(Contributory Invited).
+“
+Establishing the potential of anodized and thin film alumina for radiation dosimetry
+” in the International Web Conference on Recent Advances in Nanoscience & Nanotechnology for High-end Applications (IWCRANHA-2020), organized by Department of Applied Science and Humanities, Assam University Silchar from July 25-26, 2020
+(Invited talk).
+“
+An overview of work at ADXRD beamline
+” in the Special Web Conference on the 60th Birthday celebration of Dr. A.K. Sinha, organized by RRCAT Indore on January 23rd, 2021
+(Invited talk).
+3rd International Conference on Current Trends in Materials Science and Engineering (CTMSE 2021) organized by Department of Basic Science and Humanities, Institute of Engineering & Management, Kolkata from 11-13 March 2021 (Session Chair).
+“
+Fundamentals and frontier applications of low dimensional semiconductors
+” in the Short-Term Course through Virtual Mode on the “Journey from Semiconductor Physics to Smart Devices to Intelligent Automation” organized by NIT Srinagar in collaboration with Semiconductor Society of India on 3rd May, 2021
+(Invited Lecture).
+“
+Ion beam dosimetry of self-patterned alumina films
+” in the E – Workshop for skill development on energetic beam technology: From materials engineering to diagnostics, organized by Amity Institute of Nanotechnology on 23rd June 2021
+(Invited Lecture).
+“
+Engineering Materials at Nanoscale for Frontier Applications
+” in the international conference on mechanical engineering and managerial applications for productivity enhancement and marketability (MMPM 2021) organized by the Department of Mechanical Engineering & Department of Management Studies, MANIT Bhopal on 16th Sept 2021
+(Keynote Lecture & Valedictory speech).
+“
+Challenges and opportunities of nanomaterials in futuristic devices
+” in the 12th International Conference on Material Processing and Characterization (ICMPC-2021) at NITTTR Chandigarh (India) in Online mode on 9th Oct. 2021 (Keynote speaker).
+“
+Challenges and opportunities of nanostructured alumina for ion beam dosimetry
+” in a lecture organized by SPIE IIT Bombay Student Chapter on 20th Oct. 2021
+(Invited talk).
+“
+Advantage of synchrotron radiation for investigating metal oxides nanostructures
+” in One Day Discussion Meeting on Materials Science with Synchrotron Radiation Source on the occasion of felicitating Dr. D. M. Phase, who is superannuating in October 2021 for his immense contributions to the synchrotron program on 22nd Oct. 2021 (Invited talk).
+“
+Probing artificial synapse in TiO2-based memristors by doping Ni cations
+” in the XXIst International Workshop on the Physics of Semiconductor Devices (IWPSD 2021) jointly organized by the Indian Institute of Technology, Delhi and Solid State Physics Laboratory, Delhi from 14 - 17 December, 2021 (Invited talk and Evaluator for one of the poster sessions on Compound Semiconductors).
+“
+Temperature driven dual band formation in TiO2 nanotubes with improved photocatalytic behaviour
+” in 13th International Conference on Material Processing and Characterization (13th ICMPC 2022) at Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad, India on 23rd April 2022 (Keynote Speech).
+I was also a National Committee Member in this international conference.
+3rd Session of the International Webinar on Emergent Materials for Energy Storage and Sensing (EMESS-2022), organized by IMMT Bhubaneswar and SNU, Delhi-NCR on 12th May 2022
+(
+Chaired
+)
+.
+1st session of the 4th International Conference on Current Trends in Materials Science and Engineering (CTMSE 2022), organized by the Department of Basic Science and Humanities Institute of Engineering & Management, Kolkata on 30th July 2022
+(Chaired)
+.
+“
+Strategic control of TiO2 nanotubes for photocatalytic application
+” at the Materials Science and Engineering department of the University of New South Wales in Sydney, Australia under the theme of
+Energy & Environment
+on 14th October, 2022
+(Invited talk)
+.
+“
+Revealing carbon doping induced active trap centers in porous alumina for ion beam dosimetry
+” at the 4th
+International conference on Emerging Advanced Nanomaterials 2022 (ICEAN-2022) held at Newcastle, Australia from 17th to 22nd Oct. 2022 (Invited talk).
+“
+Assessing carbon-doped porous alumina for radiation dosimetry
+” at the 7th International Conference on Ion Beams in Materials Engineering and Characterization (IBMEC 2022) organized by Inter University Accelerator Centre (IUAC), New Delhi on 18th Nov. 2022 (Invited talk).
+“
+Carbon doping enhanced radiation dosimetry in nanoporous alumina
+” at the IEMNTech-2022 conference organized by IEM Kolkata on 2nd Dec. 2022 (Keynote speech).
+“
+Opportunities and challenges of ZnO-SiC nanocomposites for frontier applications
+” at the Department of Physics, Rajabazar Science College, The University of Calcutta on 6th Jan. 2023 (Guest Lecture).
+“
+Opportunities and challenges of carbon doping in alumina for radiation dosimetry
+” at the Workshop of TCAD based Modelling & Simulation of Advanced Semiconductor Devices at SNIoE on 24th Jan. 2023 (Invited talk).
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances
+--------------------------------------------------------------------------------
+Funding agency: Equipment grant from Alexander von Humboldt Foundation (V-8151/15008 /3.4–INI/Kanjilal/2015)
+Project title:Study the dewetting property of chemically etched Si nanopillars
+Investigator:Aloke Kanjilal (PI)
+Duration: 2 years (completed)
+Funding agency: DST-SERB Extra Mural Research Funding (EMR/2014/000971)
+Project title:The impact of oxygen-induced defects in TiO2-based resistive switching devices
+Investigator(s): Aloke Kanjilal (PI), Debdulal Kabiraj (Co-PI), Bhaskar Kaviraj (Co-PI)
+Duration: 3 years (completed)
+Funding agency:DAE-BRNS (34/14/24/2016-BRNS/34365)
+Project title:Investigation of optical properties of Al2O3/ZrO2 nanocrystalline multilayers for ion beam dosimetry
+Investigator:Aloke Kanjilal (PI), A. K. Bakshi (PC), D. Kabiraj (Co-PI), Sajal K. Ghosh (Co-PI)
+Duration: 3 years (completed)
+Funding agency:UGC-DAE CSR (CSR-IC-BL-50/CSR-167/2016-17/831)
+Project title:Tailoring Ge-doping in GaSb films for phase change memory applications
+Investigator: Aloke Kanjilal (PI), A.K. Sinha (PC)
+Duration: 4 years (completed)
+Funding agency: DST-SERB Extra Mural Research Funding (EMR/2016/000728)
+Project title: Role of Ion Irradiation induced Defects on the Morphological and Transport properties of Graphene
+Investigator: Shikha Varma (PI), Aloke Kanjilal (Co-PI)
+Duration: 3 years (completed)
+Funding agency: DST SERI (SER-2016: S-127)
+Project title: Efficient Large-Area Semi-Transparent Organic Photovoltaic (STOPV) Devices For Power Generating Window Applications
+Investigator: Samarendra P. Singh (PI), Aloke Kanjilal (Co-PI)
+Duration: 3 years (completed)
+Funding agency: CRG-SERB (CRG/2021/001360)
+Project title: Development of radiation hard ZnO/SiC composite materials with tunable optical property
+Investigator: Aloke Kanjilal (PI)
+Duration: 3 years (ongoing)
+Funding agency: DST FIST (SR/FST/PS-I/2017/6(C))
+Project title: To augment the research facilities in the department
+Investigator: HOD (PI) other faculties in Physics Department including myself (Co-PIs)
+Duration: 5 years (ongoing)
+Funding agency: UGC-DAE CSR (CRS/2022-23/1245)
+Project title: Exploring the role of cation impurities in alumina for radiation
+dosimetry
+Investigator: Aloke Kanjilal (PI), Mukul Gupta (PC)
+Duration: 3 years (ongoing)
+
+Patents / Copyright (filed / granted)
+--------------------------------------------------------------------------------
+“Verfahren zur Herstellung von SiC basierenden Dünnfilm Solarzellen mit erhöhter Effizienz” by M. Voelskow, A. Kanjilal and W. Skorupa, Deutsches Patent und Markenamt, Bundesrepublik Deutschland, DE 10 2009 055 215 A1 2011.09.29.
+“Verfahren zur Herstellung von Halbleiterstrukturen auf Silizium-Germanium-Basis mit erhöhter Effizienz” by M. Voelskow, A. Kanjilal and W. Skorupa, Deutsches Patent und Markenamt, Bundesrepublik Deutschland, DE 10 2008 035 846 A1 2010.02.04.

@@ -1,0 +1,73 @@
+================================================================================
+Aakash  Sinha
+================================================================================
+
+Faculty at School of Engineering
+
+Education
+--------------------------------------------------------------------------------
+Masters in Robotics(2004),Carnegie Mellon University, GPA 3.7
+Certification, Tech Commercialization& Entrepreneurship(2013), Stanford Business School
+Bachelor ofElect. Engg.(2001) from Delhi College of Engg (DCE), Delhi, India.
+Know more:
+Click here
+
+Areas of Specialization
+--------------------------------------------------------------------------------
+Robotics, Innovation, Unmanned Vehicles, Artificial Intelligence, Computer
+Vision
+
+Work Experience
+--------------------------------------------------------------------------------
+Founder/CEO,
+Omnipresent Robot Tech
+(May 2010 -
+Current)
+Chief Intelligent Robots
+Engineer,
+iRobot Corporation
+(Jan 2006 - May
+2010)
+​​​​​​​
+Lead
+Software
+Engineer,
+Perceptek-Lockheed-Martin
+(Dec 2003 - Dec
+2005)
+​​​​​​​
+Graduate Research
+Scholar,
+National Robotics Engg Consortium, CMU
+(Sept 2002 - Dec
+2003)
+
+Awards and Honours
+--------------------------------------------------------------------------------
+DSTLockheed MartinStanford Innovation (IIGP) Gold Medal Winner 2013
+MIT TR 2013 ( top innovators under the aile of 35)
+US Defense, DARPA Robotics Grand Challenge 2005 finalist Medal
+Invited Robotics Institute Seminar Speaker. Carnee;je Mellon University
+Invited Speaker, Tedx talk "Robots for India"
+Invited Speaker, Global India Business Meeting, Liverpool, 2014
+CNN Tndja Posjtjve Award 2013
+Enterprise Asia Young Entrepreneur of the Year 2012
+iRobot, outstanding employee Rock Award 2007
+Bhart Gaurv Innovator Award, given by Union Minister
+Outstanding Contribution in and Tech. award, All Journalist Association, India, 2010
+1st Prize at IEEE National level in hardware contest Troika2001
+Over 15 International Robotics related publications
+
+Select Publications
+--------------------------------------------------------------------------------
+Research and development of Ro-boat: an autonomous river cleaning robot. Aakash Sinha ; Prashant Bhardwaj ; Bipul Vaibhav; Noor Mohommad. Proc. SPIE 9025, Intelligent Robots and Computer Vision XXXI: Algorithms and Techniques, 90250Q (February 3, 2014); doi:10.1117 /12.2037898
+Rgator: A Low-cost Multi-utility Autonomous Vehicle with Adaptive Sweep LIDAR System. In Proceedings of the Association for Unmanned Vehicles Systems Asia Pacific. Melbourne, Australia, October 2007.
+SimUGV: a general purpose simulator for analyzing energy dynamics and locomotion for unmanned ground vehicle (UGV), A. K. Sinha, PercepTek, Inc.; J. Vashishtha, Colorado School of Mines - Proceedings of SPIE Volume 6228-22 "Defense and Security Symposium ", Orlando, 2006.
+Intelligent Vehicles Safety Technologies 1 -DARPA Grand Challenge 2005, Technical Papers of selected finalists Grand Challenge'05.
+Energy Driven Design Choices for Unmanned Ground Vehicles -- Proceedings of SPIE Volume 6006, "Intelligent Robots and Computer Vision
+XXIII:
+Algorithms, Techniques and Active Vision", Boston, Oct 2005
+Effective Design Choices for Skid Steering Unmanned Ground Vehicles -- Proceedings of SPIE Volume 5609, "Mobile Robots XVII", Philadelphia ,Oct 2004
+Analytical Model for maximizing Performance of a Six Wheeled Skid Steering Robotic Vehicle,Master's Thesis Report, CMU Robotics Institute, Pittsburgh, Sept 2003
+UGCV Design Analysis Simulator Tool, CMU, National Robotics Engg. Consortium, Tech Report, Aug 2003
+An extended smart utilization medium access control (ESU-MAC) protocol for ad-hoc wireless systems - art. no. 62480S Jun 2006 · Proceedings of SPIE - The International Society for Optical Engineering

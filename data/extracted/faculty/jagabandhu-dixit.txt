@@ -1,0 +1,83 @@
+================================================================================
+Jagabandhu Dixit
+================================================================================
+
+Faculty at School of Engineering
+
+Research Interest
+--------------------------------------------------------------------------------
+Disaster Risk Reduction, Earthquake Engineering, and Geotechnical Engineering
+
+Education
+--------------------------------------------------------------------------------
+2013
+,
+Doctor of Philosophy, Indian Institute of Technology Bombay, Mumbai
+2009
+,
+Master of Technology, Indian Institute of Technology Guwahati, Guwahati
+2007
+,
+Bachelor of Technology, Indira Gandhi Institute of Technology, Sarang, Odisha
+
+Work Experience
+--------------------------------------------------------------------------------
+01/22 – Present, Associate Professor, Department of Civil Engineering, School of Engineering, Shiv Nadar University, Delhi-NCR
+11/12 – 12/21, Assistant Professor, Department of Civil Engineering, School of Engineering, Shiv Nadar University, Delhi-NCR
+
+Journal Publications
+--------------------------------------------------------------------------------
+Navdeep Agrawal and Jagabandhu Dixit (2023) GIS-based landslide susceptibility mapping of the Meghalaya-Shillong Plateau region using machine learning algorithms, Bulletin of Engineering Geology and the Environment, Springer, 82, 170. https://doi.org/10.1007/s10064-023-03188-2
+Navdeep Agrawal, Laxmi Gupta, Jagabandhu Dixit and Sujit Kumar Dash (2023) Seismic risk assessment for the North Eastern Region of India by integrating seismic hazard and social vulnerability, Sustainable and Resilient Infrastructure, Taylor & Francis, 8:S1, 102-132. https://doi.org/10.1080/23789689.2022.2133764
+Navdeep Agrawal and Jagabandhu Dixit (2022) Topographic classification of North Eastern Region of India using geospatial technique and following seismic code provisions, Environmental Earth Sciences, Springer, 81, 436. https://doi.org/10.1007/s12665-022-10556-w
+G. S. Pavan, Hemanth Muppidi and Jagabandhu Dixit (2022) Static, free vibrational and buckling analysis of laminated composite beams using isogeometric collocation method, European Journal of Mechanics - A/Solids, Elsevier, 96, 104758. ttps://doi.org/10.1016/j.euromechsol.2022.104758
+Navdeep Agrawal and Jagabandhu Dixit (2022) Assessment of landslide susceptibility for Meghalaya (India) using bivariate (frequency ratio and Shannon entropy) and multi-criteria decision analysis (AHP and fuzzy-AHP) models, All Earth, Taylor & Francis, 34:1, 179-201. https://doi.org/10.1080/27669645.2022.2101256
+Laxmi Gupta, Navdeep Agrawal, Jagabandhu Dixit and Subashisa Dutta (2022) A GIS-based assessment of active tectonics from morphometric parameters and geomorphic indices of Assam region, India, Journal of Asian Earth Sciences: X, Elsevier, 8:1, 100115. https://doi.org/10.1016/j.jaesx.2022.100115
+Laxmi Gupta and Jagabandhu Dixit (2022) A GIS-based flood risk mapping of Assam, India, using the MCDA-AHP approach at the regional and administrative level, Geocarto International, Taylor & Francis, 37:26, 11867-11899. https://doi.org/10.1080/10106049.2022.2060329
+Navdeep Agrawal, Laxmi Gupta and Jagabandhu Dixit (2022) Geospatial assessment of active tectonics using SRTM DEM-based morphometric approach for Meghalaya, India, All Earth, Taylor & Francis, 34:1, 39-54. https://doi.org/10.1080/27669645.2022.2081112
+Laxmi Gupta and Jagabandhu Dixit (2022) Estimation of rainfall-induced surface runoff for the Assam region, India using GIS-based NRCS-CN method, Journal of Maps, Taylor & Francis, 18:2, 428-440. http://doi.org/10.1080/17445647.2022.2076624
+Laxmi Gupta, Navdeep Agrawal and Jagabandhu Dixit (2021) Spatial distribution of bedrock level peak ground acceleration in the National Capital Region of India using geographic information system, Geomatics, Natural Hazards and Risk, Taylor & Francis, 12:1, 3287-3316. https://doi.org/10.1080/19475705.2021.2008022
+Navdeep Agrawal, Laxmi Gupta and Jagabandhu Dixit (2021) Assessment of the socioeconomic vulnerability to seismic hazards in the National Capital Region of India using factor analysis, Sustainability, MDPI, 13:17, 9652. https://doi.org/10.3390/su13179652
+Jagabandhu Dixit, D. M. Dewaikar and R. S. Jangid (2012) Assessment of liquefaction potential index for Mumbai city, Natural Hazards and Earth System Sciences, EGU, 12:9, 2759-2768. https://doi.org/10.5194/nhess-12-2759-2012
+Jagabandhu Dixit, D. M. Dewaikar and R. S. Jangid (2012) Soil liquefaction studies at Mumbai city, Natural Hazards, Springer, 63:2, 375-390. https://doi.org/10.1007/s11069-012-0154-0
+Jagabandhu Dixit, D. M. Dewaikar and R. S. Jangid (2012) Free field surface motion at different site types due to near-fault ground motions, ISRN Geophysics, Article ID 821051. https://doi.org/10.5402/2012/821051
+D. M. Dewaikar, S. R. Pandey and Jagabandhu Dixit (2012) Active thrust on an inclined retaining wall with inclined cohesionless backfill due to surcharge effect, ISRN Soil Science, Article ID 750386. http://doi.org/10.5402/2012/750386
+D. M. Dewaikar, S. R. Pandey and Jagabandhu Dixit (2012) Active earth pressure on an inclined wall with horizontal cohesionless backfill due to surcharge effect, Electronic Journal of Geotechnical Engineering, 17:F, 811-824.
+Jagabandhu Dixit, D. M. Dewaikar and R. S. Jangid (2011) Spatial distribution of surface-level free-field motion at Mumbai city, Electronic Journal of Geotechnical Engineering, 16:F, 661-677.
+S. T. G. Raghukanth, Jagabandhu Dixit and Sujit Kumar Dash (2011) Ground motion for scenario earthquakes at Guwahati city, Acta Geodaetica et Geophysica, Springer, 46:3, 326-346. https://link.springer.com/article/10.1556/AGeod.46.2011.3.5
+
+Books and Book Chapters (Authored / Edited / Reviewed)
+--------------------------------------------------------------------------------
+Laxmi Gupta and Jagabandhu Dixit (2023) Land suitability estimation for urban development in flood-prone regions using a GIS-based MCDA approach, Geo-information for Disaster Monitoring and Management, Springer (In Press)
+Vipin Chauhan and Jagabandhu Dixit (2023) Spatial-temporal characterization of rainfall in Uttarakhand: Mann– Kendal test and graphical innovative trend assessment, Geo-information for Disaster Monitoring and Management, Springer (In Press)
+Navdeep Agrawal and Jagabandhu Dixit (2023) Assessing seismic hazard potential considering topographic amplification: combined analysis of topographic slopes, land use, and landslides, Geo-information for Disaster Monitoring and Management, Springer (In Press)
+Vipin Chauhan and Jagabandhu Dixit (2023) Seismotectonic study of the Indo-Gangetic Plain using distribution and direction analysis, Geo-information for Disaster Monitoring and Management, Springer (In Press)
+R. Gaur, S. N. Behera, V. Kumar and Jagabandhu Dixit (2021) Biochar production and its characterization to assess viable energy options and environmental co-benefits from wood-based wastes, Urban Mining for Waste Management and Resource Recovery Sustainable Approaches, CRC Press, https://doi.org/10.1201/9781003201076
+A. Joshi, D. J. Patil, Jagabandhu Dixit and S. N. Behera (2021) Remediation of cadmium-contaminated soil using biochar derived from wheat straw, rice husk and bagasse, Lecture Notes in Civil Engineering, 134, Springer, https://doi.org/10.1007/978-981-33-6370-0_11
+Jagabandhu Dixit, S. T. G. Raghukanth and Sujit K. Dash (2016) Spatial distribution of seismic site coefficients for Guwahati city, Geostatistical and Geospatial Approaches for the Characterization of Natural Resources in the Environment: Challenges, Processes and Strategies, Springer, https://doi.org/10.1007/978-3-319-18663-4_80
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances
+--------------------------------------------------------------------------------
+Project Title: Multi-hazard assessment of HCL buildings at Sector-3, Noida
+Funding Agency: SSN Investment (Pondi) Pvt. Ltd.
+Project Role: Principal Investigator
+Amount Sanctioned: ₹ 15 lakh
+Duration: 2018 – 2020
+Status: Project completed and report submitted
+.
+Project Title: Multi-hazard assessment of HCL buildings at Sector-24, Noida
+Funding Agency: VAMA Sundari Investment (Pondi) Pvt. Ltd.
+Project Role: Principal Investigator
+Amount Sanctioned: ₹ 10 lakh
+Duration: 2018 – 2020
+Status: Project completed and report submitted
+Project Title: Structural design review and hazard assessment of data centre design at HCL IT City Lucknow
+Funding Agency: HCL IT City Lucknow Pvt. Ltd.
+Project Role: Principal Investigator
+Amount Sanctioned: ₹ 10 lakh
+Duration: 2018 – 2020
+Status: Project completed and report submitted
+Project Title: Quality audit of civil design & MEP of HCL IT buildings, Lucknow
+Funding Agency: SSN Investment (Pondi) Pvt. Ltd.
+Project Role: Principal Investigator
+Amount Sanctioned: ₹ 40 lakh

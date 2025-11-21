@@ -1,0 +1,107 @@
+================================================================================
+Kamalesh Kumari
+================================================================================
+
+Faculty at School of Natural Sciences
+
+Education Details
+--------------------------------------------------------------------------------
+2012-2017-  Ph.D. in Biology.
+National Centre for Biological Sciences (NCBS-TIFR), Bangalore, India
+(Advisor: Prof. Raghu Padinjat & Prof. Shobhona Sharma )
+. Research Areas: Developmental cell biology, Lipid signaling, Membrane trafficking.
+2008-2012- Research fellow in Biology. Tata Institute of Fundamental Research (TIFR), Mumbai. (Supervisor: Dr. V. Sriram.) Research Areas: Developmental cell biology, Mitochondrial remodeling during cell death.
+2006-2008- M.Sc. in Genetics. University of Delhi, South campus, New Delhi, India.
+2003-2006- B.Sc. (Hons) in Biomedical Sciences. Acharya Narendra Dev College, University of Delhi, Delhi, India
+
+Work Experience
+--------------------------------------------------------------------------------
+2017-2024- Postdoctoral Fellow. Weizmann Institute of Science (WIS), Rehovot, Israel. (
+Advisors:
+Prof. Ben-Zion Shilo &
+Prof. Ori Avinoam). Research Areas:  Cell and developmental Biology, Biophysics, Cellular structural biology.
+
+Research Interests
+--------------------------------------------------------------------------------
+Membrane remodelling during cellular exocrine secretion: Investigating how cells preserve surface integrity under continuous vesicle fusion and recycling events.
+Membrane biophysics and cell biology of membrane reservoirs:  Understanding physicochemical properties of membranes in maintaining cellular membrane reservoirs.
+Lipid signalling regulating membrane curvature, trafficking, and cellular homeostasis.
+Live Imaging of organelle dynamics to quantify organelle function and behaviour.
+Correlative (Light and Electron) Microscopy, high-throughput cellular electron microscopy data acquisition and cellular electron tomography for detailed structural-functional studies.
+
+Academic Achievements/Awards
+--------------------------------------------------------------------------------
+2024- Ramalingaswamy Re-entry Fellowship, Department of Biotechnology (DBT), India
+2021- Israeli Society for Developmental Biology (IsSDB) award for ‘cool paper’ of 2021, for my publication-
+Kamalesh, K. et al. Dev. Cell, 2021
+, describing a new pathway of exocytosis.
+2018- American Society for Cell Biology (ASCB) travel award.
+2018- Dean’s fellowship award for postdoctoral researchers, Weizmann Institute of Science, Rehovot Israel.
+2015- Department of Biotechnology, Government of India (DBT-CTEP) travel award, for attending international conferences.
+2015- NCBS annual meeting themed ‘Biology across scales’ best poster award and travel grant, for attending international conferences.
+2015- American Society for Cell Biology (ASCB) travel award.
+2008- CSIR-UCG National Eligibility Test (NET) qualification and fellowship to pursue research and lectureship in India.
+2008- South Campus endorsement scholarship for toppers in master’s in science programs, University of Delhi, New Delhi, India.
+2007- Indian Academy of Sciences (IAS), Indian Nation Sciences Academy (INSA) and National Academy of sciences (NASI)- summer research fellowship for young enthusiasts in research.
+2006- Monsanto’s postgraduate award and scholarship for securing the top position in all India entrance exam for Master in Genetics program, University of Delhi, New Delhi, India.
+
+Memberships
+--------------------------------------------------------------------------------
+American Society for Cell Biology
+
+Select Publications
+--------------------------------------------------------------------------------
+Kamalesh, K., Segal, D., Avinoam, O., Schejter, E.D., and Shilo, B.-Z. Structured RhoGEF recruitment drives myosin II organization on large exocytotic vesicles. J Cell Sci. 2024 Jul 1;137(13):jcs261944.
+Exocytosis by vesicle crumpling maintains apical membrane homeostasis during exocrine secretion.
+K. Kamalesh
+, N. Scher, T. Biton, E. D. Schejter, B. Z. Shilo, O. Avinoam,
+Dev. Cell
+. 56, 1603-1616 (2021). DOI:
+10.1016/j.devcel.2021.05.004
+Highlighted article: A mechanochemical mechanism couples exocrine secretion to endocytic membrane retrieval.
+V. Haucke,
+Dev. Cell
+. 56, 1557-1559 (2021
+).
+Highlighted by F1000 Biology.
+Selected for cover of the of
+Dev Cell
+journal.
+Phosphatidylinositol 5-phosphate 4-kinase regulates early endosomal dynamics during clathrin-mediated endocytosis.
+K. Kamalesh
+, D. Trivedi, S. Toscano, S. Sharma, S. Kolay, P. Raghu,
+J. Cell Sci.
+130 (2017). DOI:
+10.1242/jcs.202259
+A dPIP5K Dependent Pool of Phosphatidylinositol 4,5-bisphosphate (PIP2) is Required for G-Protein Coupled Signal Transduction in
+Drosophila
+Photoreceptors. P. Chakrabarti, S. Kolay, S. Yadav,
+K. Kumari,
+A. Nair, D. Trivedi, P. Raghu,
+PLoS Genet.
+11, 1004948 (2015). DOI:
+10.1371/journal.pgen.1004948
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+2023- The Indian Drosophila Research Conference (InDRC), Trivandrum, India (selected talk and oral presentation award)
+2023- Young Investigator’s meeting (YIM), Ahmedabad, India (selected talk and poster).
+2022- Research Group Leadership course for postdoctoral fellows by hfp consulting, WIS, Israel
+2021- American Society for Cell Biology (ASCB), virtual meeting, USA (poster).
+2021- Annual meeting of the Israeli Society for Developmental Biology, (invited talk for ‘Cool paper award), virtual meeting, WIS, Israel.
+2021- National Post-Doctoral Symposia, virtual meeting, India (selected talk)
+2021- Molecular Membrane Biology online conference in place of the GRC, virtual meeting (selected talk and poster).
+2020- American Society for Cell Biology (ASCB), virtual meeting, USA (poster).
+2020- EMBO | EMBL Symposium: Organoids: Modelling Organ Development and Disease in 3D Culture, virtual meeting.
+2020- Morphogenesis 2020- mechanobiology online conference, NUS, Singapore, (poster).
+2019- EMBO | Seeing is believing symposia, EMBL, Heidelberg, Germany, (poster)
+2018- American Society for Cell Biology (ASCB) meeting, San Diego, USA (invited subgroup talk and poster).
+2018- Annual meeting of the Israeli Society for Developmental Biology, Tel Aviv, Israel.
+2017- JAX India seminars on Mouse genetics, Bangalore, India.
+2016- Electron Tomography Workshop, NCBS, Bangalore, India
+2015- American Society for Cell Biology (ASCB) meeting, San Diego, USA (poster).
+2015- NCBS meeting ‘Biology across scales’, Bangalore, India. (Best poster award and travel grant award)
+2015- Annual Meeting of NCBS Max Planck Lipid Centre, Bangalore, India, (poster).
+2014- MBI Meeting on Electron microscopy, Frontiers in Bio-Imaging, Bangalore, India (poster)
+2013- All India cell biology Conference, Bangalore, India, (poster).
+2012- Inositide signaling in health and diseases meeting, Coorg, India, (poster)

@@ -1,0 +1,132 @@
+================================================================================
+Archit Somani
+================================================================================
+
+Faculty at School of Engineering
+
+Education Details
+--------------------------------------------------------------------------------
+B.Tech 2010 Information Technology ITM Bhilwara, India 72.67% (Honors)
+M.Tech 2014 Computer Science MANIT Bhopal, India 8.57/10 (CGPA)
+Ph.D. 2019 Computer Science IIT Hyderabad, India 8.87/10 (CGPA)
+
+Work Experience
+--------------------------------------------------------------------------------
+Senior Software Engineer (Product Research Architect) HARMAN International May 2023-Oct 2023
+Research Scientist Huawei Technologies India Pvt. Ltd. Jan 2021-April 2023
+Postdoctoral Fellow Technion - Israel Institute of Technology Oct 2019-Jan 2021
+Assistant Professor AITS, Rajkot, Gujarat July 2014-Nov 2014
+
+Research Interests
+--------------------------------------------------------------------------------
+Parallel and Concurrent Data Structures, High Performance Computing, Software Transactional Memory Systems, Distributed System, Blockchains, Storage System, File System, Multi-threading, and Persistent Memory.
+
+Academic Achievements/Awards
+--------------------------------------------------------------------------------
+Silver Medal in Huawei Innovation Contest Huawei Technologies India Pvt. Ltd. 2021
+Placed as Assistant Professor IIIT Kurnool 2020
+Postdoctoral Fellowship (from Oct 2019-Oct 2021) Technion's Faculty of Computer Science 2019/20
+Placed in BEL BEL (Bharat Electronic Limited), Government of India, Ministry of Defence 2019
+Nominated for National level workshop award for Ph.D. candidates of Visvesvaraya Ph.D. Scheme under the Ministry of Electronics and IT CSE department of IIT Hyderabad 2019
+Appreciation in Research IIT Hyderabad, India 2019
+Best Poster Award Doctoral Symposium, 20th International Conference ICDCN 2019-2019
+Best Student Paper Award 20th International Symposium on Stabilization, Safety, and Security of Distributed Systems (SSS 2018) 2018
+Best Poster Award 6th International Conference on Networked System (NETYS) held at Essaouira, Morocco from 9 th to 11 th May 2018
+Microsoft Research Travel Grant for IPDPS 2016, Chicago, Illinois, USA Microsoft, India 2016
+Visvesvaraya Ph.D Fellowship (From 2015-2019) Ministry of Electronics and Information Technology, Government of India 2015
+Qualified GATE with 99.05 %il in CS Graduate Aptitude Test for Engineering 2012
+B. Tech Honors Rajasthan Technical University (RTU), Kota 2010
+
+National and International Recognition
+--------------------------------------------------------------------------------
+Appreciation in Research IIT Hyderabad, India 2019
+Best Poster Award Doctoral Symposium, 20th International Conference ICDCN 2019
+Best Student Paper Award 20th International Symposium on Stabilization, Safety, and Security of Distributed Systems (SSS 2018)
+Best Poster Award 6th International Conference on Networked System (NETYS) held at Essaouira, Morocco from 9 th to 11 th May 2018
+
+Conference Publications
+--------------------------------------------------------------------------------
+“Store-Collect in the Presence of Continuous Churn with Application to Snapshots and Lattice Agreement”
+, Hagit Attiya, Sweta Kumari, Archit Somani, Jennifer L. Welch, in 22d International Symposium on Stabilization, Safety, and Security of Distributed Systems (SSS) 2020, Austin, Texas, USA, https://doi.org/10.1007/978-3-030-64348-5_1.
+“Collect in the Presence of Continuous Churn with Application to Snapshots and Lattice Agreement”
+, Hagit Attiya, Sweta Kumari, Archit Somani, Jennifer L. Welch, as a brief announcement in 39th ACM Symposium on Principles of Distributed Computing (PODC) 2020, Salerno, Italy, pp 51-53, https://doi.org/10.1145/3382734.3405709.
+“Efficient Concurrent Execution of Smart Contracts in Blockchains using Object-based Transactional Memory”
+, Parwat Singh Anjana, Hagit Attiya, Sweta Kumari, Sathya Peri, and Archit Somani, in 8th International Conference On Networked Systems, 2020, Morocco, https://doi.org/10.1007/978-3-030-67087-0_6.
+“Achieving Starvation-Freedom with Greater Concurrency in Multi-Version Object-based Transactional Memory Systems”
+, Chirag Juyal, Sandeep Kulkarni, Sweta Kumari, Sathya Peri, and Archit Somani in 21st International Symposium on Stabilization, Safety, and Security of Distributed Systems (SSS 2019), Pisa, Italy; pp 209–227, doi: 10.1007/978-3-030-34992-9\_17.
+“An Efficient Framework for Optimistic Concurrent Execution of Smart Contracts”,
+Parwat Singh Anjana, Sweta Kumari, Sathya Peri, Sachin Rathor, and Archit Somani in 27th Euromicro International Conference on Parallel, Distributed and Network-based Processing (PDP 2019) at Pavai, Italy; pp 83–92, doi: 10.1109/EMPDP.2019.8671637.
+“An Innovative Approach to Achieve Compositionality Efficiently using Multi-Version Object Based Transactional Systems”
+, Chirag Juyal, Sandeep Kulkarni, Sweta Kumari, Sathya Peri, and Archit Somani in 20th International Symposium on Stabilization, Safety, and Security of Distributed Systems (SSS 2018), Tokyo, Japan; pp 284-300, doi:
+https://doi.org/10.1007/978-3-030-03232-6_19
+.(
+Best Student Paper Award)
+“Efficient means of Achieving Composability using Object based Semantics in Transactional Memory”
+, Sathya Peri, Ajay Singh, and Archit Somani in 6th International Conference On Networked Systems, 2018, Essaouira, Morocco; pp 157-174, doi:
+https://doi.org/10.1007/978-3-030-05529-5_11
+.
+“Parallel genetic algorithm for solving job shop scheduling problem using topological sort”
+, Archit Somani and Dhirendra Pratap Singh in IEEE Conference on ICART, Kanpur, Lucknow, June 2014; 2347-9337, doi:
+10.1109/ICAETR.2014.7012818
+.
+
+Journal Publications
+--------------------------------------------------------------------------------
+“An Efficient Approach to Achieve Compositionality using Optimized Multi-Version Object Based Transactional Systems”,
+Chirag Juyal, Sandeep Kulkarni, Sweta Kumari, Sathya Peri, and Archit Somani, in Information and Computation Journal, Volume 285, ISSN 0890-5401,
+https://doi.org/10.1016/j.ic.2021.104696
+, 2022.
+“Store-Collect in the Presence of Continuous Churn with Application to Snapshots and Lattice Agreement”
+, Hagit Attiya, Sweta Kumari, Archit Somani, Jennifer L. Welch IN Information and Computation Journal, Volume 285, ISSN 0890-5401,
+https://doi.org/10.1016/j.ic.2022.104869
+, 2022.
+“OptSmart: a space efficient optimistic concurrent execution of smart contracts”
+Parwat Singh Anjana, Sweta Kumari, Sathya Peri, Sachin Rathor, and Archit Somani, Distributed and Parallel Databases.
+https://doi.org/10.1007/s10619-022-07412-y
+, pp.153,2022.
+“Achieving Composability Efficiently using Object based Semantics in Transactional Memory”
+, Sathya Peri, Ajay Singh, and Archit Somani. [In-progress]
+“Ensuring Starvation-Freedom with Greater Concurrency in Multi-Version Object-based Transactional Memory Systems”
+, Chirag Juyal, Sandeep Kulkarni, Sweta Kumari, Sathya Peri, and Archit Somani. [In-progress]
+“Efficient Concurrent Execution of Smart Contracts in Blockchains using Object-based Transactional Memory
+”
+, Parwat Singh Anjana, Hagit Attiya, Sweta Kumari, Sathya Peri, and Archit Somani.
+[In-progress]
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+I gave a talk at IMSc Chennai on
+“Efficient Multi-Version Object-based STM”
+in Feb 2020.
+I gave presentations in many International Conferences such as “IPDPS 2015/16, ICDCN 2017/18/19, NETYS 2018, SSS 2018, PDP 2019, SNIA EMEA 2021, SNIA India 2022, IEEE CCEM 2021.”
+
+Oral Presentations
+--------------------------------------------------------------------------------
+I gave oral presentations in many International Conferences such as “ ICDCN 2017/18/19, NETYS 2018, SSS 2018, PDP 2019, SNIA EMEA 2021, SNIA India 2022, IEEE CCEM 2021.”
+
+Poster Presentations
+--------------------------------------------------------------------------------
+“Efficient Concurrent Execution of Smart Contracts in Blockchains using Object-based Transactional Memory”,
+Parwat Singh Anjana, Hagit Attiya, Sweta Kumari, Sathya Peri and Archit Somani in15th Inter-Research-Institute Student Seminar in Computer Science, India.
+“
+Entitling Concurrency to Smart Contracts Using Optimistic Transactional Memory
+”,
+Parwat Singh Anjana, Sweta Kumari, Sathya Peri, Sachin Rathor, and Archit Somani in
+Doctoral Symposium, ICDCN 2
+019 at Indian Institute of Science, Bangalore, India
+.
+(Best Poster Award)
+“An Innovative Approach to Achieve Compositionality Efficiently using Multi-Version Object Based Transactional Systems”
+, Chirag Juyal, Sandeep Kulkarni, Sweta Kumari, Sathya Peri, and Archit Somani in 13th Inter-Research-Institute Student Seminar in Computer Science, India.
+“An Innovative Approach to Achieve Compositionality Efficiently using Multi-Version Object Based Transactional Systems”
+, Chirag Juyal, Sandeep Kulkarni, Sweta Kumari, Sathya Peri, and Archit Somani in 6th International Conference On Networked Systems, 2018, Essaouira, Morocco.
+(Best Poster Award)
+“Achieving greater Concurrency using Object based Software Transaction Memory System”
+, Sathya Peri, Ajay Singh, and Archit Somani in 30th IEEE International Parallel and Distributed Processing Symposium, 2016, Chicago, Illinois, USA.
+
+Peer Review Service
+--------------------------------------------------------------------------------
+I have reviewed the papers of various conferences and journals like DISC 2020, IndoSys 19, CODS-COMAD 18/19, SRDS 18, HLPP 18, ICDCN 17/18, OPODIS 17, ICDCIT 16, ICIT 15, IEEE access and Journal of Grid Computing.
+I was the PC Committee Member of the following Conferences;
+19th International Conference on Distributed Computing and Intelligent Technology (ICDCIT) 2022
+4th International Workshop on Blockchain Technologies and its Applications (In conjunction with UPCON 2022)

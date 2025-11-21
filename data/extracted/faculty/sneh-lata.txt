@@ -1,0 +1,92 @@
+================================================================================
+Sneh  Lata
+================================================================================
+
+Faculty at School of Natural Sciences
+
+Research Interest
+--------------------------------------------------------------------------------
+Operator Theory, Function Theory, and Frame Theory
+
+Education
+--------------------------------------------------------------------------------
+PhD,
+University of Houston, 2010
+MS,
+University of Houston, 2006
+MSc,
+University of Delhi, 2004
+BSc,
+University of Delhi, 2002
+
+Work Experience
+--------------------------------------------------------------------------------
+June 2011 – December 2022: Asst. Professor, Department of Mathematics, SNIoE
+January 2023 – present: Assoc. Professor, Department of Mathematics, SNIoE
+
+Area of Expertise
+--------------------------------------------------------------------------------
+Analysis
+
+Awards
+--------------------------------------------------------------------------------
+2018 – 2020, MATRICS Grant, SERB, DST
+
+Journal Publication
+--------------------------------------------------------------------------------
+Weighted and unweighted composition operators close to isometries
+, Mediterr. J. Math. (2024). (Joint work with Jatin Anand and Sachi Srivastava)
+Multiplicativity of linear functionals on function spaces on an open disc
+, Archiv der Mathematik 23 (2024), 65-74. (Joint work with Jaikishan and Dinesh Singh)
+Invariant subspaces of powers of some unicellular operators
+, New York Journal of Mathematics 29 (2023), 231-260. (Joint work with Sushant Pokhriyal and Dinesh Singh)
+Multivariable Sub-Hardy Hilbert Spaces Invariant under the action of n-tuple of Finite Blaschke factors
+, J. of Math. Anal. and Appl. 512 (2022). (Joint work with Sushant Pokhriyal and Dinesh Singh)
+Bohr's inequality for non-commutative Hardy spaces
+, Proc. Amer. Math. Soc. 150 (2022), 201-211. (Joint work with Dinesh Singh)
+A Class of Sub-Hardy Hilbert Spaces Associated with Weighted Shifts
+, Houston Journal of Mathematics. 44 (2018), 301-308. (Joint work with Dinesh Singh)
+Admissible Fundamental Operators
+, J. of Math. Anal. and Appl. 425 (2015), 983-1003. (Joint work with Tirthankar Bhattacharyya and Haripada Sau)
+The Feichtinger Conjecture and Reproducing Kernel Hilbert Spaces
+, Indiana Univ. Math. J.  60 (2011), 1303-1318. (Joint work with Vern Paulsen)
+The Feichtinger Conjecture and Reproducing Kernel Hilbert spaces
+, Ph. D. Thesis, Univ. Of Houston, 2010.
+A Finite Multiplicity Helson-Lowdenslager-De Branges Theorem
+, Studia Math. 200 (2010), 247-266. (Joint work with Meghna Mittal and Dinesh Singh)
+An Operator Algebraic Proof of Agler's Factorization Theorem
+, Proc. Amer. Math. Soc. 137 (2009), no. 11, 3741-3748. (Joint work with Meghna Mittal and Vern Paulsen)
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+Invariant subspaces of near-isometries, 4th Annual Conference on Algebra, Analysis and Applications, Ambedkar University Delhi, Dec. 2023
+Multivariable Sub-Hardy Hilbert Spaces Invariant under the action of n-tuple of Finite Blaschke factors
+, 37th Annual Conference of the Ramanujan Mathematical Society, SSN College of Engineering, 2022.
+A class of sub-Hardy Hilbert Spaces Associated with Weighted Shifts
+, Recent advances in Operator Theory and Operator Algebras, ISI Bangalore, Dec. 2018.
+Admissible Fundamental Operators
+, Annual Conference of Indian Women and Mathematics (IWM), Uni. of Hyderabad, June 2016.
+An Operator Algebraic Proof of Agler's Factorization Theorem,
+Concentration Week in Multivariable Operator Theory, TAMU, July 2008.
+An Operator Algebraic Proof of Agler's Factorization Theorem
+, Great Plains Operator Theory Symposium (GPOTS), University of Cincinnati, June 2008.
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances
+--------------------------------------------------------------------------------
+PI:
+Investigating a class of certain Hilbert spaces and their connection to frame theory
+, 2018-2021. This project was supported by the grant MATRICS (SERB, DST).
+
+Ph.D. Students
+--------------------------------------------------------------------------------
+Sushant Pokhriyal (completed) - Thesis title: Invariant subspaces associated with near-isometries and unicellular operators.
+Currently, a PDF at the University of South Florida.
+Arshad Khan (ongoing): Research topic: Nearly invariant subspaces.
+Jaikishan (ongoing): Research topic: Linear functionals on function spaces.
+Santosh Singh Negi (ongoing): Research Topic: Functional Analysis.
+Dushyant Kumar Sengar (ongoing): Research Topic: Functional Analysis.
+
+Administrative Roles
+--------------------------------------------------------------------------------
+August 2016 – present: Graduate Advisor & Chair of the Department Graduate Committee.
+Member of the PhD admission committee, department space committee, and department budget committee.

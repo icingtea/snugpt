@@ -1,0 +1,802 @@
+================================================================================
+Ruchi Anand
+================================================================================
+
+Faculty at School of Natural Sciences
+
+Research Interest
+--------------------------------------------------------------------------------
+Structural biochemistry, Enzyme mechanisms, and Drug discovery
+
+Education
+--------------------------------------------------------------------------------
+1999-2004 Ph.D, Chemistry Cornell University, Ithaca NY USA
+1996-1998 M.Sc., Chemistry Indian Institute of Technology (IIT) Kanpur, UP, India
+1993-1996 B.Sc., Chemistry Miranda House, Delhi University, Delhi, India
+
+Work Experience
+--------------------------------------------------------------------------------
+At Present: Institute Chair Professor and Head of the Chemistry Department, IIT Bombay, Mumbai, India
+12/2018- Present Professor of Chemistry, IIT Bombay, Mumbai, India
+07/2014-11/2018 Associate Professor of Chemistry, IIT Bombay, Mumbai, India
+05/2008-06/2014 Assistant Professor of Chemistry, IIT Bombay, Mumbai, India
+01/2005-06/2006 Post Doctoral Research Scientist, University of Pennsylvania/Wistar Institute, Philadelphia, Pennsylvania, USA
+01/2003-12/2004 Post Doctoral Howard Hughes Fellow, Sloan Kettering New York, NY, USA
+08/1998-05/2002 Teaching Assistant, Cornell University, USA
+
+Awards
+--------------------------------------------------------------------------------
+Elected as the
+President of the Indian Biophysical Society (IBS)
+,
+2025
+Elected as the
+President of the American Chemical Society Local Chapter
+(West Region),
+2024
+Inducted as an
+Associate Editor
+of
+ACS journal, Biochemistry, 2024
+Recipient of the
+Sun Pharma Science Foundation Research Award, 2023
+Inducted as a Member of editorial advisory board of
+Journal of American Chemical Society, 2023
+Inducted as a Member of editorial advisory board of
+ACS Journal, J. Phys. Chem (A/B/C) 2023
+.
+Inducted as a Member of the Advisory Board of
+RSC Journal Chemical Society Reviews 2023
+Recipient of the
+S.C. Bhattacharya Award, Excellence in Research in Pure Sciences, 2023
+Fellow of Indian National Science Academy (INSA),
+2023
+Institute Chair Professor,
+Indian Institute of Technology Bombay, 2022
+Fellow of Indian Academy of Sciences (IASc),
+2022
+IIT Bombay Impactful Research Award,
+Indian Institute of Technology Bombay, 2021
+Inducted into the International Advisory Board of
+Asian JOC, 2021
+Member of International IUPAC CHEMRAWN committee
+Inducted as a Member of the
+Research Council
+of Indian Institute of Chemical Technology,
+2020
+Elected member of the
+Guha Research Conference, 2020
+Recipient of the
+AV Rama Rao Foundation Lecture Award
+at JNCSAR,
+2020
+Recipient of the
+Chemical Research Society of India (CRSI)
+bronze medal,
+2020
+Ruchi Anand (PhD) FASc, FNASc,
+FNA Indian Institute of Technology Bombay
+Inducted as a Research Council Member of Indian Institute of Chemical Technology,
+2020
+Selected member of
+Chemical Research Society of India (CRSI) Council, 2020-2023
+Recipient of the
+India Alliance DBT-Wellcome Trust Senior Research Fellowship, 2019
+Elected fellow of the
+National Academy of Sciences (FNASc
+),
+2019
+Core committee member:
+Water Innovation Centre (WICTRE), 2019
+Member of
+International Program Committee
+for
+AsCA, 2019
+Elected
+Secretary, Royal Society of Chemistry (RSC) West India Section, 2019
+onwards
+Elected member
+Executive Council of the Indian Biophysical Society, 2019-22
+Elected member of
+the International Gender Equity and Diversity Committee of IUCr, 2019
+Inducted as a Member of
+the Asian Chemical Biology Initiative (ACBI), 2019
+Recipient of
+K Bachhawat International Travel Grant, 2019
+Recipient
+National Women Bio-scientist Award
+,
+Department of Biotechnology,
+2018
+Recipient
+Young Outstanding Researcher Award,
+International Conference on Recent Trends in Material Science and Technology, October,
+2018
+Member
+Editorial Advisory Board “ACS Sensors”
+an American Chemical Society Journal,
+2016
+Faculty Mobility Award
+for Faculty Exchange to Northwestern University,
+2016
+Royal Society of Chemistry, Mumbai Chapter,
+Madam Curie Women Scientist Award, 2012
+
+Journal Publications
+--------------------------------------------------------------------------------
+“Mechanism of Deamination of Mycobacterial Deaminase Selectively Targeting Mutagenic Bases” Porathoor, S., Choudhury, A. R., Chakrabarti, R.,
+Anand, R*
+.,
+Nucleic acid Res. (2025)
+(Accepted).
+“Mechanism of conformational Selection of tRNAArg2 by Bacterial Deaminase TadA” Jessy Mariam, J., Porathoor, S.,
+Anand, R*., Biochemistry. (2025)
+(DOI: 10.1021/acs.biochem.4c00649).
+“Substrate-Induced Dynamic Regulation of the Catalytic Loop in Assisting Allosteric Communication in Formylglycinamidine Synthetase” Singh, S., Kistwal, T., Datta, A.,
+Anand, R*
+.,
+Phys. Chem. Lett
+.
+(2025)
+, 16, 1582-1589.
+“Biosensing of multiple aromatic xenobiotics in water by in-house fabricated prototype device” Sahu, S., Ramachandran, S., Bandyopadyaya, R.*,
+Anand, R*.
+,
+Biosensors and Bioelectronics (2024)
+, 250, 116077.
+“Ultrasensitive detection of aromatic water pollutants through protein immobilization driven organic electrochemical transistors” Sahu, S., Kumar, L., Das, S., Gupta, D.,
+Anand, R*.
+,
+Chemical Science (2024)
+, 15, 710.
+“Identifying Selectivity Filters in Protein Biosensor for Ligand Screening” Sahil, M., Singh, J., Sahu, S., Pal.K. S., Yadav, A.,
+Anand, R.*,
+Modal, J.*,
+JACS Au
+.
+(2023)
+, 3 (10), 2800–2812.
+“Porous silica nanospheres: a nanoplatform towards protein immobilization and cogent design of biosensors for aromatic water pollutant detection” Das, S., Sahu, S., Bandyopadyaya, R.,
+Anand, R*
+.,
+Environmental Science Nano
+.
+(2023)
+, 10(10), 2799-2809.
+“Diverse strategies adopted by nature for regulating purine biosynthesis via fine-tuning of purine metabolic enzymes” Singh, S.,
+Anand, R*
+.,
+Current Opinion in Chemical Biology (2023)
+, 73, 102261.
+“Phenol sensing in nature is modulated via a conformational switch governed by dynamic allostery” Singh, J., Sahil, M., Ray, S., Dcosta, C., Panjikar, S., Krishnamoorthy, G., Mondal, Jagannath.,
+Anand, R*.
+, Horowitz, A.,
+Journal of Biological Chemistry (2022)
+, 298(10), 102399.
+“Cooperativity in ATP Hydrolysis by MopR is Modulated by its Signal reception Domain and by its Protein and Phenol Concentrations” Singh, J.,
+Anand, R*.
+, Horowitz, A.,
+Journal of Bacteriology (2022)
+, 204(8), e00179-22.
+“Identification of allosteric hotspots regulating the ribosomal RNA binding by antibiotic resistance-conferring Erm methyltransferases” Bhujbalrao, R., Gavvala, K., Singh, R.K., Singh, J., Boudier, C., Chakrabarti, S., Patwari, G.N., Mély, Y.,
+Anand, R.*, Journal of Biological Chemistry, (2022)
+, 298(8), 102208.
+“Decoding the Mechanism of Specific RNA Targeting by Ribosomal Methyltransferases” Singh, J., Raina, R., Vinothkumar, KR.,
+Anand, R*
+,
+ACS Chemical Biology (2022)
+, 17(4) 829–839.
+“Harnessing the Potential of Biological Recognition Elements for Water Pollution Monitoring” Sahu, S., Roy, R.,
+Anand, R*.
+,
+ACS Sensors (2022)
+, 7(3) 704–715.
+“Mechanism of Coordinated Gating and Signal Transduction in Purine Biosynthetic Enzyme Formylglycinamidine Synthetase” Sharma, N., Singh, S., Tanwar, A.S, Mondal, J.,
+Anand, R*
+.,
+ACS Catalysis (2022)
+, 12(3) 1930–1944.
+“Tunnel Architectures in Enzyme Systems that Transport Gaseous Substrates” Singh, S.,
+Anand, R*.
+,
+ACS Omega (2021)
+, 6(49), 33274–33283.
+“The Coenzyme A Level Modulator Hopantenate (HoPan) Inhibits Phosphopantotenoylcysteine Synthetase Activity” Mostert, KJ., Sharma, N., van der Zwaag, M., Staats, R., Koekemoer, L., Anand, R., Sibon, OC., Strauss, Eric*.,
+ACS Chemical Biology (2021)
+, 16(11), 2401–2414.
+“Insights into the Dual Shuttle Catalytic Mechanism of Guanine Deaminase” Sen, A., Gaded, V., Jayapal, P., Rajaraman, G.*,
+Anand, R*.
+,
+Phys. Chem. B. (2021)
+, 125(31), 8814 - 8826.
+“Deciphering protein microenvironment by using a cysteine specific switch-ON fluorescent probe” Mariam, J., Ashoka, A, H., Gaded, V., Ali, Firoz., Malvi, H., Das, A.*,
+Anand, R*
+.,
+Organic & Biomolecular Chemistry (2021)
+, 19, 5161-5168.
+“Structure Guided Mutagenesis Reveals the Substrate Determinants of Guanine Deaminase” Singh, J., Gaded, V., Bitra, A.,
+Anand, R*.
+,
+Struct. Biol. (2021)
+, 213(3), 107747.
+“Tunable Multiplexed Whole-Cell Biosensors as Environmental Diagnostics for ppb-Level Detection of Aromatic Pollutants” Roy R., Ray S., Chowdhury* A.,
+Anand R
+*.
+, ACS Sensors (2021)
+, 6, 5, 1933–1939.
+“Role of Allosteric Switches and Adaptor Domains in Long Distance Cross-Talk and Transient Tunnel Formation” Sharma, N., Ahalawat, N., Sandhu, P., Strauss, E., Mondal, J.,
+Anand, R.*; Science Advances (2020)
+; 6, eaay7919.
+“Structural basis for differentiation between two classes of thiolase: Degradative vs biosynthetic thiolase” Bhaskar S., Steer D.,
+Anand R.,
+Panjikar S.*
+Journal of Structural Biology (2020
+), 100018.
+“Use of 6‐Methylisoxanthopterin, a Fluorescent Guanine Analog, to Probe Fob1‐Mediated Dynamics at the Stalling Fork Barrier DNA Sequences”; Mariam, J., G, Krishnamoorthy, and
+Anand, R*
+.;
+Chemistry–An Asian Journal (2019);
+14,4760 –4766.
+“Deciphering Determinants in Ribosomal Methyltransferases that Confer Antimicrobial Resistance” Bhujbalrao, R.;
+Anand, R.*
+;
+Journal of American Chemical Society (2019),
+141, 1425-1429.
+“Design of Ultrasensitive Protein Biosensor Strips for Selective Detection of Aromatic Contaminants in Environmental Wastewater" Ray S., Senapati, T, Sahu, S; Bandyopadhyaya, R,
+Anand, R*
+;
+Analytical Chemistry (2018),
+90 (15), 8960-8968
+“
+Design of Protein based Biosensors for Selective Detection of Benzene Group of Pollutants
+”,
+Ray, S., Panjikar, S.,
+Anand, R
+*;
+ACS Sensors (2018)
+, 3(9), 1632–1638
+“
+Nucleobase Deaminases as potential enzymes for new therapies
+”
+,
+Gaded V
+, Anand R*
+,
+RSC Adv.
+, (
+2018
+),8, 23567-23577
+.
+“Fluorescence Quenching studies of γ-butyrolactone-Binding Protein (CprB) from
+Streptomyces coelicolor
+A3(2) ”, Mariam J.,
+Anand R*
+;
+Methods Mol Biol.
+(2018)
+, 1673, 131-143.
+“Site-specific fluorescence dynamics to probe polar arrest by Fob1 in replication fork barrier sequences”, Biswas A., Mariam J., Kombrabail M. , Narayan S. , Krishnamoorthy G.,
+Anand R*
+;
+ACS Omega (2017)
+, 2, 7389-7399.
+“Functional insights into the mode of DNA and ligand binding of TetR family regulator TylP from
+Streptomyces fradiae
+”, Ray, S., Maitra, A., Biswas, A., Panjikar, S., Mondal, J., Anand R* ;
+Journal of Biological Chemistry (2017)
+, 292, 15301-15311.
+“Selective deamination of Mutagens by mycobacterial Enzymes ”, Gaded, V., Anand, R.*;
+Journal of American Chemical Society (2017),
+139(31), 10762-10768.
+“TetR Regulators: A Structural and Functional Perspective” Bhukya, H. &
+Anand, R.*
+;
+Journal of Indian Institute of Science (2017)
+, 97, 245.
+“Structural and Dynamics Studies of the TetR Family Protein, CprB from
+Streptomyces coelicolor
+in complex with its Biological Operator Sequence” Bhukya, H., Jana, A.K., Sengupta, N., Anand, R.*;
+Journal of Structural Biology (2017),
+198; 134–146.
+“Rassf Proteins as Modulators of Mst1 Kinase Activity” Bitra, A., Sistla, S., Mariam, J., Malvi, H.,
+Anand, R.*
+;
+Scientific Reports (2017)
+, 7, 45020.
+“Structure Guided Design of Protein Biosensors for Phenolic Pollutants” Ray, S., Panjikar, S.,
+Anand, R
+*;
+ACS Sensors (2017)
+, 2(3), 411-418.
+“Structural Basis of Selective Aromatic Pollutant Sensing by the Effector Binding Domain of MopR, an NtrC Family Transcriptional Regulator” Ray, S., Gunzburg, M., Wilce, M., Panjikar, S.,
+Anand, R
+*;
+ACS Chemical Biology (2016)
+, 11, 2357−2365.
+“Determination of formylglycinamide ribonucleotide amidotransferase ammonia pathway by combining 3D-RISM theory with experiment”, Tanwar, A.S, Sindhikara, D.J, Hirata, F,
+Anand, R*; ACS Chemical Biology (2015)
+, 10(3), 698-704.
+“Mode of DNA Binding with γ-utyrolactone Receptor Protein CprB from
+Streptomyces coelicolor
+revealed by Site-specific Fluorescence Dynamics”, Biswas, A., Narayan, S., Kallianpur, M, Krishnamoorthy,G. Anand, R*;
+Biochimica et Biophysica acta (2015),
+1850(11), 2283-92.
+“Fluorescence Quenching Studies of γ-Butyrolactone Binding Protein (CprB) from
+Streptomyces coelicolor
+A3(2)”, Biswas, A., Swarnkar, R. K., Hussain, B., Sahoo, S.K., Pradeepkumar, P.I., Patwari, G.N.,
+Anand, R.*
+;
+J Phys Chem B
+.
+(2014)
+, 118(34):10035-42
+.
+“Structural and functional basis of transcriptional regulation by TetR family protein CprB from
+coelicolor
+A3(2)”, Bhukya, H., Bhujbalrao, R., Bitra, A.,
+Anand, R.*
+;
+Nucleic acid Res. (2014)
+, 42(15), 10122-33.
+“Importance of hydrophobic cavities in allosteric regulation of formylglycinamide synthetase: insight from xenon trapping and statistical coupling analysis”, Tanwar, A.S., Goyal, V.D., Choudhary, D., Panjikar, S.,
+Anand, R*; PLoS One (2013)
+8(11), e77781.
+“Diversity oriented approach to triazole based peptidiomimetics as mammalian sterile 20 kinase inhibitors.” Kotha, S., Goyal, D., Bitra, A., Thota, N., Kruger, G., Anand, R.*;
+RSC Adv. (2013)
+3, 24447-24454.
+“Structural basis of the substrate specificity of cytidine deaminase superfamily Guanine deaminase” Bitra, A., Biswas, A.,
+Anand, R.*; Biochemistry (2013)
+52(45), 8106-14.
+“Identification of Function and Mechanistic Insights of Guanine Deaminase from
+Nitrosomonas europaea
+: Role of the C-Terminal Loop in Catalysis” Bitra, A., Hussain, B., Tanwar, A.S.,
+Anand, R.*
+;
+Biochemistry (2013)
+, 52(20):3512-22.
+“Formylglycinamide ribonucleotide amidotransferase from
+Salmonella typhimurium
+: role of ATP complexation and the glutaminase domain in catalytic coupling” Tanwar, A.S., Morar, M., Panjikar, S.,
+Anand, R.*
+;
+Acta Crystallographica D (2012)
+, 68, 627-36.
+“Development of a Potent and Specific Organoruthenium Mammalian Sterile 20 Kinase Inhibitor”,
+Anand, R
+, Pagano, N., Maksimoska, J., Wong, E., Diamond, S. L., Meggers, E., Marmorstein, R.;
+Journal of Medicinal Chemistry (2008)
+, 52(6):1602-11.
+“Structural Basis for DNA Recognition by FoxO1 and its Regulation by Post-Translational Modification”, Brent, M.,
+Anand, R
+., Marmorstein, R.;
+Structure (2008)
+, 16(9):1407-16.
+“Biochemical Analysis of MST1 Kinase: Elucidation of a C-Terminal Regulatory Region”,
+Anand, R
+., Kim, A., Brent, M., Marmorstein, R.;
+Biochemistry (2008)
+, 242, (25); 6719-6726.
+“Structure and mechanism of lysine-specific demethylase enzymes”,
+Anand, R
+., Marmorstein, R.,
+Biol. Chem. (2007)
+282(49):35425-9.
+“Structure and mechanism of lysine-specific demethylase enzymes ", Morar, M.,
+Anand, R
+., Stubbe, J., Ealick, S.E.;
+Biochemistry (2006)
+, 45(50):14880-95.
+“A model for the
+Bacillus subtilis
+formylglycinamide ribonucleotide amidotransferase multiprotein complex”,
+Anand, R.
+, Hoskins, A. A., Bennett, E. M., Sintchak, M.D., Stubbe, J., Ealick, S.E.;
+Biochemistry (2004)
+43(32), 10343-52.
+“Domain organization of
+Salmonella typhimurium
+formylglycinamide ribonucleotide amidotransferase revealed by X-ray crystallography”,
+Anand, R
+., Hoskins, A.A., Stubbe, J., Ealick, S.E.;
+Biochemistry (2004)
+43(32):10328-42.
+“The formylglycinamide ribonucleotide amidotransferase complex from
+Bacillus subtilis
+: metabolite mediated complex formation”, Hoskins, A.A.,
+Anand, R
+., Ealick, S.E., Stubbe, J.;
+Biochemistry (2004)
+43(32):10314-27.
+“Structure of Purine 2'- Deoxyribosyltransferase, Substrate Complexes and the Ribosylated Intermediate at 1.75 Resolution”,
+Anand, R
+., Kaminski, V.S., Ealick, S.E.;
+Biochemistry (2004)
+,
+43(9), 2384-93.
+“Designer Gene Therapy Using an
+Escherichia coli
+Purine Nucloside Phosphorylase/Prodrug System”, Bennett, E.M.,
+Anand, R
+., Allan, P.W., Hassan, A.E., Hong, J.S., Levasseur, D.N., McPherson, D.T., Parker, W.B., Secrist III, J.A., Sorcher, E.J., Townes, T.M., Waud, W.R., Ealick, S.E.;
+Chemistry and Biology (2003)
+10(12), 1173-81.
+“Structure of Oxalate Decarboxylase from
+Bacillus subtilis
+at 1.75 Resolution”,
+Anand, R.
+, Dorrestein, P.C., Kinsland, C., Begley, T., Ealick, S.E.;
+Biochemistry (2002)
+,
+41(24), 7659-69.
+
+Book Chapter
+--------------------------------------------------------------------------------
+Sahu, S., and
+Anand R
+. "Strategies for Development of Protein-Based Biosensors for Detecting Aromatic Xenobiotics in Water." The World Scientific Reference of Water Science: Volume 1 Molecular Engineering of Water Sensors. 2023. 101-136.
+Mariam J.,
+Anand R
+., Fluorescence Quenching studies of γ-butyrolactone-Binding Protein (CprB) from Streptomyces coelicolor A3(2), Quorum Sensing: Methods and Protocols, Methods in Molecular Biology 2018, 1673, 131-143.
+
+Invited Lectures/ Talk/ Conference presentation
+--------------------------------------------------------------------------------
+“Structural and Biochemical Studies on Mechanism of Ammonia Channeling in Purine Biosynthetic Enzyme FGAM Synthetase” 42nd Meeting,
+Structure and Function from Macromolecular Crystallography: ORGANIZATION IN SPACE AND TIME
+, Erice, Italy, 2010
+Invited Participant.
+“Insights into Mechanism of Ammonia Channeling, IBS - Institut de Biologie Structurale, Grenoble, France, June, 2010,
+Invited Talk
+.
+“Structural Biology of Enzyme Complexes”, Jülich Research Center, Germany, 2010,
+Invited Talk.
+“Structure Based Drug Design Approaches in Mammalian Sterile 20 Kinases”
+National Symposium in Computational Biology
+, Pondicherry, September, 2010,
+Invited Talk.
+“Structural biology of Purine Enzymes”,
+Indo-Swedish symposium
+, IISER Kolkata, March 2011,
+Invited Talk.
+“Identification of Molecular Tunnels in Purine Biosynthesis as Passages for Unstable Intermediates”,
+International Conference on Pure and Applied Chemistry
+, Mauritius, 2012,
+Plenary Speaker
+.
+“Purine Biosynthetic Enzymes”, EMBL, Hamburg, Germany, July 2012,
+Invited Talk.
+“Structure Activity Relationship of an Enzyme with Unknown Function”
+Biochemical Society of India
+, Mumbai, Sept 2012,
+Invited Talk.
+“From Form to Function”
+National Symposium on Frontiers of Biophysics, Biotechnology & Bioinformatics
+, IBS, Mumbai, Jan 2013
+Invited Talk.
+“Structure Activity Relationship of an Enzyme of Unknown Function”
+IITB-Strathclyde Mini symposium
+, Mumbai, Jan 2013,
+Invited Talk
+.
+“Identification of Molecular Tunnels in Purine Biosynthesis as Passages for Unstable Intermediates”
+IITB-Strathclyde Meeting
+, Glasgow, UK, March 2013,
+Invited Talk.
+Structural Insights into Mechanism of Transcription and Antibiotic Regulation by CprB: A - butyralactone TetR-family protein from Streptomyces coelicolor,
+Asian Crystallography society Meeting
+, Hong Kong, China, Dec 2013,
+Invited Talk.
+“Structural Insights into Mechanism of Transcription by quorum sensing protein CprB from Streptomyces coelicolor”,
+42nd National Seminar on Crystallography and International workshop for application of X-ray diffraction for Drug Discovery
+, Delhi, 2013,
+Invited Talk.
+“Insights into Ammonia Channeling of Purine Biosynthetic Enzyme PurL” March 2014, Ritsumekan University, Japan,
+Invited Talk.
+“Structural Insights into Mechanism of Antibiotic Regulation in Streptomyces coelicolor”,23rd
+International Union of Crystallography Meeting
+, Montreal, Canada, Aug, 2014
+Selected Talk.
+“Substrate channeling in enzyme systems”
+Indo-US symposium on Recent Advances in Structural Biology and Drug Discovery
+, Oct 2014, IIT Roorkee, India,
+Invited Talk.
+“
+Structure and Mechanism of the Tetracycline Receptor CprB from
+Streptomyces”
+Monash University
+, March 2015, Monash University, Australia,
+Departmental Talk.
+“Protein Crystallization” Workshop on Structural Biology: An Introduction to Protein Crystallography, April 2015, National Institute of Mental Health, Bangalore India,
+Invited talk.
+“Structural based design of Aromatic biosensors” Application of Structural Biology in Translational Research and; Structure Guided Drug Design” ACTREC, Mumbai, India Nov 2015,
+Invited Talk.
+“Mechanism of Nucleobase Deamination”
+Indo-US Symposium on “Advances in Enzymology: Implications in Health, Disease and Therapeutics”
+ACTREC, Mumbai, 2016,
+Invited Talk.
+“Basics of X-ray Structure Determination and Refinement” Indo-US Symposium on “Advances in Enzymology: Implications in Health, Disease and Therapeutics” ACTREC, Mumbai, India, Jan, 2016
+Workshop Talk.
+“Motional Dynamics in Protein-DNA Complexes”
+Indian Biophysical Society Meeting
+(IBS), Bangalore, India, Feb 2016,
+Invited Talk.
+“Structural Biochemistry of Transcription Regulation in Biological Systems” University of Santa Cruz, June 2016, USA,
+Departmental Talk.
+“Structural Insights into Antibiotic Regulation and Resistance in
+Streptomyces
+”
+Gordon Conference on Drug Resistance
+, University of New England, Biddeford, June 2016, USA,
+Selected Speaker.
+25. “Development of Enzyme Based Biosensors for Xenobiotic Pollutants” Current Trends in Protein Structure and Genome Analysis, Centre of bioinformatics, Pondicherry University, Dec 2016, Pondicherry, India,
+Invited Talk.
+“Development of Enzyme Based Biosensors for Xenobiotic Pollutants” Current Trends in Protein Structure and Genome Analysis, Centre of bioinformatics, Pondicherry University, Dec 2016, Pondicherry, India,
+Invited Talk.
+“Transcription Regulation in Biological Systems” Uni. of Illinois, 2016, USA,
+Departmental Talk.
+“Structural Biochemistry of Transcription Regulation in Biological Systems” Bowling Green State University Aug 2016, Chicago, USA,
+Departmental Talk.
+“Design of Biosensors for Aromatic Pollutants” Chemistry Interfacing with Biology and Physics (CIBP-2017), IISER Kolkata, India Jan 2017,
+Invited Talk.
+"Design of Aromatic Biosensors” New Dimension in Chemistry, Jim Corbett National Park, Uttarakand, India
+,
+May 2017,
+Invited Talk.
+“New Therapies to Combat Antibiotic Resistance” Kaleidoscope, A discussion Meeting in Chemistry Goa, July 2017,
+Invited Talk.
+“X-ray Crystallography as a Tool to Determine Protein Structures” Royal Society of Chemistry Event, Hislop College, Nagpur, India, July 2017,
+Invited Talk.
+“Structural Insights into Plasticity of DNA-Protein Interactions in Tetracycline Receptors
+”,
+International Union of Crystallography
+(IUCr 2017), Hyderabad, India, Aug 2017,
+Selected Talk.
+“Structural Insights into Plasticity of DNA-Protein Interactions in Tetracycline Receptors”
+Indo-German Conference on NMR Meets Biology,
+Sept 2017, Institut für Medizinische Physik und Biophysik, Leipzig Germany,
+Invited Talk.
+“Motional Dynamics in Protein-DNA Complexes
+”
+Fluorescence Correlation Society (FCS) Meeting, IIT Guwahati, Guwahati, India, December 2017
+, Invited Talk.
+“Development of Enzyme Based Biosensors for Xenobiotic Pollutants”
+Indo-German Conference on Elementary Reactions in Functional Materials: From Biophysics to Technological Applications,
+Nov 2017, University of Heidelberg, Heidelberg, Germany,
+Invited Talk
+“Using Structural Biology to Combat Drug Resistance” Indian Institute of Technology, Roorkee, India, January 2018
+, Departmental Talk.
+“Transcription Regulation in Biological Systems” Indian Institute of Science and Education (IISER) Bopal, India. January 2018
+, Departmental Talk.
+“Insights into Mechanisms of Drug Resistance” Innovations in Frontier Chemistry, IISER Pune, 2018,
+Invited Talk.
+39. “Strategies to Combat Drug Resistance”
+National Bioorganic Chemistry Conference
+(NBCC), Celebrating 65th year of DNA Structure, (NISER)-Bhubaneswar, December 2018,
+Invited Talk.
+“Strategies to Combat Drug Resistance”
+National Bioorganic Chemistry Conference
+(NBCC), Celebrating 65th year of DNA Structure, (NISER)-Bhubaneswar, December 2018,
+Invited Talk.
+“Using Structural Biology as a Tool to Decipher Origins of Antibiotic Resistance”
+Asian Crystallographic Association Meeting,
+Auckland, New Zealand, December 2018
+, Invited Talk.
+41. “Why does Antibiotic Resistance Arise” 6th World Congress on Nanomedicine & Chemistry Biology Interface Synergistic in New Frontiers,Vigyan Bhavan, Delhi January 2019,
+Invited Talk.
+“Structural Insights into Origins of Resistance”
+Asian Chemical Biology Initiative Meeting
+, Yangoon, Myanmar, January 2019,
+Invited Talk
+.
+“Strategies to Combat Drug Resistance” International Conference on Multiscale Simulation and Mathematical Modelling (JNU), New Delhi, India. January 2019
+, Invited Talk.
+“Structural biochemistry: A versatile tool to study biological reactions” Empowering women in Chemistry,
+IUPAC 2019 symposium
+, Miranda House, February 2019,
+Invited Talk.
+“Strategies to Combat Drug Resistance”
+8
+th
+National symposium on recent advances in chemical sciences
+, Amritsar, February 2019,
+Invited Talk.
+“Allosteric Regulation in Transient Molecular Tunnels” Diamond Jubilee Chemistry Symposium, IIT Bombay, India, February 2019
+, Departmental Talk.
+“Structural Biochemistry: Photography at atomic level” Department of Biophysics, Calcutta University, March 2019,
+Invited talk.
+“Strategies to combat antibiotic resistance”
+Weizmann India exchange: Chemical Biology and Material Science conference
+, Weizmann Institute of Science, Israel, May 2019,
+Invited Talk.
+“Role of allosteric switches and adaptor domains in long distance cross talk and transient tunnel formation”
+Kaleidoscope, Goa
+, July 2019,
+Invited Talk.
+“Molecular Insights into Ribosomal Methyltransferases Mediated Antibiotic Resistance”
+Indo-German workshop
+on “Emerging Trends in Chemistry and Materials”, IIT Bombay, August 2019,
+Invited Talk.
+“Understanding Allosteric Regulation in Transient Tunnels”
+10
+th
+Toyota Riken international workshop: Science of life phenomenon woven by water and biomolecules
+, Toyota Physical and Chemical research Institute, Japan, September 2019,
+Invited Talk.
+52. “Understanding Molecular Mechanism of Drug resistance”
+OCS2019@IIT Kanpur
+, IIT Kanpur, September 2019,
+Invited Talk.
+“Strategies to Combat Antibiotic Resistance”
+Chemistry Seminar Series
+, IISER Trivandam, September 2019,
+Invited Talk.
+“Understanding Molecular Mechanism of Drug Resistance”
+Indo-German workshop Multivalent and Adaptive Bioinspired Materials
+, University of Dusseldorf Essen, Germany, September 2019,
+Invited Talk.
+“Molecular Insights into the Mechanism of Methyltransferase Mediated Antibiotic Resistance”
+88
+th
+Annual Meeting of the Society Of Biological Chemists
+, Bhabha Atomic Research Centre & Homi Bhabha National Institute, Bombay, October 2019,
+Invited Talk.
+“Molecular Insights into the Mechanism of Methyltransferases Mediated Antibiotic Resistance”
+8
+th
+Annual Conference of ICBS-2019, CSIR-Indian Institute of Chemical Technology, Hyderabad, Nov 2019,
+Invited Talk.
+“Allosteric Regulation and Ammonia Tunnels
+” Let there be light
+, Udaipur, 2019.
+Invited Talk
+.
+“Strategies to Combat Antibiotic Resistance” 16th
+Asian Crystallographic Association Meeting,
+NUS, Singapore Dec 2019
+, Keynote speaker.
+“Unravelling the Allosteric Regulation Mechanism of Purine Biosynthetic Pathway Enzyme” 12th
+Asia-Pacific Microscopy Conference (APMC-2020), February,
+Hyderabad, 2020,
+Invited Talk.
+“Allosteric Regulation of Molecular Tunnels” Modern Approaches in Chemistry and Biology, Bangalore, February, 2020,
+Invited Talk.
+“Structural Biochemistry: A Versatile to Study Biological Reactions”
+W-CHEM, Women In Science
+, MS University, Baroda, March 2020,
+Invited Talk.
+“Crystallography: Photography at the Atomic Level”,
+ACS Webinar
+Series, April 2020,
+Invited Talk
+.
+“Probing Mechanisms of Targeting and Allostery to Attain Specificity in Enzymatic Reactions”
+AV Rama Rao Foundation Award Lecture
+, JNCSAR,
+Webinar
+2020. 64. “Probing Long Distance Allosteric Communication in Enzyme Systems”
+First Virtual ACES-CRSI Symposium
+,
+Webinar
+, October 2020.
+“Strategies to Combat Antibiotic Resistance”
+1
+st
+Virtual Indo-German Symposium
+, 2021,
+Webinar
+.
+Strategies to combat antibiotic resistance,
+48th National Seminar on Crystallography
+. 2021, IIT Roorkee,
+Seminar
+.
+Search for Molecular Tunnels in Enzyme Systems,
+RSC-IISER Desktop seminar with OBC
+, 2021, RSC-IISER,
+Invited Talk
+.
+Strategies to combat antibiotic resistance,
+OIST mini symposium "New proteins by Evolution and Engineering"
+, 2021, OIST, Japan
+Seminar
+.
+Strategies to combat antibiotic resistance,
+Institute Colloquia, IISER Tirupati
+, 2022, IISER Tirupati
+Colloquium
+.
+Allosteric regulation of molecular tunnel,
+Institute Colloquia, TIFR, Mumbai
+, 2022, TIFR Mumbai,
+Colloquium
+.
+Allostery in Biological System,
+Special International Women’s Day lecture
+, 2022, IISER Kolkata.
+Seminar
+.
+Women in Science, Lecture on International Women’s Day,
+CBS
+, 2022,
+Seminar
+.
+From Laboratory Chemistry to Device fabrication,
+One Day Virtual National Conference on Role of women Chemist and technologist for sustainable future
+2022,
+Seminar
+.
+Antibiotic Resistance,
+Let There Be Light
+, 2022, Himachal Pradesh,
+Seminar
+.
+Strategies to combat antibiotic resistance,
+44th Indian Biophysical Society Meeting
+, ACTREC, Mumbai 2022, Indian Biophysical Society,
+Invited Talk
+.
+Cryo-EM as a Bio-imaging tool to Decipher origins of antibiotic resistance,
+Biomedical, BIO-imaging & Therapeutics for healthcare
+, 2022, IIT Jodhpur,
+Invited Talk
+.
+Allostery in biological systems,
+Institute Colloquia
+SN Bose National Center for Basic science, 2022, SN Bose National Center for Basic science,
+Invited Talk.
+CRSI Lecture Series August 2022
+, speaker and
+Local Convener
+.
+Deciphering the Mechanism of Ribosomal Methyltransferase-mediated Antibiotic Resistance,
+IUPAC ISBOC-13
+, NTU Singapore, 2023,
+Invited Talk
+.
+Deciphering the Mechanism of Ribosomal Methyltransferase-mediated Antibiotic Resistance,
+EBSA Stockholm
+, 2023,
+Invited Talk
+.
+Design of Protein based Biosensors for Selective Detection of Aromatic Group of Pollutants,
+University of Bourdeaux
+, 2023,
+Invited Talk
+.
+Understanding macromolecular crystallography,
+Indian Academy of Science (IAS) Outreach Program
+, 2024,
+Invited Talk
+,
+Methyltransferase induced antibiotic resistance:
+SATHI SUMMIT, IIT Delhi
+, 2024,
+Invited Talk
+,
+Deciphering the role of pathogenic Mtases in antibiotic resistance,
+EMSI
+,
+Invited Talk
+, 2024.
+Understanding methylation based antibiotic resistance,
+,
+National Institute of Immunology (NII), 2025,
+Institute Colloquia.
+Combating Antibiotic resistance: war at the microscopic level,
+47th Indian Biophysical Society Meeting, IIT Madras 2025
+, Indian Biophysical Society,
+Plenary Talk.
+
+Patents
+--------------------------------------------------------------------------------
+IPA No. 386217, (2018) Title: Biosensors for detecting organic pollutants and Process for producing the same in the name of Indian Institute of Technology Bombay" Inventors:
+Ruchi Anand
+and Shamayeeta Ray.
+IPA No. 201821016035, (2018) Title: “Biosensor for selective detection of organic pollutants and method of preparation thereof” in the name of Indian Institute of Technology Bombay. Inventors:
+Ruchi Anand
+, Rajdip Bandyopadhyaya, Shamayeeta Ray and Tamasri Senapati.
+IPA No. 431170, (2023) Title: Organic Electrochemical transistor-based biosensor for the detection of DNA binding proteins and method for preparation thereof. Inventors:
+Ruchi Anand
+, Dipti Gupta, Lokesh Kumar, Subhankar Sahu and Siddarth Kurup.
+IPA No. 474656 (2023) Title: Protein immobilized organic electrochemical biosensor for detecting phenolic pollutants and process for producing the same. Inventors:
+Ruchi Anand
+, Dipti Gupta, Subhankar Sahu, Lokesh Kumar and Sumita Das.

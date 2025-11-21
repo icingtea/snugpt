@@ -1,0 +1,57 @@
+================================================================================
+Sudip Ranjan Bhuia
+================================================================================
+
+Faculty at School of Natural Sciences
+
+Research Interest
+--------------------------------------------------------------------------------
+Functional analysis, operator theory, function theory.
+
+Education
+--------------------------------------------------------------------------------
+1. Ph.D. (2016--2021) Department of Mathematics, Indian Institute of Technology, Hyderabad, India. Thesis advisor: Prof. G. Ramesh and Prof. D. Venku Naidu.
+2. M.Sc (2012--2014), Tata Institute of Fundamental Research, Centre for Applicable Mathematics, Bangalore, India.
+3. B.Sc (Hons.) (2009--2012), Ramakrishna Mission Vidyamandira, Belur Math, Howrah, India.
+4. 12th Standard ( 2007--2009), Mitra Institution(Main), Kolkata, West Bengal, India.
+5. 10th Standard (2007), Mitra Institution(Main), Kolkata, West Bengal, India.
+
+Work Experience
+--------------------------------------------------------------------------------
+November 2022--Present, NBHM Post-Doctoral Fellow, Stat-Math Unit, Indian Statistical Institute, Bangalore, India.
+August 2022--October 2022, Research associate I, Department of Mathematics, Indian Institute of Science, Bangalore, India.
+February 2022--July 2022, Visiting scientist, Stat-Math Unit, Indian Statistical Institute, Bangalore, India.
+
+Awards
+--------------------------------------------------------------------------------
+Selected for National Board of Higher Mathematics (NBHM) of Department of Atomic Energy (DAE) Post-Doctoral Fellowship (2022).
+Research Excellence Award for outstanding research performance in Ph.D in Mathematics, Department of Mathematics, IIT Hyderabad (2022).
+Secured all India rank 95 in GATE (2016).
+Secured all India rank 41 (LS) in CSIR-NET (2015).
+Junior Research Fellow at TIFR CAM, Bangalore (2012--2014).
+
+Journal Publications
+--------------------------------------------------------------------------------
+Ramesh, S.~R. Bhuia and D. Venku~Naidu, Cartesian decomposition of $C$-normal operators, Linear Multilinear Algebra 70 (2022), no.~21, 6640--6647; https://doi.org/10.1080/03081087.2021.1967847.
+Sudip Ranjan Bhuia, A class of $C$-normal weighted composition operators on Fock space $\mathcal{F}^2(\mathbb{C})$, J. Math. Anal. Appl. 508 (2022), no.~2, Paper No. 125896, 14 pp.; https://doi.org/10.1016/j.jmaa.2021.125896.
+Ramesh, S.~R. Bhuia and D. Venku~Naidu, A representation of compact $C$-normal operators, Linear Multilinear Algebra 71 (2023), no.~9, 1565--1577; https://doi.org/10.1080/03081087.2022.2065234.
+Ramesh, S.~R. Bhuia and D. Venku~Naidu, Cyclic composition operators on Segal-Bargmann space, Concr. Oper. 9 (2022), no.~1, 127--138; https://doi.org/10.1515/conop-2022-0133.
+Sudip Ranjan Bhuia, A note on $C$-normal weighted composition operators on the Fock space in several variables, Monatsh. Math. 201 (2023), no.~1, 53--64; https://doi.org/10.1007/s00605-022-01729-7.
+Ramesh, S.~R. Bhuia and D. Venku~Naidu, On the $C$-polar decomposition of operators and applications, Monatsh. Math. 202 (2023), no.~3, 583--598; https://doi.org/10.1007/s00605-023-01879-2.
+Sudip Ranjan Bhuia, Invariant subspaces of contractions with constant characteristic function, Proc. Amer. Math. Soc. 152 (2024), no.~12, 5249--5263; https://doi.org/10.1090/proc/16965.
+~R. Bhuia, Factorization of Hankel operators, range inclusion of Toeplitz and Hankel operators on the vector-valued Hardy space, C. R. Math. Acad. Sci. Paris 362 (2024), 1773--1778; https://doi.org/10.5802/crmath.680}.
+~R. Bhuia, D. Pradhan and J. Sarkar, Characterizations of complex symmetric Toeplitz operators, Bull. Sci. Math. 199 (2025), Paper No. 103578;
+https://doi.org/10.1016/j.bulsci.2025.103578
+.
+N. Bala and S. R. Bhuia; Norm attaining composition operators on Segal-Bargmann spaces, Bull. Sci. Math. 203 (2025), Paper No. 103657; https://doi.org/10.1016/j.bulsci.2025.103657.
+Sudip Ranjan Bhuia, Operators commuting with complex symmetric weighted composition operators on $H^2$,
+https://arxiv.org/abs/2310.09026
+.
+Sudip Ranjan Bhuia; Factorization of anti-linear and $C$-normal operators, https://arxiv.org/abs/2403.02207.
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+1. January, 2025, PDF-RS Symposium, Indian Statistical Institute, Bangalore, India.
+2. October, 2023, PDF-RS Symposium, Indian Statistical Institute, Bangalore, India.
+3. March, 2023, PDF-RS Annual Symposium, Indian Statistical Institute, Bangalore, India.
+4. December, 2019, Symposium on geometry of Banach spaces, IIT Hyderabad, Telangana, India.

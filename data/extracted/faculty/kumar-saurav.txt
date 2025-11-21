@@ -1,0 +1,48 @@
+================================================================================
+Kumar Saurav
+================================================================================
+
+Faculty at School of Engineering
+
+Research Interest
+--------------------------------------------------------------------------------
+Online Algorithms, Machine Learning, Optimal Control
+
+Education
+--------------------------------------------------------------------------------
+Ph.D. (2024), Computer and Systems Sciences, Tata Institute of Fundamental Research (TIFR), Mumbai
+M.Tech. (2018), Electrical Engineering, Indian Institute of Technology Gandhinagar
+B.Tech. (2016), Electrical Engineering, National Institute of Technology Patna
+
+Work Experience
+--------------------------------------------------------------------------------
+Assistant Professor (07/2025 - present), Department of Electrical Engineering, Shiv Nadar Institution of Eminence.
+Visiting Fellow (06/2024 – 06/2025), Department of Electrical and Computer Engineering, The Ohio State University (USA).
+Visiting Researcher (02/2024 – 05/2024), Centre for Networked Intelligence, Indian Institute of Science, Bengaluru.
+Research Intern (08/2022 – 02/2023), Samsung Research Institute, Bengaluru.
+
+Journal Publications
+--------------------------------------------------------------------------------
+Saurav
+and R. Vaze, “Minimizing Age of Information under Arbitrary Arrival Model with Arbitrary Packet Size”, in Performance Evaluation, vol. 162, 102373, 2023, DOI:
+10.1016/j.peva.2023.102373
+.
+K.Saurav
+and R. Vaze, “Scheduling to Minimize Age of Information with Multiple Sources”, in
+IEEE Journal on Selected Areas in Information Theory
+, vol. 4, pp. 539-550, 2023, DOI: 10.1109/JSAIT.2023.3322077.
+K.Saurav
+and R. Vaze, “Online Energy Minimization Under A Peak Age of Information Constraint", in
+IEEE Journal on Selected Areas in Information Theory
+, vol. 4, pp. 579-590, 2023, DOI: 10.1109/JSAIT.2023.3329034.
+K.Saurav
+and R. Vaze, “Game of Ages in a Distributed Network”, in IEEE Journal on Selected Areas in Communications, vol. 39, no. 5, pp. 1240-1249, 2021, DOI: 10.1109/JSAC.2021.3065053.
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+K.Saurav
+and A. Chavva, “Minimizing Age of Information under Latency and Throughput Constraints”, in IEEE ICC 2024 ‑ IEEE International Conference on Communications, pp. 3676‑3681, DOI: 10.1109/ICC51166.2024.10622655.
+K.Saurav
+and R. Vaze, “Minimizing the Sum of Age of Information and Transmission Cost under Stochastic Arrival Model”, IEEE INFOCOM 2021 – IEEE Conference on Computer Communications, 2021, pp. 1-10, DOI: 10.1109/INFOCOM42981.2021.9488746.
+K.Saurav
+, A. Dash, D. Solanki and U. Lahiri, “Design of a VR-Based Upper Limb Gross Motor and Fine Motor Task Platform for Post-Stroke Survivors”, 2018 IEEE/ACIS 17th International Conference on Computer and Information Science (ICIS), 2018, pp. 252-257, DOI: 10.1109/ICIS.2018.8466538.

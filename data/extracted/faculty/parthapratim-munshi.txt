@@ -1,0 +1,2108 @@
+================================================================================
+Parthapratim  Munshi
+================================================================================
+
+Faculty at School of Natural Sciences
+
+Research Interest
+--------------------------------------------------------------------------------
+High-resolution single-crystal X-ray and Neutron diffractions, Crystal growth & design, Multifunctional organic materials chemistry, Quantum crystallography (Charge density analysis)
+Organic optical, semiconductor,
+ferroelectric, piezoelectric & pyroelectric, and thermo-responsive (negative thermal expansion) materials, biologically active molecules and polymorphism.
+Drug design, Protein-ligand interactions, Molecular docking and Bioinformatics.
+Learn more about our recent research:
+parthapratimmunshi.weebly.com
+Know more:
+Click here
+
+Education
+--------------------------------------------------------------------------------
+Ph.D., Indian Institute of Science (IISc.), Bengaluru, Karnataka
+M.Sc., North Bengal University, Siliguri, Darjeeling
+
+Work Experience
+--------------------------------------------------------------------------------
+07/21 – Present, Professor, Department of Chemistry, School of Natural Sciences, Shiv Nadar
+Institution
+of
+Eminence Deemed to be
+University, Delhi-NCR
+07/18 - 06/21, Associate Professor, Department of Chemistry, School of Natural Sciences, Shiv Nadar
+Institution
+of
+Eminence Deemed to be
+University, Delhi-NCR
+08/13 - 06/18, Assistant Professor, Department of Chemistry, School of Natural Sciences, Shiv Nadar
+Institution
+of
+Eminence Deemed to be
+University, Delhi-NCR
+01/11 - 07/13, Postdoctoral Research Scientist, Neutron Scattering Sciences Directorate, Oak Ridge National Laboratory, TN, USA.
+11/08 - 11/10, Marie Curie Research Fellow, CRM2, CNRS, Nancy University 1, Nancy, France.
+10/05 - 10/08, Postdoctoral Research Associate, School of Chemistry and Biochemistry, University of Western Australia, Perth, Australia.
+
+Awards
+--------------------------------------------------------------------------------
+Research Excellence Award by Shiv Nadar Institution of Eminence DTB University, 2021.
+Fellow of Royal Society of Chemistry (FRSC), London, UK, 2020.
+Emerging Investigators in
+Crystal Growth & Design
+– An ACS journal, 2019.
+International Travel Support
+from SERB-DST, India Govt. July 2005, July 2014 and June 2018.
+Significant Event Award
+from ORNL for exceptional teamwork for the commissioning of IMAGINE beam line, 2013.
+Travel
+Fellowship Awards from the U.S. National Committee for the IUCr. Aug. 2011.
+Selected for
+the 2nd Annual Young Investigators' Meeting (YIM) Boston, USA, Oct. 2010.
+Postdoctoral fellowship
+at the Oak Ridge National Laboratory, TN, USA, Jan. 2011.
+Qualified in a global competition among young scientists worldwide to participate in the 60th Meeting of Nobel Laureates at Lindau, Germany, Jun / Jul 2010.
+Marie Curie International Incoming Fellowship within the 7th European Community Framework Programme, France, Nov 2008 – Oct 2010.
+Postdoctoral fellowship
+at the University of Western Australia, WA, Perth, Australia, Oct. 2005.
+Senior Research Fellowship, Council of Scientific and Industrial Research, India 2003 – 2005.
+Junior Research Fellowship, Indian Institute of Science, Bangalore, 2000 – 2002.
+
+Journal Publications
+--------------------------------------------------------------------------------
+Sakshi#, Y. Gupta#, A. R. Choudhury*,
+P. Munshi*
+"Quantitative and Qualitative Analyses of Symmetry Independent C–F
+⋯
+F–C Interaction and C–H
+⋯
+F–C Hydrogen Bonds in a Biologically Potent Isoquinoline Derivative: Insights from Charge Density Analysis."
+Crystal Growth & Design
+2025
+, 25,
+5395–5405
+.
+#joint first author.
+T. Prabakar, P. Ambastha, R. Yadav, A. Samanta,
+M. K. Ravva,
+P. Munshi*
+and S. Sen*, “
+Oxidative Rearrangement of 3-Aryl Azo Indoles in Water: Synthesis of C3-Oxo-C2-Amino Indoles and their Application
+as Fluorophores for Lipid Droplet Detection.”
+Adv. Synth. Catal.,
+2025
+, 00, e202500353
+.
+https://doi.org/
+10.1002/adsc.202500353
+Sakshi#, Y. Gupta#, C. Robertson, P. Munshi*, A. R. Choudhury*, "Organic Fluorine Mediated Intermolecular Interactions: Insights from Experimental and Theoretical Charge Density Analyses"
+CrystEngComm,
+2025
+,
+27
+, 478 – 487
+. #Equal contributions.
+S. Dutta, L. Negi,
+P. Munshi
+*"Multifunctional Single-component Organic Molecular Materials: Ferroelectricity, Negative Thermal Expansion, and Polymorphism"
+Materials Advances,
+2024
+, (Open Access) Advance Article - Highlight.
+This article is part of the themed collection:
+Recent Review Articles
+https://doi.org/10.
+1039/D4MA00444B
+Vikas, L. Negi,
+P. Munshi
+* "Dynamic Order-Disorder Reversible Phase Transition and Anisotropic Thermal Expansions in A Single-Component Organic Molecular Crystal".
+Crystal Growth & Design,
+2024
+, 24 (6), 2533- 2541.
+https://doi.org/10.1021/acs.
+cgd.3c01549
+G. Gupta, Y. Gupta, A. Kumar, R. Bhowal,
+P. Munshi
+* “Color packing polymorphism in an organic chromophore”
+Crystal Growth & Design,
+2024,
+24 (2), 646-656.
+https://doi.org/
+10.1021/acs.cgd.3c00957
+S. Rath, D. Maiti, M. Modi, P. Pal, S. Munan, B. Mohanty, A. Bhatia, R. Bhowal, R. Priyadarshini, A. Samanta,
+P. Munshi*
+, S. Sen*, “Metal-free synthesis and study of glycine betaine derivatives in water for antimicrobial and anticancer applications.”
+iScience
+, 2023
+, 26, 107285 (Open Access).
+https://doi.org/10.
+1016/j.isci.2023.107285
+K. K. Jha, A. Kumar,
+P. Munshi
+*, “Solvatochromism and reversible solvent exchange phenomena in solvatomorphic organic chromophore crystals”
+Crystal Growth & Design
+,2023,
+23
+(4), 2922–2931.
+L. Singla^, A. Kumar^, C. Robertson*,
+P. Munshi
+*, A. R. Choudhury*, "Investigation of C-F•••F-C interactions using experimental and theoretical charge density analyses"
+Crystal Growth & Design
+,2023,
+23
+(2), 853-861. ^Equal contributions.
+A. Kumar, B. Mohanty, P. Munshi* "Probing diversity in binding affinities of polymorphs of an anticancer agent against human γ-enolase - A quantum crystallographic perspective"
+Crystal Growth & Design
+, 2023
+,
+23
+(1), 580-591.
+A. Kumar, J. Chauhan, K. Dubey, S. Sen,
+P. Munshi
+*, "Tuning potency of bioactive molecules via polymorphic modifications: A case study
+"
+,
+Mol. Pharmaceutics
+, 2022,
+19
+(3), 1008–1018.
+S. Dutta, Vikas, T. Vijayakanth, and
+P. Munshi
+*, “Ferroelectricity and negative thermal expansion in a purely organic single-component material.”
+ACS Appl. Electron. Mater.
+2021,
+3
+(8), 3633–3640.
+S. K. Mandal and
+P. Munshi
+*, “Predicting accurate lead structures for screening molecular libraries: a quantum crystallographic approach”
+Molecules
+2021
+,
+26
+(9)
+, 2605-2621.
+S. Dutta and
+P. Munshi
+* “
+Thermo-responsive single-component organic materials: Iso-symmetric phase transition, polymorphism and negative thermal expansion
+”
+Acta Cryst.
+2021,
+A
+77
+, C1016.
+P. Munshi
+*, S. Dutta, A. Kumar, “
+understanding the proton tautomerism mechanism in organic molecular ferroelectrics: Insights from quantum crystallography
+”
+Acta Cryst.
+2021,
+A
+77
+, C913.
+A. Kumar, J. Chauhan, K. D. Dubey, S. Sen,
+P Munshi
+*,
+importance of polymorphism in improving the potency of bioactive molecules
+”
+Acta Cryst.
+2021,
+A
+77
+, C891.
+S. Dutta and
+P. Munshi
+* "Unusual Anisotropic Thermal Expansions with Reversible Axial Switching and Record-Wide Thermal Hysteresis in Single-Component Purely Organic Molecular Crystals"
+J. Phys. Chem. C.,
+2020, 124, 27413 - 27421.
+S. K. Mandal, B. Guilot,
+P. Munshi
+* "
+Electron Density Based Analysis of N-H∙∙∙O=C Hydrogen Bonds and Electrostatic Interaction Energies in High-resolution Secondary Protein Structures: Insights from Quantum Crystallographic Approaches
+"
+CrystEngComm
+, 2020, 22, 4363-4373.
+S. K. Mandal, B. Guilot,
+P. Munshi
+* "
+Electron Density Based Analysis of N-H∙∙∙O=C Hydrogen Bonds and Electrostatic Interaction Energies in High-resolution Secondary Protein Structures: Insights from Quantum Crystallographic Approaches
+"
+CrystEngComm
+, Cover page, 2020,
+22
+, 4501.
+S. K. Mandal, P. Munshi, “Predicting Lead Structure(s) for Molecular Library Screening Using Molecular Docking and Quantum Crystallography”, SSRN 3532904, 2020.
+S. Dutta, Vikas, A. Yadav, R. Boomishankar, A. Bala, V. Kumar, T. Chakraborty, S. Elizabeth, and
+P. Munshi
+* "Record-high Thermal Stability Achieved in a Novel Single-Component All-Organic Ferroelectric Crystal Exhibiting Polymorphism"
+Chem. Commun.
+2019,
+55,
+9610-9613.
+S. Dutta, Vikas, A. Yadav, R. Boomishankar, A. Bala, V. Kumar, T. Chakraborty, S. Elizabeth, and
+P. Munshi
+* "Record-high Thermal Stability Achieved in a Novel Single-Component All-Organic Ferroelectric Crystal Exhibiting Polymorphism"
+Chem. Commun
+, Cover page, 2019,
+55
+, 9572.
+K. K. Jha, Y. Yadav, S. B. Srivastava, D. Chakraborty, P. Johari, S. P. Singh and
+P. Munshi
+* "Structure-property Relationship in an Organic Semiconductor: Insights from Energy Frameworks, Charge Density Analysis and Diode Device"
+Cryst. Growth Des.
+2019,
+19(5)
+, 3019-3029.
+K. K. Jha, S. Dutta, S. Sar, S. Sen, and
+P. Munshi
+* “Harnessing
+Sun
+for Catalyst and Sensitizer Free Regio- and Stereo-selective [2+2] Cycloaddition”
+Tetrahedron,
+2018,
+74(51)
+, 7326-7334.
+A. Iruthayaraj, K. Chinnasamy, K. K. Jha, M. S. Pavan,
+P. Munshi
+, and P. Kumaradhas “Topology of electron density and electrostatic potential of HIV reverse transcriptase inhibitor zidovudine from high resolution X-ray diffraction and charge density analysis”
+J. Mol. Struc.
+, 2018,
+1180
+, 683-697.
+D. Jayatilaka*, K. K. Jha and
+P. Munshi
+* “Is it reasonable to obtain information on the polarizability and hyperpolarizability from the electron density?”
+Aust. J. Chem.
+2018
+, 71(4) 295-306.
+K. K. Jha, S. Dutta, and
+P. Munshi*
+"Concomitance, reversibility and switching ability of centrosymmetric and non-centrosymmetric crystal forms: Polymorphism in an organic NLO material"
+Cryst. Growth Des.
+2018
+,
+18
+(2), 1126–1135.
+Note:
+This article has been selected as a Highlighted article - Editor’s choice.
+G. Singh, P. Kalra, A. Arora, A. Singh, G. Sharma, I. K. Maurya, S. Dutta,
+P. Munshi
+, V. Verma "Acetylenic Indole‐Encapsulated Schiff Bases: Synthesis, In Silico Studies as Potent Antimicrobial Agents, Cytotoxic Evaluation and Synergistic Effects"
+ChemistrySelect
+,
+2018
+,
+3(8)
+, 2366-2375.
+S. K. Mandal, P. Saha,
+P. Munshi
+,* N. Sukumar “Exploring Potent Ligand for Proteins: Insights from Knowledge-based Scoring Functions and Molecular Interaction Energies”,
+Structural Chemistry
+,
+2017
+,
+28(5)
+, 1537-1552.
+V. Kumar, R. Thaimattam, S. Dutta,
+P. Munshi
+, A. Ramanan “Structural landscape of multicomponent solids based on sulfa drugs
+”,
+CrystEngComm
+,
+2017
+,
+19
+, 2914-2924.
+K. K. Jha
+,
+S. B. Srivastava
+,
+S. P. Singh
+and
+P. Munshi
+* “
+Efficient organic NLO material: charge-density analysis and device fabrication”
+Acta Cryst.
+2017
+,
+A73
+, C800.
+S. K. Mandal
+,
+B. Guillot
+and
+P. Munshi
+* “
+Topological analysis of hydrogen bonds and interaction energies in proteins”
+Acta Cryst.
+2017
+,
+A73
+, C573.
+S. Dutta
+,
+A. Menon
+and
+P. Munshi
+* “Exploring ferroelectricity in organic salts or co-crystals”
+Acta Cryst.
+2017
+,
+A73
+, C726.
+E. Sangtani
+,
+K. Jha
+,
+P. Munshi
+and
+R. Gonnade
+“Co-crystals/salts of furosemide: interesting case of colour co-crystal polymorphism”
+Acta Cryst.
+2017
+,
+A73
+, C724.
+P. Munshi
+* “
+Charge-density studies in small molecules and proteins: sources and detectors”
+Acta Cryst.
+2017
+,
+A73
+, C1387.
+E. Sangtani, S. K. Mandal, A. S. Sreelakshmi,
+P. Munshi
+, R. Gonnade "Salts and Cocrystals of Furosemide with Pyridines: Differences in
+π
+-Stacking and Color Polymorphism".
+Crystal Growth & Design,
+2017
+,
+17
+(
+6
+), 3071–3087.
+N. Kumar, S. Hati,
+P. Munshi
+, S. Sen, S. Sehrawat, S Singh "A novel spiroindoline targets cell cycle and migration
+via
+modulation of microtubule cytoskeleton"
+Molecular Cell Biochemistry,
+2017
+,
+429(1-2)
+, 11-21.
+P. K. Dutta, A. Majumder, S. Dutta, B. B. Dhar,
+P. Munshi
+, S. Sen,” Solvent free, palladium catalyzed highly facile synthesis of diaryl disulfides from aryl thiols”
+Tetrahedron Letter
+,
+2017
+,
+58
+, 527-530.
+K. K. Jha, S. Dutta, V. Kumar,
+P. Munshi*
+, “Isostructural Polymorphs: Qualitative Insights from Energy Frameworks”
+CrystEngComm
+,
+2016
+,
+18
+, 8497-8505.
+S Hati, P Kumar Dutta, S Dutta,
+P Munshi
+, S Sen, “Accessing Benzimidazoles via a Ring Distortion Strategy: An Oxone Mediated Tandem Reaction of 2-Aminobenzylamines”
+Organic Letter
+,
+2016
+,
+18
+(13), 3090-3093.
+C. Bathula, S. Tripathi, R. Srinivasan, K. K. Jha, A. Ganguli, G. Chakrabarti, S. Singh,
+P. Munshi
+, S. Sen “Synthesis of novel 5-arylidenethiazolidinones with apoptotic properties
+via
+a three component reaction using piperidine as a bifunctional reagent”
+Organic & Biomolecular Chemistry
+,
+2016,
+14
+, 8053-8063.
+R. Mamidala, P. Majumdar, K. K. Jha
+,
+C. Bathula, R. Agarwal, M. T. Charya, H. Mazumdar,
+P. Munshi
+, S. Sen, "Identification of Leishmania donovani Topoisomerase 1 inhibitors
+via
+intuitive scaffold hopping and bioisosteric modification of known Top 1 inhibitors".
+Scientific Report
+,
+2016
+,
+6
+, 28120.
+E. Sangtani, S. K. Sahu, S. H. Thorat, R. L. Gawade, K. K. Jha,
+P. Munshi
+, R. Gonnade "Furosemide Cocrystals with Pyridines: An Interesting Case of Color Co-crystal Polymorphism".
+Crystal Growth & Design,
+2015
+,
+15
+, 5858 - 5872.
+C. Bathula, P. Dangi, S. Hati, R. Agarwal,
+P. Munshi
+, S. Singh, S. Sen “Diverse synthesis of natural product inspired fused and spiro-heterocyclic scaffolds via ring distortion and ring construction strategy”
+New Journal of Chemistry
+,
+2015
+,
+39
+, 9281.
+C. Bathula, R. Mamidala, C. Thulluri, R. Agarwal, K. K. Jha,
+P. Munshi
+, U. Adepally, A. Singh, M. Thirumalachary, S. Sen “Substituted furopyridinediones as novel inhibitors of α-glucosidase”.
+RSC Advances,
+2015
+,
+5
+, 90374.
+A. C. Shaikh, D. S. Ranade, S. Thorat, A. Maity, P. P. Kulkarni, R. G. Gonnade,
+P. Munshi
+and N. T. Patil "Highly Emissive Organic Solids with Remarkably Broad Color Tunability Based on N, C-Chelate Four-Coordinate Organoborons”.
+ChemComm,
+2015
+,
+51
+, 16115.
+B. Zarychta, A. Lyubimov, M. Ahmed,
+P. Munshi
+, B. Guillot, A. Vrielink, C. Jelsch. “Ultra-high resolution crystal structure and charge density study of cholesterol oxidase”.
+Acta Crystallographica Section D
+,
+2015
+,
+71
+, 954.
+G. Prabhu, S. Agarwal, V. Sharma, S. M. Madurkar,
+P. Munshi
+, S. Singh, S. Sen. “A natural product based DOS library of hybrid systems”
+European Journal Medicinal Chemistry
+,
+2015
+,
+95
+, 41.
+P. Munshi
+, E. Snell, M. van der Woerd, R. Judge, D. Myles, Z. Ren, F. Meilleur, “Neutron structure of the cyclic glucose bound Xylose Isomerase E186Q mutant.”
+Acta Crystallographica Section D
+,
+2014
+,
+70
+, 414.
+P. Munshi*
+& K. K. Jha “Exploring Charge Transfer Mechanism in Organic NLO (Polymorphic) Materials”,
+Acta Crystallographica Section A,
+2014
+,
+70
+, C378.
+P. Munshi
+, C. B. Stanley, S. Ghimire-Rijal, Xun Lu, D. A. Myles, M. J. Cuneo, “Molecular detail of ligand selectivity determinants in a promiscous
+b
+-glucan periplasmic binding protein.”
+BMC Structural Biology
+,
+2013,
+13:18.
+F. Meilleur,
+P. Munshi
+, L. Robertson, A. Stoica, L. Crow, A. Kovalevsky, T. Koritsanszky, B. C. Chakoumakos, R. Blessing, D. A. A. Myles, “IMAGINE: first neutron protein structure and new capabilities for neutron macromolecular crystallography.”
+Acta
+Crystallographica Section D
+,
+2013
+,
+69
+, 2157 - 2160.
+P. Munshi
+, S-L. Chung, M. P. Blakely, K. Weiss, D. A. Myles, F. Meilleur, “Rapid visualization of hydrogen positions in protein neutron crystallography structures.”
+Acta Crystallographica Section D
+,
+2012
+,
+63
+, 35 - 41.
+V. Hathwar, R. G. Gonnade, P. Munshi, M. M. Bhadbhade, T. N. Guru Row, “Halogen bonding in 2, 5-dichloro-1, 4-benzoquinone: Insights from experimental and theoretical charge density analysis.”
+Crystal Growth & Design
+, 2011,
+11
+(5)
+,
+1855 - 1862.
+S. Domagala,
+P. Munshi
+, M. Ahmed, B. Guillot, C. Jelsch, “Structural analysis and multipole modelling of quercetin monohydrate - A quantitative and comparative study.”
+Acta Crystallographica Section B,
+2011
+,
+67
+, 63 - 78.
+P. Munshi
+, C. Jelsch, V. Hathwar, T. N. Guru Row, “Experimental and Theoretical Charge Density Analyses on Polymorphic Structures: A Case of Coumarin 314 dye.”
+Crystal Growth & Design
+,
+10
+(
+4
+),
+2010
+, 1516-1526;
+Corrections
+,
+10
+(
+10
+),
+2010
+, 4670.
+D. Jayatilaka,
+P. Munshi
+, M. Turner, J. A. K. Howard, M. A. Spackman, “Refractive indices for molecular crystals from the response of X-ray constrained Hartree–Fock wavefunctions.”
+Physical Chemistry Chemical Physics
+,
+11
+,
+2009
+, 7209-7218.
+P. Munshi
+, B. Guillot, D. Liebschner, C. Jelsch, Quantitaive analysis of atomic polarization in protein human aldose reductase.
+Acta Crystallographica Section
+A, 65
+, 2009, s172.
+C. Jelsch, S. Domagala, B. Zarychta, C. Lecomte, B. Guillot,
+P. Munshi
+, Assesment of electron density refinement quality using free
+R
+-factors and restraints.
+Acta Crystallographica Section A
+,
+65
+, 2009, s76.
+P. Munshi
+, A. O. Madsen, M. A. Spackman, S. Larsen and R. Destro, “Estimated hydrogen anisotropic displacement parameters: A comparison between different methods and with neutron diffraction results.”
+Acta Crystallographica Section A
+,
+64
+,
+2008
+, 465-475.
+P. Munshi
+, B. W. Skelton, J. J. Mckinon, and M. A. Spackman, “Polymorphism in 3-methyl-4-methoxy-4¢-nitrosilbene, A Highly Active NLO Material.”
+CrystEngComm
+,
+10
+,
+2008
+, 197-206.
+P. Munshi
+, B. Dittrich, M. A. Spackman, D. Jayatilaka, and L. H. Rees, Estimation of optical properties from wavefunction fitting of X-ray diffraction data.
+Acta Crystallographica Section A
+, 64
+, 2008, C128.
+M. M. Bhadbhade, R. G. Gonnade, P. Munshi, T. N. Guru Row, Charge density studies on halogen bonding interactions.
+Acta Crystallographica Section A
+,
+64
+, 2008, C568.
+M. A. Spackman,
+P. Munshi
+and D. Jayatilaka, “The Use of Dipole Lattice Sums to Estimate Electric Fields and Dipole Moment Enhancement in Molecular Crystals.”
+Chemical Physics Letters
+,
+443
+,
+2007
+, 87-91.
+M. A. Spackman,
+P. Munshi
+and B. Dittrich, “Dipole Moment Enhancement in Molecular Crystals from X-ray Diffraction Data.” (
+mini review
+).
+A European Journal of Chemical Physics and Physical Chemistry
+,
+8
+,
+2007
+, 2051-2063.
+B. Dittrich,
+P. Munshi
+and M. A. Spackman, Redetermination, Invariom-model and Multipole Refinement of l-orthinine Hydrochloride.
+Acta Crystallographica Section B
+,
+63,
+2007
+, 505-509.
+P. Munshi, E. M. Cameron, J. D. Ferrara, T. N. Guru Row, and T. S. Cameron, Investigation of Inter-ion Interactions in N,N,N'N'-tetramethylethlenediammonium dithiocyanate via Experimental and Theoretical Charge Density Studies.
+The Journal of Physical Chemistry A
+,
+111(32)
+,
+2007
+, 7888-7897.
+B. Dittrich,
+P. Munshi
+and M. A. Spackman, Invariom-model Refinement of l-valinol.
+Acta Crystallographica Section C
+,
+62
+,
+2006
+,o633-o635.
+P. Munshi & T. N. Guru Row, Intra and Intermolecular Interactions in Small Bioactive Molecules: Cooperative Features from Experimental and Theoretical Charge Density Analysis.
+Acta Crystallographica Section B
+,
+62
+,
+2006
+, 612-626.
+P. Munshi & T. N. Guru Row, Topological Analysis of Charge Density Distribution in Concomitant Polymorphs of 3-acetylcoumarin, A Case of Packing Polymorphism.
+Crystal Growth & Design
+,
+6
+(
+3
+), 2006, 708-718.
+P. Munshi, T. S. Thakur, T. N. Guru Row, and G. R. Desiraju, Five Varieties of Hydrogen Bonds in 1-Formyl-3-Thiosemicarbazide. An Electron Density Study.
+Acta Crystallographica Section B
+,
+62
+,
+2006
+, 118-127.
+P. Munshi & T. N. Guru Row, Charge Density Based Classification of Intermolecular Interactions in Molecular Crystals.
+CrystEngComm
+,
+7(100)
+,
+2005
+, 608-611.
+P. Munshi & T. N. Guru Row, Evaluation of Intermolecular Interactions in Molecular Crystals via Experimental and Theoretical Charge Densities.
+Crystallography Reviews
+,
+11(3)
+, 2005, 199-241.
+P. Munshi & T. N. Guru Row, Exploring the Lower Limit in Hydrogen Bonds: Analysis of Weak C-H...O and C-H...p Interactions in Substituted Coumarins from Charge Density Analysis.
+The Journal of Physical Chemistry A
+,
+109(4)
+, 2005, 659-672.
+P. Munshi & T. N. Guru Row, Topological analysis of charge densities in polymorphs of 3-acetylcoumarin.
+Acta Crystallographica Section A
+,
+61
+, 2005, C423-C424.
+T. S. Cameron, E. M. Cameron, J. D. Ferrara, T. N. Guru Row, and P. Munshi, Examination of all inter-ion interactions in (CH3)2N(H)CH2CH2N(H)(CH3)2(SCN)2.
+Acta Crystallographica Section A
+, 61
+,
+2005
+, C428.
+P. Munshi & T. N. Guru Row, 2H-Thiochromene-2-thione.
+Acta Crystallographica Section E
+,
+60
+, 2004, o2168.
+P. Munshi, K. N. Venugopala, B. S. Jayashree, and T. N. Guru Row, Concomitant Polymorphism in 3-acetylcoumarin: Role of Weak C-H…O and C-H…
+p
+Interactions. (
+Communn
+).
+Crystal Growth & Design
+,
+4
+(
+6
+),
+2004
+, 1105-1107.
+P. Munshi & T. N. Guru Row, Electron Density Study of 2H-chromene-2-thione.
+Acta Crystallographica Section B
+,
+58
+, 2002, 1011-1017.
+P. Munshi & T. N. Guru Row, 2H-Thiochromene-2-one.
+Acta Crystallographica Section E
+,
+58
+, 2002, o353.
+P. Munshi & T. N. Guru Row, Experimental charge density analysis on modified coumarins: topological properties.
+Acta Crystallographica Section
+A
+,
+58
+, 2002, C354.
+P. Munshi & T. N. Guru Row, 2H-Chromene-2-thione.
+Acta Crystallographica Section E
+,
+57
+, 2001
+,
+o1175.
+S. Rath, D. Maiti, M. Modi, P. Pal, S. Munan, B. Mohanty, A. Bhatia, R. Bhowal, R. Priyadarshini, A. Samanta, P. Munshi*, S. Sen*, “Metal-free synthesis and study of glycine betaine derivatives in water for antimicrobial and anticancer applications.”
+iScience
+, 2023, Accepted on 30 June.
+K. K. Jha, A. Kumar, P. Munshi*, “Solvatochromism and reversible solvent exchange phenomena in solvatomorphic organic chromophore crystals”
+Crystal Growth & Design
+,2023,
+23
+(4), 2922–2931.
+L. Singla^, A. Kumar^, C. Robertson*, P. Munshi*, A. R. Choudhury*, "Investigation of C-F•••F-C interactions using experimental and theoretical charge density analyses"
+Crystal Growth & Design
+,2023,
+23
+(2), 853-861. ^Equal contributions.
+A. Kumar, B. Mohanty, P. Munshi* "Probing diversity in binding affinities of polymorphs of an anticancer agent against human γ-enolase - A quantum crystallographic perspective"
+Crystal Growth & Design
+, 2023
+,
+23
+(1), 580-591.
+A. Kumar, J. Chauhan, K. Dubey, S. Sen, P. Munshi*, "Tuning potency of bioactive molecules via polymorphic modifications: A case study
+"
+,
+Mol. Pharmaceutics
+, 2022,
+19
+(3), 1008–1018.
+S. Dutta, Vikas, T. Vijayakanth, and P. Munshi*, “Ferroelectricity and negative thermal expansion in a purely organic single-component material.”
+ACS Appl. Electron. Mater.
+2021,
+3
+(8), 3633–3640.
+S. K. Mandal and
+P. Munshi*, “
+Predicting accurate lead structures for screening molecular libraries: a quantum crystallographic approach”
+Molecules
+2021
+,
+26
+(9)
+, 2605-2621.
+S. Dutta and P. Munshi* “
+Thermo-responsive single-component organic materials: Iso-symmetric phase transition, polymorphism and negative thermal expansion
+”
+Acta Cryst.
+2021,
+A
+77
+, C1016.
+P. Munshi*, S. Dutta, A. Kumar, “
+understanding the proton tautomerism mechanism in organic molecular ferroelectrics: Insights from quantum crystallography
+”
+Acta Cryst.
+2021,
+A
+77
+, C913.
+A. Kumar, J. Chauhan, K. D. Dubey, S. Sen, P Munshi*,
+importance of polymorphism in improving the potency of bioactive molecules
+”
+Acta Cryst.
+2021,
+A
+77
+, C891.
+S. Dutta and P. Munshi* "Unusual Anisotropic Thermal Expansions with Reversible Axial Switching and Record-Wide Thermal Hysteresis in Single-Component Purely Organic Molecular Crystals"
+J. Phys. Chem. C.,
+2020, 124, 27413 - 27421.
+S. K. Mandal, B. Guilot,
+P. Munshi* "
+Electron Density Based Analysis of N-H∙∙∙O=C Hydrogen Bonds and Electrostatic Interaction Energies in High-resolution Secondary Protein Structures: Insights from Quantum Crystallographic Approaches
+"
+CrystEngComm
+,
+2020
+, 22, 4363-4373.
+S. K. Mandal, B. Guilot,
+P. Munshi* "
+Electron Density Based Analysis of N-H∙∙∙O=C Hydrogen Bonds and Electrostatic Interaction Energies in High-resolution Secondary Protein Structures: Insights from Quantum Crystallographic Approaches
+"
+CrystEngComm
+, Cover page,
+2020
+,
+22
+, 4501.
+S. K. Mandal,
+P. Munshi
+, “Predicting Lead Structure(s) for Molecular Library Screening Using Molecular Docking and Quantum Crystallography”, SSRN 3532904,
+2020
+.
+S. Dutta, Vikas, A. Yadav, R. Boomishankar, A. Bala, V. Kumar, T. Chakraborty, S. Elizabeth, and P. Munshi* "Record-high Thermal Stability Achieved in a Novel Single-Component All-Organic Ferroelectric Crystal Exhibiting Polymorphism"
+Chem. Commun.
+2019,
+55,
+9610-9613.
+S. Dutta, Vikas, A. Yadav, R. Boomishankar, A. Bala, V. Kumar, T. Chakraborty, S. Elizabeth, and P. Munshi* "Record-high Thermal Stability Achieved in a Novel Single-Component All-Organic Ferroelectric Crystal Exhibiting Polymorphism"
+Chem. Commun
+, Cover page, 2019,
+55
+, 9572.
+K. K. Jha, Y. Yadav, S. B. Srivastava, D. Chakraborty, P. Johari, S. P. Singh and P. Munshi* "Structure-property Relationship in an Organic Semiconductor: Insights from Energy Frameworks, Charge Density Analysis and Diode Device"
+Cryst. Growth Des.
+2019,
+19(5)
+, 3019-3029.
+K. K. Jha, S. Dutta, S. Sar, S. Sen, and P. Munshi* “Harnessing
+Sun
+for Catalyst and Sensitizer Free Regio- and Stereo-selective [2+2] Cycloaddition”
+Tetrahedron,
+2018,
+74(51)
+, 7326-7334.
+A. Iruthayaraj, K. Chinnasamy, K. K. Jha, M. S. Pavan, P. Munshi, and P. Kumaradhas “Topology of electron density and electrostatic potential of HIV reverse transcriptase inhibitor zidovudine from high resolution X-ray diffraction and charge density analysis”
+J. Mol. Struc.
+, 2018,
+1180
+, 683-697.
+D. Jayatilaka*, K. K. Jha and
+P. Munshi
+* “Is it reasonable to obtain information on the polarizability and hyperpolarizability from the electron density?”
+Aust. J. Chem.
+2018
+, 71(4) 295-306.
+K. K. Jha, S. Dutta, and
+P. Munshi*
+"Concomitance, reversibility and switching ability of centrosymmetric and non-centrosymmetric crystal forms: Polymorphism in an organic NLO material"
+Cryst. Growth Des.
+2018
+,
+18
+(2), 1126–1135.
+Note:
+This article has been selected as a Highlighted article - Editor’s choice.
+G. Singh, P. Kalra, A. Arora, A. Singh, G. Sharma, I. K. Maurya, S. Dutta,
+P. Munshi
+, V. Verma "Acetylenic Indole‐Encapsulated Schiff Bases: Synthesis, In Silico Studies as Potent Antimicrobial Agents, Cytotoxic Evaluation and Synergistic Effects"
+ChemistrySelect
+,
+2018
+,
+3(8)
+, 2366-2375.
+S. K. Mandal, P. Saha,
+P. Munshi
+,* N. Sukumar “Exploring Potent Ligand for Proteins: Insights from Knowledge-based Scoring Functions and Molecular Interaction Energies”,
+Structural Chemistry
+,
+2017
+,
+28(5)
+, 1537-1552.
+V. Kumar, R. Thaimattam, S. Dutta,
+P. Munshi
+, A. Ramanan “
+Structural landscape of multicomponent solids based on sulfa drugs
+”,
+CrystEngComm
+,
+2017
+,
+19
+, 2914-2924.
+K. K. Jha
+,
+S. B. Srivastava
+,
+S. P. Singh
+and
+P. Munshi
+* “
+Efficient organic NLO material: charge-density analysis and device fabrication”
+Acta Cryst.
+2017
+,
+A73
+, C800.
+S. K. Mandal
+,
+B. Guillot
+and
+P. Munshi
+* “
+Topological analysis of hydrogen bonds and interaction energies in proteins”
+Acta Cryst.
+2017
+,
+A73
+, C573.
+S. Dutta
+,
+A. Menon
+and
+P. Munshi
+* “Exploring ferroelectricity in organic salts or co-crystals”
+Acta Cryst.
+2017
+,
+A73
+, C726.
+E. Sangtani
+,
+K. Jha
+,
+P. Munshi
+and
+R. Gonnade
+“Co-crystals/salts of furosemide: interesting case of colour co-crystal polymorphism”
+Acta Cryst.
+2017
+,
+A73
+, C724.
+P. Munshi
+* “
+Charge-density studies in small molecules and proteins: sources and detectors”
+Acta Cryst.
+2017
+,
+A73
+, C1387.
+E. Sangtani, S. K. Mandal, A. S. Sreelakshmi,
+P. Munshi
+, R. Gonnade "Salts and Cocrystals of Furosemide with Pyridines: Differences in
+π
+-Stacking and Color Polymorphism".
+Crystal Growth & Design,
+2017
+,
+17
+(
+6
+), 3071–3087.
+N. Kumar, S. Hati,
+P. Munshi
+, S. Sen, S. Sehrawat, S Singh "A novel spiroindoline targets cell cycle and migration
+via
+modulation of microtubule cytoskeleton"
+Molecular Cell Biochemistry,
+2017
+,
+429(1-2)
+, 11-21.
+P. K. Dutta, A. Majumder, S. Dutta, B. B. Dhar,
+P. Munshi
+, S. Sen,” Solvent free, palladium catalyzed highly facile synthesis of diaryl disulfides from aryl thiols”
+Tetrahedron Letter
+,
+2017
+,
+58
+, 527-530.
+K. K. Jha, S. Dutta, V. Kumar,
+P. Munshi*
+, “Isostructural Polymorphs: Qualitative Insights from Energy Frameworks”
+CrystEngComm
+,
+2016
+,
+18
+, 8497-8505.
+S Hati, P Kumar Dutta, S Dutta,
+P Munshi
+, S Sen, “Accessing Benzimidazoles via a Ring Distortion Strategy: An Oxone Mediated Tandem Reaction of 2-Aminobenzylamines”
+Organic Letter
+,
+2016
+,
+18
+(13), 3090-3093.
+C. Bathula, S. Tripathi, R. Srinivasan, K. K. Jha, A. Ganguli, G. Chakrabarti, S. Singh,
+P. Munshi
+, S. Sen “Synthesis of novel 5-arylidenethiazolidinones with apoptotic properties
+via
+a three component reaction using piperidine as a bifunctional reagent”
+Organic & Biomolecular Chemistry
+,
+2016,
+14
+, 8053-8063.
+R. Mamidala, P. Majumdar, K. K. Jha
+,
+C. Bathula, R. Agarwal, M. T. Charya, H. Mazumdar,
+P. Munshi
+, S. Sen, "Identification of Leishmania donovani Topoisomerase 1 inhibitors
+via
+intuitive scaffold hopping and bioisosteric modification of known Top 1 inhibitors".
+Scientific Report
+,
+2016
+,
+6
+, 28120.
+E. Sangtani, S. K. Sahu, S. H. Thorat, R. L. Gawade, K. K. Jha,
+P. Munshi
+, R. Gonnade "Furosemide Cocrystals with Pyridines: An Interesting Case of Color Co-crystal Polymorphism".
+Crystal Growth & Design,
+2015
+,
+15
+, 5858 - 5872.
+C. Bathula, P. Dangi, S. Hati, R. Agarwal,
+P. Munshi
+, S. Singh, S. Sen “Diverse synthesis of natural product inspired fused and spiro-heterocyclic scaffolds via ring distortion and ring construction strategy”
+New Journal of Chemistry
+,
+2015
+,
+39
+, 9281.
+C. Bathula, R. Mamidala, C. Thulluri, R. Agarwal, K. K. Jha,
+P. Munshi
+, U. Adepally, A. Singh, M. Thirumalachary, S. Sen “Substituted furopyridinediones as novel inhibitors of α-glucosidase”.
+RSC Advances,
+2015
+,
+5
+, 90374.
+A. C. Shaikh, D. S. Ranade, S. Thorat, A. Maity, P. P. Kulkarni, R. G. Gonnade,
+P. Munshi
+and N. T. Patil "Highly Emissive Organic Solids with Remarkably Broad Color Tunability Based on N, C-Chelate Four-Coordinate Organoborons”.
+ChemComm,
+2015
+,
+51
+, 16115.
+B. Zarychta, A. Lyubimov, M. Ahmed,
+P. Munshi
+, B. Guillot, A. Vrielink, C. Jelsch. “Ultra-high resolution crystal structure and charge density study of cholesterol oxidase”.
+Acta Crystallographica Section D
+,
+2015
+,
+71
+, 954.
+G. Prabhu, S. Agarwal, V. Sharma, S. M. Madurkar,
+P. Munshi
+, S. Singh, S. Sen. “A natural product based DOS library of hybrid systems”
+European Journal Medicinal Chemistry
+,
+2015
+,
+95
+, 41.
+P. Munshi
+, E. Snell, M. van der Woerd, R. Judge, D. Myles, Z. Ren, F. Meilleur, “Neutron structure of the cyclic glucose bound Xylose Isomerase E186Q mutant.”
+Acta Crystallographica Section D
+,
+2014
+,
+70
+, 414.
+P. Munshi*
+& K. K. Jha “Exploring Charge Transfer Mechanism in Organic NLO (Polymorphic) Materials”,
+Acta Crystallographica Section A,
+2014
+,
+70
+, C378.
+P. Munshi
+, C. B. Stanley, S. Ghimire-Rijal, Xun Lu, D. A. Myles, M. J. Cuneo, “Molecular detail of ligand selectivity determinants in a promiscous
+b
+-glucan periplasmic binding protein.”
+BMC Structural Biology
+,
+2013,
+13:18.
+F. Meilleur,
+P. Munshi
+, L. Robertson, A. Stoica, L. Crow, A. Kovalevsky, T. Koritsanszky, B. C. Chakoumakos, R. Blessing, D. A. A. Myles, “IMAGINE: first neutron protein structure and new capabilities for neutron macromolecular crystallography.”
+Acta
+Crystallographica Section D
+,
+2013
+,
+69
+, 2157 - 2160.
+P. Munshi
+, S-L. Chung, M. P. Blakely, K. Weiss, D. A. Myles, F. Meilleur, “Rapid visualization of hydrogen positions in protein neutron crystallography structures.”
+Acta Crystallographica Section D
+,
+2012
+,
+63
+, 35 - 41.
+V. Hathwar, R. G. Gonnade, P. Munshi, M. M. Bhadbhade, T. N. Guru Row, “Halogen bonding in 2, 5-dichloro-1, 4-benzoquinone: Insights from experimental and theoretical charge density analysis.”
+Crystal Growth & Design
+, 2011,
+11
+(5)
+,
+1855 - 1862.
+S. Domagala,
+P. Munshi
+, M. Ahmed, B. Guillot, C. Jelsch, “Structural analysis and multipole modelling of quercetin monohydrate - A quantitative and comparative study.”
+Acta Crystallographica Section B,
+2011
+,
+67
+, 63 - 78.
+P. Munshi
+, C. Jelsch, V. Hathwar, T. N. Guru Row, “Experimental and Theoretical Charge Density Analyses on Polymorphic Structures: A Case of Coumarin 314 dye.”
+Crystal Growth & Design
+,
+10
+(
+4
+),
+2010
+, 1516-1526;
+Corrections
+,
+10
+(
+10
+),
+2010
+, 4670.
+D. Jayatilaka,
+P. Munshi
+, M. Turner, J. A. K. Howard, M. A. Spackman, “Refractive indices for molecular crystals from the response of X-ray constrained Hartree–Fock wavefunctions.”
+Physical Chemistry Chemical Physics
+,
+11
+,
+2009
+, 7209-7218.
+P. Munshi
+, B. Guillot, D. Liebschner, C. Jelsch, Quantitaive analysis of atomic polarization in protein human aldose reductase.
+Acta Crystallographica Section
+A, 65
+, 2009, s172.
+C. Jelsch, S. Domagala, B. Zarychta, C. Lecomte, B. Guillot,
+P. Munshi
+, Assesment of electron density refinement quality using free
+R
+-factors and restraints.
+Acta Crystallographica Section A
+,
+65
+, 2009, s76.
+P. Munshi
+, A. O. Madsen, M. A. Spackman, S. Larsen and R. Destro, “Estimated hydrogen anisotropic displacement parameters: A comparison between different methods and with neutron diffraction results.”
+Acta Crystallographica Section A
+,
+64
+,
+2008
+, 465-475.
+P. Munshi
+, B. W. Skelton, J. J. Mckinon, and M. A. Spackman, “Polymorphism in 3-methyl-4-methoxy-4¢-nitrosilbene, A Highly Active NLO Material.”
+CrystEngComm
+,
+10
+,
+2008
+, 197-206.
+P. Munshi
+, B. Dittrich, M. A. Spackman, D. Jayatilaka, and L. H. Rees, Estimation of optical properties from wavefunction fitting of X-ray diffraction data.
+Acta Crystallographica Section A
+, 64
+, 2008, C128.
+M. M. Bhadbhade, R. G. Gonnade, P. Munshi, T. N. Guru Row, Charge density studies on halogen bonding interactions.
+Acta Crystallographica Section A
+,
+64
+, 2008, C568.
+M. A. Spackman,
+P. Munshi
+and D. Jayatilaka, “The Use of Dipole Lattice Sums to Estimate Electric Fields and Dipole Moment Enhancement in Molecular Crystals.”
+Chemical Physics Letters
+,
+443
+,
+2007
+, 87-91.
+M. A. Spackman,
+P. Munshi
+and B. Dittrich, “Dipole Moment Enhancement in Molecular Crystals from X-ray Diffraction Data.” (
+mini review
+).
+A European Journal of Chemical Physics and Physical Chemistry
+,
+8
+,
+2007
+, 2051-2063.
+B. Dittrich,
+P. Munshi
+and M. A. Spackman, Redetermination, Invariom-model and Multipole Refinement of l-orthinine Hydrochloride.
+Acta Crystallographica Section B
+,
+63,
+2007
+, 505-509.
+P. Munshi, E. M. Cameron, J. D. Ferrara, T. N. Guru Row, and T. S. Cameron, Investigation of Inter-ion Interactions in N,N,N'N'-tetramethylethlenediammonium dithiocyanate via Experimental and Theoretical Charge Density Studies.
+The Journal of Physical Chemistry A
+,
+111(32)
+,
+2007
+, 7888-7897.
+B. Dittrich,
+P. Munshi
+and M. A. Spackman, Invariom-model Refinement of l-valinol.
+Acta Crystallographica Section C
+,
+62
+,
+2006
+,o633-o635.
+P. Munshi & T. N. Guru Row, Intra and Intermolecular Interactions in Small Bioactive Molecules: Cooperative Features from Experimental and Theoretical Charge Density Analysis.
+Acta Crystallographica Section B
+,
+62
+,
+2006
+, 612-626.
+P. Munshi & T. N. Guru Row, Topological Analysis of Charge Density Distribution in Concomitant Polymorphs of 3-acetylcoumarin, A Case of Packing Polymorphism.
+Crystal Growth & Design
+,
+6
+(
+3
+), 2006, 708-718.
+P. Munshi, T. S. Thakur, T. N. Guru Row, and G. R. Desiraju, Five Varieties of Hydrogen Bonds in 1-Formyl-3-Thiosemicarbazide. An Electron Density Study.
+Acta Crystallographica Section B
+,
+62
+,
+2006
+, 118-127.
+P. Munshi & T. N. Guru Row, Charge Density Based Classification of Intermolecular Interactions in Molecular Crystals.
+CrystEngComm
+,
+7(100)
+,
+2005
+, 608-611.
+P. Munshi & T. N. Guru Row, Evaluation of Intermolecular Interactions in Molecular Crystals via Experimental and Theoretical Charge Densities.
+Crystallography Reviews
+,
+11(3)
+, 2005, 199-241.
+P. Munshi & T. N. Guru Row, Exploring the Lower Limit in Hydrogen Bonds: Analysis of Weak C-H...O and C-H...p Interactions in Substituted Coumarins from Charge Density Analysis.
+The Journal of Physical Chemistry A
+,
+109(4)
+, 2005, 659-672.
+P. Munshi & T. N. Guru Row, Topological analysis of charge densities in polymorphs of 3-acetylcoumarin.
+Acta Crystallographica Section A
+,
+61
+, 2005, C423-C424.
+T. S. Cameron, E. M. Cameron, J. D. Ferrara, T. N. Guru Row, and P. Munshi, Examination of all inter-ion interactions in (CH3)2N(H)CH2CH2N(H)(CH3)2(SCN)2.
+Acta Crystallographica Section A
+, 61
+,
+2005
+, C428.
+P. Munshi & T. N. Guru Row, 2H-Thiochromene-2-thione.
+Acta Crystallographica Section E
+,
+60
+, 2004, o2168.
+P. Munshi, K. N. Venugopala, B. S. Jayashree, and T. N. Guru Row, Concomitant Polymorphism in 3-acetylcoumarin: Role of Weak C-H…O and C-H…
+p
+Interactions. (
+Communn
+).
+Crystal Growth & Design
+,
+4
+(
+6
+),
+2004
+, 1105-1107.
+P. Munshi & T. N. Guru Row, Electron Density Study of 2H-chromene-2-thione.
+Acta Crystallographica Section B
+,
+58
+, 2002, 1011-1017.
+P. Munshi & T. N. Guru Row, 2H-Thiochromene-2-one.
+Acta Crystallographica Section E
+,
+58
+, 2002, o353.
+P. Munshi & T. N. Guru Row, Experimental charge density analysis on modified coumarins: topological properties.
+Acta Crystallographica Section
+A
+,
+58
+, 2002, C354.
+P. Munshi & T. N. Guru Row, 2H-Chromene-2-thione.
+Acta Crystallographica Section E
+,
+57
+, 2001
+,
+o1175.
+S. Rath, D. Maiti, M. Modi, P. Pal, S. Munan, B. Mohanty, A. Bhatia, R. Bhowal, R. Priyadarshini, A. Samanta, P. Munshi*, S. Sen*, “Metal-free synthesis and study of glycine betaine derivatives in water for antimicrobial and anticancer applications.”
+iScience
+, 2023, Accepted on 30 June.
+K. K. Jha, A. Kumar, P. Munshi*, “Solvatochromism and reversible solvent exchange phenomena in solvatomorphic organic chromophore crystals”
+Crystal Growth & Design
+,2023,
+23
+(4), 2922–2931.
+L. Singla^, A. Kumar^, C. Robertson*, P. Munshi*, A. R. Choudhury*, "Investigation of C-F•••F-C interactions using experimental and theoretical charge density analyses"
+Crystal Growth & Design
+,2023,
+23
+(2), 853-861. ^Equal contributions.
+A. Kumar, B. Mohanty, P. Munshi* "Probing diversity in binding affinities of polymorphs of an anticancer agent against human γ-enolase - A quantum crystallographic perspective"
+Crystal Growth & Design
+, 2023
+,
+23
+(1), 580-591.
+A. Kumar, J. Chauhan, K. Dubey, S. Sen, P. Munshi*, "Tuning potency of bioactive molecules via polymorphic modifications: A case study
+"
+,
+Mol. Pharmaceutics
+, 2022,
+19
+(3), 1008–1018.
+S. Dutta, Vikas, T. Vijayakanth, and P. Munshi*, “Ferroelectricity and negative thermal expansion in a purely organic single-component material.”
+ACS Appl. Electron. Mater.
+2021,
+3
+(8), 3633–3640.
+S. K. Mandal and
+P. Munshi*, “
+Predicting accurate lead structures for screening molecular libraries: a quantum crystallographic approach”
+Molecules
+2021
+,
+26
+(9)
+, 2605-2621.
+S. Dutta and P. Munshi* “
+Thermo-responsive single-component organic materials: Iso-symmetric phase transition, polymorphism and negative thermal expansion
+”
+Acta Cryst.
+2021,
+A
+77
+, C1016.
+P. Munshi*, S. Dutta, A. Kumar, “
+understanding the proton tautomerism mechanism in organic molecular ferroelectrics: Insights from quantum crystallography
+”
+Acta Cryst.
+2021,
+A
+77
+, C913.
+A. Kumar, J. Chauhan, K. D. Dubey, S. Sen, P Munshi*,
+importance of polymorphism in improving the potency of bioactive molecules
+”
+Acta Cryst.
+2021,
+A
+77
+, C891.
+S. Dutta and P. Munshi* "Unusual Anisotropic Thermal Expansions with Reversible Axial Switching and Record-Wide Thermal Hysteresis in Single-Component Purely Organic Molecular Crystals"
+J. Phys. Chem. C.,
+2020, 124, 27413 - 27421.
+S. K. Mandal, B. Guilot,
+P. Munshi* "
+Electron Density Based Analysis of N-H∙∙∙O=C Hydrogen Bonds and Electrostatic Interaction Energies in High-resolution Secondary Protein Structures: Insights from Quantum Crystallographic Approaches
+"
+CrystEngComm
+,
+2020
+, 22, 4363-4373.
+S. K. Mandal, B. Guilot,
+P. Munshi* "
+Electron Density Based Analysis of N-H∙∙∙O=C Hydrogen Bonds and Electrostatic Interaction Energies in High-resolution Secondary Protein Structures: Insights from Quantum Crystallographic Approaches
+"
+CrystEngComm
+, Cover page,
+2020
+,
+22
+, 4501.
+S. K. Mandal,
+P. Munshi
+, “Predicting Lead Structure(s) for Molecular Library Screening Using Molecular Docking and Quantum Crystallography”, SSRN 3532904,
+2020
+.
+S. Dutta, Vikas, A. Yadav, R. Boomishankar, A. Bala, V. Kumar, T. Chakraborty, S. Elizabeth, and P. Munshi* "Record-high Thermal Stability Achieved in a Novel Single-Component All-Organic Ferroelectric Crystal Exhibiting Polymorphism"
+Chem. Commun.
+2019,
+55,
+9610-9613.
+S. Dutta, Vikas, A. Yadav, R. Boomishankar, A. Bala, V. Kumar, T. Chakraborty, S. Elizabeth, and P. Munshi* "Record-high Thermal Stability Achieved in a Novel Single-Component All-Organic Ferroelectric Crystal Exhibiting Polymorphism"
+Chem. Commun
+, Cover page, 2019,
+55
+, 9572.
+K. K. Jha, Y. Yadav, S. B. Srivastava, D. Chakraborty, P. Johari, S. P. Singh and P. Munshi* "Structure-property Relationship in an Organic Semiconductor: Insights from Energy Frameworks, Charge Density Analysis and Diode Device"
+Cryst. Growth Des.
+2019,
+19(5)
+, 3019-3029.
+K. K. Jha, S. Dutta, S. Sar, S. Sen, and P. Munshi* “Harnessing
+Sun
+for Catalyst and Sensitizer Free Regio- and Stereo-selective [2+2] Cycloaddition”
+Tetrahedron,
+2018,
+74(51)
+, 7326-7334.
+A. Iruthayaraj, K. Chinnasamy, K. K. Jha, M. S. Pavan, P. Munshi, and P. Kumaradhas “Topology of electron density and electrostatic potential of HIV reverse transcriptase inhibitor zidovudine from high resolution X-ray diffraction and charge density analysis”
+J. Mol. Struc.
+, 2018,
+1180
+, 683-697.
+D. Jayatilaka*, K. K. Jha and
+P. Munshi
+* “Is it reasonable to obtain information on the polarizability and hyperpolarizability from the electron density?”
+Aust. J. Chem.
+2018
+, 71(4) 295-306.
+K. K. Jha, S. Dutta, and
+P. Munshi*
+"Concomitance, reversibility and switching ability of centrosymmetric and non-centrosymmetric crystal forms: Polymorphism in an organic NLO material"
+Cryst. Growth Des.
+2018
+,
+18
+(2), 1126–1135.
+Note:
+This article has been selected as a Highlighted article - Editor’s choice.
+G. Singh, P. Kalra, A. Arora, A. Singh, G. Sharma, I. K. Maurya, S. Dutta,
+P. Munshi
+, V. Verma "Acetylenic Indole‐Encapsulated Schiff Bases: Synthesis, In Silico Studies as Potent Antimicrobial Agents, Cytotoxic Evaluation and Synergistic Effects"
+ChemistrySelect
+,
+2018
+,
+3(8)
+, 2366-2375.
+S. K. Mandal, P. Saha,
+P. Munshi
+,* N. Sukumar “Exploring Potent Ligand for Proteins: Insights from Knowledge-based Scoring Functions and Molecular Interaction Energies”,
+Structural Chemistry
+,
+2017
+,
+28(5)
+, 1537-1552.
+V. Kumar, R. Thaimattam, S. Dutta,
+P. Munshi
+, A. Ramanan “
+Structural landscape of multicomponent solids based on sulfa drugs
+”,
+CrystEngComm
+,
+2017
+,
+19
+, 2914-2924.
+K. K. Jha
+,
+S. B. Srivastava
+,
+S. P. Singh
+and
+P. Munshi
+* “
+Efficient organic NLO material: charge-density analysis and device fabrication”
+Acta Cryst.
+2017
+,
+A73
+, C800.
+S. K. Mandal
+,
+B. Guillot
+and
+P. Munshi
+* “
+Topological analysis of hydrogen bonds and interaction energies in proteins”
+Acta Cryst.
+2017
+,
+A73
+, C573.
+S. Dutta
+,
+A. Menon
+and
+P. Munshi
+* “Exploring ferroelectricity in organic salts or co-crystals”
+Acta Cryst.
+2017
+,
+A73
+, C726.
+E. Sangtani
+,
+K. Jha
+,
+P. Munshi
+and
+R. Gonnade
+“Co-crystals/salts of furosemide: interesting case of colour co-crystal polymorphism”
+Acta Cryst.
+2017
+,
+A73
+, C724.
+P. Munshi
+* “
+Charge-density studies in small molecules and proteins: sources and detectors”
+Acta Cryst.
+2017
+,
+A73
+, C1387.
+E. Sangtani, S. K. Mandal, A. S. Sreelakshmi,
+P. Munshi
+, R. Gonnade "Salts and Cocrystals of Furosemide with Pyridines: Differences in
+π
+-Stacking and Color Polymorphism".
+Crystal Growth & Design,
+2017
+,
+17
+(
+6
+), 3071–3087.
+N. Kumar, S. Hati,
+P. Munshi
+, S. Sen, S. Sehrawat, S Singh "A novel spiroindoline targets cell cycle and migration
+via
+modulation of microtubule cytoskeleton"
+Molecular Cell Biochemistry,
+2017
+,
+429(1-2)
+, 11-21.
+P. K. Dutta, A. Majumder, S. Dutta, B. B. Dhar,
+P. Munshi
+, S. Sen,” Solvent free, palladium catalyzed highly facile synthesis of diaryl disulfides from aryl thiols”
+Tetrahedron Letter
+,
+2017
+,
+58
+, 527-530.
+K. K. Jha, S. Dutta, V. Kumar,
+P. Munshi*
+, “Isostructural Polymorphs: Qualitative Insights from Energy Frameworks”
+CrystEngComm
+,
+2016
+,
+18
+, 8497-8505.
+S Hati, P Kumar Dutta, S Dutta,
+P Munshi
+, S Sen, “Accessing Benzimidazoles via a Ring Distortion Strategy: An Oxone Mediated Tandem Reaction of 2-Aminobenzylamines”
+Organic Letter
+,
+2016
+,
+18
+(13), 3090-3093.
+C. Bathula, S. Tripathi, R. Srinivasan, K. K. Jha, A. Ganguli, G. Chakrabarti, S. Singh,
+P. Munshi
+, S. Sen “Synthesis of novel 5-arylidenethiazolidinones with apoptotic properties
+via
+a three component reaction using piperidine as a bifunctional reagent”
+Organic & Biomolecular Chemistry
+,
+2016,
+14
+, 8053-8063.
+R. Mamidala, P. Majumdar, K. K. Jha
+,
+C. Bathula, R. Agarwal, M. T. Charya, H. Mazumdar,
+P. Munshi
+, S. Sen, "Identification of Leishmania donovani Topoisomerase 1 inhibitors
+via
+intuitive scaffold hopping and bioisosteric modification of known Top 1 inhibitors".
+Scientific Report
+,
+2016
+,
+6
+, 28120.
+E. Sangtani, S. K. Sahu, S. H. Thorat, R. L. Gawade, K. K. Jha,
+P. Munshi
+, R. Gonnade "Furosemide Cocrystals with Pyridines: An Interesting Case of Color Co-crystal Polymorphism".
+Crystal Growth & Design,
+2015
+,
+15
+, 5858 - 5872.
+C. Bathula, P. Dangi, S. Hati, R. Agarwal,
+P. Munshi
+, S. Singh, S. Sen “Diverse synthesis of natural product inspired fused and spiro-heterocyclic scaffolds via ring distortion and ring construction strategy”
+New Journal of Chemistry
+,
+2015
+,
+39
+, 9281.
+C. Bathula, R. Mamidala, C. Thulluri, R. Agarwal, K. K. Jha,
+P. Munshi
+, U. Adepally, A. Singh, M. Thirumalachary, S. Sen “Substituted furopyridinediones as novel inhibitors of α-glucosidase”.
+RSC Advances,
+2015
+,
+5
+, 90374.
+A. C. Shaikh, D. S. Ranade, S. Thorat, A. Maity, P. P. Kulkarni, R. G. Gonnade,
+P. Munshi
+and N. T. Patil "Highly Emissive Organic Solids with Remarkably Broad Color Tunability Based on N, C-Chelate Four-Coordinate Organoborons”.
+ChemComm,
+2015
+,
+51
+, 16115.
+B. Zarychta, A. Lyubimov, M. Ahmed,
+P. Munshi
+, B. Guillot, A. Vrielink, C. Jelsch. “Ultra-high resolution crystal structure and charge density study of cholesterol oxidase”.
+Acta Crystallographica Section D
+,
+2015
+,
+71
+, 954.
+G. Prabhu, S. Agarwal, V. Sharma, S. M. Madurkar,
+P. Munshi
+, S. Singh, S. Sen. “A natural product based DOS library of hybrid systems”
+European Journal Medicinal Chemistry
+,
+2015
+,
+95
+, 41.
+P. Munshi
+, E. Snell, M. van der Woerd, R. Judge, D. Myles, Z. Ren, F. Meilleur, “Neutron structure of the cyclic glucose bound Xylose Isomerase E186Q mutant.”
+Acta Crystallographica Section D
+,
+2014
+,
+70
+, 414.
+P. Munshi*
+& K. K. Jha “Exploring Charge Transfer Mechanism in Organic NLO (Polymorphic) Materials”,
+Acta Crystallographica Section A,
+2014
+,
+70
+, C378.
+P. Munshi
+, C. B. Stanley, S. Ghimire-Rijal, Xun Lu, D. A. Myles, M. J. Cuneo, “Molecular detail of ligand selectivity determinants in a promiscous
+b
+-glucan periplasmic binding protein.”
+BMC Structural Biology
+,
+2013,
+13:18.
+F. Meilleur,
+P. Munshi
+, L. Robertson, A. Stoica, L. Crow, A. Kovalevsky, T. Koritsanszky, B. C. Chakoumakos, R. Blessing, D. A. A. Myles, “IMAGINE: first neutron protein structure and new capabilities for neutron macromolecular crystallography.”
+Acta
+Crystallographica Section D
+,
+2013
+,
+69
+, 2157 - 2160.
+P. Munshi
+, S-L. Chung, M. P. Blakely, K. Weiss, D. A. Myles, F. Meilleur, “Rapid visualization of hydrogen positions in protein neutron crystallography structures.”
+Acta Crystallographica Section D
+,
+2012
+,
+63
+, 35 - 41.
+V. Hathwar, R. G. Gonnade, P. Munshi, M. M. Bhadbhade, T. N. Guru Row, “Halogen bonding in 2, 5-dichloro-1, 4-benzoquinone: Insights from experimental and theoretical charge density analysis.”
+Crystal Growth & Design
+, 2011,
+11
+(5)
+,
+1855 - 1862.
+S. Domagala,
+P. Munshi
+, M. Ahmed, B. Guillot, C. Jelsch, “Structural analysis and multipole modelling of quercetin monohydrate - A quantitative and comparative study.”
+Acta Crystallographica Section B,
+2011
+,
+67
+, 63 - 78.
+P. Munshi
+, C. Jelsch, V. Hathwar, T. N. Guru Row, “Experimental and Theoretical Charge Density Analyses on Polymorphic Structures: A Case of Coumarin 314 dye.”
+Crystal Growth & Design
+,
+10
+(
+4
+),
+2010
+, 1516-1526;
+Corrections
+,
+10
+(
+10
+),
+2010
+, 4670.
+D. Jayatilaka,
+P. Munshi
+, M. Turner, J. A. K. Howard, M. A. Spackman, “Refractive indices for molecular crystals from the response of X-ray constrained Hartree–Fock wavefunctions.”
+Physical Chemistry Chemical Physics
+,
+11
+,
+2009
+, 7209-7218.
+P. Munshi
+, B. Guillot, D. Liebschner, C. Jelsch, Quantitaive analysis of atomic polarization in protein human aldose reductase.
+Acta Crystallographica Section
+A, 65
+, 2009, s172.
+C. Jelsch, S. Domagala, B. Zarychta, C. Lecomte, B. Guillot,
+P. Munshi
+, Assesment of electron density refinement quality using free
+R
+-factors and restraints.
+Acta Crystallographica Section A
+,
+65
+, 2009, s76.
+P. Munshi
+, A. O. Madsen, M. A. Spackman, S. Larsen and R. Destro, “Estimated hydrogen anisotropic displacement parameters: A comparison between different methods and with neutron diffraction results.”
+Acta Crystallographica Section A
+,
+64
+,
+2008
+, 465-475.
+P. Munshi
+, B. W. Skelton, J. J. Mckinon, and M. A. Spackman, “Polymorphism in 3-methyl-4-methoxy-4¢-nitrosilbene, A Highly Active NLO Material.”
+CrystEngComm
+,
+10
+,
+2008
+, 197-206.
+P. Munshi
+, B. Dittrich, M. A. Spackman, D. Jayatilaka, and L. H. Rees, Estimation of optical properties from wavefunction fitting of X-ray diffraction data.
+Acta Crystallographica Section A
+, 64
+, 2008, C128.
+M. M. Bhadbhade, R. G. Gonnade, P. Munshi, T. N. Guru Row, Charge density studies on halogen bonding interactions.
+Acta Crystallographica Section A
+,
+64
+, 2008, C568.
+M. A. Spackman,
+P. Munshi
+and D. Jayatilaka, “The Use of Dipole Lattice Sums to Estimate Electric Fields and Dipole Moment Enhancement in Molecular Crystals.”
+Chemical Physics Letters
+,
+443
+,
+2007
+, 87-91.
+M. A. Spackman,
+P. Munshi
+and B. Dittrich, “Dipole Moment Enhancement in Molecular Crystals from X-ray Diffraction Data.” (
+mini review
+).
+A European Journal of Chemical Physics and Physical Chemistry
+,
+8
+,
+2007
+, 2051-2063.
+B. Dittrich,
+P. Munshi
+and M. A. Spackman, Redetermination, Invariom-model and Multipole Refinement of l-orthinine Hydrochloride.
+Acta Crystallographica Section B
+,
+63,
+2007
+, 505-509.
+P. Munshi, E. M. Cameron, J. D. Ferrara, T. N. Guru Row, and T. S. Cameron, Investigation of Inter-ion Interactions in N,N,N'N'-tetramethylethlenediammonium dithiocyanate via Experimental and Theoretical Charge Density Studies.
+The Journal of Physical Chemistry A
+,
+111(32)
+,
+2007
+, 7888-7897.
+B. Dittrich,
+P. Munshi
+and M. A. Spackman, Invariom-model Refinement of l-valinol.
+Acta Crystallographica Section C
+,
+62
+,
+2006
+,o633-o635.
+P. Munshi & T. N. Guru Row, Intra and Intermolecular Interactions in Small Bioactive Molecules: Cooperative Features from Experimental and Theoretical Charge Density Analysis.
+Acta Crystallographica Section B
+,
+62
+,
+2006
+, 612-626.
+P. Munshi & T. N. Guru Row, Topological Analysis of Charge Density Distribution in Concomitant Polymorphs of 3-acetylcoumarin, A Case of Packing Polymorphism.
+Crystal Growth & Design
+,
+6
+(
+3
+), 2006, 708-718.
+P. Munshi, T. S. Thakur, T. N. Guru Row, and G. R. Desiraju, Five Varieties of Hydrogen Bonds in 1-Formyl-3-Thiosemicarbazide. An Electron Density Study.
+Acta Crystallographica Section B
+,
+62
+,
+2006
+, 118-127.
+P. Munshi & T. N. Guru Row, Charge Density Based Classification of Intermolecular Interactions in Molecular Crystals.
+CrystEngComm
+,
+7(100)
+,
+2005
+, 608-611.
+P. Munshi & T. N. Guru Row, Evaluation of Intermolecular Interactions in Molecular Crystals via Experimental and Theoretical Charge Densities.
+Crystallography Reviews
+,
+11(3)
+, 2005, 199-241.
+P. Munshi & T. N. Guru Row, Exploring the Lower Limit in Hydrogen Bonds: Analysis of Weak C-H...O and C-H...p Interactions in Substituted Coumarins from Charge Density Analysis.
+The Journal of Physical Chemistry A
+,
+109(4)
+, 2005, 659-672.
+P. Munshi & T. N. Guru Row, Topological analysis of charge densities in polymorphs of 3-acetylcoumarin.
+Acta Crystallographica Section A
+,
+61
+, 2005, C423-C424.
+T. S. Cameron, E. M. Cameron, J. D. Ferrara, T. N. Guru Row, and P. Munshi, Examination of all inter-ion interactions in (CH3)2N(H)CH2CH2N(H)(CH3)2(SCN)2.
+Acta Crystallographica Section A
+, 61
+,
+2005
+, C428.
+P. Munshi & T. N. Guru Row, 2H-Thiochromene-2-thione.
+Acta Crystallographica Section E
+,
+60
+, 2004, o2168.
+P. Munshi, K. N. Venugopala, B. S. Jayashree, and T. N. Guru Row, Concomitant Polymorphism in 3-acetylcoumarin: Role of Weak C-H…O and C-H…
+p
+Interactions. (
+Communn
+).
+Crystal Growth & Design
+,
+4
+(
+6
+),
+2004
+, 1105-1107.
+P. Munshi & T. N. Guru Row, Electron Density Study of 2H-chromene-2-thione.
+Acta Crystallographica Section B
+,
+58
+, 2002, 1011-1017.
+P. Munshi & T. N. Guru Row, 2H-Thiochromene-2-one.
+Acta Crystallographica Section E
+,
+58
+, 2002, o353.
+P. Munshi & T. N. Guru Row, Experimental charge density analysis on modified coumarins: topological properties.
+Acta Crystallographica Section
+A
+,
+58
+, 2002, C354.
+P. Munshi & T. N. Guru Row, 2H-Chromene-2-thione.
+Acta Crystallographica Section E
+,
+57
+, 2001
+,
+o1175.
+
+Books and Book Chapters (Authored / Edited / Reviewed)
+--------------------------------------------------------------------------------
+S. Mandal and
+P. Munshi*
+“
+Charge Density Studies and Topological Analysis of Hydrogen Bonds in Proteins”
+in
+“
+Understanding Intermolecular Interactions in the Solid State
+:
+Approaches and Techniques
+”
+, ed. D. Chopra, Royal Society of Chemistry, UK, 1st edn,
+2018
+, vol. 1, Chapter 6, Print ISBN:
+978-1-78801-079-5.
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+Delivered more than 30 talks as Invited speaker and oral presenter in the following conference and organizations:
+Sagamore
+, Warwickshire,
+UK
+,
+Halifax,
+Canada
+;
+National seminar on Crystallography,
+Kolkata
+,
+New Delhi
+,
+Mohali
+,
+Pune
+,
+Bengaluru
+,
+Roorkee
+,
+Jammu
+;
+IUCr, Osaka,
+Japan
+,
+Montreal, Quebec,
+Canada
+,
+Hyderabad
+;
+GRC on Electron Distribution
+&
+Chemical Bonding, Mount holyoke college, MA,
+USA
+; ACA, New Orleans,
+LA,
+USA
+; APS, Chicago, IL,
+USA
+; EMCA,
+Kolkata
+;
+IISc.,
+Bangalore
+; SNIoE
+Delhi-NCR
+; Periyar University,
+Salem
+; Panjab University,
+Chandigarh
+; SEACCE,
+Colombo,
+Sri Lanka
+; CEFMC,
+Raipur
+,
+Pahalgam Kashmir
+;
+AsCA2019,
+Singapore
+;
+NCAFM-2019,
+New Delhi
+; IIT
+Kanpur
+;
+Goa
+University; IISER
+Kolkata
+,
+Pune
+,
+Mohali
+; NBU
+Siliguri
+, ORNL, TN,
+USA
+;
+Nancy,
+France
+;
+Durham,
+UK
+;
+Italy
+; University of Warsaw,
+Poland
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances
+--------------------------------------------------------------------------------
+Organic Photoswitchable Ferroelectric and Piezoelectric Materials for Next-generation Smart Electronic Devices and Energy Harvesting,
+Parthapratim Munshi (PI)
+and Meha Bhogra (Co-PI)
+,
+SNIoE/FGIR
+,
+10 Lakhs,
+2023–2025 (2 years).
+Exploring Ferroelectricity in Single-component Organic Molecular Crystals: Cases of
+Imidazole,
+Parthapratim Munshi (PI)
+,
+SERB/CRG,
+32.3 Lakhs, 2
+019 – 2022 (3 years).
+Quantitative Studies of Hydrogen Bonding and Electrostatic Interaction Energies
+In
+Proteins: Insights from Advanced Charge Density Analysis,
+Parthapratim Munshi (PI)
+,
+SERB/EMR
+,
+53 Lakhs
+,
+2015 – 2018 (3 years)
+.
+
+Advisory work with NGOs / Government / International Bodies
+--------------------------------------------------------------------------------
+Fellow of Royal Society of Chemistry (FRSC), London, UK
+Member of UC Berkeley’s Executive Leadership Academy (ELA) Alumni, 2021.
+Member of the Editorial Board of
+Journal of Molecular Structure
+– Elsevier, 2022 – 2025.
+Member of the Advisory Board of
+CrystEngComm
+–Royal Society of Chemistry, 2021
+Editor of Current Indian Science: Crystallography, to be launched by Bentham Science
+Member of the Commission on Quantum Crystallography (QCr) of the IUCr
+Consultant to the Commission on Quantum Crystallography (QCr) of the IUCr
+Member of National Committee for International Union of Crystallography
+(IUCr), 2020 – 2023
+Associate Editor of MOJ Bioorganic & Organic Chemistry published by MedCrave
+Member of National Program Committee of Indian Crystallography Association
+Member of Indian Institute of Science Alumni Association
+Member of Indian Crystallography Association
+Member of Marie-Curie Alumni Association

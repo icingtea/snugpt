@@ -1,0 +1,115 @@
+================================================================================
+Subhajit Sarkar
+================================================================================
+
+Faculty at School of Natural Sciences
+
+Research Interests
+--------------------------------------------------------------------------------
+Non-equilibrium quantum many-body dynamics
+: Time crystals, Periodically driven systems, Entanglement dynamics open quantum systems, Lindblad dynamics.
+Quantum transport
+: Spin-selective transport, Chirality-induced spin selectivity (CISS), Tensor networks (MPS, TTN) simulation of non-Markovian open systems.
+Hot-electron dynamics and ultrafast optics
+: Epsilon-near-zero (ENZ) materials, Few-cycle laser pulses, High-energy electron dynamics, Non-linear optical response.
+For further details please visit
+https://sites.google.com/view/subhajitsarkar/?pli=1
+
+Education Details
+--------------------------------------------------------------------------------
+Ph.
+D. in Physics (Theoretical)
+,
+2017
+S. N. Bose National Centre for Basic Sciences, Kolkata.
+Degree awarded by the
+University of Calcutta
+Thesis submitted: 27 July 2016| Degree awarded: 11 April 2017
+M.Sc. in Physics
+,
+2010
+Indian Institute of Technology (IIT) Kharagpur.
+B.Sc. (Honours) in Physics
+,
+2008
+Uluberia College, University of Calcutta.
+
+Work Experience
+--------------------------------------------------------------------------------
+Assistant Professor (Research Track)
+Department of Physics and Nanotechnology
+SRM Institute of Science and Technology, Kattankulathur, Tamil Nadu, India
+December 18, 2023 – June 4, 2025
+Adiunkt (Postdoctoral Fellow)
+Institute of Theoretical Physics, Faculty of Physics, Astronomy, and Applied Computer Science
+Jagiellonian University, Krakow, Poland
+April 1, 2023 – December 16, 2023
+Postdoctoral Fellow
+Department of Chemistry, and School of Electrical and Computer Engineering
+Ben-Gurion University of the Negev, Beer Sheva, Israel
+October 1, 2018 – December 31, 2022
+Postdoctoral Fellow
+Institute of Physics, Bhubaneswar, India
+August 29, 2016 – September 25, 2018
+
+Academic Achievements/Awards
+--------------------------------------------------------------------------------
+IIT-JAM 2008,
+All India Rank 72
+.
+CSIR-NET 2010,
+All India Rank 97
+.
+Kreitmann Post-Doctoral Fellowship, Ben Gurion University of the Negev, Israel (2018–2020)
+J1 Exchange Visitor Fellowship, National Institute of Standards and Technology (NIST-Gaithersburg), United States Department of Commerce J1-Exchange visitor program, Government sponsored, 2023.
+
+National and International Recognition
+--------------------------------------------------------------------------------
+First prize in “Flash Talk” category at Israel Vacuum Society Students Conference (2021)
+
+Journal Publications
+--------------------------------------------------------------------------------
+Time crystals from single molecule magnet arrays,
+Subhajit Sarkar
+# and Yonatan Dubi; ACS Nano
+18
+, 41, 27988–27996 (2024), DOI: 10.1021/acsnano.4c05817
+Protecting coherence from the environment via Stark many-body localization in a Quantum-Dot Simulator,
+Subhajit Sarkar
+and Berislav Buca#; Quantum
+8
+, 1392 (2024), DOI: 10.22331/q-2024-07-02-1392
+Emergence and Dynamical Stability of a Charge Time-Crystal in a Current-Carrying Quantum Dot Simulator,
+Subhajit Sarkar
+# and Yonatan Dubi, Nano Letters.
+22
+, 11, 4445–4451 (2022), DOI:10.1021/acs.nanolett.2c00976
+Signatures of discrete time-crystallinity in transport through an open Fermionic chain,
+Subhajit Sarkar
+# and Yonatan Dubi, Communications. Physics.
+5
+, 155 (2022), DOI: 10.1038/s42005-022-00925-z
+Full List in Google Scholar – Link
+https://scholar.google.co.in/citations?user=RMky1Z8AAAAJ&hl=en
+# Corresponding Author
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+At the Department of Physics, IISER Pune on “Super-diffusive to Diffusive Transition in Quantum Transport Due to Long-Range Hopping in Non-Interacting Fermion Systems,” 13th June 2024.
+At the Periodically and Quasi-Periodically Driven Complex Systems, ICTS-TIFR, Bangalore, India, 12-23 June 2023 on “Quantum Transport and Discrete Time Crystals,” 19th June 2023.
+At the Marian Smoluchowski Institute of Physics, Jagiellonian University, Krakow, Poland on, “Quantum transport and discrete time crystals,” 13th September 2022.
+At the Department of Physics, IISER Pune on, “Quantum transport and discrete time crystals,” 27th July 2022.
+
+Oral Presentations / Poster Presentations
+--------------------------------------------------------------------------------
+Contributed Talk delivered at the “NANOP-2022, Nanophotonics and micro/nano optics international conference, FIAP Jean Monet, Paris” on, “The nonlinear optical response and non-equilibrium electron dynamics in ITO” on 27th October 2022.
+Contributed (online) Talk delivered at the “QMAT-2022 Indian Institute of Technology, Kanpur” on, “Quantum transport and discrete time crystals” on 20th September 2022.
+Contributed Talk delivered at the “Israel Vacuum Society Student Conference 2021” on, “Theory of Hot Carriers And Carrier Heating In Semiconductors.”
+Obtained first prize in the Flash talk category
+.
+Poster presented in the “Conference on signatures of topology in condensed matter,” The Abdus Salam International Centre for Theoretical Physics, ICTP, 20-27 October 2019.
+Poster presented in the conference “From Quantum Computing to Quantum Chemistry: Theory, Platforms, and Practical Applications,” Sunday, 15 - 18 September 2019.
+
+Peer Review Service
+--------------------------------------------------------------------------------
+Reports on Progress in Physics, Physical Review Letters, Physical Review A, B, and E, Journal of Physics: Condensed Matter, Scientific Reports, International Journal of Modelling and Simulation.

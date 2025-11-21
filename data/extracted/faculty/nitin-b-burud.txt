@@ -1,0 +1,40 @@
+================================================================================
+Nitin B. Burud
+================================================================================
+
+Faculty at School of Engineering
+
+Biography
+--------------------------------------------------------------------------------
+Dr. Nitin Burud received his doctorate from the Indian Institute of Science, Bangalore, India. His research focuses on fracture and fatigue in materials,, specializing in structural health monitoring applications that use statistical data analysis. He extensively worked on the acoustic emission technique to understand the fracture process in concrete-like, quasi-brittle cementitious materials. Bringing a complexity perspective to understand the fracture process in concrete and the application of Tsallis entropy as a measure of the complexity is a central idea of his recent research. Before joining Shiv Nadar University, he worked as a postdoctoral research fellow at the University of Surrey, United Kingdom. At the University of Surrey, he investigated fatigue behaviour of a 130-year-old railway metal bridge through large-scale laboratory testing and numerical modelling.
+
+Education Details
+--------------------------------------------------------------------------------
+Ph. D. in Structural Engineering (2020), Indian Institute of Science, Bangalore
+M. E. in Structural Engineering (2010), Indian Institute of Science, Bangalore
+B. Tech in Civil Engineering (2008), Veermata Jijabai Technological Institute, Mumba
+
+Work Experience
+--------------------------------------------------------------------------------
+Postdoctoral Research Fellow (April 2022-July 2024), University of Surrey, United Kingdom
+Assistant Professor (Jan 2021- March 2022), Shiv Nadar University Delhi-NCR
+Assistant Professor (Jan 2012- July 2013), Sir Padampat Singhania University, Udaipur
+Project Associate (August 2010- Dec 2011), Indian Institute of Science, Bangalor
+
+Research Interests
+--------------------------------------------------------------------------------
+Fracture and fatigue in materials, Statistical Data analysis and Machine learning, Structural Health Monitoring, Non-destructive testing, Numerical modelling
+Know more:
+Click here
+
+Journals
+--------------------------------------------------------------------------------
+Nitin B. Burud and J. M. Chandra Kishen, Investigation of long memory in concrete fracture through acoustic emission time series analysis under monotonic and fatigue loading, Engineering Fracture Mechanics 277 (2023): 108975.
+Nitin B. Burud and J. M. Chandra Kishen, Non-extensive statistical mechanics for acoustic emission in disordered media: entropy, size effect, and self-organization, International Journal of Mechanical Sciences (2021): 106514.
+Nitin B. Burud and J. M. Chandra Kishen, Response based damage assessment using acoustic emission energy for notched plain concrete beams, Construction and Building Materials 269 (2021): 121241.
+Nitin B. Burud and J. M. Chandra Kishen, Damage detection using wavelet entropy of acoustic emission waveforms in concrete under flexure, Structural Health Monitoring (2020): 147592172095706.
+Nitin B. Burud and J. M. Chandra Kishen, Application of generalized logistic equation for b-value analysis in fracture of plain concrete beams under flexure, Engineering Fracture Mechanics 210 (2019): 228-246.
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+Title: Acoustic Emission Data Analysis in Concrete Fatigue and Fracture: An Entropic Perspective at Structures Research Seminar, University of Cambridge, UK

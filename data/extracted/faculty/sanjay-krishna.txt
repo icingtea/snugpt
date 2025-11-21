@@ -1,0 +1,37 @@
+================================================================================
+Sanjay Krishna
+================================================================================
+
+Faculty at School of Engineering
+
+Work Experience
+--------------------------------------------------------------------------------
+2022-Present, Assistant Professor, Department of Chemical Engineering, School of Engineering, Shiv Nadar University, Delhi-NCR
+2015-17, Technical Solutions Engineer, Promethean Energy, Mumbai
+
+Journal Publication
+--------------------------------------------------------------------------------
+Krishna, S., Sreedhar, I. & Patel, C.M. Optimized Nanomilling of Biomaterials by Wet-Stirred Media Milling for Efficient Preparation of Nanoparticles. Waste Biomass Valor, 58 (2022). https://doi.org/10.1007/s12649-022-01923-6
+Krishna Sanjay, and Chetan M Patel. “Molecular Dynamics study of Thermal Properties of Polyamide Nanocomposites reinforced with Natural Biofillers” Materials Today Chemistry 23 (2022) 100756. https://doi.org/10.1016/j.mtchem.2021.100756
+Krishna, Sanjay, I. Sreedhar and Chetan M. Patel, “Molecular dynamics simulation of polyamide-based materials- A review.” Computational Materials Science 200 (2021): 110853. https://doi.org/10.1016/j.commatsci.2021.110853
+Krishna, Sanjay, and Chetan M. Patel. "Experimental and computational study of mechanical properties of nylon6 nanocomposites reinforced with coconut shell nanoparticles." Materials Today Communications 24 (2020):100981. https://doi.org/10.1016/j.mtcomm.2020.100981.
+Krishna, Sanjay, and Chetan M. Patel. "Computational and experimental study of mechanical properties of Nylon6 nanocomposites reinforced with nanomilled cellulose." Mechanics of Materials 143 (2020): 103318. https://doi.org/10.1016/j.mechmat.2020.103318.
+Krishna, Sanjay, and Chetan M. Patel. "Preparation of coconut shell nanoparticles by wet-stirred media milling." Materials Letters 257 (2019): 126738. https://doi.org/10.1016/j.matlet.2019.126738.
+
+Books and Book Chapters
+--------------------------------------------------------------------------------
+Krishna, Sanjay, I. Sreedhar and Chetan M. Patel, "Spectroscopic and Microscopic Analysis of Polymer Nanocomposite Films and Coatings" in "Polymer Nanocomposite Films and Coatings: Processes, Fundamental Properties and Applications." Eds Dr. Mayank Pandey, Dr. Kalim Deshmukh, and Prof. Chaudhery Mustansar Hussain. 2022. (Under Review)
+
+Invited Lectures, Talks, Conference Presentations
+--------------------------------------------------------------------------------
+"Optimized Nanomilling of Biomaterials by Wet-Stirred Media Milling for Efficient Preparation of Nanoparticles", International Conference on Green Chemistry and Engineering towards Sustainable Development-An Industrial Perspective, SVNIT, India, 2021.
+“Mechanical Simulations of Starch based Nylon 6 Nanocomposites” 3rd World Environment Congress, World Research Journals, India, 2018.
+“Mechanical Simulations of Nylon6/nano-Alumina Nanocomposites”, 3rd World Environment Congress, World Research Journals, India, 2018.
+“Simulations of Nylon 6 based Nanocomposite to study mechanical properties” 5th World Nano Conference, UAE, 2017.
+“MD Simulations of Alumina based Nylon 6 Nanocomposites studying Thermal and Tensile properties“ International conference on Nanotechnology Applications Chemical, Energy and Environment, SVNIT, India, 2017.
+“Genome modelling using 3D FISH” International Conference on Polymeric Biomaterials, Bioengineering and Biodiagnostics, Asian Polymer Association, India, 2014.
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances
+--------------------------------------------------------------------------------
+2013: Summer Research Project at King Mongkutt’s University of Technology Thornburi, Thailand, working on “Simulations of Charge Transfer through DNA” under Dr. Werasak Surareungchai.
+2014: Summer Research Project at Rice University, Houston, USA, working on “Genome Modelling by 3D FISH” under Dr. Erez Lieberman Aiden.
