@@ -1,9 +1,9 @@
 from abc import ABC, abstractmethod
 from pathlib import Path
 from pymongo import MongoClient
-from typing import List
+from typing import Any
 
-from models.chunks import BaseChunk
+from src.config import ENV_CONFIG
 
 
 class Seeder(ABC):
@@ -15,11 +15,11 @@ class Seeder(ABC):
         self.collection_name = collection_name
 
     @abstractmethod
-    def get_chunks(self) -> List[BaseChunk]:
+    def get_chunks(self) -> Any:
         pass
 
-    def seed(self, chunks: List[BaseChunk]):
-        db = self.client["snugpt"]
+    def seed(self, chunks):
+        db = self.client[ENV_CONFIG.DATABASE_NAME]
         collection = db[self.collection_name]
 
         docs = [c.model_dump() for c in chunks]

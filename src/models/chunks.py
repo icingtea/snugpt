@@ -21,9 +21,15 @@ class SchoolEnum(StrEnum):
 class DepartmentEnum(StrEnum):
     ENG = "ENGLISH"
     BIOTECH = "BIOTECHNOLOGY"
+    PHY = "PHYSICS"
     CHEM = "CHEMISTRY"
-    ECO = "ECONOMICS"
     MATH = "MATHEMATICS"
+    ECO = "ECONOMICS"
+    CSE = "COMPUTER SCIENCE AND ENGINEERING"
+    ECE = "ELECTRICAL AND COMPUTER ENGINEERING"
+    MECH = "MECHANICAL ENGINEERING"
+    CHEM_ENG = "CHEMICAL ENGINEERING"
+    CIVIL = "CIVIL ENGINEERING"
 
 
 class SourceEnum(StrEnum):
@@ -47,8 +53,7 @@ class StudentDocumentChunk(BaseChunk):
     source: SourceEnum
 
 
-class WeeklyMenuChunk(BaseChunk):
-    start_date: str
+class WeeklyMenuChunk(BaseChunk): ...
 
 
 class AcademicDocumentChunk(BaseChunk):
