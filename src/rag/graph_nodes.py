@@ -34,36 +34,46 @@ embedding_model = SentenceTransformer(EMBEDDING_MODEL) if EMBEDDING_MODEL else N
 ACADEMICS_KEYWORDS = {
     "keywords": [],
     "schools": {
-        "school of engineering": ["engineering school", "school of eng", "engineering", "soe"],
-        "school of science": ["science school", "school of sci", "science", "sos"],
-        "school of humanities": ["humanities school", "school of hum", "humanities", "soh"],
-        "school of management": ["management school", "business school", "school of mgmt", "management", "som"]
+        "SOE": ["engineering", "engg", "soe", "school of engineering"],
+        "SNS": ["science", "sns", "school of science", "natural sciences"],
+        "SHSS": ["humanities", "shss", "school of humanities", "social sciences", "humanities and social sciences"],
+        "SME": ["management", "sme", "school of management", "business", "business school"]
     },
     "departments": {
-        "computer science": ["cs", "comp sci", "computer sci", "cse"],
-        "electrical engineering": ["ee", "electrical eng", "ece"],
-        "mathematics": ["math", "maths", "mathematics dept"],
-        "physics": ["physics dept", "dept of physics"],
-        "chemistry": ["chemistry dept", "dept of chemistry"],
-        "biology": ["biology dept", "dept of biology", "biosciences"]
+        "CSE": ["cs", "CS", "computer science", "cse", "CSE", "computer science and engineering"],
+        "ECE": ["ee", "electrical engineering", "ece", "ECE", "electrical and computer engineering"],
+        "MECH": ["mechanical engineering", "mech", "MECH"],
+        "CHEM_ENG": ["chemical engineering", "chem eng", "CHEM_ENG"],
+        "CIVIL": ["civil engineering", "civil", "CIVIL"],
+        "MATH": ["math", "maths", "mathematics", "MATH"],
+        "PHY": ["physics", "phy", "PHY"],
+        "CHEM": ["chemistry", "chem", "CHEM"],
+        "BIOTECH": ["biotechnology", "biotech", "BIOTECH"],
+        "ECO": ["economics", "eco", "ECO"],
+        "ENG": ["english", "eng", "ENG"]
     }
 }
 
 FACULTY_KEYWORDS = {
     "keywords": [],
     "schools": {
-        "school of engineering": ["engineering school", "school of eng", "engineering", "soe"],
-        "school of science": ["science school", "school of sci", "science", "sos"],
-        "school of humanities": ["humanities school", "school of hum", "humanities", "soh"],
-        "school of management": ["management school", "business school", "school of mgmt", "management", "som"]
+        "SOE": ["engineering", "engg", "soe", "school of engineering"],
+        "SNS": ["science", "sns", "school of science", "natural sciences"],
+        "SHSS": ["humanities", "shss", "school of humanities", "social sciences", "humanities and social sciences"],
+        "SME": ["management", "sme", "school of management", "business", "business school"]
     },
     "departments": {
-        "computer science": ["cs", "comp sci", "computer sci", "cse"],
-        "electrical engineering": ["ee", "electrical eng", "ece"],
-        "mathematics": ["math", "maths", "mathematics dept"],
-        "physics": ["physics dept", "dept of physics"],
-        "chemistry": ["chemistry dept", "dept of chemistry"],
-        "biology": ["biology dept", "dept of biology", "biosciences"]
+        "CSE": ["cs", "CS", "computer science", "cse", "CSE", "computer science and engineering"],
+        "ECE": ["ee", "electrical engineering", "ece", "ECE", "electrical and computer engineering"],
+        "MECH": ["mechanical engineering", "mech", "MECH"],
+        "CHEM_ENG": ["chemical engineering", "chem eng", "CHEM_ENG"],
+        "CIVIL": ["civil engineering", "civil", "CIVIL"],
+        "MATH": ["math", "maths", "mathematics", "MATH"],
+        "PHY": ["physics", "phy", "PHY"],
+        "CHEM": ["chemistry", "chem", "CHEM"],
+        "BIOTECH": ["biotechnology", "biotech", "BIOTECH"],
+        "ECO": ["economics", "eco", "ECO"],
+        "ENG": ["english", "eng", "ENG"]
     }
 }
 
