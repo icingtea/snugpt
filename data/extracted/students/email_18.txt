@@ -1,0 +1,19 @@
+from: Google <no-reply@accounts.google.com>
+header: Security alert
+body:
+[image: Google]
+Phone number added for 2-Step Verification
+
+
+snioegpt@gmail.com
+Codes to sign in to your account now go to a new phone number. If you
+didn't add this number, someone might be using your account. Check and
+secure your account now.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=snioegpt@gmail.com&continue=https://myaccount.google.com/alert/nt/1763737755144?rfn%3D249%26rfnc%3D1%26eid%3D-4433927928009683509%26et%3D0>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+

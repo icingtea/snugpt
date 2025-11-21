@@ -125,7 +125,7 @@ def process_all_pdfs(raw_dir: Path, out_dir: Path) -> None:
 def main() -> None:
     json_path = Path("data/prospectus-links.json")
     raw_base = Path("data/raw/prospectus")
-    extract_base = Path("data/extracted/prospectus")
+    extract_base = Path("data/extracted/academics")
 
     entries: list[Dict[str, Any]] = json.loads(json_path.read_text())
 

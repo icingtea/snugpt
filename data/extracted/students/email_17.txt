@@ -1,0 +1,18 @@
+from: Google <no-reply@accounts.google.com>
+header: Security alert
+body:
+[image: Google]
+Authenticator app added as sign-in step
+
+
+snioegpt@gmail.com
+If you didn't add the Authenticator app, someone might be using your
+account. Check and secure your account now.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=snioegpt@gmail.com&continue=https://myaccount.google.com/alert/nt/1763737726511?rfn%3D252%26rfnc%3D1%26eid%3D7111923850490049019%26et%3D0>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+

@@ -76,7 +76,7 @@ def save_email_as_txt(email_obj: ParsedEmail, path: str):
 def main():
     EMAIL = ENV_CONFIG.EMAIL_ADDRESS
     APP_PASSWORD = ENV_CONFIG.EMAIL_PASSWORD
-    OUT_DIR = os.path.join("data", "extracted", "emails")
+    OUT_DIR = os.path.join("data", "extracted", "students")
 
     os.makedirs(OUT_DIR, exist_ok=True)
 

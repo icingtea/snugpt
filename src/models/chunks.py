@@ -4,6 +4,13 @@ from pydantic import BaseModel, Field
 from typing import List
 
 
+class CollectionEnum(StrEnum):
+    ACADEMICS = "Academics"
+    FACULTY = "Faculty"
+    MENU = "Menu"
+    STUDENTS = "Students"
+
+
 class SchoolEnum(StrEnum):
     SHSS = "SHSS"
     SOE = "SOE"
