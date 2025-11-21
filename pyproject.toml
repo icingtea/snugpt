@@ -6,10 +6,27 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "bs4>=0.0.2",
+    "matplotlib>=3.10.7",
     "nanoid>=2.0.0",
+    "nltk>=3.9.2",
+    "np>=1.0.2",
+    "pandas>=2.3.3",
     "pdfplumber>=0.11.8",
     "pydantic>=2.12.4",
     "pymongo>=4.15.4",
     "python-dotenv>=1.2.1",
     "requests>=2.32.5",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "torch>=2.9.1",
 ]
+
+[tool.uv.sources]
+torch = [
+    { index = "pytorch-cu128", marker = "sys_platform == 'linux' or sys_platform == 'win32'" },
+]
+
+[[tool.uv.index]]
+name = "pytorch-cu128"
+url = "https://download.pytorch.org/whl/cu128"
+explicit = true
