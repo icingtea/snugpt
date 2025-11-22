@@ -22,3 +22,5 @@ wheels/
 !IR-ProjectReport.pdf
 
 *.log
+
+*.zip
