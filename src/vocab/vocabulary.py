@@ -6,8 +6,8 @@ from collections import Counter
 from typing import Dict, Optional
 from pydantic import BaseModel
 
-from src.models.chunks import CollectionEnum
-from src.pos_tagger import pos_tagger, lemmatize
+from models.chunks import CollectionEnum
+from pos_tagger import pos_tagger, lemmatize
 
 
 STOPWORDS = {
