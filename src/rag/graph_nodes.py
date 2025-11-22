@@ -374,7 +374,9 @@ def vector_search(state: GraphState) -> Dict[str, Any]:
         f"[VECTOR SEARCH] Total context now has {len(combined_context)} docs (was {len(existing_context)}, added {len(new_context_docs)})"
     )
 
-    logger.info(f"[VECTOR SEARCH] Total context now has {len(combined_context)} docs (was {len(existing_context)}, added {len(new_context_docs)})")
+    logger.info(
+        f"[VECTOR SEARCH] Total context now has {len(combined_context)} docs (was {len(existing_context)}, added {len(new_context_docs)})"
+    )
     return state_change
 
 
