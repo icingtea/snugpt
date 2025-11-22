@@ -86,59 +86,6 @@ COLLECTION_DIRS = {
 
 STATS_PATH = Path("data/cache/word_stats.json")
 
-
-# def compute_collection_statistics() -> Dict[str, WordInfo]:
-#     collection_frequency = {collection: Counter() for collection in COLLECTION_DIRS}
-#     document_frequency = {collection: Counter() for collection in COLLECTION_DIRS}
-#     total_documents_per_collection = {collection: 0 for collection in COLLECTION_DIRS}
-
-#     for collection, directory in COLLECTION_DIRS.items():
-#         if not os.path.exists(directory):
-#             continue
-
-#         for filename in os.listdir(directory):
-#             if not filename.endswith(".txt"):
-#                 continue
-
-#             total_documents_per_collection[collection] += 1
-#             filepath = os.path.join(directory, filename)
-
-#             with open(filepath, "r", encoding="utf-8") as f:
-#                 text = f.read()
-
-#             tokens = filter_tokens(text)
-#             unique_tokens = set(tokens)
-
-#             collection_frequency[collection].update(tokens)
-#             document_frequency[collection].update(unique_tokens)
-
-#     all_tokens = set()
-#     for collection in COLLECTION_DIRS:
-#         all_tokens.update(collection_frequency[collection].keys())
-
-#     results: Dict[str, WordInfo] = {}
-
-#     for token in all_tokens:
-#         frequency_map = {
-#             collection: collection_frequency[collection].get(token, 0)
-#             for collection in COLLECTION_DIRS
-#         }
-
-#         winning_collection = max(frequency_map, key=frequency_map.get)
-#         df_in_winner = document_frequency[winning_collection].get(token, 0)
-#         num_docs_in_winner = total_documents_per_collection[winning_collection]
-
-#         idf_value = math.log((num_docs_in_winner + 1) / (df_in_winner + 1)) + 1
-
-#         results[token] = WordInfo(
-#             document_frequency=df_in_winner,
-#             idf=idf_value,
-#             collection_vote=winning_collection,
-#         )
-
-#     return results
-
-
 def compute_collection_statistics() -> Dict[str, WordInfo]:
     collection_frequency = {collection: Counter() for collection in COLLECTION_DIRS}
     document_frequency = {collection: Counter() for collection in COLLECTION_DIRS}
