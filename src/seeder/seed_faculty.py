@@ -3,11 +3,11 @@ from pymongo import MongoClient
 from pathlib import Path
 from sentence_transformers import SentenceTransformer
 
-from src.models.chunks import BaseChunk
-from src.chunker import Chunker
-from src.seeder import Seeder
-from src.config import ENV_CONFIG
-from src.models.chunks import FacultyChunk, SchoolEnum, DepartmentEnum
+from models.chunks import BaseChunk
+from chunker import Chunker
+from seeder import Seeder
+from config import ENV_CONFIG
+from models.chunks import FacultyChunk, SchoolEnum, DepartmentEnum
 
 SCHOOL_MAP = {
     "School of Humanities and Social Sciences": SchoolEnum.SHSS,

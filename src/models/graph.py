@@ -1,7 +1,7 @@
 from pydantic import BaseModel, Field
 from typing import Optional, List, Dict, Any, Annotated
 from langgraph.graph.message import add_messages
-from src.models.chunks import CollectionEnum
+from models.chunks import CollectionEnum
 
 class GraphState(BaseModel):
     collections: List[CollectionEnum] = Field(default_factory=list)

@@ -8,9 +8,9 @@ from sentence_transformers import SentenceTransformer
 import openai
 from langchain_core.messages import HumanMessage, AIMessage
 
-from src.models.graph import GraphState
-from src.models.chunks import CollectionEnum
-from src.vocab.vocabulary import WORD_STATS, filter_tokens
+from models.graph import GraphState
+from models.chunks import CollectionEnum
+from vocab.vocabulary import WORD_STATS, filter_tokens
 
 load_dotenv()
 

@@ -4,8 +4,8 @@ from collections import Counter
 from typing import Dict, Optional
 
 from pydantic import BaseModel
-from src.models.chunks import CollectionEnum
-from src.pos_tagger import pos_tagger
+from models.chunks import CollectionEnum
+from pos_tagger import pos_tagger
 
 
 STOPWORDS = {
@@ -41,7 +41,7 @@ def filter_tokens(text: str) -> list[str]:
     return [
         token.lower()
         for token, pos in tagged_tokens
-        if pos.name in ("NOUN", "VERB") and token.lower() not in STOPWORDS
+        if pos in ("NOUN", "VERB") and token.lower() not in STOPWORDS
     ]
 
 
@@ -60,6 +60,9 @@ def compute_collection_statistics() -> Dict[str, WordInfo]:
     total_documents_per_collection = {collection: 0 for collection in COLLECTION_DIRS}
 
     for collection, directory in COLLECTION_DIRS.items():
+        if not os.path.exists(directory):
+            continue
+            
         for filename in os.listdir(directory):
             if not filename.endswith(".txt"):
                 continue

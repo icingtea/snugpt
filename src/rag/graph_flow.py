@@ -1,8 +1,8 @@
 from langgraph.graph import StateGraph, START, END
 from langgraph.checkpoint.memory import MemorySaver
 
-from src.models.graph import GraphState
-from src.rag.graph_nodes import (
+from models.graph import GraphState
+from rag.graph_nodes import (
     keyword_router,
     vocab_voter,
     vector_search,
