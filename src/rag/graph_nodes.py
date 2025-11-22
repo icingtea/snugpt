@@ -62,7 +62,7 @@ ACADEMICS_FACULTY_KEYWORDS = {
 }
 
 STUDENTS_KEYWORDS = {
-    "keywords": ["academic calendar", "exam schedule", "course registration", "hostel", "library"]
+    "keywords": ["academic calendar", "exam schedule", "course registration", "hostel", "library", "dean", "student", "affair", "president", "council", "sc"]
 }
 
 MENU_KEYWORDS = {
@@ -327,7 +327,7 @@ def chat_response(state: GraphState) -> Dict[str, Any]:
 
     try:
         resp = client.responses.create(
-            model="o4-mini",
+            model="gpt-4.1-mini",
             input=[
                 {"role": "system", "content": system_msg},
                 {"role": "user", "content": user_msg},
@@ -335,27 +335,17 @@ def chat_response(state: GraphState) -> Dict[str, Any]:
             max_output_tokens=OPENAI_MAX_TOKENS,
         )
 
-        answer = None
-        try:
-            answer = resp.output_text
-        except Exception:
-            pass
-
-        if not answer:
-            try:
-                answer = resp.output[0].content[0].text
-            except Exception:
-                answer = "[ERROR] Response returned no text"
+        response = resp.output_text
 
         state_change = {
-            "response": answer,
-            "memory": [
+            "response": response,
+            "memory": [ 
                 HumanMessage(content=prompt),
-                AIMessage(content=answer),
+                AIMessage(content=response),
             ],
             "error": None,
         }
-        logger.info(f"[CHAT RESPONSE] Success with {len(context)} context docs")
+
         return state_change
 
     except Exception as e:
