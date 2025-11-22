@@ -1,25 +1,53 @@
 import os
 import math
+import json
+from pathlib import Path
 from collections import Counter
 from typing import Dict, Optional
-
 from pydantic import BaseModel
+
 from models.chunks import CollectionEnum
-from pos_tagger import pos_tagger
+from pos_tagger import pos_tagger, lemmatize
 
 
 STOPWORDS = {
-    "be", "is", "am", "are", "was", "were", "been", "being",
-    "have", "has", "had",
-    "do", "does", "did",
-    "will", "would", "can", "could", "shall", "should", "may", "might", "must",
-    "let", "make",
-    "get", "got",
-    "go", "gone",
-    "see", "seen",
-    "say", "said",
-    "take", "took",
-    "come", "came",
+    "be",
+    "is",
+    "am",
+    "are",
+    "was",
+    "were",
+    "been",
+    "being",
+    "have",
+    "has",
+    "had",
+    "do",
+    "does",
+    "did",
+    "will",
+    "would",
+    "can",
+    "could",
+    "shall",
+    "should",
+    "may",
+    "might",
+    "must",
+    "let",
+    "make",
+    "get",
+    "got",
+    "go",
+    "gone",
+    "see",
+    "seen",
+    "say",
+    "said",
+    "take",
+    "took",
+    "come",
+    "came",
     "put",
     "form",
     "make",
@@ -38,11 +66,14 @@ class WordInfo(BaseModel):
 
 def filter_tokens(text: str) -> list[str]:
     tagged_tokens = pos_tagger(text)
-    return [
-        token.lower()
+    filtered = [
+        (token, pos)
         for token, pos in tagged_tokens
         if pos in ("NOUN", "VERB") and token.lower() not in STOPWORDS
     ]
+
+    lemmatized = lemmatize(filtered)
+    return [token.lower() for token, _ in lemmatized]
 
 
 ROOT_DATA_DIR = "data/extracted"
@@ -53,6 +84,8 @@ COLLECTION_DIRS = {
     CollectionEnum.STUDENTS: os.path.join(ROOT_DATA_DIR, "students"),
 }
 
+STATS_PATH = Path("data/cache/word_stats.json")
+
 
 def compute_collection_statistics() -> Dict[str, WordInfo]:
     collection_frequency = {collection: Counter() for collection in COLLECTION_DIRS}
@@ -62,7 +95,7 @@ def compute_collection_statistics() -> Dict[str, WordInfo]:
     for collection, directory in COLLECTION_DIRS.items():
         if not os.path.exists(directory):
             continue
-            
+
         for filename in os.listdir(directory):
             if not filename.endswith(".txt"):
                 continue
@@ -106,4 +139,35 @@ def compute_collection_statistics() -> Dict[str, WordInfo]:
     return results
 
 
-WORD_STATS: Dict[str, WordInfo] = compute_collection_statistics()
+def save_word_stats(stats: Dict[str, WordInfo]):
+    STATS_PATH.parent.mkdir(parents=True, exist_ok=True)
+    data = {}
+    for token, info in stats.items():
+        data[token] = {
+            "document_frequency": info.document_frequency,
+            "idf": info.idf,
+            "collection_vote": info.collection_vote.value,
+        }
+    with STATS_PATH.open("w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2)
+
+
+def load_word_stats() -> Dict[str, WordInfo]:
+    with STATS_PATH.open("r", encoding="utf-8") as f:
+        data = json.load(f)
+    stats = {}
+    for token, info in data.items():
+        stats[token] = WordInfo(
+            document_frequency=info["document_frequency"],
+            idf=info["idf"],
+            collection_vote=CollectionEnum(info["collection_vote"]),
+        )
+    return stats
+
+
+if STATS_PATH.exists():
+    WORD_STATS = load_word_stats()
+else:
+    print("Computing Collection Statistics")
+    WORD_STATS = compute_collection_statistics()
+    save_word_stats(WORD_STATS)

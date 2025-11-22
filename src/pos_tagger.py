@@ -2,12 +2,14 @@ import nltk
 from nltk import word_tokenize, pos_tag
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import wordnet
+from typing import List, Tuple
+import string
 
 nltk.download("punkt")
 nltk.download("averaged_perceptron_tagger")
 nltk.download("wordnet")
 nltk.download("omw-1.4")
-nltk.download('universal_tagset')
+nltk.download("universal_tagset")
 
 
 def _to_wordnet_pos(tag: str):
@@ -22,8 +24,9 @@ def _to_wordnet_pos(tag: str):
     return wordnet.NOUN
 
 
-def pos_tagger(text: str):
+def pos_tagger(text: str) -> List[Tuple[str, str]]:
     tokens = word_tokenize(text)
+    tokens = [t for t in tokens if t not in string.punctuation]
     return pos_tag(tokens, tagset="universal")
 
 
