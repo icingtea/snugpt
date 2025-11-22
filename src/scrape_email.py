@@ -5,17 +5,14 @@ from email.header import decode_header
 import os
 from config import ENV_CONFIG
 
+
 class ParsedEmail(BaseModel):
     sender: str
     header: str
     body: str
 
     def to_txt(self) -> str:
-        return (
-            f"from: {self.sender}\n"
-            f"header: {self.header}\n"
-            f"body:\n{self.body}\n"
-        )
+        return f"from: {self.sender}\nheader: {self.header}\nbody:\n{self.body}\n"
 
 
 def decode_maybe(value):
@@ -43,7 +40,6 @@ def extract_plain_body(msg):
     else:
         payload = msg.get_payload(decode=True)
         return payload.decode(errors="ignore") if payload else ""
-
 
 
 def fetch_all_emails(email_id, password, folder="INBOX"):

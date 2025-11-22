@@ -43,12 +43,29 @@ ACADEMICS_FACULTY_KEYWORDS = {
     "schools": {
         "SOE": ["engineering", "engg", "soe", "school of engineering"],
         "SNS": ["science", "sns", "school of science", "natural sciences"],
-        "SHSS": ["humanities", "shss", "school of humanities", "social sciences", "humanities and social sciences"],
-        "SME": ["management", "sme", "school of management", "business", "business school"]
+        "SHSS": [
+            "humanities",
+            "shss",
+            "school of humanities",
+            "social sciences",
+            "humanities and social sciences",
+        ],
+        "SME": [
+            "management",
+            "sme",
+            "school of management",
+            "business",
+            "business school",
+        ],
     },
     "departments": {
         "CSE": ["computer science", "cse", "computer science and engineering", "cs"],
-        "ECE": ["electrical engineering", "ece", "electrical and computer engineering", "ee"],
+        "ECE": [
+            "electrical engineering",
+            "ece",
+            "electrical and computer engineering",
+            "ee",
+        ],
         "MECH": ["mechanical engineering", "mech"],
         "CHEM_ENG": ["chemical engineering", "chem eng"],
         "CIVIL": ["civil engineering", "civil"],
@@ -57,61 +74,91 @@ ACADEMICS_FACULTY_KEYWORDS = {
         "CHEM": ["chemistry", "chem"],
         "BIOTECH": ["biotechnology", "biotech"],
         "ECO": ["economics", "eco"],
-        "ENG": ["english", "eng"]
-    }
+        "ENG": ["english", "eng"],
+    },
 }
 
 STUDENTS_KEYWORDS = {
-    "keywords": ["academic calendar", "exam schedule", "course registration", "hostel", "library", "dean", "student", "affair", "president", "council", "sc"]
+    "keywords": [
+        "academic calendar",
+        "exam schedule",
+        "course registration",
+        "hostel",
+        "library",
+        "dean",
+        "student",
+        "affair",
+        "president",
+        "council",
+        "sc",
+    ]
 }
 
 MENU_KEYWORDS = {
-    "keywords": ["eat", "lunch", "dinner", "breakfast", "evening", "mess", "menu", "food"]
+    "keywords": [
+        "eat",
+        "lunch",
+        "dinner",
+        "breakfast",
+        "mess",
+        "menu",
+        "food",
+        "meal",
+        "dining hall",
+    ]
 }
 
 COLLECTION_INDEX_MAP = {
     CollectionEnum.ACADEMICS: "academics_vector_index",
-    CollectionEnum.FACULTY: "faculty_vector_index", 
+    CollectionEnum.FACULTY: "faculty_vector_index",
     CollectionEnum.STUDENTS: "vector_index",
-    CollectionEnum.MENU: None
+    CollectionEnum.MENU: None,
 }
 
 
-def build_filter_from_keywords(prompt_lower: str, keyword_config = ACADEMICS_FACULTY_KEYWORDS) -> Optional[Dict[str, Any]]:
+def build_filter_from_keywords(
+    prompt_lower: str, keyword_config=ACADEMICS_FACULTY_KEYWORDS
+) -> Optional[Dict[str, Any]]:
     matched_schools = []
     matched_departments = []
 
     schools_dict = keyword_config.get("schools", {})
     for actual_school, variations in schools_dict.items():
         for variation in variations:
-            if re.search(r'\b' + re.escape(variation) + r'\b', prompt_lower):
+            if re.search(r"\b" + re.escape(variation) + r"\b", prompt_lower):
                 matched_schools.append(actual_school)
                 break
         else:
-            if re.search(r'\b' + re.escape(actual_school.lower()) + r'\b', prompt_lower):
+            if re.search(
+                r"\b" + re.escape(actual_school.lower()) + r"\b", prompt_lower
+            ):
                 matched_schools.append(actual_school)
 
     departments_dict = keyword_config.get("departments", {})
     for actual_dept, variations in departments_dict.items():
         for variation in variations:
-            if re.search(r'\b' + re.escape(variation) + r'\b', prompt_lower):
+            if re.search(r"\b" + re.escape(variation) + r"\b", prompt_lower):
                 matched_departments.append(actual_dept)
                 break
         else:
-            if re.search(r'\b' + re.escape(actual_dept.lower()) + r'\b', prompt_lower):
+            if re.search(r"\b" + re.escape(actual_dept.lower()) + r"\b", prompt_lower):
                 matched_departments.append(actual_dept)
-    
+
     filter_conditions = []
-    
+
     if matched_schools:
         filter_conditions.append({"schools": {"$in": matched_schools}})
-    
+
     if matched_departments:
         filter_conditions.append({"departments": {"$in": matched_departments}})
-    
+
     if filter_conditions:
-        return {"$and": filter_conditions} if len(filter_conditions) > 1 else filter_conditions[0]
-    
+        return (
+            {"$and": filter_conditions}
+            if len(filter_conditions) > 1
+            else filter_conditions[0]
+        )
+
     return None
 
 
@@ -119,32 +166,40 @@ def keyword_router(state: GraphState) -> Dict[str, Any]:
     prompt = state.prompt
     if not prompt:
         return {"collections": [], "filter": None}
-    
+
     prompt_lower = prompt.lower()
     collections_to_search = []
     filter_condition = None
-    
+
     academics_faculty_filter = build_filter_from_keywords(prompt_lower)
-    
+
     if academics_faculty_filter:
         collections_to_search = [CollectionEnum.ACADEMICS, CollectionEnum.FACULTY]
         if academics_faculty_filter:
             filter_condition = academics_faculty_filter
-    
-    elif any(re.search(r'\b' + re.escape(kw) + r'\b', prompt_lower) for kw in STUDENTS_KEYWORDS["keywords"]):
+
+    elif any(
+        re.search(r"\b" + re.escape(kw) + r"\b", prompt_lower)
+        for kw in STUDENTS_KEYWORDS["keywords"]
+    ):
         collections_to_search = [CollectionEnum.STUDENTS]
         filter_condition = None
 
-    elif any(re.search(r'\b' + re.escape(kw) + r'\b', prompt_lower) for kw in MENU_KEYWORDS["keywords"]):
+    elif any(
+        re.search(r"\b" + re.escape(kw) + r"\b", prompt_lower)
+        for kw in MENU_KEYWORDS["keywords"]
+    ):
         collections_to_search = [CollectionEnum.MENU]
         filter_condition = None
-    
+
     if collections_to_search:
         state_change = {
             "collections": collections_to_search,
-            "filter": filter_condition
+            "filter": filter_condition,
         }
-        logger.info(f"[KEYWORD ROUTER] Collections: {collections_to_search}, Filter: {filter_condition}")
+        logger.info(
+            f"[KEYWORD ROUTER] Collections: {collections_to_search}, Filter: {filter_condition}"
+        )
         return state_change
 
     state_change = {"collections": [], "filter": None}
@@ -161,21 +216,21 @@ def vocab_voter(state: GraphState) -> Dict[str, Any]:
     lemmatized_tokens = [token for token, _ in lemmatize(tagged_tokens)]
 
     original_tokens = filter_tokens(prompt)
-    
+
     tokens_to_use = lemmatized_tokens if lemmatized_tokens else original_tokens
-    
+
     if not tokens_to_use:
         state_change = {"collections": [CollectionEnum.STUDENTS], "filter": None}
         logger.info(f"[VOCAB VOTER] No valid tokens, defaulting to STUDENTS")
         return state_change
-    
+
     votes: Dict[CollectionEnum, float] = {
         CollectionEnum.ACADEMICS: 0.0,
         CollectionEnum.FACULTY: 0.0,
         CollectionEnum.STUDENTS: 0.0,
         CollectionEnum.MENU: 0.0,
     }
-    
+
     for token in tokens_to_use:
         word_info = WORD_STATS.get(token)
         if word_info:
@@ -192,18 +247,22 @@ def vocab_voter(state: GraphState) -> Dict[str, Any]:
             filter_condition = build_filter_from_keywords(prompt_lower)
 
         state_change = {
-            "collections": collections_to_search, 
+            "collections": collections_to_search,
             "filter": filter_condition,
             "debug_tokens": {
                 "lemmatized": lemmatized_tokens,
                 "original": original_tokens,
-                "used": tokens_to_use
-            }
+                "used": tokens_to_use,
+            },
         }
-        logger.info(f"[VOCAB VOTER] Votes: {votes}, Winner: {winner[0]}, Collections: {collections_to_search}, Filter: {filter_condition}")
-        logger.info(f"[VOCAB VOTER] Tokens - Lemmatized: {lemmatized_tokens}, Original: {original_tokens}")
+        logger.info(
+            f"[VOCAB VOTER] Votes: {votes}, Winner: {winner[0]}, Collections: {collections_to_search}, Filter: {filter_condition}"
+        )
+        logger.info(
+            f"[VOCAB VOTER] Tokens - Lemmatized: {lemmatized_tokens}, Original: {original_tokens}"
+        )
         return state_change
-    
+
     state_change = {"collections": [CollectionEnum.STUDENTS], "filter": None}
     logger.info(f"[VOCAB VOTER] No votes, defaulting to STUDENTS")
     return state_change
@@ -212,37 +271,47 @@ def vocab_voter(state: GraphState) -> Dict[str, Any]:
 def vector_search(state: GraphState) -> Dict[str, Any]:
     if not embedding_model:
         return {"context": [], "error": "[ERROR] Embedding model not configured"}
-    
+
     collections = state.collections or []
     prompt = state.prompt
     filter_condition = state.filter
     existing_context = state.context or []
-    
+
     if not collections or not prompt:
-        return {"context": existing_context, "error": "[ERROR] Missing collections or prompt"}
+        return {
+            "context": existing_context,
+            "error": "[ERROR] Missing collections or prompt",
+        }
 
     new_context_docs = []
-    
+
     for collection in collections:
         try:
             db = mongo_client["snugpt"]
             mongo_collection: Collection = db[collection.value]
-            
+
             if collection == CollectionEnum.MENU:
                 if filter_condition:
                     results = mongo_collection.find(filter_condition)
                 else:
                     results = mongo_collection.find()
-                
-                context_docs = [doc.get("document", doc.get("text", "")) for doc in results.limit(MENU_SEARCH_LIMIT)]
+
+                context_docs = [
+                    doc.get("document", doc.get("text", ""))
+                    for doc in results.limit(MENU_SEARCH_LIMIT)
+                ]
                 new_context_docs.extend(context_docs)
-                logger.info(f"[VECTOR SEARCH] Found {len(context_docs)} menu items from {collection.value}")
+                logger.info(
+                    f"[VECTOR SEARCH] Found {len(context_docs)} menu items from {collection.value}"
+                )
                 continue
 
             search_index = COLLECTION_INDEX_MAP.get(collection)
-            
+
             if not search_index:
-                logger.warning(f"[VECTOR SEARCH] No vector index configured for {collection.value}")
+                logger.warning(
+                    f"[VECTOR SEARCH] No vector index configured for {collection.value}"
+                )
                 continue
 
             prompt_embedding = embedding_model.encode([prompt]).tolist()[0]
@@ -254,14 +323,12 @@ def vector_search(state: GraphState) -> Dict[str, Any]:
                 "exact": True,
                 "limit": VECTOR_SEARCH_LIMIT,
             }
-            
+
             if filter_condition:
                 vector_search_stage["filter"] = filter_condition
 
             pipeline = [
-                {
-                    "$vectorSearch": vector_search_stage
-                },
+                {"$vectorSearch": vector_search_stage},
                 {
                     "$project": {
                         "_id": 0,
@@ -271,7 +338,7 @@ def vector_search(state: GraphState) -> Dict[str, Any]:
                     }
                 },
             ]
-            
+
             results = mongo_collection.aggregate(pipeline)
             context_docs = []
             for doc in results:
@@ -279,20 +346,26 @@ def vector_search(state: GraphState) -> Dict[str, Any]:
                 score = float(doc.get("score", 0))
                 if score > SCORE_THRESHOLD:
                     context_docs.append(content)
-            
+
             new_context_docs.extend(context_docs)
-            logger.info(f"[VECTOR SEARCH] Found {len(context_docs)} relevant chunks from {collection.value} with filter: {filter_condition}")
-            
+            logger.info(
+                f"[VECTOR SEARCH] Found {len(context_docs)} relevant chunks from {collection.value} with filter: {filter_condition}"
+            )
+
         except Exception as e:
             logger.error(f"[VECTOR SEARCH] Error searching {collection.value}: {e}")
-    
+
     combined_context = existing_context + new_context_docs
     if len(combined_context) > MAX_CONTEXT_DOCUMENTS:
         combined_context = combined_context[-MAX_CONTEXT_DOCUMENTS:]
-        logger.info(f"[VECTOR SEARCH] Trimmed context from {len(existing_context) + len(new_context_docs)} to {MAX_CONTEXT_DOCUMENTS} documents")
-    
+        logger.info(
+            f"[VECTOR SEARCH] Trimmed context from {len(existing_context) + len(new_context_docs)} to {MAX_CONTEXT_DOCUMENTS} documents"
+        )
+
     state_change = {"context": combined_context, "error": None}
-    logger.info(f"[VECTOR SEARCH] Total context now has {len(combined_context)} docs (was {len(existing_context)}, added {len(new_context_docs)})")
+    logger.info(
+        f"[VECTOR SEARCH] Total context now has {len(combined_context)} docs (was {len(existing_context)}, added {len(new_context_docs)})"
+    )
     return state_change
 
 
@@ -302,7 +375,9 @@ def chat_response(state: GraphState) -> Dict[str, Any]:
     context = state.context or []
     memory = state.memory or []
 
-    recent_memory = memory[-MAX_MEMORY_MESSAGES:] if len(memory) > MAX_MEMORY_MESSAGES else memory
+    recent_memory = (
+        memory[-MAX_MEMORY_MESSAGES:] if len(memory) > MAX_MEMORY_MESSAGES else memory
+    )
 
     history_lines = []
     for m in recent_memory:
@@ -320,9 +395,7 @@ def chat_response(state: GraphState) -> Dict[str, Any]:
     )
 
     user_msg = (
-        f"CONTEXT:\n{context}\n\n"
-        f"HISTORY:\n{history_text}\n\n"
-        f"USER PROMPT:\n{prompt}"
+        f"CONTEXT:\n{context}\n\nHISTORY:\n{history_text}\n\nUSER PROMPT:\n{prompt}"
     )
 
     try:
@@ -339,7 +412,7 @@ def chat_response(state: GraphState) -> Dict[str, Any]:
 
         state_change = {
             "response": response,
-            "memory": [ 
+            "memory": [
                 HumanMessage(content=prompt),
                 AIMessage(content=response),
             ],
@@ -354,7 +427,6 @@ def chat_response(state: GraphState) -> Dict[str, Any]:
             "response": None,
             "error": f"[ERROR] Failed to get chat response: {e}",
         }
-
 
 
 def error_response(state: GraphState) -> Dict[str, Any]:
