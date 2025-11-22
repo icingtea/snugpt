@@ -1,5 +1,6 @@
 import streamlit as st
 from rag.graph_flow import assemble_graph
+from models.graph import GraphState
 from langgraph.checkpoint.memory import MemorySaver
 from langchain_core.messages.ai import AIMessage
 from langchain_core.messages.human import HumanMessage
@@ -11,7 +12,6 @@ def run_app():
     memory: MemorySaver = MemorySaver()
 
     if "graph_state" not in st.session_state:
-        from src.models.graph import GraphState
         st.session_state.graph_state = GraphState(
             prompt=None,
             memory=[],

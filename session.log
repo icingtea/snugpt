@@ -1,7 +1,0 @@
-INFO:applog:[KEYWORD ROUTER] No keyword match
-INFO:applog:[VOCAB VOTER] Votes: {<CollectionEnum.ACADEMICS: 'Academics'>: 0.0, <CollectionEnum.FACULTY: 'Faculty'>: 21.111467912182857, <CollectionEnum.STUDENTS: 'Students'>: 0.0, <CollectionEnum.MENU: 'Menu'>: 0.0}, Winner: Faculty, Collections: [<CollectionEnum.ACADEMICS: 'Academics'>, <CollectionEnum.FACULTY: 'Faculty'>], Filter: None
-INFO:applog:[ERROR RESPONSE] {'response': '[ERROR] Embedding model not configured'}
-WARNING:huggingface_hub.file_download:Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
-INFO:applog:[KEYWORD ROUTER] No keyword match
-INFO:applog:[VOCAB VOTER] Votes: {<CollectionEnum.ACADEMICS: 'Academics'>: 0.0, <CollectionEnum.FACULTY: 'Faculty'>: 15.460687214942713, <CollectionEnum.STUDENTS: 'Students'>: 0.0, <CollectionEnum.MENU: 'Menu'>: 0.0}, Winner: Faculty, Collections: [<CollectionEnum.ACADEMICS: 'Academics'>, <CollectionEnum.FACULTY: 'Faculty'>], Filter: None
-INFO:applog:[KEYWORD ROUTER] No keyword match
