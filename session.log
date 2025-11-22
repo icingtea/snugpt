@@ -1,35 +1,8 @@
 INFO:applog:[KEYWORD ROUTER] No keyword match
-INFO:applog:[VOCAB VOTER] Votes: {<CollectionEnum.ACADEMICS: 'Academics'>: 4.302585092994046, <CollectionEnum.FACULTY: 'Faculty'>: 32.21664803087974, <CollectionEnum.STUDENTS: 'Students'>: 0.0, <CollectionEnum.MENU: 'Menu'>: 0.0}, Winner: Faculty, Collections: [<CollectionEnum.ACADEMICS: 'Academics'>, <CollectionEnum.FACULTY: 'Faculty'>], Filter: None
-INFO:applog:[VOCAB VOTER] Tokens - Lemmatized: ['can', 'you', 'tell', 'me', 'about', 'the', 'research', 'interest', 'of', 'dr', 'sonia', 'khetarpaul'], Original: ['tell', 'research', 'interest', 'dr', 'sonia', 'khetarpaul']
-INFO:applog:[VECTOR SEARCH] Found 2 relevant chunks from Academics with filter: None
-INFO:applog:[VECTOR SEARCH] Found 2 relevant chunks from Faculty with filter: None
-INFO:applog:[VECTOR SEARCH] Total context now has 4 docs (was 0, added 4)
-INFO:applog:[CHAT RESPONSE] Success with 4 context docs
-INFO:applog:[KEYWORD ROUTER] No keyword match
-INFO:applog:[VOCAB VOTER] Votes: {<CollectionEnum.ACADEMICS: 'Academics'>: 2.6094379124341005, <CollectionEnum.FACULTY: 'Faculty'>: 20.677496127891462, <CollectionEnum.STUDENTS: 'Students'>: 0.0, <CollectionEnum.MENU: 'Menu'>: 0.0}, Winner: Faculty, Collections: [<CollectionEnum.ACADEMICS: 'Academics'>, <CollectionEnum.FACULTY: 'Faculty'>], Filter: None
-INFO:applog:[VOCAB VOTER] Tokens - Lemmatized: ['can', 'you', 'tell', 'me', 'about', 'dr', 'rajeev', 'kumar'], Original: ['tell', 'dr', 'rajeev', 'kumar']
-INFO:applog:[VECTOR SEARCH] Found 2 relevant chunks from Academics with filter: None
-INFO:applog:[VECTOR SEARCH] Found 2 relevant chunks from Faculty with filter: None
-INFO:applog:[VECTOR SEARCH] Trimmed context from 8 to 5 documents
-INFO:applog:[VECTOR SEARCH] Total context now has 5 docs (was 4, added 4)
-INFO:applog:[CHAT RESPONSE] Success with 5 context docs
-INFO:applog:[KEYWORD ROUTER] Collections: [<CollectionEnum.ACADEMICS: 'Academics'>, <CollectionEnum.FACULTY: 'Faculty'>], Filter: {'schools': {'$in': ['SNS']}}
-INFO:applog:[VECTOR SEARCH] Found 2 relevant chunks from Academics with filter: {'schools': {'$in': ['SNS']}}
-INFO:applog:[VECTOR SEARCH] Found 2 relevant chunks from Faculty with filter: {'schools': {'$in': ['SNS']}}
-INFO:applog:[VECTOR SEARCH] Trimmed context from 9 to 5 documents
-INFO:applog:[VECTOR SEARCH] Total context now has 5 docs (was 5, added 4)
-INFO:applog:[CHAT RESPONSE] Success with 5 context docs
-INFO:applog:[KEYWORD ROUTER] Collections: [<CollectionEnum.ACADEMICS: 'Academics'>, <CollectionEnum.FACULTY: 'Faculty'>], Filter: {'schools': {'$in': ['SHSS']}}
-INFO:applog:[VECTOR SEARCH] Found 2 relevant chunks from Academics with filter: {'schools': {'$in': ['SHSS']}}
-INFO:applog:[VECTOR SEARCH] Found 2 relevant chunks from Faculty with filter: {'schools': {'$in': ['SHSS']}}
-INFO:applog:[VECTOR SEARCH] Trimmed context from 9 to 5 documents
-INFO:applog:[VECTOR SEARCH] Total context now has 5 docs (was 5, added 4)
-INFO:applog:[CHAT RESPONSE] Success with 5 context docs
-INFO:applog:[KEYWORD ROUTER] No keyword match
-INFO:applog:[VOCAB VOTER] Votes: {<CollectionEnum.ACADEMICS: 'Academics'>: 2.6931471805599454, <CollectionEnum.FACULTY: 'Faculty'>: 17.437279173478924, <CollectionEnum.STUDENTS: 'Students'>: 0.0, <CollectionEnum.MENU: 'Menu'>: 0.0}, Winner: Faculty, Collections: [<CollectionEnum.ACADEMICS: 'Academics'>, <CollectionEnum.FACULTY: 'Faculty'>], Filter: None
+INFO:applog:[VOCAB VOTER] Votes: {<CollectionEnum.ACADEMICS: 'Academics'>: 0.7946213536994595, <CollectionEnum.FACULTY: 'Faculty'>: 1.0621999632537134, <CollectionEnum.STUDENTS: 'Students'>: 0.30389736749417584, <CollectionEnum.MENU: 'Menu'>: 0.0}, Winner: Faculty, Collections: [<CollectionEnum.ACADEMICS: 'Academics'>, <CollectionEnum.FACULTY: 'Faculty'>], Filter: None
 INFO:applog:[VOCAB VOTER] Tokens - Lemmatized: ['who', 'be', 'the', 'current', 'dean', 'of', 'student'], Original: ['dean', 'student']
-INFO:applog:[VECTOR SEARCH] Found 2 relevant chunks from Academics with filter: None
-INFO:applog:[VECTOR SEARCH] Found 2 relevant chunks from Faculty with filter: None
-INFO:applog:[VECTOR SEARCH] Trimmed context from 9 to 5 documents
-INFO:applog:[VECTOR SEARCH] Total context now has 5 docs (was 5, added 4)
-INFO:applog:[CHAT RESPONSE] Success with 5 context docs
+INFO:applog:[VECTOR SEARCH] Found 5 relevant chunks from Academics with filter: None
+INFO:applog:[VECTOR SEARCH] Found 5 relevant chunks from Faculty with filter: None
+INFO:applog:[VECTOR SEARCH] Total context now has 10 docs (was 0, added 10)
+ERROR:applog:[CHAT RESPONSE] Error code: 400 - {'error': {'message': "The requested model 'o4-mini-128k' does not exist.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}
+INFO:applog:[ERROR RESPONSE] {'response': '[ERROR] Failed to get chat response: Error code: 400 - {\'error\': {\'message\': "The requested model \'o4-mini-128k\' does not exist.", \'type\': \'invalid_request_error\', \'param\': \'model\', \'code\': \'model_not_found\'}}'}

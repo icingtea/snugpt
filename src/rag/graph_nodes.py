@@ -327,7 +327,7 @@ def chat_response(state: GraphState) -> Dict[str, Any]:
 
     try:
         resp = client.responses.create(
-            model="o4-mini-128k",
+            model="o4-mini",
             input=[
                 {"role": "system", "content": system_msg},
                 {"role": "user", "content": user_msg},
