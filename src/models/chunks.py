@@ -19,12 +19,12 @@ class SchoolEnum(StrEnum):
 
 
 class DepartmentEnum(StrEnum):
-    ENG = "ENGLISH"
-    BIOTECH = "BIOTECHNOLOGY"
-    PHY = "PHYSICS"
-    CHEM = "CHEMISTRY"
-    MATH = "MATHEMATICS"
-    ECO = "ECONOMICS"
+    ENG = "ENG"
+    BIOTECH = "BIOTECH"
+    PHY = "PHY"
+    CHEM = "CHEM"
+    MATH = "MATH"
+    ECO = "ECO"
     CSE = "CSE"
     ECE = "ECE"
     MECH = "MECH"
@@ -33,8 +33,7 @@ class DepartmentEnum(StrEnum):
 
 
 class SourceEnum(StrEnum):
-    STUDENT_HANDBOOK = "STUDENT_HANDBOOK"
-    SC_CONSTITUTION = "STUDENT_COUNCIL_CONSTITUTION"
+    DOCUMENT = "DOCUMENT"
     EMAIL = "EMAIL"
 
 
@@ -58,4 +57,4 @@ class WeeklyMenuChunk(BaseChunk): ...
 
 class AcademicDocumentChunk(BaseChunk):
     schools: List[SchoolEnum] = Field(default_factory=list)
-    departments: List[str] = Field(default_factory=list)
+    departments: List[DepartmentEnum] = Field(default_factory=list)
