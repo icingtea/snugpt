@@ -1,0 +1,50 @@
+Santanu  Mitra
+School of Engineering
+Department of Mechanical Engineering
+
+Research Interest:
+Thermo-fluids and energy systems
+Bioinspiration and Biomimetic
+Robotics
+
+Education:
+PostDoc. Virginia Tech, USA
+Ph.D. Indian Institute of Technology Kharagpur, India
+M.Tech. Regional Engineering College Durgapur, India
+B.E. Government Engineering College Jalpaiguri, India
+
+Work Experience:
+01/22 - Present Professor, Department of Mechanical Engineering, School of Engineering, Shiv Nadar University, Delhi-NCR
+01/15 12/20 Head of Department, Department of Mechanical Engineering, School of Engineering, Shiv Nadar University, Delhi-NCR
+4/13 - 12/21 - Associate Professor, Department of Mechanical Engineering, School of Engineering, Shiv Nadar University, Delhi-NCR
+01/12 12/12 Teaching Fellow, BMDL, Mechanical Engineering Department, Virginia Tech, USA
+11/11 04/13 Postdoctoral Research Associate, Mechanical Engineering Department, Virginia Tech, USA
+01/08 08/11 Postdoctoral Research Fellow, Mechanical Engineering Department, National University of Singapore, Singapore
+01/07 01/08 Senior Project Officer, Indian Institute of Technology Kharagpur, Aerospace Engineering Department
+01/02 01/07 Junior Project Officer, Indian Institute of Technology Kharagpur, Aerospace Engineering Department
+12/99 08/00 Visiting Faculty, RCC Jadavpur University Campus, Calcutta
+08/96 08/97 Engineer, Setech (India), Calcutta
+
+Awards:
+Awards and Recognition (Selected)
+Invited for expert talk at several conferences/institutes of international repute.
+Qualified in Graduate Aptitude Test in Engineering (GATE) India
+Senior Life Member of Aeronautical Society of India.
+Post Graduate Scholar 2005, CL, Indian Institute of Technology Kharagpur, India.
+Invited for the Board Membership of ?Open Numerical Methods International Journal?.
+Editorial Board Member: Journal of Modern Engineering and Technology
+Won several School Day prizes for standing amongst the top three ranks of the class in scholastic achievements.
+
+Journal Publications:
+Nishant Mishra; Anand Sagar Gupta; Jishnav Dawar; Alok Kumar; Santanu Mitra. J.Energy Resour. Technol. ASME 2018; 140(12):121201-121201-7. (IF - 3.18) RV Bethi, P. Laws, P. Kumar, S. Mitra, (2018) "Modified Savonius wind turbine for harvesting wind energy from trains moving in tunnels" Renewable Energy Journal, Elsevier Volume 135, pages 1056-1063 (2019) (Impact Factor - 8.6). P. Laws, RV Bethi, P. Kumar, S. Mitra (2018), "Improved Design of Savonius Rotor for Green Energy Production from Moving SMRT Train inside Tunnel" Institution of Mechanical Engineers Part C Journal of Mechanical Engineering Science, 095440621878462, 2018 https://doi.org/10.1177/0954406218784620. IF -1.8 Praveen LG, Basina Aditya, Rajagopal V. Bethi, Santanu Mitra (2017), ?Parametric Sensitivity Analysis of Vertical Axis Wind Turbine? International Journal of Mechanical Engineering and Robotics Research, Vol - 6, No. 5, pp 385-390. S. Mitra et al. (2013), Journal of Hydrodynamics, Ser B, Volume 25, No. 3, pp- 348-361. Mitra S. et al. (2012), 65th American Physical Society -Division of Fluid Dynamics Annual Meeting 2012, November 18-20, San Diego, California. Mitra S, et al. (2012), OE Journal, Elsevier, 39 1-13. Impact factor ? 4.4 Mitra S. et al. (2012), 7th Annual Energy Harvesting Workshop and 2nd Annual CEHMS Conference, August 7-8, 2012, 310 ICTAS, Virginia Tech, Blacksburg, VA, USA. Mitra S, et al. (2012), JMST Springer, 17, pp: 139-153. Impact factor ? 1.8 S. Mitra et al. (2010), International Journal of Fluid Mechanics and Research, Volume 37, No.-4, pp 359-381. S. Mitra et al. (2008), Finite Element in Analysis and Design, Vol. 45/1, pp 52-59. Impact factor ~ 3.0 S. Mitra, et al. (2008), International Journal for Numerical Methods in Fluids Vol - 56/9, pp-1625-1651. Impact Factor ? 2.11 S. Mitra et al. (2007), Journal of Sound and Vibration, Vol. 304, i1-2, pp-361-381. Impact factor ? 4.8 Santanu Mitra et al., (2006), Annals of Nuclear Energy, Elsevier Science, Vol. 33, i8, pp- 692-699. Impact factor ? 1.5 > D. Vasudevan, S. Gaggar, P. Kumar and S. Mitra, (2020) ?Application of Smoothed Particle Hydrodynamics for the Simulation and Analysis of Vibratory Finishing Process,? International Journal of Advanced Manufacturing Technology, In press, IF-3.22 P. Laws, J Saini, A. Kumar, S. Mitra (2019), "Improvement in Savonius wind turbines efficiency by modification of blade designs - A numerical study" ASME Journal of Energy Resources Technology, American Society of Mechanical Engineers, Pages 1-15, Published online November 18, 2019. https://doi.org/10.1115/1.4045476 (I.F. ~ 3.18). Laws Praveen, Ajit Kumar, Santanu Mitra. ? An improved numerical study towards harvesting power from train slipstream using savonius rotor?, ASME: The American Society of Mechanical Engineers : Journal of Energy Resources Technology. Accepted for publication, (Impact Factor ~ 3.18) Nishant Mishra, Apurva Jain, Anijith Nair, Bhavook Khanna, Santanu Mitra (2020), "Numerical and Experimental Investigations on a Dimpled Savonius Vertical Axis Wind Turbine" Accepted for publication in International Journal of Renewable Energy Research P. Rawat ; T. Misra; S. Mitra; A. Sinha, "Designing of an Amphibian Hexapod with Computer Vision for Rescue Operations", IEEE Xplore: 4th June 2020, DOI: 10.1109/ICCAR49639.2020.9108039, IEEE. Sarvapriya Singh, Santanu Mitra, Siddharth Suman, Manish Kumar (2021), ?Thermal performance evaluation of a solar air heater with rotating turbulators? Sustainable Energy Technologies and Assessment, Volume 48, December 2021, 101647. (IF ? 7.6) A Kumar, M. Kothari, S. Mitra (2021) ?A Novel Inverse Kinematics Based Control Architecture for Multi-Legged Robots?, International Journal of Robotics and Automation Technology, Vol- 8, 2021. Rakesh Rayapureddi, Santanu Mitra, (2021)? Novel Hydrodynamic Analysis Towards Capabilities Improvement of Bio?inspired Underwater Vehicles Using Momentum Redistribution Method? Journal of Bionic Engineering, Springer December 2021, 19:314?330. (IF- 3) Rajagopal V, Santanu Mitra, Pankaj Kumar, (2021), ?An OpenFOAM based study of Savonius turbine arrays in tunnels for power maximization?, Renewable Energy, Volume 179, December 2021, Pages 1345-1359, Impact Factor ? 8.6 Sarvapriya Singh, Siddharth Suman, Santanu Mitra, Manish Kumar, (2022) ?Hybrid CFD-ANN approach to predict the thermo-hydraulic performance of a solar air heater with artificial roughness? Under review, Renewable Energy, Impact factor - 8.6 Rohit Goyal, Santanu Mitra (2022), A Brief Overview of Bioinspired Robust Hydrogel Based Shape Morphing Functional Structure for Biomedical Soft Robotics, Frontier Materials, published:12 April 2022, doi: 10.3389/fmats.2022.837923, (IF- 3.4), Sarvapriya Singh, Siddharth Suman, Santanu Mitra, Manish Kumar (2022), Solar air heater with rotating circular ribs: hybrid CFD-ANN approach for prediction of thermo-hydraulic performance. Accepted for publication in Energy Reports Elsevier. (IF ? 5) Sarvapriya Singh, Siddharth Suman, Santanu Mitra, Manish Kumar (2022), ANN model for prediction of thermo-hydraulic performance of a solar air heater with vertical cylindrical ribs. Accepted for publication in Energy Reports Elsevier. (IF ? 5)
+
+Books and Book Chapters (Authored / Edited / Reviewed):
+Punit Prakash, Nishant Mishra, Santanu Mitra, "Computational Analysis of symmetric and cambered blade Darrieus Vertical Axis Wind Turbine with Bio-Mimicked leading-edge modifications" Accepted in the upcoming Book "Applications of Nature-Inspired Computing in Renewable Energy Systems", IGI Global Publication 2021. Punit Prakash, Nishant Mishra, Santanu Mitra, "Numerical and Experimental Investigations on a Bio-inspired Design of Darrieus Vertical Axis Wind Turbine Blades with Leading Edge Tubercles" Published in Book "Applications of Nature-Inspired Computing in Renewable Energy Systems", IGI Global Publication, December 2021. DOI: 10.4018/978-1-7998-8561-0.ch010 Sarvapriya Singh, Mokshaa Sharma, Santanu Mitra, Manish Kumar, "Numerical analysis of solar air heater roughened with discontinuous transverse trapezoidal ribs" Accepted for publication in Book titled "Renewable Energy: Accelerating the Energy Transition", Springer.
+
+Invited Lectures, Talks, Conference Presentations:
+Praveen Laws, Rajagopal Vinodh Bethi, Nishant Mishra, Santanu Mitra (2017) Two-dimensional unsteady flow calculations of five-bladed vertical axis wind turbine - 8th International Conference on Computational Methods (ICCM 2017), July 25-29th, Guilin, China. D. Vasudevan, S. Gaggar, P. Kumar, S.W.Y. Ming and S. Mitra, (2019) ?Simulation and analysis of Stream Finishing processes using Computational Fluid Dynamics methods, Accepted for presentation in International Conference on Computational Methods, MBS Singapore, July 9-13, 2019. R Maguram, A Kumar, S. Mitra (2019)  An OpenFOAM implementation of immersed boundary method to simulate fluid-solid interaction problems, 10th International Conference on Computational Methods, ICCM 2019 Singapore, July 9-13, 2019 Parthsarthi Rawat, Tanay Misra, Khin Phone May, Marcelo H Ang Jr, Raye Chen-Hua Yeow and Santanu Mitra, A Viscosity Gradient Approach to Achieve Dexterity in Soft Pneumatic Actuators Paper accepted for publication and presentation in 16th International Conference on Intelligent Autonomous Systems (IAS 16), Singapore, 21-25 June 2021
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances:
+Sponsored Research Projects:
+Design and Development of Bio-inspired UUVs - A Computational Approach, NAVAL RESEARCH BOARD, MARINE SYSTEMS PANEL, DRDO, 2018-2020, INR - 14 LAKH, Status - Completed.
+The Development, Testing and Performance Analysis of Batoid-Inspired Unmanned Underwater Vehicles, Sponsoring Agency - NRB Marine Systems Panel, DRDO, Budget - 19 Lakh, 2021-2024, Status - Ongoing Industrial Consultancy Project: Dual Axis Solar Tracking with ASUN Solar Power Private Limited, New Delhi. Acted as Co-Investigator

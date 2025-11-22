@@ -1,0 +1,79 @@
+Visakh Vaikuntanathan
+School of Engineering
+Department of Mechanical Engineering
+
+Research Interest:
+Thermo-fluids and energy systems
+Know more:
+Click here
+
+Education:
+2016 Ph.D., Aerospace Engineering, Indian Institute of Science, Bangalore
+2011 M.Sc, Aerospace Engineering, Indian Institute of Science, Bangalore
+2007 B.Tech., Mechanical Engineering, National Institute of Technology, Calicut
+
+Work Experience:
+12/21-Present, Assistant Professor, Department of Mechanical Engineering, School of Engineering, Shiv Nadar University, Delhi-NCR
+05/19-11/21, Post-Doctoral Research Associate, Institute of Aerospace Thermodynamics (ITLR), University of Stuttgart, Stuttgart, Germany
+05/17-04/19, Post-Doctoral Research Associate (DROPIT), Institute of Aerospace Thermodynamics (ITLR), University of Stuttgart, Stuttgart, Germany
+03/16-01/17, IISc Research Associate, Department of Aerospace Engineering, Indian Institute of Science, Bangalore
+08/15-02/16, Junior Research Associate, Department of Aerospace Engineering, Indian Institute of Science, Bangalore
+05/07-06/07, Summer Research Fellow of the Indian Academy of Sciences (IASc-INSA-NASI), Department of Metallurgical & Materials Engineering, Indian Institute of Technology, Kharagpur
+
+Awards:
+2017 Prof. A. K. Rao medal for the Best PhD thesis in the Department of Aerospace Engineering, Indian Institute of Science (2015-16).
+2016 - 2017 IISc Research Associateship
+2012 - 2013 International travel support for presenting research paper in international conferences abroad from the Department of Science and Technology (DST) and the Council of Scientific and Industrial Research (CSIR), Government of India.
+2010 - 2015 Scholarship from the Government of India for pursuing Ph.D.
+2009 International travel support for presenting research paper in international conferences abroad from the Council of Scientific and Industrial Research (CSIR), Government of India.
+2007 - 2010 Scholarship from the Government of India for pursuing M.Sc. (Engg).
+2007 Summer Research Fellowship of the Indian Academy of Sciences (IASc-INSA-NASI).
+
+Journal Publications:
+1. M. Ibach, Visakh Vaikuntanathan, A. Arad, D. Katoshevski, J. B. Greenberg, B. Weigand, "Investigation of droplet grouping in monodisperse streams by direct numerical simulations", Physics of Fluids, 34 2022.
+
+2. Visakh Vaikuntanathan, M. Ibach, A. Arad, X. Chu, D. Katoshevski, J. B. Greenberg, B. Weigand, "An analytical study on the mechanism of grouping of droplets", Fluids, 7, 2022.
+
+3. E. de Botton, J. B. Greenberg, A. Arad, D. Katoshevski, Visakh Vaikuntanathan, M. Ibach, B. Weigand, "An investigation of grouping of two falling dissimilar droplets using the homotopy analysis method", Applied Mathematical Modelling, 104, 2022.
+
+4. R. Bernard*, Visakh Vaikuntanathan*, B. Weigand, G. Lamanna, "On the crown rim expansion kinematics during droplet impact on wall-films", Experimental Thermal and Fluid Science, 118, 2020. 
+
+5. G. Yang, X. Chu, Visakh Vaikuntanathan, S. Wang, J. Wu, B. Weigand, A. Terzis, "Droplet mobilization at the walls of a microfluidic channel", Physics of Fluids, 32, 2020.
+
+6. G. Yang*, Visakh Vaikuntanathan*, A. Terzis, X. Cheng, B. Weigand, R. Helmig, "Impact of a linear array of hydrophilic and superhydrophobic spheres on a deep water pool", Colloids and Interfaces, 3, 2019.
+
+7. A. Terzis, M. Kirsch, Visakh Vaikuntanathan, A. Geppert, G. Lamanna, B. Weigand, "Splashing characteristics of diesel exhaust fluid (AdBlue) droplets impacting on urea-water solution films", Experimental Thermal and Fluid Science, 102, 2019.
+
+8. X. Chu, B. Weigand, Visakh Vaikuntanathan, "Flow turbulence topology in regular porous media: From macroscopic to microscopic scale with direct numerical simulation", Physics of Fluids, 30, 2018.
+
+9. Visakh Vaikuntanathan**, R. Kannan, D. Sivakumar, "An experimental study on the equilibrium shape of water drops impacted on groove-textured surfaces", Experimental Thermal and Fluid Science, 87, 2017. 
+
+10. S. Sen, Visakh Vaikuntanathan, D. Sivakumar, "Impact dynamics of alternative jet fuel drops on heated stainless steel surface", International Journal of Thermal Sciences, 121, 2017.
+
+11. Visakh Vaikuntanathan, D. Sivakumar, "Maximum spreading of liquid drops impacting on groove-textured surfaces: Effect of surface texture", Langmuir, 32, 2016.
+
+12. Visakh Vaikuntanathan, D. Sivakumar, "Effect of wetting difference across junction on dynamics of drops impacting on the junction of dual-textured surfaces", AIChE Journal, 62, 2016.
+
+13. R. Gupta, Visakh Vaikuntanathan, D. Sivakumar, "Superhydrophobic qualities of an aluminum surface coated with hydrophobic solution NeverWet", Colloids and Surfaces A, 500, 2016.
+
+Books and Book Chapters (Authored / Edited / Reviewed):
+1. Visakh Vaikuntanathan**, R. Bernard, G. Lamanna, G. E. Cossali, B. Weigand, "On the measurement of velocity field within wall-film during droplet impact on it using high-speed micro-PIV", In: Lamanna G., Tonini S., Cossali G., Weigand B. (eds) Droplet Interactions and Spray Processes. Fluid Mechanics and Its Applications, 121, Springer, Cham, 2022.
+2. R. Bernard, Visakh Vaikuntanathan, G. Lamanna, B. Weigand, "A new perspective for the characterization of crown rim kinematics", In: Lamanna G., Tonini S., Cossali G., Weigand B. (eds) Droplet Interactions and Spray Processes. Fluid Mechanics and Its Applications, 121, Springer, Cham, 2020.
+3. Visakh Vaikuntanathan**, D. Sivakumar, "Analysis of drop spreading upon impact on dual-textured surface", In: Saha A., Das D., Srivastava R., Panigrahi P., Muralidhar K. (eds) Fluid Mechanics and Fluid Power ? Contemporary Research. Lecture Notes in Mechanical Engineering. Springer, New Delhi, 2017.
+4. S. Sen, Visakh Vaikuntanathan**, D. Sivakumar, "Impingement of aviation fuel drop on stainless steel surface", In: Saha A., Das D., Srivastava R., Panigrahi P., Muralidhar K. (eds) Fluid Mechanics and Fluid Power ? Contemporary Research. Lecture Notes in Mechanical Engineering. Springer, New Delhi, 2017.
+
+Invited Lectures, Talks, Conference Presentations:
+Conference Presentations:
+1. Visakh Vaikuntanathan**, K. Amini, A. Arad, D. Katoshevski, B. Greenberg, B. Weigand, "Experimental investigations on the grouping behaviour in a mono-disperse droplet stream", In the Proceedings of the 15th Triennial International Conference on Liquid Atomization and Spray Systems (ICLASS), Edinburgh, UK, 29 Aug - 02 Sep 2021.
+2. Visakh Vaikuntanathan**, K. Amini, B. Weigand, "Identifying grouping and non-grouping behaviours in a droplet stream using signal processing techniques", In the Proceedings of the 15th Triennial International Conference on Liquid Atomization and Spray Systems (ICLASS), Edinburgh, UK, 29 Aug - 02 Sep 2021.
+3. M. Ibach, K. Schulte, Visakh Vaikuntanathan, A. Arad, D. Katoshevski, B. Greenberg, B. Weigand, "Direct numerical simulations of grouping effects in droplet streams using different boundary conditions", In the Proceedings of the 15th Triennial International Conference on Liquid Atomization and Spray Systems (ICLASS), Edinburgh, UK, 29 Aug - 02 Sep 2021.
+4. Y. Geyari, B. Greenberg, A. Arad, D. Katoshevski, N. Roth, Visakh Vaikuntanathan, B. Weigand, "Some new insights into droplet grouping dynamics", In the Proceedings of the 15th Triennial International Conference on Liquid Atomization and Spray Systems (ICLASS), Edinburgh, UK, 29 Aug - 02 Sep 2021.
+5. R. Bernard, Visakh Vaikuntanathan, G. Lamanna, B. Weigand, "Crown rim kinematics for drop impact on wall-film", 08th Conference on Bubble & Drop, Sofia, Bulgaria, 24-28 June 2019.
+6. R. Benard, A. Geppert, Visakh Vaikuntanathan**, G. Lamanna, B. Weigand, "On the scaling of crown rim diameter during droplet impact on thin wall-films", In the Proceedings of the 14th Triennial International Conference on Liquid Atomization and Spray Systems (ICLASS), Chicago, USA, 22-26 July 2018.
+7. J. Steigerwald, A. Geppert, M. Ertl, R. Bernard, Visakh Vaikuntanathan, G. Lamanna, B. Weigand, "Direct numerical simulations of one- and two-component droplet wall-film interactions within the crown-type splashing regime", In the Proceedings of the 14th Triennial International Conference on Liquid Atomization and Spray Systems (ICLASS), Chicago, USA, 22-26 July 2018.
+8. Visakh Vaikuntanathan, R. Sakthikumar, H. Takana, D. Sivakumar, H. Nishiyama, "Maximum spread of water droplets impacting on a superheated groove-textured surface", International Conference on Recent Trends in Engineering and Materials Science (ICEMS), Jaipur, India, 17-19 March 2016.
+9. R. Gupta, Visakh Vaikuntanathan, D. Sivakumar, "Spreading and receding dynamics of water droplets impacting on a spray-coated superhydrophobic surface", International Conference on Recent Trends in Engineering and Materials Science (ICEMS), Jaipur, India, 17-19 March 2016.
+10. R. Gupta, Visakh Vaikuntanathan**, D. Sivakumar, "Effect of low energy surface coating on droplet impact dynamics on rough aluminum", In the Proceedings of the 13th Triennial International Conference on Liquid Atomization and Spray Systems (ICLASS), Tainan, Taiwan, 23-27 August 2015.
+Invited Talks:
+1. Visakh Vaikuntanathan, ?An overview of some experimental investigations on droplet interaction with solid, liquid, and air?, Invited keynote talk (online), Kick-off meeting of DROPIT Summer School 2022, University of Stuttgart, 10th June 2022.
+2. Visakh Vaikuntanathan, ?An overview of some experimental investigations on droplet interaction with solid, liquid, and air?, Invited talk (online), Seminar on Multi-phase flows, University of Stuttgart, 30th June 2022.

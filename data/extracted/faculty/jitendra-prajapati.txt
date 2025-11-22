@@ -1,0 +1,128 @@
+Jitendra Prajapati
+School of Engineering
+Department of Electrical Engineering
+
+Research Interest:
+Terahertz Radiation, Terahertz Antennas, Photoconductive and Photomixing Antennas, Teraherz Applications, and Terahertz Sensing
+Know more:
+Click here
+
+Education:
+2018
+,
+Ph.D., Indian Institute of Technology Guwahati
+2010
+,
+B.Tech., S. R. M. C. E. M., Lucknow (Under Uttar Pradesh Technical University)
+
+Work Experience:
+Aug. 2022-Present, Assistant Professor, Department Electrical Engineering, School of Engineering, Shiv Nadar Institution of Eminence Deemed to be University, Delhi-NCR, Greater Noida, UP, India.
+Jan. 2019-Aug. 2022, Assistant Professor, Department Electrical Engineering, School of Engineering, Shiv Nadar University, Delhi-NCR, Greater Noida, UP, India.
+Aug 2018-Dec. 2018, Assistant Professor,
+Electronics and Communication Engineering, National Institute of Technology Sikkim, Ravangla, Sikkim, India.
+April 2011- Dec. 2012, Project Fellow, CSIR-Central Electronics Engineering Research Institute, Pilani, Rajasthan, India.
+
+Journal Publications:
+ENF Boby, J Prajapati, V Rathinasamy, S Mukherjee, and S Mondal, “Parametric Investigation of Interdigitated Photoconductive Antenna for Efficient Terahertz Applications”,
+Arabian Journal for Science and Engineering
+, 47(3), 2022.
+ENF Boby, J Prajapati, V Rathinasamy, T R Rao, and S Mondal, “6G and beyond: Investigation of broadband terahertz interdigitated photoconductive antenna by exploiting laser parameters”,
+Microwave and Optical Technology Letters
+, 2021.
+Vinay Sharma, Madhur D. Upadhayay, Atul V. Singh, and Jitendra Prajapati, “Hammer-Shaped Element-Based Compact MIMO Antenna for WLAN Application”,
+Progress In Electromagnetics Research Letters
+, 97, 121-130, 2021.
+Mrinmoy Bharadwaj, Jitendra Prajapati, and Ratnajit Bhattacharjee, “Analytical Modelling of Terahertz Photomixing Antennas”,
+IETE Journal of Research,
+1-12, 2019.
+Jitendra Prajapati, Mrinmoy Bharadwaj, Amitabh Chatterjee and Ratnajit Bhattacharjee, “Radiation field analysis of photoconductive antenna using an improved carrier dynamics”,
+Semiconductor Science and Technology
+, 34(2), 024004, 2019.
+Mrinmoy Bharadwaj, Jitendra Prajapati, and Ratnajit Bhattacharjee, “Novel graphene based antennas for the terahertz region”,
+Semiconductor Science and Technology
+, 34(1), 014003, 2019.
+Jitendra Prajapati, Mrinmoy Bharadwaj, Amitabh Chatterjee and Ratnajit Bhattacharjee, “Magnetic Field-Assisted Radiation Enhancement from a Large Aperture Photoconductive Antenna”,
+IEEE Transactions on Microwave Theory and Techniques
+, 66(2), 2018.
+Jitendra Prajapati, Mrinmoy Bharadwaj, Amitabh Chatterjee and Ratnajit Bhattacharjee, “Circuit modeling and performance analysis of photoconductive antenna”,
+Optics Communications
+, 394,69-79, 2017.
+Jitendra Prajapati, Vinay Kumar Boini, Mrinmoy Bharadwaj and Ratnajit Bhattacharjee, “Comments on “Theoretical Modeling of a Photoconductive Antenna in a Terahertz Pulsed System”,
+IEEE Transactions on Antennas and Propagation
+, 64(6), 2583-2584, 2016.
+Udit Narayan Pal, Jitendra Prajapati, Niraj Kumar and Ram Prakash, “Particle-in-cell simulation study of PCE-gun for different hollow cathode aperture sizes”,
+Indian Journal of Pure and Applied Physics
+, 53(4), 225-229, 2015.
+U N Pal, J Prajapati, N Kumar and R Prakash, “Simulation and experimental studies of 20 kV/200 A PCE-Gun for discharge current analysis”,
+Indian Journal of Physics
+, 89(9), 2015.
+Niraj Kumar, Nalini Pareek, Udit Narayan Pal, Deepak Kumar Verma, Jitendra Prajapati, Mahesh Kumar, Bharat Lal Meena and Ram Prakash, “Performance evaluation of self-breakdown-based single-gap plasma cathode electron gun”,
+Pramana
+, 82(6), 1075-1084, 2014.
+Ram Prakash, Gheesa Lal Vyas, Jalaj Jain, Jitendra Prajapati, Udit Narayan Pal, Malay Bikas Chowdhuri and Ranjana Manchanda, “Development of large volume double ring penning plasma discharge source for efficient light emissions”,
+The Review of scientific instruments
+, 83(12), 2012.
+Udit Narayan Pal, Niraj Kumar, Deepak Kumar Verma, Jitendra Prajapati, Mahesh Kumar, Vishnu Srivastava, Harish Kumar Dwivedi and Ram Prakash, “: Development of low-pressure high-current plasma cathode electron gun and use of associated techniques”,
+Journal of Theoretical and Applied Physics
+, 6(1), 2012.
+Niraj Kumar, U. N. Pal, D. K. Verma, J. Prajapati, M. Kumar, B. L. Meena, M. S. Tyagi and V. Srivastava, “Experimental Analysis of Pseudospark Sourced Electron Beam”,
+Journal of infrared, millimeter and terahertz waves
+, 32(12), 2011.
+
+Invited Lectures, Talks, Conference Presentations:
+Invited Lectures:
+Delivered an invited talk on “Photoconductive Antenna: Opportunities and Challenges” in the Sixth International Conference on Millimeter Wave and Terahertz Technologies held by the Faculty of Electrical Engineering, K.N. Toosi University of Technology from Jan. 24-26, 2023.
+Delivered a talk on “Photoconductive Antenna: Analytical approach to understand its working” in SERB-funded high-end workshop (“KAARYASHALA”) on “TCAD-based Modeling & Simulation of Advanced Semiconductor Devices” held at Shiv Nadar University, Delhi-NCR, from Jan. 23-31, 2023.
+Delivered a talk on "Terahertz Antennas" in Faculty Development Program on “Antenna Trends” jointly organized by E&ICT Academy IIT Guwahati, NIT Patna and MNIT Jaipur from July 1-5, 2019.
+Conferences:
+Deepak Yadav, Jyothishree Pillai, Madhur Deo Upadhayaya, Jitendra Prajapati, and Naveen Babu “A Spiral Array for OAM Mode Generation",
+2022 IEEE International RF and Microwave Conference (RFM)
+, Kuala Lumpur, Malaysia, 2022.
+Jyothishree Pillai, Deepak Yadav, Jitendra Prajapati, Madhur Deo Upadhayaya, and Naveen Babu, “Optimization Analysis of a Nano-dot Photoconductive Antenna",
+IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization for RF, Microwave, and Terahertz Applications
+, Limoges, France, 2022.
+Deepak Yadav, Jyothishree Pillai, Madhur Deo Upadhayaya, Jitendra Prajapati, and Naveen Babu “An Octagon Patch Antenna for OAM Mode Generation",
+IEEE International Conference on Electrical, Electronics and Computer Engineering (DELCON)
+, 2022.
+Jyothishree Pillai, Deepak Yadav, Jitendra Prajapati, Madhur Deo Upadhayaya, and Naveen Babu “Compact Wideband H-Shaped Slot Antenna for Sub-THz Applications",
+IEEE International Conference on Electrical, Electronics and Computer Engineering (DELCON),
+2022.
+Jyothishree Pillai, Deepak Yadav, Jitendra Prajapati, Madhur Deo Upadhayaya, and Naveen Babu “Quad-Band Graphene Antenna for 60-120 GHz Indoor Communication System",
+IEEE Indian Conference on Antennas and Propogation (InCAP),
+2021.
+Hritik Singhal, Ashwin S, Vinay Sharma, Jitendra Prajapati, Madhur Deo Upadhayaya, “High Gain Hexagonal Patch Antenna for V2V Communication",
+IEEE 7th International Conference on Signal Processing and Integrated Networks (SPIN)
+, 2020.
+Jitendra Prajapati, Mrinmoy Bharadwaj, Amitabh Chatterjee and Ratnajit Bhattacharjee, “Effect of Near Fields on Radiation from Photoconductive Antenna",
+IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization for RF, Microwave, and Terahertz Applications
+,  Seville, Spain, 2017.
+Jitendra Prajapati, Mrinmoy Bharadwaj, Amitabh Chatterjee and Ratnajit Bhattacharjee, “Equivalent Electrical Circuit Model of Terahertz Photoconductive Antenna Receiver in a Pulsed System",
+International Conference on Innovations in Electronics, Signal Processing and Communication
+, Meghalaya, India, 2017.
+Mrinmoy Bharadwaj, Jitendra Prajapati, and Ratnajit Bhattacharjee, “Analytical Modelling of carrier concentration and conductance in Terahertz Photomixing Antennas",
+IEEE Applied Electromagnetics Conference (AEMC)
+, Aurangabad, India, 2017.
+Mrinmoy Bharadwaj, Jitendra Prajapati, and Ratnajit Bhattacharjee, “Design of novel beam-switching semicircular microstrip antenna and transmission line with Graphene at Terahertz frequencies",
+Asia-Pacific Microwave Conference (APMC),
+New Delhi, India, 2016.
+Jitendra Prajapati, Mrinmoy Bharadwaj, Amitabh Chatterjee and Ratnajit Bhattacharjee, “Time Dependent Capacitance in Photoconductive Antenna",
+IEEE Applied Electromagnetics Conference (AEMC)
+, IIT Guwahati, India, 2015.
+Jitendra Prajapati, Mrinmoy Bharadwaj, Amitabh Chatterjee and Ratnajit Bhattacharjee, “A Parametric Study of Photo Carrier Generation in Photoconductive Antenna ",
+6th International Conference on Computers and Devices for Communication (CODEC)
+, Kolkata, India, 2015.
+Jitendra Prajapati, U. N. Pal, Niraj Kumar, D. K. Verma, Ram Prakasha and V. Srivastava, “Comparative simulation studies of plasma cathode electron (PCE) gun",
+Journal of Physics Conference Series
+, 365(1), 2012.
+Deepak K. Verma, U. N. Pal, N. Kumar, J. Prajapati, M. Kumar, Ram Prakash and V. Srivastava, “Investigation of electron beam parameters inside the drift region of plasma cathode electron gun",
+Journal of Physics Conference Series
+, 365(1), 2012.
+Niraj Kumar, D K Verma, J Prajapati, M Kumar, B L Meena, M S Tyagi, V Srivastava and U N Pal, “Experimental Investigation of Pseudospark generated electron beam",
+Journal of Physics Conference Series
+, 390(1), 2012.
+UN Pal, N Kumar, DK Verma, J Prajapati, M Kumar, BL Meena, Ram Prakash and V Srivastava, “Electron beam analysis of pseudospark sourced electron gun",
+IEEE International Conference on Plasma Science (ICOPS),
+2012.
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances:
+"Simulation and performance analyses of Photoconductive antenna for High power THz emitter and receiver on LT-GaAs and InGaAs substrates", PI-Jitendra Prajapati, Funding Agency: SSPL, DRDO, New Delhi, Amount: 29.96 Lakhs, Duration: 24 months

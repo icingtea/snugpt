@@ -1,0 +1,75 @@
+Avinash Samvedi
+
+Decision Sciences, Operations Management, and Information Systems
+
+Profile Summary:
+Avinash holds a Ph.D. from Indian Institute of Technology Delhi in the field of supply chain risk management. He had his master’s degree from National Institute of Technology (NIT) Calicut, Kerala in Industrial Engineering and Management and his bachelor’s degree from NIT Karnataka, in Mechanical engineering. Before joining Shiv Nadar Institution of Eminence Deemed to be University, he has served for nearly 7 Years in research positions at National University of Singapore, Hong Kong Polytechnic University, and Indian Institute of Science. He also has 3 years of industry experience, as analytics manager, with ST Logistics (a logistics company in Singapore).
+Some of his recent areas of research include studying the possibility of using autonomous agents to handle supply chain disruptions, using machine learning to handle yard planning in container depots and developing an industry 4.0 vessel collision avoidance system. He likes to spend his free time with his family, socializing with his friends and colleagues, and following world affairs.
+
+Education:
+2012,
+Ph.D., Indian Institute of Technology Delhi (IITD)
+2009,
+M.Tech., National Institute of Technology Calicut, Kerala (NITC)
+2005,
+B.E., National Institute of Technology Surathkal, Karnataka (NITK)
+
+Work Experience:
+02/23 – Present
+Associate Professor of Practice, School of Management and Entrepreneurship, Shiv Nadar Institution of Eminence
+01/21 – 01/23
+Senior Research Fellow, Centre for Next Generation Ports, National University of Singapore
+02/18 – 01/21
+Supply Chain Technology Manager, Supply Chain Control Tower (Sitadel), ST Logistics Singapore
+01/16 – 01/18
+Research Fellow, The Logistics Institute – Asia Pacific, National University of Singapore
+02/14 – 11/15
+Post Doctoral Research Associate, Department of Industrial and Systems Engineering, Faculty of Engineering, The Hong Kong Polytechnic University
+08/12 – 12/13
+Senior Research Fellow, Department of Computer Science and Automation, Indian Institute of Science (IISc) Bangalore
+
+Research Interests:
+Multi-Agent Path Planning for Autonomous Vessels,
+Vessel Collision Avoidance Systems, Reinforcement Learning for Dynamic Supply Chain Management, Yard Planning and Resource Allocation in Ports, Risk Management in Supply Chains, Risk-Aware Path Planning for Vessels, Energy-Efficient Path Planning in Maritime Operations.
+
+Journal Publications:
+Timperio, G., Tiwari, S., Lee, C. K., Samvedi, A., & de Souza, R. (2020). Integrated decision support framework for enhancing disaster preparedness: A pilot application in Indonesia. International Journal of Disaster Risk Reduction, 51, 101773.
+Samvedi, A., Jain, V., Chan. F.T.S, and Chung S.H., (2018) Information system selection for a supply chain based on current trends: The BRIGS approach. Neural Computing and Applications, Vol. 30, No. 5, pp 1619-1633.
+Timperio, G., Panchal, G.B., Samvedi, A., Goh, M., and DeSouza, R., (2017) Decision Support Framework for Location Selection and Disaster Relief Network Design. Journal of Humanitarian Logistics and Supply Chain Management. Vol. 7, No. 3, pp 222-245.
+Zhou, F., Wang, X., and Samvedi, A., (2017) Quality Improvement Pilot Program Selection based on Dynamic Hybrid MCDM Approach. Industrial management and Data Systems, Vol. 118, No. 1, pp 144-163.
+Chan. F.T.S, Samvedi, A., and Chung S.H., (2015) Fuzzy time series forecasting for supply chain disruptions. Industrial management and Data Systems, Vol. 115, No. 3, pp 419-435.
+Samvedi, A. and Jain, V., (2013) A grey approach for forecasting in a supply chain during intermittent disruptions. Engineering Applications of Artificial Intelligence, Vol. 26, No. 3, pp 1044-1051.
+Samvedi, A., Jain, V., and Chan, F.T.S., (2013) Quantifying Risks in a Supply Chain through Integration of Fuzzy AHP & Fuzzy TOPSIS. International Journal of Production Research, Vol. 51, No. 8, pp 2433-2442.
+Samvedi, A. and Jain, V., (2013) A Study on the Interactions between Supply Chain Risk Management Criteria using Fuzzy DEMATEL method. International Journal of Operational Research, Vol. 18, No. 3, pp 255-271.
+Viswanadham, N. and Samvedi, A., (2013) Supplier selection based on supply chain ecosystem, performance and risk criteria. International Journal of Production Research, Vol. 51, No. 21, pp 6484-6498.
+Samvedi, A., Jain, V., and Chan, F.T.S., (2012) An integrated approach for machine tool selection using fuzzy AHP and grey relational analysis. International Journal of Production Research. Vol. 50, No. 12, pp 3211-3221.
+Samvedi, A. and Jain, V., (2012) Effect of sharing forecast information on the performance of a supply chain experiencing disruptions. International Journal of Logistics Systems and Management. Vol. 13, No. 4, pp 509-524.
+
+Conference Presentations:
+S. Verma and A. Samvedi, (2024) Cooperative Collision Avoidance for Autonomous Vessels in a Mixed Traffic Environment,
+Winter Simulation Conference (WSC)
+, Orlando, FL, USA, 2024, pp. 549-559
+Samvedi, A., Tiwari, S., Goh, M., and De Souza, R., (2018), Tool for Disruption Risk Management of Healthcare Supply Chain for Focal Company. Proceedings of ProLog Conference. Hull. England.
+Timperio, G., Hadiguna, R., Samvedi, A., De Souza, R., and Kami, I., (2017), May. Decision Support Framework for Humanitarian Relief Stockpiles: The Case of West Sumatra. In POMS 2017, 28th annual conference. POMS. Seattle.
+Samvedi, A., Goh, M., and DeSouza, R., (2016) Handling network disruption risks for supply-chain information systems selection using fuzzy DEMOPSIS. Proceedings of IEEE International Conference on Management of Innovation and Technology. Bangkok.
+Timperio, G., Panchal, G.B., DeSouza, R., Goh, M., and Samvedi, A., (2016) Decision Making Framework for Emergency Response Preparedness: A supply chain resilience approach. Proceedings of IEEE International Conference on Management of Innovation and Technology. Bangkok.
+Chan. F.T.S, Samvedi, A., and Chung S.H., (2015) An Integrated Fuzzy Multi Criteria Approach for Robust Pairing Selection in Aviation Scheduling. Proceedings of the World Congress on Mechanical, Chemical, and Material Engineering, Barcelona, Paper No. 249.
+Viswanadham, N. and Samvedi, A., (2013) Multi tier supplier selection for a sustainable global supply chain. Proceedings of 9th annual IEEE International Conference on Automation Science and Engineering, pp 492-497.
+Gupta, N., Samvedi, A., and Jain, V., (2011) A framework for comparing the centralized and decentralized decision making in context of supply chain risks. Proceedings of International Conference on Advances in Supply Chain and Manufacturing Management, IIT Kharagpur.
+Samvedi, A. and Jain, V., (2011) Studying the impact of various inventory policies on a supply chain with intermittent supply disruptions. Proceedings of Winter Simulation Conference, pp. 1636-1644.
+Samvedi, A. and Sridharan, R., (2009) Distance-based fuzzy-AHP approach for the selection of a flexible manufacturing system. Proceedings of International Conference on Latest Trends on Simulation Modeling and Analysis. NIT Calicut.
+
+Work History with Sponsored Projects:
+Pilot Advisory System (PAS)
+To develop an integrated simulation optimization approach for real time conflict/collision avoidance that considers both the dynamics and stochasticity of surrounding vessels.
+Productivity improvement opportunities through automation - modelling and analysis
+Evaluate processes to scout for opportunities for Robotics and Automation in hospitals in Singapore, so as to lift the productivity and reduce the manpower crunch.
+Develop supply chain risk index for strategic decisions
+To assess the strategic suppliers of the firm for their risk exposure and develop mitigating measures against main risks and assess their effectiveness through simulation.
+Building dynamic supply chain risk management platform
+Develop real-time risk indices of suppliers based on real-time information such as goods delivery status, natural disaster, traffic conditions, etc. and integrate the results with the dash boarding platform to create a control tower.
+Demand Planning for e-Business
+Define and model the triggers that drive demand- for the base, initiative, and promotion replenishment stream for responsive supply chain
+.
+Feasibility study of optimizing runway scheduling for different scenarios at Hong Kong International Airport
+Optimizing the use of the current two runways at the airport and providing case analyses for different likely future scenarios for the optimum use

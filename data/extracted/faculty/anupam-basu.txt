@@ -1,0 +1,54 @@
+Anupam Basu
+School of Engineering
+Department of Computer Science and Engineering
+
+Biography:
+Prof. Anupam Basu is a professor at Department of Computer Science Engineering in IIT Kharagpur and currently a director of NIT, Durgapur. He has taught at University of California, Irvine, and University of Guelph, Ontario, Canada as visiting Professor and has been the Humboldt Fellow at TU Dortmund, Germany. He teaches Computer Architecture, Operating Systems, and Embedded Systems IIT. He has also conducted Artificial Intelligence, Intelligent Systems, and Cognitive Science courses at IITK.
+Currently, he is Honorary Professor at CSE, SNU since 1st June 2021.
+
+Education:
+1988
+, Ph.D., Computer Science and Engineering, IIT Kharagpur
+1982
+, M.E., Computer Engineering, Jadavpur University
+1980
+,
+B.E., Electronic and Tele Communication Engineering, Jadavpur University
+
+Awards:
+2011
+,
+MPhasis Universal Design Award 2011, for contributions in design for the disabled, by National Council for Promotion of Employment of Disabled Persons, India
+2007
+,
+National Award for Technology Development for Empowering Persons with Disability 2007, Ministry of Social Justice and Youth Empowerment
+2004
+,
+Da Vinci Award, Engineering Society of Detroit and Multiple Sclerosis Society of Michigan, for the technology for communication by the speech impaired and people with cerebral palsy, 2004
+2000
+,
+Fellow of Indian National Academy of Engineering, 2000
+1999
+, International Research Affiliate, Center for Embedded Computing Systems, University of California, Irvine, USA, 1999 for contributions in Embedded Systems
+1997
+, Humboldt Fellowship, Alexander von Humboldt Stiftung, Germany, 1997, for his works in Embedded Systems
+1996
+, Jaycee Award for Outstanding Persons, Calcutta Chamber of Commerce, 1996, for research on Assistive Devices for the Physically Handicapped
+1992
+,
+Young Scientist Award, Department of Science & Technology, Govt. of India, 1992, for R&D towards devices for visually handicapped
+
+Research Interests:
+Embedded Systems
+Natural Language Processing
+Assistive Technology
+Natural Interface Design and
+Human Computer Interaction and ICT4D
+
+Teaching Interests:
+Basics
+: Programming and Data Structure
+Systems
+: Computer Architecture, Operating Systems, and Embedded Systems
+Special Interest
+: Artificial Intelligence, Intelligent Systems, and Cognitive Sciences

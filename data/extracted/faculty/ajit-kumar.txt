@@ -2,27 +2,23 @@ Ajit Kumar
 School of Natural Sciences
 Department of Mathematics
 
-Research Interest
---------------------------------------------------------------------------------
+Research Interest:
 Machine Learning
 Reinforcement Learning
 Large Language Models (LLMs)
 Agentic AI
 
-Education
---------------------------------------------------------------------------------
+Education:
 2011, Ph.D., Mathematics, University of Houston
 
-Area of Expertise
---------------------------------------------------------------------------------
+Area of Expertise:
 PyTorch
 RLlib
 LangChain
 LangGraph
 Moodle Plugins
 
-Journal Publications
---------------------------------------------------------------------------------
+Journal Publications:
 Renu Saraswat, Ajit Kumar
 Stock Price Forecasting With Integration of Sectoral Behavior: A Deep Auto-Optimized Multimodal Framework.
 2025

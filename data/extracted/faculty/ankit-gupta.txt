@@ -1,0 +1,143 @@
+Ankit Gupta
+School of Engineering
+Department of Mechanical Engineering
+
+Research Interest:
+Structural Engineering and Computational Materials Science
+Know more:
+Click here
+
+Education:
+2018
+,
+Ph.D., Indian Institute of Technology, Mandi
+2012
+,
+M.Tech., Indian Institute of Technology, Roorkee
+2006,
+B.Tech., U.P.T.U, Lucknow
+
+Work Experience:
+01/24-Present
+Associate Professor, Department of Mechanical Engineering, School of Engineering, Shiv Nadar University, Delhi-NCR
+01/19-12/23
+Assistant Professor, Department of Mechanical Engineering, School of Engineering, Shiv Nadar University, Delhi-NCR
+08/06-01/15
+Assistant Professor, M.I.T, Moradabad
+
+Awards:
+2018
+Albert Nelson Marquis Lifetime Achievement Award, 2018
+Bibliography appeared in Marquis Who's who, USA, 2018
+Awarded from Elsevier Publishers for Outstanding contribution for reviewing
+Recent development in modeling and analysis of functionally graded materials and structures. Progress in Aerospace Sciences 79, 1-14; Elsevier Publishers, Cited as one of the Top 25 hottest articles of the Journal (From July 2015-Dec 2018) 2016
+Received travel grant from Department of Science and Technology (Government of India) to attend an ASME International conference in Phoenix, USA, 2012
+Branch topper in M.Tech. with 9.18 CGPA
+
+Project Details:
+Revamping the efficiency of the hybrid solar-thermal system using advanced composite material with a self-cleaning mechanism
+Funding Agency:
+La Foundation Dassault Systems
+Discover how advanced composite materials with a self-cleaning mechanism are transforming hybrid solar-thermal systems:
+Seamless Material Transition:
+A systematic material gradient from 70% to 0% copper ensures smooth property transitions across the structure for Copper/HDPE functionally graded material.
+Hybrid Technology Innovation:
+These systems effectively harness solar radiation and thermal energy, addressing the limitations of standalone PV or thermal setups.
+Combatting Dust Accumulation:
+A self-cleaning mechanism reduces the impact of dust, critical for maintaining energy output in dusty environments.
+Efficiency Across Seasons:
+While thermal efficiency drops in colder months like December, innovations maintain robust performance.
+Pictorial representation of the setup:
+Key Findings:
+In October 2024, a
+28 cm x 28 cm system
+achieved
+88% overall efficiency
+with 14.9% recovery in electrical efficiency at 850 W/m² and 66 ml/min flow rate.
+In December, a larger
+52 cm x 52 cm hybrid system
+achieved
+61.68% overall efficiency
+with electrical efficiencies of
+14.31% and 14.67%
+at flow rates of 70 ml/min and 35 ml/min, respectively.
+This breakthrough underscores the potential of hybrid solar-thermal systems in advancing renewable energy technology.
+
+Journal Publications:
+Y Kumar, A Gupta, Size-dependent stochastic vibration response of compositionally graded nanoplates with system randomness using nonlocal continuum model with partial support Archive of Applied Mechanics 92 (3), 1053-1081, 2022.
+P Jhunjhunwala, P Taraphdar, A Gupta, C Pandey, Numerical Simulation of Temperature Fields and Residual Stresses in Multi-Pass Weld Using the Novel Prescribed Temperature Approach with Experimental Validation, Transactions of the Indian Institute of Metals, 1-11 , 2022.
+MP Singh, KS Arora, A Gupta, R Kumar, DK Shukla, P Jhunjhunwala, Experimental characterization of dynamic fracture toughness behavior of X80 pipeline steel welded joints for different heat inputs Welding in the World, 1-20, 2022.
+P Meena, M Kumar, M Singh, D Kumar Shukla, RG Burela, A Gupta, Numerical Analysis of Different SUS304 Steel Weld Joint Configurations Using new Prescribed Temperature Approach, Transactions of the Indian Institute of Metals 75 (6), 1649-1668 5. Dheer Singh, Ankit Gupta, Vibration Response of Functionally Graded Material Sandwich Plates with Elliptical Cut-outs and Geometric Imperfections under the Mixed Boundary Conditions, Science and Engineering of Composite Materials (Accepted) (2022).
+Dheer Singh, Vijay Krishna, Pavan Vemulapalli & Ankit Gupta, Influence of circular cutouts and elastic foundation on vibration characteristics of porous sandwich FGM plates under hygro-thermal environments, Mechanics Based Design of Structures and Machines, An International Journal, https://doi.org/10.1080/15397734.2022.2140164 (2022).
+Mohit Rajput, Ankit Gupta, Thermo-mechanical nonlinear stability analysis of geometrically imperfect functionally graded plates with microstructural defects using logarithmic structure kinematics: An unified expression, Z Angew Math Mech/ Journal of Applied Mathematics and Mechanics, https://doi.org/10.1002/zamm.202200008 (2022).
+S Keval, R Rayapureddi, J Gurajala, V Raghavan, A Gupta, Revamping the vehicle protection system using next-generation car bumper to mitigate pedestrian fatality, International Journal of Crashworthiness, 1-20, 2021.
+Varun Katiyar, Ankit Gupta, Vibration response of a geometrically discontinuous Bi-directional Functionally Graded Plate Resting on Elastic Foundations in Thermal Environment with initial imperfections, Mechanics Based Design of Structures and Machines, 2021.
+Yogesh Kumar, Ankit Gupta & Abdelouahed Tounsi, Size-dependent vibration response of porous graded nanostructure with FEM and nonlocal continuum model, Journal of Advances in Nano Research, 2021.
+Srikant P, Ankit Gupta, Gaurav Arora, Himanshu Pathak, Ramesh G Burela, Anant S Bhatnagar, Meso?macro-scale computational analysis of boron nitride nanotube-reinforced Aluminium and epoxy nanocomposites: A case study on crack propagation, IMech, Part L: Journal of Materials: Design and Applications, 235: 293-308, 2021.
+Anant S Bhatnagar, Ankit Gupta, Gaurav Arora, , Srikant P, Ramesh G Burela, Mean-field homogenization coupled low-velocity impact analysis of nano-fibre reinforced composites, Material Today Communication, 26:102089, 2021.
+Ankit Gupta, Vijay Krishna, Venkat Boddu, Pavan Vemulapalli, Narendra Unnava & Brahma Nand Agrawal, Geometric/microstructural imperfection sensitivity in the vibration characteristics of geometrically non-uniform functionally graded plates with mixed boundary conditions, Mechanics Based Design of Structures and Machines, 2021.
+Mohit Rajput, Ankit Gupta, Microstructure/geometric imperfection sensitivity on the thermo-mechanical nonlinear stability behavior of functionally graded plates using four variable refined structural kinematics, The Journal of Strain Analysis for Engineering Design, 2021.
+Gaurav Bansal, Ankit Gupta & Varun Katiyar, Influence of geometric discontinuities and geometric/microstructural defects on the temperature-dependent vibration response of functionally graded plates on elastic foundation, Journal of the Brazilian Society of Mechanical Sciences and Engineering, 42:536, 2020.
+Gaurav Bansal, Ankit Gupta & Varun Katiyar, Vibration of porous functionally graded plates with geometric discontinuities and partial supports, IMech., Part C: Journal of Mechanical Engineering Science, 234:4149-4170, 2020.
+Ankit Gupta, Mohammad Talha, Influence of micro-structural defects on post-buckling and large-amplitude vibration of geometrically imperfect gradient plate, Nonlinear Dynamics, 94: 39-56, 2018.
+Ankit Gupta, Mohammad Talha, Influence of porosity on the flexural and vibration response of gradient plate using nonpolynomial higher-order shear and normal deformation theory, International journal of mechanics and materials in design, 14: 277-296, 2018.
+Ankit Gupta, Mohammad Talha, Influence of porosity on the flexural and free vibration responses of functionally graded plates in thermal environment, International Journal for Structural Stability and Dynamics, 18(1): 1-13, 2018.
+Ankit Gupta, Mohammad Talha, Influence of initial geometric imperfections and porosity on the stability of functionally graded material plates, Mechanics Based Design of Structures and Machines, an International Journal, 46(6): 693-711, 2018.
+Ankit Gupta, Mohammad Talha, Static and Stability Characteristics of Geometrically Imperfect FGM Plates Resting on Pasternak Elastic Foundation with Microstructural Defect, Arabian Journal for Science and Engineering, 43(9): 4931-4947, 2018.
+Ankit Gupta, M Talha, Assessment of Second Order Normal Deformation Plate Theory for Free Vibration Analysis of Functionally Graded Plates with Mixed Boundary Constraints, International Journal of Acoustics & Vibration, 23(4): 483-491, 2018.
+Ankit Gupta, Mohammad Talha, Free vibration and flexural response of functionally graded plates resting on Winkler?Pasternak elastic foundations using non-polynomial higher order Shear and Normal Deformation Theory, Mechanics of Advanced Materials and Structures, 25: 523-538, 2017.
+Ankit Gupta, Mohammad Talha, Large amplitude free flexural vibration analysis of finite element modelled FGM plates using new hyperbolic shear and normal deformation theory, Aerospace Science and Technology, 67: 287-308, 2017.
+Ankit Gupta, Mohammad Talha, Nonlinear flexural and vibration response of geometrically imperfect gradient plates using hyperbolic higher-order shear and normal deformation theory, Composites Part B Engineering, 123: 241-261, 2017.
+Ankit Gupta, Mohammad Talha, B.N. Singh, Vibration characteristics of functionally graded material plate with various boundary constraints using higher order shear deformation theory, Composites Part B Engineering, 94: 64-74, 2016.
+Ankit Gupta, Mohammad Talha, An assessment of a non-polynomial based higher order shear and normal deformation theory for vibration response of gradient plates with initial geometric imperfections, Composites Part B Engineering, 107: 141-161, 2016.
+Ankit Gupta, Mohammad Talha, Recent development in modeling and analysis of functionally graded materials and structures, Progress in Aerospace Sciences, 79: 1-14, 2015.
+
+Books and Book Chapters (Authored / Edited / Reviewed):
+1. A Gupta, M Talha, Structural Responses of Geometrically Imperfect Functionally Graded Plates with Microstructural Defects Under Hygrothermal Environment, Machines, Mechanism and Robotics, 1425-1435, 2022.
+2. Saurabh Rai, Subodh Kumar, Ankit Gupta, A Comprehensive Review of Design and Development of Advanced Tailored Material on Sustainability Aspects, Sustainable Advanced Manufacturing and Materials Processing, Taylor & Francis, CRC Press 2022.
+3. D Singh, Y Kumar, A Gupta, Bending and Free Vibration Analysis of Exponential Graded FG Plate Using Closed-Form Solution, Machines, Mechanism and Robotics, 1411-1423. 2022.
+4. Ankit Gupta, Functionally Graded Structures Design and Analysis of Tailored Advanced, Composites Characterization, Testing, Measurement, and Metrology, Taylor & Francis, CRC Press 2021.
+5. Yogesh Kumar, Ankit Gupta, and Dheer Singh, Closed Form Solution for the Vibrational Analysis of Metal Ceramic-Based Porous Functionally Graded Plate, Composites Characterization, Testing, Measurement, and Metrology, Taylor & Francis, CRC Press 2021.
+6. Ankit Gupta, Mohammad Talha: Advances in Fabrication of Functionally Graded Materials: Modeling and Analysis. Manufacturing Techniques for Materials: Engineering and Engineered, Taylor & Francis, CRC Press 2017.
+
+Invited Lectures, Talks, Conference Presentations:
+Invited Lectures
+Delivered a lecture on " Recent trends of Mechanical engineering" at Bhagwant Institute of Technology, Muzaffarnagar, Uttar Pradesh [March 2022].
+Delivered a lecture on "Analysis and Design of advanced Composite Structures" at IIT Kharagpur [Sep 2019].
+Delivered a lecture on " Recent advancement on composite structures" at MIT Moradabad [Jan 2019].
+Conference Presentations
+Singh D. and Gupta A. (2022), Vibration Characteristics of Porous Functionally Graded Material Sandwich Plates resting on the Elastic Foundation with Geometric discontinuities, 1st International Conference on Mechanics of Solids, MS2022, 3-4 November 2022 in Portugal.
+Singh D. and Gupta A. (2022), Vibration response of functionally graded material sandwich plates with Elliptical cut-outs and geometric imperfections under the Mixed boundary conditions, 4th International Conference on Material Design and Applications MDA-2022?, 7-8 July 2022 in Portugal.
+Singh D. and Gupta A. (2022) 'Vibration analysis of porous Sandwich functionally graded material plates under the mixed boundary conditions, ICFMMP-2022', 29-30 July 2022.
+Saurabh R, Subodh K, Gupta A. (2022) Effect of porosity inclusions on the natural frequencies of the FGM plates using Dynamic Stiffness method, ICFMMP-2022, 29-30 July 2022.
+Singh D. and Gupta A. (2021) Influence of geometric imperfections on the free vibrational response of the functionally graded material sandwich plates with circular cut-outs, DOI: https://doi.org/10.1016/j.matpr.2022.02.187, Material Today: Proceedings.
+Singh D. and Gupta A. (2021), ?Effect of microstructural defects on the free vibration analysis of functionally graded sandwich plates with circular Cut-outs, ?International Conference on Advanced Materials and Mechanical Characterization (ICAMMC), 2-4 December 2021.
+Ankit Gupta, Mohammad Talha, Structural responses of geometrically imperfect functionally graded plates with micro-structural defects under hygro-thermal environment, iNaCoMM 2019, IIT Mandi.
+Dheer Singh, Yogesh Kumar, Ankit Gupta, Bending and Free Vibration Analysis of Exponential Graded FG Plate using Closed-Form Solution, iNaCoMM 2019, IIT Mandi.
+Ankit Gupta, Mohammad Talha: Vibration response of shear deformable functionally gradient plate with initial geometric imperfection, Proceedings of ICTACEM 2017, International Conference on Theoretical, Applied, Computational and Experimental Mechanics, December 28-30, 2017, IIT Kharagpur, India.
+Ankit Gupta, Mohammad Talha: Simple higher-order shear and normal deformation theory for functionally graded plates, ICCE-24, July 17-23, 2016 near Haikou, Hainan Island, China.
+Ankit Gupta, Mohammad Talha: Finite element modeling of functionally graded material plates: An assessment of a new shear deformation theory for free vibration response, Sixth International Congress on Computational Mechanics and Simulation (ICCMS 2016), IIT Bombay, pp-66-69.
+Ankit Gupta, Mohammad Talha: A new trigonometric higher-order shear and normal deformation theory for functionally graded plates, November 11-17, 2016, Phoenix, Arizona, USA, IMECE2016-66771.
+Ankit Gupta, Mohammad Talha: Assessment of an efficient and simple hyperbolic higher-order shear and normal deformation theory for functionally graded plates, Structural Engineering Convention (SEC2016), CSIR-SERC, Chennai, INDIA. 21-23 December 2016, 1808-1813.
+Ankit Gupta, Mohammad Talha: Vibration response of shear deformable functionally gradient plate theory for functionally graded plates, November 11-17, 2016, Phoenix, Arizona, USA, IMECE2016-66771.
+Ankit Gupta, Mohammad Talha: Assessment of an efficient and simple hyperbolic higher-order shear and normal deformation theory for functionally graded plates, Structural Engineering Convention (SEC2016), CSIR-SERC, Chennai, INDIA. 21-23 December 2016, 1808-1813.
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances:
+Design, Fabrication and Characterization of Next Generation Functionally Graded Zinc Oxide (ZnO) for Thermoelectric Applications, Core Research Grant, Department of Science and Technology , (Co-PI)(Ongoing)
+A Novel Electromagnetic effect based Technique for Manufacturing of Polymer/MetalFe Eco-Functionally Graded Materials using Industry waste materials, TARE, Department of Science and Technology , (PI) (Ongoing)
+Multi-functional film-fabric laminated material modeling for High Altitude Airships (HAA), DRDO, (CO-PI) (Accepted)
+Revamping efficiency of Solar Thermal System using advanced composites, Dassault Systems, (PI) (Ongoing)
+Development of a Generic material module for the evaluation of effective properties of thermoplastic composites with experimental validation, HCL (Completed)
+Application of ML and AI techniques for the design of steering knuckle, HCL, Amount: 7.8 Lakh (Co-
+PI) (Completed)
+Understanding the Effect of Microstructure Evolution during Film Formation on the Properties of Bio-polymer Edible Films and Coatings DST (Co-PI) (Ongoing)
+
+Patents / Copyright (filed / granted):
+1. Application No.: 201911054464 dt. December 30, 2019 Title: METHOD FOR MAKING BALE USING AN AUTONOMOUS BALER.
+2. Application No: 202011033203 dt. 03/08/2020 Title: PEDESTRIAN PROTECTION ASSEMBLY FOR AN AUTOMOTIVE VEHICLE.
+3. Application No.: 202111059714 dt. December 21, 2021 Title: A SELF SUSTAINING HYBRID SOLAR WATER HEATER WITH PANEL PROTECTION AND AN OPERATION METHOD THEREOF.
+4. Application No.: 202211043604 dated July 29, 2022 Titled: A SELF-PROPELLING MACHINE FOR AGRICULTURE HARVESTING AND THE METHOD THEREOF.
+
+Advisory work with NGOs / Government / International Bodies:
+1. Expert Member to the Board of Studies (BoS) - Mechanical Engineering, Teerthanker Mahaveer University, Moradabad.
+2. Jury member at the 9th National Level Exhibition and Project Competition (NLEPC) of INSPIRE Awards - MANAK, DST, GOI.

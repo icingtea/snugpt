@@ -1,0 +1,250 @@
+Debarshi Das
+School of Natural Sciences
+Department of Physics
+
+Research Interest:
+Foundations of Quantum Mechanics, Quantum Information Theory, Quantum Communications, Testing Quantum Gravity.
+
+Education:
+2014-2021 : Ph.D. in Physics, Bose Institute, Kolkata (Degree awarded by University of Calcutta); Thesis submitted in 2019 (delay in Ph.D. defense caused due to Covid 19 Pandemic).
+2012-2014: M.Sc. in Physics, Jadavpur University. Marks obtained: 83.6% (First Class First, Gold Medalist).
+2009-2012: B.Sc. in Physics (Hons.), Jadavpur University. Marks obtained: 84.4% (First Class First with Distinction, Gold Medalist).
+
+Work Experience:
+July 2025-Present: Assistant Professor, Department of Physics, School of Natural Sciences, Shiv Nadar Institute of Eminence (SNIoE), Delhi – NCR, India
+June 2024-July 2025: Research Fellow, University College London, United Kingdom.
+May 2022-May 2024: Royal Society - Newton International Fellow & Honorary Research Fellow, University College London, United Kingdom.
+Jan. 2021-March 2022: SERB (Science and Engineering Research Board) National Post Doctoral Fellow, S. N. Bose National Centre for Basic Sciences, Kolkata, India.
+
+Awards:
+Recipient of the prestigious “Newton International Fellowship” of the Royal Society, UK.
+Recipient of the “National Post Doctoral Fellowship”, funded by SERB (Science and Engineering Research Board), Government of India.
+Recipient of the “International Travel Support” (financial assistance), funded by SERB (Science and Engineering Research Board), Government of India for attending an international scientific event in Torino, Italy in May 2019.
+“1st class 1st” in Master of Science in Physics (2012-2014) at Jadavpur University; University Gold Medal for standing first in order of merit; Sushila Bala Memorial Silver Medal for standing first in Physics.
+Secured Rank in Graduate Aptitude Test in Engineering (GATE) 2014, conducted jointly by the Indian Institute of Science and Indian Institutes of Technologies on behalf of the Ministry of Human Resources Development, Government of India.
+Secured Rank in Joint CSIR-UGC National Eligibility Test (NET), June, 2013; Recipient of UGC NET fellowship (Junior Research Fellowship 2014-2016; Senior Research Fellowship 2016-2019), funded by the University Grants Commission (UGC), Government of India.
+“1st class 1st” with distinction in Bachelor of Science with Honours in Physics (2009-2012) at Jadavpur University; University Gold Medal for standing first in order of merit; Dwarika Nath Dey Memorial Gold Centred Silver Medal for highest aggregate of marks in Physics; Sibapriya Chatterjee Memorial Bronze Medal for standing first in Physics.
+Recipient of undergraduate and postgraduate scholarship: ‘Scholarship for Higher Education’ (SHE) INSPIRE DST (2009-2014) from Ministry of Science and Technology, Government of India.
+
+Journal Publications:
+Summary:
+Total Number of Publications: 38.
+Physical Review Letters: 2
+Physical Review A: 22 (Regular: 21, Letter: 1)
+Quantum: 1
+Physics Letters A: 2
+Journal of Physics A: Mathematical and Theoretical: 2
+Proceedings of the Royal Society A: 1
+Annals of Physics: 1
+Quantum Information and Computation: 1
+Quantum Information Processing: 3
+Quanta: 1
+Quantum Studies: Mathematics and Foundations: 2
+Total number of publications as the First Author/Corresponding Author: 21
+(38) C. Jebarathinam, D. Das, H.-Y. Ku, D. Sarkar, and H.-S. Goan,
+Operational simultaneous correlations in complementary bases of bipartite states via one-sided semi-device-independent steering
+, Physical Review A 111, 062403 (2025).
+(37) F. Hanif, D. Das (Joint First Author), J. Halliwell, D. Home, A. Mazumdar, H. Ulbricht, and S. Bose,
+Testing Whether Gravity Acts as a Quantum Entity When
+Measured
+, Physical Review Letters 133, 180201 (2024).
+(36) D. Das, D. Home, H. Ulbricht, and S. Bose,
+Mass-Independent Scheme to Test the Quantumness of a Massive Object
+, Physical Review Letters 132, 030202 (2024).
+(35) C. Jebarathinam, D. Das, and R. Srikanth,
+Asymmetric one-sided semi-device-independent steerability of quantum discordant states
+, Physical Review A 108, 042211 (2023).
+(34) D. Saha, D. Das, A. K. Das, B. Bhattacharya, and A. S. Majumdar,
+Measurement incompatibility and quantum advantage in communication
+, Physical Review A 107, 062210 (2023).
+(33) C. Jebarathinam, and D. Das,
+Certifying quantumness beyond steering and nonlocality and its implications on quantum information processing
+, Quantum Information and Computation 23, 0379 (2023).
+(32) P. Ghosal, A. Ghosal, D. Das, and A. G. Maity,
+Quantum superposition of causal structures as a universal resource for local implementation of nonlocal quantum operations
+, Physical Review A 107, 022613 (2023).
+(31) A. K. Das, D. Das, S. Mal, D. Home, and A. S. Majumdar,
+Resource-theoretic efficacy of the single copy of a two-qubit entangled state in a sequential network
+, Quantum Information Processing 21, 381 (2022).
+(30) D. Das, and S. Bandyopadhyay
+, Quantum communication using a quantum switch of quantum switches
+, Proceedings of the Royal Society A 478, 20220231 (2022).
+(29) P. Bej, A. Ghosal, A. Roy, S. Mal, and D. Das,
+Creating quantum correlations in generalized entanglement swapping
+, Physical Review A 106, 022428 (2022).
+(28) D. Das, A. G. Maity, D. Saha, and A. S. Majumdar,
+Robust certification of arbitrary outcome quantum measurements from temporal correlations
+, Quantum 6, 716 (2022).
+(27) S. Gupta, D. Das, C. Jebarathinam, A. Roy, S. Datta, and A. S. Majumdar,
+“All-versus-nothing” proof of genuine tripartite steering and entanglement
+certification in the two-sided device-independent scenario
+, Quantum Studies: Mathematics and Foundations 9, 175-198 (2022).
+(26) D. Das, A. Ghosal, A. G. Maity, S. Kanjilal, and A. Roy,
+Ability of unbounded pairs of observers to achieve quantum advantage in random access codes with a single pair of qubits
+, Physical Review A 104, L060602 (2021) [Letter].
+(25) S. Gupta, D. Das, and A. S. Majumdar,
+Distillation of genuine tripartite Einstein-Podolsky-Rosen steering
+, Physical Review A 104, 022409 (2021).
+(24) A. Ghosal, D. Das, and S. Banerjee,
+Characterizing qubit channels in the context of quantum teleportation
+, Physical Review A 103, 052422 (2021).
+(23) S. Gupta, A. G. Maity, D. Das, A. Roy, and A. S. Majumdar,
+Genuine Einstein-Podolsky-Rosen steering of three-qubit states by multiple sequential observers
+, Physical Review A 103, 022421 (2021).
+(22) P. Bej, A. Ghosal, D. Das, A. Roy, and S. Bandyopadhyay,
+Information-disturbance trade-off in generalized entanglement swapping
+, Physical Review A 102, 052416 (2020).
+(21) A. G. Maity, D. Das, A. Ghosal, A. Roy, and A. S. Majumdar,
+Detection of genuine tripartite entanglement by multiple sequential observers
+, Physical Review A 101, 042340 (2020).
+(20) A. Ghosal, D. Das, S. Roy, and S. Bandyopadhyay,
+Fidelity deviation in quantum teleportation with a two-qubit state
+, Journal of Physics A: Mathematical and Theoretical 53, 145304 (2020).
+(19) D. Das, A. Gayen, R. Das, and S. Mal,
+Quantum violation of macrorealism under multi-outcome two-parameter generalised measurements
+, Quantum Studies: Mathematics and Foundations 7, 49-63 (2020).
+(18) A. Ghosal, D. Das, S. Roy, and S. Bandyopadhyay,
+Optimal two-qubit states for quantum teleportation vis-a-vis state properties
+, Physical Review A 101, 012304 (2020).
+(17) T. Guha, B. Bhattacharya, D. Das, S. S. Bhattacharya, A. Mukherjee, A. Roy, K. Mukherjee, N. Ganguly, and A. S. Majumdar,
+Environmental Effects on Nonlocal Correlations
+, Quanta 8, 57 (2019).
+(16) S. Mukherjee, A. Rudra, D. Das, S. Mal, and D. Home,
+Persistence of quantum violation of macrorealism for large spins even under coarsening of measurement times
+, Physical Review A 100, 042114 (2019).
+(15) D. Das, S. Sasmal, and A. Roy,
+Role of maximally entangled states in the context of linear steering inequalities
+, Quantum Information Processing 18, 315 (2019).
+(14) C. Jebarathinam, D. Das, S. Kanjilal, R. Srikanth, D. Sarkar, I. Chattopadhyay, and A. S. Majumdar,
+Superunsteerability as a quantifiable resource for random access codes assisted by Bell-diagonal states
+, Physical Review A 100, 012344 (2019).
+(13) D. Das, S. Sasmal, and S. Roy,
+Detecting Einstein-Podolsky-Rosen steering through entanglement detection
+, Physical Review A 99, 052109 (2019).
+(12) D. Das, A. Ghosal, S. Sasmal, S. Mal, and A. S. Majumdar,
+Facets of bipartite nonlocality sharing by multiple observers via sequential measurements
+, Physical Review A 99, 022305 (2019).
+(11) S. Saha, D. Das, S. Sasmal, D. Sarkar, K. Mukherjee, A. Roy, and S. S. Bhattacharya,
+Sharing of tripartite nonlocality by multiple observers measuring sequentially at one side
+, Quantum Information Processing 18, 42 (2019).
+(10) D. Das, C. Jebaratnam, B. Bhattacharya, A. Mukherjee, S. S. Bhattacharya, and A. Roy,
+Characterization of the quantumness of unsteerable tripartite correlations
+, Annals of Physics 398, 55 (2018).
+(9) S. Goswami, B. Bhattacharya, D. Das, S. Sasmal, C. Jebaratnam, and A. S. Majumdar,
+One-sided device-independent self-testing of any pure two-qubit entangled state
+, Physical Review A 98, 022311 (2018).
+(8) C. Jebaratnam, D. Das, S. Goswami, R. Srikanth, and A. S. Majumdar,
+Operational nonclassicality of local multipartite correlations in the limited-dimensional simulation scenario
+, Journal of Physics A: Mathematical and Theoretical 51, 365304 (2018).
+(7) C. Jebaratnam, D. Das, A. Roy, A. Mukherjee, S. S. Bhattacharya, B. Bhattacharya, A. Riccardi, and D. Sarkar,
+Tripartite-entanglement detection through tripartite quantum steering in one-sided and two-sided device-independent scenarios
+, Physical Review A 98, 022101 (2018).
+(6) S. Sasmal, D. Das, S. Mal, and A. S. Majumdar,
+Steering a single system sequentially by multiple observers
+, Physical Review A 98, 012305 (2018).
+(5) D. Das, B. Bhattacharya, C. Datta, A. Roy, C. Jebaratnam, A. S. Majumdar, and R. Srikanth,
+Operational characterization of quantumness of unsteerable bipartite states
+, Physical Review A 97, 062335 (2018).
+(4) D. Das, S. Mal, and D. Home,
+Testing local-realism and macro-realism under generalized dichotomic measurements
+, Physics Letters A 382, 1085 (2018).
+(3) D. Das, S. Datta, C. Jebaratnam, and A. S. Majumdar,
+Cost of Einstein-Podolsky-Rosen steering in the context of extremal boxes
+, Physical Review A 97, 022110 (2018).
+(2) D. Das, S. Datta, S. Goswami, A. S. Majumdar, and D. Home,
+Bipartite qutrit local-realist inequalities and the robustness of their quantum mechanical violation
+, Physics Letters A 381, 3396 (2017).
+(1) S. Mal, D. Das, and D. Home,
+Quantum mechanical violation of macrorealism for large spin and its robustness against coarse-grained measurements
+, Physical Review A 94, 062117 (2016).
+Full list of publications can be found here:
+‪
+https://scholar.google.com/citations?view_op=list_works&hl=en&user=quQvm3UAAAAJ
+
+Invited Lectures, Talks, Conference Presentations:
+(4) Nov. 2024: “
+Testing Quantumness of Large Masses and Gravity
+" at Baranagar Brahmananda Keshab Chandra College, West Bengal, India.
+(3) July 2024: “
+Testing whether gravity acts as a quantum entity when measured
+" at San Vito di Cadore, Italy (Organized by University of Trieste, Italy).
+(2) July 2023 “
+Mass-independent test of quantumness of a massive object
+" at University of Lisbon, Portugal.
+(1) Dec. 2021:
+“Quantum Theory: A Journey Towards Technological Revolution
+” [Popular Talk for College Students] at Balagarh Bijoy Krishna Mahavidyalaya, West Bengal, India.
+
+Media Articles:
+(1) Our Paper Physical Review Letters 133, 180201 (2024) was featured in the following:
+(1a) Nature: “Two places at once: superposed crystal could test whether gravity obeys quantum laws”, Nature 635, 261 (2024). doi:
+https://doi.org/10.1038/d41586-024-03573-1
+(1b)  The Hindu (India): “Physicists propose tabletop experiment to test gravity’s quantumness”, https://www.thehindu.com/scitech/science/tabletop-experiment-gravityquantumness-test-nanocrystals/article69226228.ece
+(1c) Spektrum der Wissenschaft (German): “A new experiment could reveal the quantum nature of gravity”, https://www.spektrum.de/news/ein-neuer-versuch-zum-nachweisder-quantennatur-der-schwerkraft/2243787
+(1d) Shaastra Magazine (published by Indian Institute of Technology, Madras): “Quantum test of gravity”, https://shaastramag.iitm.ac.in/news-brief/quantum-test-gravity
+(1e) Nov. 2024 Antyweb (Polish): “Scientists are preparing an important experiment. They will test... gravity”, https://antyweb.pl/grawitacja-prawa-fizyki
+(1f)  Phys.org: “A proposed experiment to test whether gravity behaves as a quantum entity when measured”, https://phys.org/news/2024-11-gravity-quantum-entity.html
+(1g) Popular Mechanics: “Scientists Think Gravity Isn’t Just a Force-It’s an Untapped Quantum Field”, https://www.popularmechanics.com/science/a62885002/quantumgravity-superpostion/
+(1h) The Telegraph (India): “Gravity’s grave mystery gets test gravitas, India-UK physics team proposes table-top experiment”, https://www.telegraphindia.com/sciencetech/gravity-grave-mystery-gets-test-gravitas-india-uk-physics-team-proposes-tabletop-experiment/cid/2060609
+(1i) Physics World: “Objects with embedded spins could test whether quantum measurement affects gravity”,
+https://physicsworld.com/a/objects-with-embedded-spins-could-test-whether-quantum-measurement-affects-gravity/
+(1j) New Scientist: “This test could reveal whether gravity is subject to quantum weirdness”, https://www.newscientist.com/article/2450989-this-test-could-reveal-whethergravity-is-subject-to-quantum-weirdness/
+(2) Our article Physical Review Letters 132, 030202 (2024) was featured in the following:
+(2a) Press Information Bureau, Government of India: “Novel experiment to explore the limits of quantum theory for arbitrarily massive objects”, https://pib.gov.in/PressReleasePage.aspx?PRID=2070133
+(2b) Scientific American: “Schrodinger’s Pendulum Experiment Will Search for the Quantum Limit”, https://www.scientificamerican.com/article/schroedingers-pendulum-experiment-will-search-for-the-quantum-limit/
+(2c) Youtube Channel by Sabine Hossenfelder: “Can Everything Make Quantum Jumps? Clever New Experiment Wants to Find Out”, https://youtu.be/1x-vKpaR2LI?si=DabMyr2Z2-oxuiSi
+(2d) Deccan Herald (India): “Quantum nature of large objects”, https://www.deccanherald.com/science/quantum-nature-of-large-objects-2856969
+(2e) Espanol News (Spanish): “Physicists have devised an experiment to identify quantum uncertainty in the ordinary world: Schrödinger's cat will not be harmed”, https://espanol.news/los-fisicos-han-ideado-un-experimento-para-identificar-la-incertidumbre-cuantica-en-el-mundo-ordinario-el-gato-de-schrodinger-no-sufrira-dano/
+(2f) Levante (Spanish): “A new experiment aims to break the quantum barrier”, https://www.levante-emv.com/tendencias21/2024/01/18/nuevo-experimento-pretende-romper-barrera-97048919.html
+(2g) The Telegraph (India): “Quantum leap for reality: Physicists set out to test theory on ‘large’ objects”, https://www.telegraphindia.com/science-tech/quantum-leap-for-reality-physicists-set-out-to-test-theory-on-large-objects/cid/1994712
+(2h) Science Alert: “Physicists Design a Way to Detect Quantum Behavior in Large Objects, Like Us”, https://www.sciencealert.com/physicists-design-a-way-to-detect-quantum-behavior-in-large-objects-like-us
+(2i) Phys.org: “Experiment could test quantum nature of large masses for the first time”, https://phys.org/news/2024-01-quantum-nature-large-masses.html
+(2j) UCL News: “Experiment could test quantum nature of large masses for the first time”,
+https://www.ucl.ac.uk/news/2024/jan/experiment-could-test-quantum-nature-large-masses-first-time
+(2k) Physics World: “Protocol could make it easier to test the quantum nature of large objects”, https://physicsworld.com/a/protocol-could-make-it-easier-to-test-the-quantum-nature-of-large-objects/
+
+Peer Review Service / Oral and Poster Presentations:
+Reviewed thirty-six (36) manuscripts for “Physical Review Letters” (4); “Physical Review A” (15); “Physical Review Research” (1); “Physical Review Applied” (1); “Reports on Progress in Physics" (1); “New Journal of Physics” (1); “SciPost” (1); “Quantum” (1); “Journal of Physics A: Mathematical and Theoretical” (1); “Entropy” (2); “Physica Scripta” (1); “Annals of Physics” (1); “Quantum Information Processing” (5); “Mathematics” (1).
+Oral and Poster Presentations:
+Oral Presentations:
+(27) July 2025: “Mass-Independent Scheme to Test the Quantumness of a Massive Object” at University of Gdansk, Poland.
+(26) June 2025: “A New Experimental Proposal to Test the Nonclassicality of Gravity” at Universita degli Studi Federico II, Napoli, Italy.
+(25) May 2025: “A New Experimental Proposal to Test the Quantumness of a Large Mass” at Universitat Autonoma de Barcelona, Spain.
+(24) May 2025: “A New Experimental Proposal to Test the Quantumness of a Large Mass” at ICFO-The Institute of Photonic Sciences. Barcelona, Spain.
+(23) Aug. 2024: “Mass-Independent Scheme to Test the Quantumness of a Massive Object” at University College London, England, United Kingdom.
+(22) Aug. 2024: “Mass-Independent Scheme to Test the Quantumness of a Massive Object” at Charles University, Prague, Czech Republic.
+(21) May 2024: “Mass-Independent Scheme to Test the Quantumness of a Massive Object” at University of York, England, United Kingdom.
+(20) April 2024: “Mass-Independent Scheme to Test the Quantumness of a Massive Object” at University of Nottingham, England, United Kingdom.
+(19) April 2024: “Mass-Independent Scheme to Test the Quantumness of a Massive Object” at University of Southampton, England, United Kingdom.
+(18) April 2024: “Testing whether gravity acts as a quantum entity when measured” at University of Bristol, England, United Kingdom.
+(17) March 2024: “Probing non-classicality of macroscopic mass and gravitational field” at University of Warwick, England, United Kingdom.
+(16) March 2024: “Mass-Independent Scheme to Test the Quantumness of a Massive Object” at University College London, England, United Kingdom.
+(15) Feb. 2024: “Probing non-classicality of macroscopic mass and gravitational field” at Indian Institute of Technology Jodhpur, India.
+(14) Nov. 2023: “Probing non-classicality of macroscopic mass and gravitational field” at Indian Institutes of Science Education and Research Kolkata, India.
+(13) Nov. 2023: “Probing non-classicality of macroscopic mass and gravitational field” at Indian Institutes of Science Education and Research Pune, India.
+(12) Nov. 2023: “Probing non-classicality of macroscopic mass and gravitational field” at Indian Institutes of Science Education and Research Mohali, India.
+(11) July 2023: “Mass-independent test of quantumness of a massive object” at Sorbonne University, Paris, France.
+(10) June 2023: “Mass-independent test of quantumness of a massive object” at Linnaeus University, Vaxjo, Sweden.
+(9) March 2023: “Mass-independent test of genuine quantumness of massive objects” at S. N. Bose National Centre for Basic Sciences, Kolkata, India.
+(8) Feb. 2022: “Robust certification of arbitrary outcome quantum measurements without using entanglement” at Indian Statistical Institute, Kolkata, India.
+(7) Oct. 2020: “Fidelity Deviation in Quantum Teleportation with a two-qubit state” at Harish-Chandra Research Institute, Allahabad, India.
+(6) Feb. 2020: “Fidelity deviation in quantum teleportation with a two-qubit state” at S. N. Bose National Centre for Basic Sciences, Kolkata, India.
+(5) Jan. 2020: “Persistence of quantum violation of macrorealism for large spins even under coarsening of measurement times” at Raman Research Institute, Bangalore, India.
+(4) Dec. 2018: “Characterizing quantumness of unsteerable correlations” at Harish-Chandra Research Institute, Allahabad, India.
+(3) Feb. 2017: “Quantum mechanical violation of macrorealism for large spin and its robustness against coarse-grained measurements” at Harish-Chandra Research Institute, Allahabad, India.
+(2) Jan. 2017: “Probing quantum nonlocality of bipartite entangled qutrits by generalising Wigner’s argument” at S. N. Bose National Centre for Basic Sciences, Kolkata, India.
+(1) Dec. 2016: “Probing quantum nonlocality of bipartite entangled qutrits by generalising Wigner’s argument” at International Centre for Theoretical Sciences, Bangalore, India.
+Poster Presentations:
+(13) Jan. 2025: “Testing Quantum Measurement Postulate for Gravity” at University of Glasgow, Scotland, United Kingdom.
+(12) Sept. 2024: “Mass-Independent Scheme to Test the Quantumness of a Massive Object” at Institute for Quantum Optics and Quantum Information (IQOQI) Vienna, Austria.
+(11) April 2024: “Testing whether gravity acts as a quantum entity when measured” at University of Bristol, England, United Kingdom.
+(10) Jan. 2024: “Mass-independent test of quantumness of a massive object” at S. N. Bose National Centre for Basic Sciences, Kolkata, India.
+(9) Nov. 2023: “Mass-independent test of quantumness of a massive object” at Okinawa Institute of Science and Technology Graduate University, Okinawa, Japan.
+(8) April 2023: “Mass-independent test of quantumness of a massive object” at University of Bristol, England, United Kingdom.
+(7) Sept. 2021: “Quantum advantage in random access codes by unbounded pairs of observers with a single pair of qubits” at University of Tokyo, Japan.
+(6) May 2019: “Facets of bipartite nonlocality sharing by multiple observers via sequential measurements” at University of Torino, Italy.
+(5) May 2018: “Steering a single system sequentially by multiple observers” at Raman Research Institute, Bangalore, India.
+(4) Jan. 2018: “Operational characterization of quantumness of unsteerable bipartite states” at S. N. Bose National Centre for Basic Sciences, Kolkata, India.
+(3) Nov. 2017: “Quantum Foundations and Information: Basic Studies and Applications” at Bose Institute, Kolkata, India.
+(2) Oct. 2016: “Quantum mechanical violation of macrorealism for large spin and its robustness against coarse-grained measurements” at National Institute of Technology, Patna, India.
+(1) Dec. 2015: “Quantum Violation of Macro-realism in the Strong Macro-limit” at National Institute of Technology, Patna, India.

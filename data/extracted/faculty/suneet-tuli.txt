@@ -1,0 +1,39 @@
+Suneet  Tuli
+
+Department of Electrical Engineering
+
+Research Interest:
+Dr. Suneet Tuli’s research areas include thermal-acoustic-electrical-optical interactions, non-destructive characterization (active and passive thermography), and surface acoustic wave devices and electronic systems.
+
+Education:
+A Ph.D. and M.Tech. in Electronics from IIT Delhi, Dr. Tuli holds a B.E. (Honors) degree in Electrical and Electronics Engineering from BITS, Pilani.
+
+Work experience:
+Dr. Suneet Tuli is a distinguished academician and administrator with over 35 years of experience in higher education. He was a faculty member at the Indian Institute of Technology (IIT), Delhi, for three decades. He served as Dean (Research & Development), Associate Dean (Industrial Research & Development), and Head (Centre for Applied Research in Electronics). He is a widely regarded faculty member and mentor in  academia and a visiting researcher in the UK and France. He has also headed and participated in numerous research projects, published widely, and edited journals.
+
+Awards:
+Dr. Tuli was a recipient of the 10th IETE Professor K. Sreenivas Memorial Award for distinguished  teaching in 2003
+
+Journal Publications:
+1. Sparse reconstruction-based thermal imaging for defect detection, D Roy, P Babu, S Tuli, IEEE Transactions on Instrumentation and Measurement 68 (11), 4550-4558, 2019. 2. Frequency modulated thermal wave imaging for visualizing power density of electromagnetic waves on plane surfaces, K Muzaffar, D Roy, S Tuli, S Koul, Research in Nondestructive Evaluation 30 (2), 65-79, 2019. 3. A novel modular tonometry-based device to measure pulse pressure waveforms in radial artery, MI Choudhury, P Singh, R Juneja, S Tuli, KK Deepak, A Prasad, S Roy, Journal of Medical Devices 12 (1), 2018. 4. Modelling and analysis of power distribution of electromagnetic waves on plane surfaces using lock-in IR thermography, K Muzaffar, K Chatterjee, LI Giri, S Koul, S Tuli, Journal of Nondestructive Evaluation 36 (3), 1-8, 2017. 5. Applicability of LED-based excitation source for defect depth resolved frequency modulated thermal wave imaging, D Roy, S Tuli, IEEE Transactions on Instrumentation and Measurement 66 (10), 2658-2665, 2017. 6. A novel pulse compression algorithm for frequency modulated active thermography using band-pass filter, K Chatterjee, D Roy, S Tuli, Infrared Physics & Technology 82, 75-84, 2017. 7. Degradation of organic light emitting diode: Heat related issues and solutions, P Tyagi, R Srivastava, LI Giri, S Tuli, C Lee, Synthetic Metals 216, 40-50, 2016. 8. Determination of polarisation of microwave signals by lock-in infrared thermography, K Muzaffar, S Tuli, SK Koul, IETE Journal of Research 62 (1), 81-90, 2016. 9. Beam width estimation of microwave antennas using lock-in infrared thermography, K Muzaffar, S Tuli, S Koul, Infrared Physics & Technology 72, 244-248, 2015. 10. Characterization and energy absorption efficiency determination of LED as an effective photothermal excitation source in lock-in thermography, D Roy, K Chatterjee, S Tuli, IEEE Sensors Journal 15 (10), 6010-6016, 2015. 11. Fault detection of antenna arrays using infrared thermography, K Muzaffar, LI Giri, K Chatterjee, S Tuli, S Koul, Infrared Physics & Technology 71, 464-468, 2015. 12. Non-destructive testing of jute?polypropylene composite using frequency-modulated thermal wave imaging, D Banerjee, SK Chattopadhyay, K Chatterjee, S Tuli, N Jain, I Goyal, Journal of Thermoplastic Composite Materials 28 (4), 548-557, 2015. 13. Study of fluorescence quenching due to 2, 3, 5, 6-tetrafluoro-7, 7?, 8, 8?-tetracyano quinodimethane and its solid state diffusion analysis using photoluminescence spectroscopy, P Tyagi, S Tuli, R Srivastava, The Journal of Chemical Physics 142 (5), 054707, 2015. 14. Conductive cooling in white organic light emitting diode for enhanced efficiency and life time, P Tyagi, A Kumar, LI Giri, S Tuli, R Srivastava, Applied Physics Letters 106 (1), 2015.
+
+Invited Lectures, Talks, Conference Presentations:
+1. Efficient SNR determination algorithm for lock-in thermogaphy defect detection and quantification, D Roy, S Tuli, 1st India International Conference on Information Processing (IICIP), 12-14 August, 2016.
+
+2. Infrared thermography for determination of wavelength of microwave signals from interference pattern, K Muzaffar, S Tuli, S Koul, 2nd International Conference on Signal Processing and Integrated Networks (SPIN), Delhi-NCR, 19-20 Feb, 2015.
+
+Patents / Copyright (filed / granted):
+A SYSTEM AND METHOD FOR NONDESTRUCTIVE CHARACTERIZATION IN SOLIDS AND COMPOSITES
+Suneet Tuli | Mulaveesala Ravi Babu 
+Patent No. IN294805B Completed
+Filed 2005-12-15 Published 2018-03-23
+
+RECESSED MICROSTRUCTURE DEVICE AND METHOD OF FABRICATION THEREOF
+Pal Prem | Chandra Sudhir | Tuli Suneet
+Patent No. IN319577B Published
+Filed 2003-01-13 Published 2019-09-06
+
+COMPOSANT A MICROSTRUCTURE EVIDEE ET PROCEDE DE FABRICATION DE CE COMPOSANT | RECESSED MICROSTRUCTURE DEVICE AND FABRICATION METHOD THEREOF
+PAL Prem,IN | CHANDRA Sudhir,IN | TULI Suneet,IN
+Patent No. WO2004063089A3 Published
+Filed 2004-01-05 Published 2004-11-0

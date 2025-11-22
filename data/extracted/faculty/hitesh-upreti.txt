@@ -1,0 +1,110 @@
+Hitesh Upreti
+School of Engineering
+Department of Civil Engineering
+
+Research Interest:
+Water Resources Engineering, Remote Sensing for Agriculture and Water Management, Evapotranspiration, Smart Agriculture, Irrigation Engineering
+
+Education:
+2018, Ph.D., Indian Institute of Technology Roorkee
+2013, M.Tech., Indian Institute of Technology Roorkee
+2011, B.Tech., Govind Ballabh Pant University of Agriculture and Technology, Pantnagar
+
+Work Experience:
+Jul 2020 – Till Date, Assistant Professor, Shiv Nadar University, Delhi-NCR
+Mar 2020 – Jun 2020, Postdoctoral Fellow, IIT Kanpur
+Jul 2019 – Feb 2020, Research Associate, National Institute of Hydrology, Roorkee
+Jan 2019 – Jun 2019, Assistant Professor, Quantum University, Roorkee
+
+Journal Publications:
+Yadav M.,
+Upreti, H.
+(2025). Conductance-based evapotranspiration estimates for wheat crops grown under different irrigation treatment, Theoretical and Applied Climatology, 156, 508.
+Giri, G.,
+Upreti, H
+., Singhal, G.D. (2025). Soil moisture extraction patterns for wheat crop under different drip and flood irrigated treatments, ISH Journal of Hydraulic Engineering, 1–14.
+Yadav A.,
+Upreti, H.
+, Singhal, G.D. (2024). Crop water stress index and yield relationships for winter wheat (Triticum aestivum) crops grown under different drip and flood irrigated treatments. Journal of Agronomy and Crop Science, 210 (6), e12775.
+Yadav A., Muni, L.,
+Upreti, H.
+, Singhal, G.D. (2024). Evaluation of crop water stress index of wheat by using machine learning models. Environmental Monitoring and Assessment, 196 (10), 970.
+Yadav, A.,
+Upreti, H.,
+Singhal, G.D. (2023). Crop water stress index and its sensitivity to meteorological parameters and canopy temperature, Theoretical and Applied Climatology, 155, 2903–2915.
+Yadav, A.,
+Upreti, H.,
+Singhal, G.D. (2023). Effect of field of view of canopy temperature observations on crop water stress index for irrigation scheduling. Water Supply, 23 (12), 4976–4990.
+Yadav, A., Sharma, N.,
+Upreti, H.,
+Singhal, G.D
+.
+(2022). Techno-economic analysis of irrigation systems for efficient water use in the backdrop of climate change. Current Science, 122 (6), 664-673.
+Nema, M.K., Thakur, H.P.,
+Upreti, H.
+, Jain, S.K., Mishra, P.K., ., and Jain, S.K. (2020). Estimation of evapotranspiration in lesser Himalayas using remote sensing based surface energy balance algorithm. Geocarto International,
+37
+(3), 841–859.
+Upreti, H.,
+and Ojha, C.S.P (2020). Closure to ‘Evaluation of the vapor pressure models in the estimation of actual vapor pressure and evapotranspiration. ASCE Journal of Irrigation and Drainage Engineering, 146 (3), 07019015.
+Upreti, H.
+, and Ojha, C.S.P. (2018). Evaluation of the vapor pressure models in the estimation of actual vapor pressure and evapotranspiration. ASCE Journal of Irrigation and Drainage Engineering (ASCE), 144(11), 05018007.
+Upreti, H.
+, and Ojha, C.S.P. (2017). “Estimation of relative humidity and dew point temperature using limited meteorological data.” ASCE Journal of Irrigation and Drainage Engineering, 143(9), 05017005.
+
+Books and Book Chapters (Authored / Edited / Reviewed):
+Yadav, A.,
+Upreti, H.
+, Singhal, G.D. (2024). The Impact of Cloud Cover on Crop Water Stress Index (CWSI) in a Semi-arid Region of Uttar Pradesh. In:
+Agarwal, A., Yadav, B., Nema, M., Sharma, M., Kumar, A. (eds) Towards Water Circular Economy. RWC 2024. Springer Proceedings in Earth and Environmental Sciences
+. Springer, Cham.
+Giri, G., Yadav, M.
+Upreti, H
+., Singhal, G.D (2024). Estimation of crop water requirement using field water balance and soil moisture data. In: Hydrology and Hydrologic Modelling, Select Proceedings of HYDRO 2023, Springer, Singapore.
+Yadav, A.,
+Upreti, H.
+, Singhal, G.D. (2024). Impact of environmental conditions on the crop water stress index. In: Soft Computing and Geospatial Techniques in Water Resources Engineering, Select Proceedings of HYDRO 2023, Springer, Singapore.
+Shankar, V., Ojha, C.S.P., Govindaraju, R.S., Hari Prasad, K.S., Adeloye, A.J., Madramoottoo, C.A., Upreti, H., Shrivastava, R., and Singh, K.K. (2017). Optimum use of irrigation water. In: Sustainable Water Resource Management, American Society of Civil Engineers (ASCE), Reston, USA.
+Jaisankar, D., Behera, S.N., Yadav, M. and Upreti, H. (2021) Current trends and future challenges for solid waste management: Generation, characteristics and application of GIS in mapping and optimizing transportation routes. In: Sustainable Approaches of Urban Mining for Waste Management and Resource Recovery, CRC Press Taylor and Francis.
+
+Invited Lectures, Talks, Conference Presentations:
+Conference Proceedings (Scopus):
+Narakala, L. M., Yadav, A.,
+Upreti, H.
+, and Singhal, G.D. (2024) Prediction of Crop Water Stress Index (CWSI) Using Machine Learning Algorithms. ASCE World Environmental and Water Resources Congress 2024, 969-980.
+Yadav, M., Sriram Theerdh, M., Giri, G.,
+Upreti, H.
+, Singhal, G.D. and Narakala, L.M. (2024). Estimation of Leaf Area Index for Wheat Crop Using Sentinel-2 Satellite Data. ASCE World Environmental and Water Resources Congress 2024, 948–959.
+Yadav, A.,
+Upreti, H
+., Singhal, G.D., and Sharma, J.K. (2023). Crop water stress index for devising water efficient irrigation schedules for wheat crop. ASCE World Environmental and Water Resources Congress 2023, 435-446.
+Singhal, G.D., Giri, G.,
+Upreti, H.
+, Sharma, N., Pandey, R., Singh, P. and Pyla, V. (2023). Development of water saving strategy for wheat crop by combining drip irrigation system with regulated deficit irrigation. ASCE World Environmental and Water Resources Congress 2023, 447-455.
+Invited Talks
+Invited talk on “Spectroradiometer and crop monitoring” at Department of Civil Engineering, IIT Roorkee (January 2023)
+Invited talk on “Remote sensing and its applications in water resources” at Shoolini University, Solan (July 2024)
+Conference Presentations
+Upreti, H., Sriyodh, C., and Yadav, M. (2025) Assessment of phenology of winter wheat using Sentinel 2 multispectral data for varying sowing dates, EGU General Assembly 2025, Vienna, Austria.
+Yadav, A.,
+Upreti, H
+., Singhal, G.D., and Sharma, J.K. (2023). Crop water stress index for devising water efficient irrigation schedules for wheat crop. ASCE World Environmental and Water Resources Congress 2023, Henderson, USA.
+Singhal, G.D., Giri, G.,
+Upreti, H.
+, Sharma, N., Pandey, R., Singh, P. and Pyla, V. (2023). Development of water saving strategy for wheat crop by combining drip irrigation system with regulated deficit irrigation. ASCE World Environmental and Water Resources Congress 2023, Henderson, USA
+Upreti, H.
+and CSP Ojha. (2023). Prediction of irrigation schedules using a numerical model, ASCE World Environmental and Water Resources Congress 2023, Henderson, USA
+Upreti, H.
+, and Ojha, C.S.P. (2018). Numerical Model for Soil Moisture Simulation in Cropped Area, American Geophysical Union (AGU) Annual Fall Meeting 2018, Washington DC.
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances:
+Sponsored Research Projects
+Development of AI based DSS for improved crop water use efficiency under regulated deficit drip irrigation regime in the backdrop of climate change
+(2020-2023), co-PI, DST, Govt. of India, ₹105 lakhs, 2.5 years
+Fund for Improvement of S&T Infrastructure (FIST) -2022
+(2023-2027), Project Implementation Group, DST, Govt. of India, ₹99 lakhs, 5 years
+Sponsored Advanced Workshops
+Agricultural Water Management in the Backdrop of Climate Change Using Remote Sensing, GIS, and IoT Techniques
+, Funded by: SERB, INR 5 lakhs (21-27 July, 2022)
+Use of GIS & Remote Sensing in Agriculture and Natural Environment
+, Funded by: AICTE Training and Learning (ATAL) Academy, INR 0.93 lakhs (2-6 August, 2021)

@@ -1,0 +1,218 @@
+Satyam Mukherjee
+
+Decision Sciences, Operations Management, and Information Systems
+
+Research Areas:
+Data Science
+Network Science
+Courses Taught(Selected)
+Quant...Tech... in Business-II (DOM105)
+
+Education:
+2002
+BSc, University of Calcutta
+2004
+MSc, University of Pune
+2009
+Ph.D., Indian Institute of Technology Madras
+
+Work Experience:
+Jun 2021 – Present Associate Professor, Shiv Nadar University
+Mar 2016 -May 2021 Assistant Professor, Indian Institute of Management, Udaipur
+Feb 2016 - Jan 2020 Remote Visiting Scholar, Kellogg School of Management and NICO
+Mar 2017- Feb 2018 Visiting Assistant Professor, Red Hat Fellow in the Research Center for Open Digital Innovation (RCODI), Purdue University, West Lafayette
+Feb 2015 - Jan 2016 Post-doctoral fellow, NICO, Northwestern University Evanston, Evanston
+Feb 2012-Jan 2015 Post-doctoral fellow, Kellogg School of Management and NICO, Northwestern University Evanston, Evanston
+Feb 2010 - Jan 2012 Post-doctoral fellow, Dept. of Chemical and Biological Engineering, Northwestern University Evanston
+
+Journal Publications:
+The microstructure of modularity in design: a design motif view, Sabine Brunswicker,
+Satyam Mukherjee
+,
+Industrial and Corporate Change
+(2023)
+Social brokerage and productivity of users in online innovation networks,
+Satyam Mukherjee
+, Tarun Jain,
+Journal of Product Innovation Management
+(2022)
+Impact of COVID-19 on the mobility patterns: An investigation of taxi trips in Chicago,
+Satyam Mukherjee
+, Tarun Jain
+PLoS ONE
+(2022)
+Network centrality and negative ties in feminine and masculine occupations, Vijayta Doshi,
+Satyam Mukherjee
+, Yang Yang
+Asia Pacific Journal of Management
+(2021)
+Do the mobility patterns for city taxicabs impact road safety?
+Satyam Mukherjee
+, Tarun Jain
+IISE Transactions
+(2021)
+Mentorship and protégé success in STEM fields, Yifang Ma,
+Satyam Mukherjee
+, Brian Uzzi
+Proceedings of the National Academy of Sciences
+(2020)
+Social embeddedness in user innovation networks: Evidence from Stackoverflow.com,
+Satyam Mukherjee
+, Tarun Jain
+Economics of Innovation and New Technology
+(2020)
+China's scholarship shows atypical referencing pattern, Caroline Wagner, Xiaojing Cai,
+Satyam Mukherjee
+Scientometrics
+(2020)
+Novel findings rare from international collaborations, Caroline Wagner, Travis Whetsell,
+Satyam Mukherjee
+Nature Comment
+(2019)
+International Research Collaboration: Novelty, Conventionality, and Atypicality in Knowledge Recombination, Caroline Wagner, Travis Whetsell,
+Satyam Mukherjee
+Research Policy
+(2019)
+Network organization of coopetitive genetic influences on morphologies of human cerebral cortex, Subhadip Paul,
+Satyam Mukherjee
+, Sagnik Bhattacharyya
+Journal of Neural Engineering
+(2019)
+Prior Shared Success Predicts Victory in Team Competitions,
+Satyam Mukherjee
+, Yun Huang, Julia Neidhardt, Brian Uzzi and Noshir Contractor
+Nature Human Behaviour
+(2018)
+Priority Queuing on the Docket: Universality of Judicial Dispute Resolution Timing,
+Satyam Mukherjee
+, and Ryan Whalen
+Frontiers in Physics
+(2018)
+How good are network centrality measures? Longitudinal analysis of traffic in Railway network in the United States,
+Satyam Mukherjee
+Indian Academy of Sciences Conference Series
+(2017)
+The nearly universal link between the age of past knowledge and tomorrow's breakthrough in Science and Technology: The hotspot,
+Satyam Mukherjee
+, Daniel Romero, Benjamin Jones and Brian Uzzi
+Science Advances
+3(4)
+e1601315 (2017)
+Common Law Evolution and Judicial Impact in the Age of Information, Ryan Whalen, Brian Uzzi, and
+Satyam Mukherjee
+,
+Elon Law Review
+9(1)
+115-170 (2017)
+Individual Performance and Leader's Laterlaity in Interactive Contests,
+Satyam Mukherjee
+Laterality: Assymetries of Body, Brain and Cognition,
+22(3)
+362 - 376 (2016)
+Leadership Network and Team Performance in Interactive Contests,
+Satyam Mukherjee
+Social Networks
+47
+85 - 92 (2016)
+How Atypical Combinations of Scientific Ideas are Related to Impact: The General Case and the Case of the Field of Geography,
+Satyam Mukherjee
+, Brian Uzzi, Ben Jones and Mike Stringer
+Knowledge and Networks
+, Vol 11 (2016)
+The advantage of playing home in NBA : microscopic, team-specific and evolving features, HV Ribeiro,
+Satyam Mukherjee
+, and Xiaohan Zheng
+PLoS ONE
+11(3): e0152440 (2016)
+Social embeddedness in an online weight management program is linked to greater weight loss, Julia Poncela-Casasnovas, Bonnie Spring, Daniel McClary, Arlen C. Moller, Rufaro Mukogo, Christine Pellegrini, Michael Coons, Miriam Davidson,
+Satyam Mukherjee
+, Luis A Nunes Amaral
+Journal of Royal Society Interface
+12:20140686 (2015)
+A new method for Identifying Recombinations of Existing Knowledge Associated with High Impact Innovation,
+Satyam Mukherjee
+, Brian Uzzi, Benjamin Jones and Mike Stringer
+Journal of Product, Innovation and Management
+33 (2), 224 - 236 (2015)
+Emergence of overlap in ensembles of spatial multiplexes and statistical mechanics of spatial interacting networks ensembles, Arda Halu,
+Satyam Mukherjee
+, Ginestra Bianconi,
+Phys. Rev. E
+89
+, 012806 (2014)
+Correlations between user voting data, budget, and box office for films in the Internet Movie Database, Max Wasserman,
+Satyam Mukherjee
+, Konner Scott, Xiaohan Zeng, Filippo Radicchi, Luís A. Nunes Amaral, doi: 10.1002/asi.23213,
+JASIST
+(2014)
+Atypical Combinations and Scientific Impact, Brian Uzzi,
+Satyam Mukherjee
+, Michael Stringer and Benjamin Jones,
+Science
+342, 6157 (2013)
+Complex Network Analysis in Cricket : Community structure, player’s role and performance index,
+Satyam Mukherjee
+,
+Advances in Complex Systems
+16, 3 (2013)
+Quantifying individual performance in Cricket - A network analysis of Batsmen and Bowlers,
+Satyam Mukherjee
+,
+Physica A
+, 393, 624 (2013)
+Statistical Analysis of the Road Network of India,
+Satyam Mukherjee
+,
+Pramana
+79, 3, 483 (2012)
+Anomalous diffusion and long-range correlations in the score evolution of the game of Cricket, Haroldo V. Ribeiro,
+Satyam Mukherjee
+and Xiao Han T. Zeng,
+Phys. Rev. E
+86, 022102 (2012)
+6 Is coaching experience associated with effective use of timeouts in basketball ?, Serguei Saavedra,
+Satyam Mukherjee
+and James P. Bagrow,
+Scientific Reports
+2, 676 (2012)
+Identifying the greatest team and captain - A complex network approach to cricket matches,
+Satyam Mukherjee
+,
+Physica A
+391, 23, 6066 (2012)
+Statistical Characterizers of Transport in Communication Networks,
+Satyam Mukherjee
+, N. Gupte and G. Mukherjee,
+Phys. Rev. E
+81, 046109 (2010)
+Queue-length Synchronization in Communication Networks,
+Satyam Mukherjee
+and N. Gupte
+Phys. Rev. E
+79, 056105 (2009)
+Gradient Mechanism in a Communication Network,
+Satyam Mukherjee
+and N. Gupte,
+Phys. Rev. E
+77, 036121 (2008)
+Message Transfer in a Communication Network,
+Satyam Mukherjee
+and N. Gupte,
+Pramana
+Vol. 70, No. 6 (2008)
+
+Invited Lectures, Talks, and Conference Presentations:
+Contributed talk at CSS 2015, Tempe, AZ, 2015
+Contributed talk at International Conference on Computational Social Science, Kellogg School of Management, Evanston, 2016
+Invited talk at Center for Network Science, Central European University, Budapest, Hungary, 2017
+Contributed talk at Science of Team Science conference, Clearwater Beach, Tampa, FL, 2017
+Invited talk at Cross-Disciplinary Applications of Complex Networks, Shiv Nadar University, India, 2018
+Contributed talk & Poster at the International Conference on Computational Social Science, Kellogg School of Management, Evanston, 2018
+Invited talk at Network Science in Economics & Finance, Indian Institute of Management, Ahmedabad, India, 2018
+Contributed talk & Poster at the International Conference on Computational Social Science, Kellogg School of Management, Evanston, 2019
+Contributed talk & Poster at the International Conference on Computational Social Science, Kellogg School of Management, Evanston, 2020
+
+Professional Activities and Services:
+Review Editor for Frontiers in Social Physics, Frontiers in Research Policy and Strategic Management
+Referee for Research Policy, Journal of Product Innovation Management, Economics of Innovation and & Technology, Information & Management, Scientific Reports, PLoS ONE, Social Networks, Royal Society Open Science, European Management Review, Journal of Quantitative Analysis in Sports, Journal of Applied Statistics, Psychology of Sport & Exercise, Data, Euro. Phys. Journal B, Journal of Applied Statistics, IEEE Transactions on Computational Social Systems, Journal of the Operational Research Society, Sport in Society, Physica A, Chaos, Pramana
+Referee of scientific proposals submitted to the European Research Council (ERC) Starting Grant 2016 Call for Proposals.

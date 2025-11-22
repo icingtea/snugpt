@@ -1,0 +1,587 @@
+Ipsita Mandal
+School of Natural Sciences
+Department of Physics
+
+Education:
+Graduation, Aug 2002 - Jun 2005, B.Sc. (Hons.) in Physics, with Mathematics and Chemistry as subsidiaryJadavpur University, Kolkata, IndiaAggregate Percentage: 84.5; Rank: 2; First-division with Distinction;Highest scorer in subsidiary subjects
+Post-Graduation , Aug 2005 - Apr 2008    Integrated M.Sc.-Ph.D. ProgrammeHarish-Chandra Research Institute (HRI), India(Affiliated to: Homi Bhabha National Institute)Aggregate Percentage: 84.7
+
+Work Experience:
+05/2023-Present: Assistant Professor, Department of Physics, School of Natural Sciences, Shiv Nadar University, Delhi-NCR
+12/2020 to 05/2023: Associate Professor, The Henryka Niewodniczański Institute of Nuclear Physics Polish Academy of Sciences (IFJ PAN), Poland
+08/2019 to 11/2020: Associate Professor, University of Stavanger, Norway
+01/2018 to 07/2019: Visiting Scientist (at the level of a Visiting Assistant Professor), Laboratory of Atomic and Solid State Physics, Cornell University, USA
+10/2017 to 01/2018: Guest Scientist, Max Planck Institute for the Physics of Complex Systems, Dresden, Germany
+12/2016 to 09/2017: Assistant Professor in Physics, Indian Institute of Technology Kharagpur (IIT-KGP), India
+09/2016 to 12/2016: Postdoctoral Researcher, University of Basel, Switzerland
+12/2013 to 08/2016: Postdoctoral Researcher, Perimeter Institute for Theoretical Physics, Canada
+09/2011 to 08/2013: Postdoctoral Scholar-Employee, University of California Los Angeles, USA
+
+Publications/Pre-Prints:
+Link:
+https://scholar.google.com/citations?user=Mh_ppcQAAAAJ&hl=en
+Disentangling contributions to longitudinal magnetoconductivity for Kramers-Weyl nodes
+Ipsita Mandal
+e-Print: arXiv:2506.07913 [cond-mat.mes-hall]
+Longitudinal magnetoconductivity in chiral multifold semimetals exemplified by pseudospin-1 nodal points
+Ipsita Mandal
+e-Print: arXiv:2505.19636 [cond-mat.mes-hall]
+Generic deformation channels for critical Fermi surfaces, including the impact of collisions
+Kazi Ranjibul Islam and Ipsita Mandal
+e-Print: arXiv:2504.06945 [cond-mat.str-el]
+Direction-dependent linear response for gapped nodal-line semimetals in planar-Hall configurations
+Fasil Hussain Rather, Muhammed Jaffar A., and Ipsita Mandal
+e-Print: arXiv:2503.10712 [cond-mat.mes-hall]
+Delta-function-potential junctions with quasiparticles occupying tilted bands with quadratic-in-momentum dispersion
+Ipsita Mandal
+e-Print: arXiv:2502.12931 [cond-mat.mes-hall]
+Effects of time-periodic drive in the linear response for planar-Hall set-ups with Weyl and multi-Weyl semimetals
+Ipsita Mandal
+e-Print: arXiv:2503.14406 [cond-mat.mes-hall]
+Transmission through rectangular potentials in semimetals featuring quadratic dispersion
+Ipsita Mandal
+Under review in
+Annals of Physics
+e-Print: arXiv:2502.06265 [cond-mat.mes-hall]
+Reflections of topological properties in the planar-Hall response for semimetals carrying pseudospin-1 quantum numbers
+Firdous Haidar and Ipsita Mandal
+Annals of Physics
+478, 170010 (2025)
+e-Print: arXiv:2501.04498 [cond-mat.mes-hall]
+Linear response of tilted anisotropic two-dimensional Dirac cones
+Ipsita Mandal
+e-Print: arXiv:2412.13978 [cond-mat.mes-hall]
+Signatures of topology in generic transport measurements for Rarita-Schwinger-Weyl semimetals
+Ipsita Mandal, Shreya Saha, and Rahul Ghosh
+Solid State Commun.
+397, 115799 (2025)
+e-Print: arXiv:2408.17447 [cond-mat.mes-hall]
+Characterizing topological pumping of charges in exactly solvable Rice-Mele chains of the non-Hermitian variety
+Ipsita Mandal
+Phys. Rev. A 111, 032213 (2025)
+e-Print: arXiv:2411.00549 [quant-ph]
+Chiral anomaly and internode scatterings in multifold semimetals
+Ipsita Mandal
+Phys. Rev. BPhys. Rev. B
+111, 165116 (2025)
+e-Print: arXiv:2411.18434 [cond-mat.mes-hall]
+Anisotropic conductivity for the type-I and type-II phases of Weyl/multi-Weyl semimetals
+in planar Hall set-ups
+Ipsita Mandal
+e-Print: arXiv:2410.05028 [cond-mat.mes-hall]
+Linear response in planar Hall and thermal Hall setups for Rarita-Schwinger-Weyl semimetals
+Rahul Ghosh, Firdous Haidar, and Ipsita Mandal
+Phys. Rev. B
+110, 245113 (2024)
+e-Print: arXiv:2408.01422 [cond-mat.mes-hall]
+Induction of non-Fermi liquids by critical cavity photons at the onset of superradiance
+Ipsita Mandal
+Annals of Physics
+474, 169925 (2025)
+e-Print: arXiv:2407.10963 [cond-mat.str-el]
+Nature of Andreev bound states in Josephson junctions of triple-point semimetals
+Ipsita Mandal
+To appear in
+Mod. Phys. Lett. B
+e-Print: arXiv:2406.15350 [cond-mat.supr-con]
+Transport properties in non-Fermi liquid phases of nodal-point semimetals
+Ipsita Mandal and Hermann Freire
+J. Phys.: Condens. Matter. 36, 443002 (2024)
+e-Print: arxiv:2404.08635 [cond-mat.str-el]
+Electric, thermal, and thermoelectric magnetoconductivity for Weyl/multi-Weyl semimetals in planar Hall set-ups induced by the combined effects of topology and strain
+Leonardo Medel Onofre, Rahul Ghosh, Alberto Martín-Ruiz, Ipsita Mandal
+Scientific Reports 14, 21390 (2024)
+e-Print: arxiv:2405.14844 [cond-mat.mes-hall]
+Identifying gap-closings in open non-Hermitian systems by Biorthogonal Polarization
+Ipsita Mandal
+J. Appl. Phys. 135, 094402 (2024)
+e-Print: arXiv:2401.12213 [quant-ph]
+Direction-dependent conductivity in planar Hall set-ups with tilted Weyl/multi-Weyl semimetals
+Rahul Ghosh and Ipsita Mandal
+J. Phys.: Condens. Matter 36, 275501 (2024)
+e-Print: arxiv:2402.10203 [cond-mat.mes-hall]
+Non-Hermitian generalizations of the Yao-Lee model augmented by SO(3)-symmetry-breaking terms
+Ipsita Mandal
+APL Quantum 1, 036104 (2024)
+e-Print: arXiv:2403.02322 [cond-mat.str-el]
+Stable non-Fermi liquid fixed point at the onset of incommensurate 2kF charge density wave order
+Ipsita Mandal
+Nuclear Physics B 1005, 116586 (2024)
+e-Print: arXiv:2403.02322 [cond-mat.str-el]
+Andreev bound states in Josephson junctions of semi-Dirac semimetals
+Ipsita Mandal
+Physica B: Condensed Matter 683, 415918 (2024)
+e-Print: arXiv:2401.00506 [cond-mat.supr-con]
+Andreev bound states in superconductor-barrier-superconductor junctions of Rarita-Schwinger-Weyl semimetals
+Ipsita Mandal
+Phys. Lett. A 503, 129410 (2024)
+e-Print: arXiv:2312.16164 [cond-mat.supr-con]
+Electric and thermoelectric response for Weyl and multi-Weyl semimetals in planar Hall configurations including the effects of strain
+Rahul Ghosh and Ipsita Mandal
+Physica E: Low-dimensional Systems and Nanostructures 159, 115914 (2024)
+e-Print: arXiv:2310.02318 [cond-mat.mes-hall]
+Thermoelectric response in nodal-point semimetals
+Ipsita Mandal and Kush Saha
+Ann. Phys. (Berlin) 536 (9), 2400016 (2024)
+e-Print: arxiv:2309.10763 [cond-mat.mes-hall]
+Generic deformation channels for critical Fermi surfaces in the collisionless regime
+Kazi Ranjibul Islam and Ipsita Mandal
+Annals of Physics 457, 169409 (2023)
+e-Print: arXiv:2304.04720 [cond-mat.str-el]
+Symmetry and Higher-Order Exceptional Points
+Ipsita Mandal and Emil J. Bergholtz
+PHYS. REV. LETT. 127, 186601 (2021)
+e-Print: arXiv:2103.15729 [physics.optics]
+Anatomy of plasmons in generic Luttinger semimetals
+Jing Wang and Ipsita Mandal
+EPJB B 96, 132 (2023)
+e-Print: arXiv:2303.10163 [cond-mat.str-el]
+Transmission and conductance across junctions of isotropic and anisotropic three-dimensional semimetals
+Ipsita Mandal
+Eur. Phys. J. Plus 138, 1039 (2023)
+e-Print: arXiv:2302.10078 [cond-mat.mes-hall]
+Signatures of two- and three-dimensional semimetals from circular dichroism
+Ipsita Mandal
+Int. J. Mod. Phys. B 38 (17), 2450216 (2024)
+e-Print: arXiv:2302.01829 [cond-mat.mes-hall]
+One dimensional magnetism in synthetic Pauflerite, β-VOSO
+4
+Diana Lucia Quintero-Castro, Gøran J. Nilsen, Katrin Meier-Kirchner, Angelica Benitez-Castro, Gerrit Guenther, Toshiro Sakakibara, Masashi Tokunaga, Chidozie Agu, Ipsita Mandal, Alexander A. Tsirlin
+Phys. Rev. Materials 7, 045003 (2023)
+e-Print: arXiv:2212.08473 [cond-mat.str-el]
+Enhanced eigenvector sensitivity and algebraic classification of sublattice-symmetric exceptional points
+Kang Yang and Ipsita Mandal
+Phys. Rev. B 107, 144304 (2023)
+e-Print: arXiv:2211.08449 [quant.ph]
+Floquet transmission in Weyl/multi-Weyl and nodal-line semimetals through a time-periodic potential well
+Sandip Bera, Sajid Sekh, and Ipsita Mandal
+Ann. Phys. (Berlin) 535, 2200460 (2023)
+e-Print: arXiv:2209.11747 [cond-mat.mes-hall]
+Boundary logarithmic corrections to the dynamical correlation functions of one-dimensional spin-1/2 chains
+Imke Schneider, Ipsita Mandal, Polina Matveeva, Dominik Strassel, and Sebastian Eggert
+Phys. Rev. B 106, 155104 (2022)
+e-Print: arXiv:2208.00019 [cond-mat.str-el]
+Magneto-optical conductivity in the type-I and type-II phases of multi-Weyl semimetals
+Shivam Yadav, Sajid Sekh, and Ipsita Mandal
+Physica B: Condensed Matter 656, 414765 (2023)
+e-Print: arXiv:2207.03316 [cond-mat.mes-hall]
+Valley-polarized nematic order in twisted moiré systems: in-plane orbital magnetism and non-Fermi liquid to Fermi liquid crossover
+Ipsita Mandal and Rafael M. Fernandes
+Phys. Rev. B 107, 125142 (2023)
+e-Print: arXiv:2202.04630 [cond-mat.str-el]
+Magneto-transport signatures in periodically-driven Weyl and multi-Weyl semimetals
+Shivam Yadav, Serena Fazzini, and Ipsita Mandal
+Physica E:Low-dimensional Systems and Nanostructures 144,115444 (2022)
+e-Print: arXiv:2203.04281 [cond-mat.mes-hall]
+Raman response and shear viscosity in the non-Fermi liquid phase of Luttinger semimetals
+Ipsita Mandal and Hermann Freire
+J. Phys.: Condens. Matter 34, 275604 (2022)
+e-Print: arXiv:2201.04045 [cond-mat.str-el]
+Zero Sound And Plasmon Modes For Non-Fermi Liquids
+Ipsita Mandal
+Phys. Lett. A 447, 128292 (2022)
+e-Print: arXiv:2108.09480 [cond-mat.str-el]
+Zero Sound And Plasmon Modes For Non-Fermi Liquids
+Ipsita Mandal
+Phys. Lett. A 447, 128292 (2022)
+e-Print: arXiv:2108.09480 [cond-mat.str-el]
+Robust marginal Fermi liquid in birefringent semimetals
+Ipsita Mandal
+Phys. Lett. A 418, 127707 (2021)
+e-Print: arXiv:2107.07145 [cond-mat.str-el]
+Magnus Hall Effect In Three-Dimensional Topological Semimetals
+Sajid Sekh and Ipsita Mandal
+Eur. Phys. J. Plus 137, 736 (2022)
+e-Print: arXiv:2111.05322 [cond-mat.mes-hall]
+Magnetotropic Response in Ruthenium Chloride
+Ipsita Mandal
+Acta Physica Polonica A 140(5), 372-378 (2021)
+e-Print: arXiv:2111.05429 [cond-mat.str-el]
+Robust quantum transport at particle-hole symmetry
+Ipsita Mandal and Klaus Ziegler
+Europhysics Letters 135, 17001 (2021)
+e-Print: arXiv:2106.03313 [cond-mat.dis-nn]
+Circular dichroism as a probe for topology in three-dimensional semimetals
+Sajid Sekh and Ipsita Mandal
+Phys. Rev. B 105, 235403 (2022)
+e-Print: arXiv:2105.05272 [cond-mat.mes-hall]
+Thermoelectric and thermal properties of the weakly disordered non-Fermi liquid phase of Luttinger semimetals
+Hermann Freire and Ipsita Mandal
+Phys. Lett. A 407, 127470 (2021)
+e-Print: arXiv:2104.07459 [cond-mat.str-el]
+Floquet scattering of quadratic band-touching semimetals through a time-periodic potential well
+Sandip Bera and Ipsita Mandal
+J. Phys.: Condens. Matter 33, 295502 (2021)
+e-Print: arXiv:2103.05335 [cond-mat.mes-hall]
+Tunneling of multi-Weyl semimetals through a potential barrier under the influence of magnetic fields
+Ipsita Mandal and Aritra Sen
+Phys. Lett. A 399, 127293 (2021)
+e-Print: arXiv:2012.15567 [cond-mat.mes-hall]
+Transport in the non-Fermi liquid phase of isotropic Luttinger semimetals
+Ipsita Mandal and Hermann Freire
+Phys. Rev. B 103, 195116 (2021)
+e-Print: arXiv:2012.07866 [cond-mat.str-el]
+Correlated Insulators in Twisted Bilayer Graphene
+Ipsita Mandal, Jia Yao, and Erich J. Mueller
+Phys. Rev. B 103, 125127 (2021)
+e-Print: arXiv:2008.13752 [cond-mat.str-el]
+Critical Fermi surfaces in generic dimensions arising from transverse gauge field interactions
+Ipsita Mandal
+Phys. Rev. Research 2, 043277 (2020)
+e-Print: arXiv:2006.10766 [cond-mat.str-el]
+Transmission in pseudospin-1 and pseudospin-3/2 semimetals with linear dispersion through scalar and vector potential barriers
+Ipsita Mandal
+Phys. Lett. A 384, 126666 (2020)
+e-Print: arXiv:2004.14749 [cond-mat.mes-hall]
+Tunneling in Fermi Systems with Quadratic Band Crossing Points
+Ipsita Mandal
+Annals of Physics 419, 168235 (2020)
+e-Print: arXiv:2004.06134 [cond-mat.mes-hall]
+Effect of interactions on the quantization of the chiral photocurrent for double-Weyl semimetals
+Ipsita Mandal
+Symmetry 12(6), 919 (2020)
+e-Print: arXiv:2002.10480 [cond-mat.str-el]
+Sign of viscous magnetoresistance in electron fluids
+Ipsita Mandal and Andrew Lucas
+Phys. Rev. B 101, 045122 (2020)
+e-Print: arXiv:1908.04886 [cond-mat.str-el]
+Symmetry-breaking signatures of multiple Majorana zero modes in one-dimensional spin-triplet superconductors
+Arnab Barman Ray, Jay D. Sau, and Ipsita Mandal
+Phys. Rev. B 104, 104513 (2021)
+e-Print: arXiv:1907.10626 [cond-mat.mes-hall]
+Order parameter dynamics of the non-linear sigma model in the large
+N
+limit
+Sebastian Gemsheim, Ipsita Mandal, Krishnendu Sengupta, and Zhiqiang Wang
+Eur. Phys. J. B 93, 40 (2020)
+e-Print: arXiv:1906.05306 [cond-mat.stat-mech]
+Electric Field Response In Breathing Pyrochlores
+Ipsita Mandal
+Eur. Phys. J. B 92, 187 (2019)
+e-Print: arXiv:1904.07251 [cond-mat.str-el]
+Quench, thermalization and residual entropy across a non-Fermi liquid to Fermi liquid transition
+Arijit Haldar, Prosenjit Haldar, Surajit Bera, Ipsita Mandal, and Sumilan Banerjee
+Phys. Rev. Research 2, 013307 (2020)
+e-Print: arXiv:1903.09652 [cond-mat.str-el]
+Thermopower in an anisotropic two-dimensional Weyl semimetal
+Ipsita Mandal and Kush Saha
+Phys. Rev. B 101, 045101 (2020)
+e-Print: arXiv:1811.04952 [cond-mat.mes-hall]
+Search for plasmons in isotropic Luttinger semimetals
+Ipsita Mandal
+Annals of Physics 406, 173 (2019)
+e-Print: arXiv:1810.06574 [cond-mat.str-el]
+Emergence of topological Mott insulators in proximity of quadratic band touching points
+Ipsita Mandal and Sebastian Gemsheim
+Condens. Matter Phys. 22(1), 13701 (2019)
+e-Print: arXiv:1808.03560 [cond-mat.str-el]
+Non-Fermi liquid at the FFLO quantum critical point
+Dimitri Pimenov, Ipsita Mandal, Francesco Piazza, and Matthias Punk
+Phys. Rev. B 98, 024510 (2018)
+e-Print: arXiv:1711.10514 [cond-mat.str-el]
+Majorana Kramers pairs in Rashba double nanowires with interactions and disorder
+Manisha Thakurathi, Pascal Simon, Ipsita Mandal, Jelena Klinovaja, and Daniel Loss
+Phys. Rev. B 97, 045415 (2018)
+e-Print: arXiv:1711.04682 [cond-mat.mes-hall]
+Critical scaling of the mutual information in two-dimensional disordered Ising models
+P. V. Sriluckshmy and Ipsita Mandal
+J. Stat. Mech. 043301 (2018)
+e-Print: arXiv:1711.02352 [cond-mat.dis-nn]
+Fate of superconductivity in three-dimensional disordered Luttinger semimetals
+Ipsita Mandal
+Annals of Physics 392, 179 (2018)
+e-Print: arXiv:1710.08428 [cond-mat.str-el]
+Interplay of Coulomb interactions and disorder in three dimensional quadratic band crossings without time-reversal symmetry and with unequal masses for conduction and valence bands
+Ipsita Mandal and Rahul M. Nandkishore
+Phys. Rev. B 97, 125121 (2018)
+e-Print: arXiv:1709.06580 [cond-mat.str-el]
+Majorana fermions in finite-size strips with in-plane magnetic fields
+Vardan Kaladzhyan, Julien Despres, Ipsita Mandal, and Cristina Bena
+Eur. Phys. J. B 90, 211 (2017)
+e-Print: arXiv:1611.09367 [cond-mat.supr-con]
+Scaling behaviour and superconducting instability in anisotropic non-Fermi liquids
+Ipsita Mandal
+Annals of Physics 376, 89 (2017)
+e-Print: arXiv:1609.00020 [cond-mat.str-el]
+UV/IR Mixing In Non-Fermi Liquids: Higher-Loop Corrections In Different Energy Ranges
+Ipsita Mandal
+Eur. Phys. J. B 89, 278 (2016)
+e-Print: arXiv:1608.06642 [cond-mat.str-el]
+Superconducting instability in non-Fermi liquids
+Ipsita Mandal
+Phys. Rev. B 94, 115138 (2016)
+e-Print: arXiv:1608.01320 [cond-mat.str-el]
+Super-GCA connection with tensionless strings: Addendum to "Super-GCA from N=(2,2) super-Virasoro"
+Ipsita Mandal
+Phys. Lett. B 760, 832-834 (2016)
+e-Print: arXiv:1607.02439 [hep-th]
+Hyperscaling violation at the Ising-nematic quantum critical point in two dimensional metals
+Andreas Eberlein, Ipsita Mandal, and Subir Sachdev
+Phys. Rev. B 94, 045133 (2016)
+e-Print: arXiv:1605.00657 [cond-mat.str-el]
+Geometrical mutual information at the tricritical point of the two-dimensional Blume-Capel model
+Ipsita Mandal, Stephen Inglis, and Roger G. Melko
+J. Stat. Mech. 073105 (2016)
+e-Print: arXiv: 1604.02464 [cond-mat.stat-mech]
+Cold atoms in U(3) gauge potentials
+Ipsita Mandal and Atri Bhattacharya
+Condens. Matter 1(1), 2, (2016)
+e-Print: arXiv: 1603.08526 [cond-mat.quant-gas]
+Super-GCA from N = (2, 2) Super-Virasoro
+Ipsita Mandal and Ahmed Rayyan
+Phys. Lett. B 754, 195-200 (2016)
+e-Print: arXiv: 1601.04723 [hep-th]
+Counting Majorana bound states using complex momenta
+Ipsita Mandal
+Condens. Matter Phys. 19(3), 33703 (2016)
+e-Print: arXiv:1503.06804 [cond-mat.mess-hall]
+Exceptional points for chiral Majorana fermions in arbitrary dimensions
+Ipsita Mandal
+Europhysics Letters
+110, 67005 (2015)
+e-Print: arXiv:1503.03839 [cond-mat.mess-hall]
+Exceptional point description of one-dimensional chiral topological superconductors/superfluids in BDI class
+Ipsita Mandal and Sumanta Tewari
+Physica E: Low-dimensional Systems and Nanostructures
+79, 180 (2016)
+e-Print: arXiv:1502.03110 [cond-mat.mess-hall]
+Pairing in half-filled Landau level
+Zhiqiang Wang, Ipsita Mandal, Suk Bum Chung, and Sudip Chakravart
+Annals of Physics
+351, 727 (2014)
+e-Print: arXiv:1408.6860 [cond-mat.str-el]
+Ultraviolet/infrared mixing in Non-Fermi Liquids
+Ipsita Mandal and Sung-Sik Lee
+Phys. Rev. B
+92, 035141 (2015)
+e-Print: arXiv:1407.0033 [cond-mat.str-el]
+Higher angular momentum pairing from transverse gauge interactions
+Suk Bum Chung, Ipsita Mandal, S. Raghu, and Sudip Chakravarty
+Phys. Rev. B 88, 045127 (2013)
+e-Print: arXiv:1305.3938 [cond-mat.str-el]
+Amplitude mode of the
+d
+-density-wave state and its relevance to high-Tc cuprates
+Jay D. Sau, Ipsita Mandal, Sumanta Tewari, and Sudip Chakravarty
+Phys. Rev. B
+87, 224503 (2013)
+e-Print: arXiv:1207.6834 [cond-mat.supr-con]
+Majorana Zero Modes in a Quantum Ising Chain with Longer-ranged Interactions
+Yuezhen Niu, Suk Bum Chung, Chen-Hsuan Hsu, Ipsita Mandal, S. Raghu, and Sudip Chakravarty
+Phys. Rev. B
+85, 035110 (2012)
+e-Print: arXiv:1110.3072v2 [cond-mat.str-el]
+Logarithmic Corrections to N=4 and N=8 Black Hole Entropy: A One Loop Test of Quantum Gravity
+Shamik Banerjee, Rajesh Kumar Gupta, Ipsita Mandal, and Ashoke Sen
+JHEP 11, 143 (2011)
+e-Print: arXiv:1106.0080 [hep-th]
+Black Hole Microstate Counting and its Macroscopic Counterpart
+Ipsita Mandal and Ashoke Sen
+Class. Quant. Grav. 27, 214003 (2010);
+Nuclear Physics B - Proceedings Supplements 216 (1), 147 (2011)
+e-Print: arXiv:1008.3801 [hep-th]
+Supersymmetric Extension of GCA in 2d
+Ipsita Mandal
+JHEP 11, 018 (2010)
+e-Print: arXiv:1003.0209 [hep-th]
+GCA in 2d
+Arjun Bagchi, Rajesh Gopakumar, Ipsita Mandal, and Akitsugu Miwa
+JHEP 08, 004 (2010)
+e-Print: arXiv:0912.1090 [hep-th]
+Supersymmetry, Localization and Quantum Entropy Function
+Nabamita Banerjee, Shamik Banerjee, Rajesh Gupta, Ipsita Mandal, and Ashoke
+JHEP 02, 091 (2010)
+e-Print: arXiv:0905.2686 [hep-th]
+Supersymmetric Extension of Galilean Conformal Algebras
+Arjun Bagchi and Ipsita Mandal
+Phys. Rev. D
+80, 086011 (2009)
+eprint: arXiv:0905.0580 [hep-th]
+On Representations and Correlation Functions of Galilean Conformal Algebras
+Arjun Bagchi and Ipsita Mandal
+Phys. Lett. B
+675, 393-397 (2009)
+eprint: arXiv:0903.4524 [hep-th]
+Black Hole Hair Removal
+Nabamita Banerjee, Ipsita Mandal, and Ashoke Sen
+JHEP
+07, 091 (2009)
+ePrint: arXiv:0901.0359 [hep-th]
+Conformal Nonlinear Fluid Dynamics from Gravity in Arbitrary Dimensions
+Sayantani Bhattacharyya, R. Loganayagam, Ipsita Mandal, Shiraz Minwalla, and Ankit Sharma
+JHEP
+12, 116 (2008)
+ePrint: arXiv:0809.4272 [hep-th]
+Critical properties of spherically symmetric black hole accretion in Schwarzschild geometry
+Ipsita Mandal, Arnab K. Ray, and Tapas Kumar Das
+Mon. Not. Roy. Astron. Soc.
+378. 14001406 (2007)
+eprint: astro-ph / 0702733
+
+Tutoring Experience:
+Spring 2008, HRI:
+Quantum Field Theory
+(Course Instructor: Prof. Sumathi Rao)
+Fall 2010, HRI:
+Mathematical Methods
+(Course Instructor: Prof. Tirthankar Roy Choudhury)
+
+Teaching Experience:
+Spring 2017, IIT-KGP:
+First year B.Tech. Laboratory
+Fall 2017, IIT-KGP:
+Classical Mechanics I
+Fall 2017, IIT-KGP:
+First year B.Tech. Laboratory
+Spring 2019, Cornell University: Senior Teaching Associate for PHYS 2214
+Physics III: Oscillations, Waves
+and Quantum Physics
+Fall 2019, University of Stavanger:
+Classical Mechanics
+(Masters level, Course code: FYS500)
+Spring 2020, University of Stavanger:
+Statistical Physics and Solid State Physics
+(Bachelor and Masters studies, Course code: FYS310)
+July 2022, IFJ PAN:
+Basic tools to study quantum matter
+(Masters, PhD students, post-PhD researchers)
+Monsoon 2023, Shiv Nadar I.O.E.:
+Fundamentals of Physics I
+(First year Undergraduate, Course code: PHY103)
+Monsoon 2023, Shiv Nadar I.O.E.:
+Review of Classical Mechanics
+(First year PhD Research Scholar, Course code: PHY506)
+Monsoon 2023, Shiv Nadar I.O.E.:
+Quantum Mechanics
+(First year PhD Research Scholar, Course code: PHY508)
+Monsoon 2024, Shiv Nadar I.O.E.:
+Quantum Phases of Matter
+(Fourth year Undergraduate, Elective course)
+Monsoon 2024, Shiv Nadar I.O.E.:
+Review of Classical Mechanics
+(First year PhD Research Scholar, Course code: PHY506)
+Monsoon 2024, Shiv Nadar I.O.E.:
+Quantum Mechanics
+(First year PhD Research Scholar, Course code: PHY508)
+Spring 2025, Shiv Nadar I.O.E.:
+Introduction to Physics II
+(First year Undergraduate, Course code: PHY102)
+
+Refereeing / Reviewing Activities:
+Referee
+for Physical Review Letters, Physical Review B, Europhysics Letters, Physica E, Journal of Magnetism and Magnetic Materials, Physics Letters A, SciPost, New Journal of Physics, Canadian Journal of Physics, Journal of mathematical physics, Annalen der Physik (Berlin), Annals of Physics (New York), Scientific Reports, The Physica Status Solidi (RRL) - Rapid Research Letters, Communications Physics, European Physical Journal - Applied Physics, Modern Physics Letters B
+Reviewer
+of a scientific proposal for the
+ERC
+(European Research Council) Starting Grant 2020 (Step 2)
+External Reviewer
+of the MSc thesis of Ushakov Ivan, Norwegian University of Science and Technology, in 2020
+External Reviewer
+of the PhD thesis of Anirban Mukherjee, Indian Institute of Science Education & Research Kolkata, India, in 2020
+External Evaluator
+at the University of Malta, in the selection process of its annual internal research proposals in 2022
+Expert
+for evaluation of proposal submitted under European Commission’s MSCA-PF-2023 call
+Selection committee member for FRIAS
+Conferences 2024
+
+Other Relevant Achievements/Experiences/Awards:
+In 2001, I was selected by the
+CSIR
+(Council of Scientific and Industrial Research) as one of the
+CPYLS
+(CSIR Program in Youth for Leadership in Science) scholars. In 2005, I secured
+Rank 8
+in All India Joint Entrance Screening Test for admission in a PhD / Integrated PhD program in Physics, India; and
+Rank 24
+in All India Joint Admission Test for MSc (JAM) for admissions to MSc / MSc-PhD programs at the Indian Institutes of Technology, India.
+I have completed
+research mentor training
+through “Building Mentoring Skills for an Academic Career” workshops offered by Cornell University in Spring 2019.
+I have completed the
+NyTi
+peer-to-peer mentoring programme of the University of Stavanger during 2019-2020, which aims to provide teaching-related peer-based support to ensure that new colleagues get off to a good start as university teachers, and that their students receive the best possible teaching as soon as possible. Participation in the programme contributes to qualifying as a university teacher.
+I am a laureate of the Polish
+Prime Minister’s Award
+in 2022 for highly rated achievements, which were the basis for conferring the degree of Habilitated doctor.
+(link:
+https://ifjpan.bip.gov.pl/postepowania-w-sprawie-nadania-stopnia-doktora-habilitowanego/dr-ipsita-mandal.html
+) –
+https://www.ifj.edu.pl/en/news/2023/23-01-04/
+and
+https://www.gov.pl/attachment/d972bc56-d0b9-43e4-bf69-0fe66a393e41
+I was a
+Plenary speaker
+at the XLVIII Congress of Polish Physicists, held in Gdańsk during September 1-7, 2023.
+I have been listed in the
+Stanford/Elsevier Top 2% Scientists
+List 2024.
+I have been recognized under the Springer Nature campaign of
+“Her Research
+,
+Our Future
+" for “Outstanding Contribution to Research and Sustainability”, awarded at the Indian Sustainability Conclave 2025.
+Contributions to Diversity and Outreach:
+I was a member of the Women in Physics group in Cornell University during 2018-2019.
+I was part of the Perimeter Institute outreach team (2014-2016) during the public lectures, which involved answering the questions of the audience.
+I was a member of the UCLA Women of Physics and Astronomy group during 2011-2013.
+
+Acquired Third-Party Funding:
+I have been selected for an
+ICTP Associate Fellowship
+at the The Abdus Salam International Centre for Theoretical Physics (ICTP), in the selection drive of 2024.
+I was appointed as a
+Nordita Corresponding Fellow
+in Nordita (Stockholm) from 01-07-2020 to 30-06-2023.
+I have won fundings for the following
+grant proposals
+:
+PRELUDIUM BIS-2
+, 2020 Awarded in April 2022 Period of research: April 2022 to March 2026 [Terminated in April 2023 due to leaving Poland] Total funding: PLN 450,180 Funding agency: Narodowe Centrum Nauki (NCN), Poland Grant reference: 2020/39/O/ST3/00973 Principal investigator: Ipsita Mandal Project title – TOTEM: Topology, Transport, and Effects of Non-Hermiticity
+PRELUDIUM BIS-3
+, 2022 Awarded in April 2022 Period of research: March 2023 to February 2027 [Terminated in Oct 2023 due to leaving Poland] Total funding: PLN 455,060 Funding agency: Narodowe Centrum Nauki (NCN), Poland Grant reference: 2021/43/O/ST3/00099 Principal investigator: Ipsita Mandal Project title – SCHEME: Superconductivity in hybrids of magnets and metals
+Ramanujan Fellowship
+Awarded in January 2024 Period of research: July 2024 to June 2029 Total funding: INR 11,900,000 Funding agency: Science and Engineering Research Board (SERB), India Grant reference: RJF/2023/000046 Principal investigator: Ipsita Mandal Project title – SIQMA: Strongly Interacting Quantum Matter
+Senior Fellowship under the 2023/2024
+Marie Skłodowska-Curie FRIAS COFUND Fellowship Programme
+(FCFP) at the level of W3 professorship link:
+https://www.frias.uni-freiburg.de/en/people/fellows/mandal-ipsita
+Awarded in February 2023 Period of research: January 2024 to June 2024 Total funding: Salary for 6 months at the level of W3 professorship and research visit allowances amounting to 2700 EUR Funding agency: Freiburg Institute for Advanced Studies and the European Union’s Horizon 2020 Research and Innovation Programme under the Marie Skłodowska-Curie Grant Agreement No. 754340 Principal investigator: Ipsita Mandal Project title – NEWFIS: New Frontiers For Interaction-Induced States
+I received financial support for extended research visits from the host institutes as follows:
+September 30 to October 12, 2015 – Visitor at the Institute of Mathematical Sciences (IMSc), Chennai, India, under the PI- IMSc partnership program.
+May 10 to July 16, 2017 – Visitors Program of the Max Planck Institute for the Physics of Complex Systems, Dresden, Germany.
+October 01 to November 02, 2018 – Participant of the Kavli Institute For Theoretical Physics program “Chaos and Order: from Strongly Correlated Systems to Black Holes”, Santa Barbara, USA.
+November 23 to December 08, 2019 – Visiting Scientist at the Tsung-Dao Lee Institute, Shanghai, China.
+September 01 to November 30, 2020 – Guest Scientist with a German Research foundation (DFG) stipend at the Technische Universität Kaiserslautern, Kaiserslautern, Germany.
+May 01 to May 31, 2022 – Guest scientist at the University of Cologne at Institute for Theoretical Physics, under the framework of the Collaborative Research Center 183 (CRC183), which is funded by the DFG.
+June 01 to June 30, 2022 – Visiting scientist at the Institute for Theoretical Physics of ETH Zurich, under the visitors program of Pauli Center for Theoretical Studies.
+August 01 to October 31, 2022 – Visitors Program of the Max Planck Institute for the Physics of Complex Systems, Dresden, Germany.
+I have been awarded the
+Ramanujan Fellowship
+by the Science and Engineering Research Board (SERB), India, in Jan 2024.
+
+Invited Lectures, Talks, Conference Presentations:
+Invited seminars / talks in internationally established conferences and international advanced schools, universities and research institutes:
+138
+Selected talks/seminars:
+Reflections of topology in magnetoconductivity of nodal-point semimetals
+July 1, 2025, Second Grete Hermann Network Workshop, Julius-Maximilians-Universität Würzburg
+Novel phenomena from collective motion of quantum particles
+June 9, 2025, Colloquium/Special Lecture, Gokhale Memorial Girls' College, Kolkata
+Novel phenomena from collective motion of quantum particles
+April 29, 2024, FRIAS Colloquium, Freiburg Institute for Advanced Studies [
+https://www.frias.uni-freiburg.de/de/veranstaltungen/frias-kolloquium/frias-kolloquium-Mandal
+]
+New Frontiers for Interaction-Induced States
+September 04, 2023, Plenary Talk, XLVIII Congress of Polish Physicists, Gdańsk
+[
+https://event.mostwiedzy.pl/event/14/
+]
+Correlated States in Triangular Moiré Superlattices
+June 26, 2022, Recent developments in strongly-correlated quantum matter, Nordita
+Non-Fermi liquid at the FFLO Quantum Critical Point
+April 29, 2019, CNLS 39th Annual Conference, Santa Fe
+UV/IR Mixing in Non-Fermi Liquids
+February 20, 2015, Progress and Applications of Modern Quantum Field Theory, Aspen Center for Physics
+Renormalization Group Analysis of a Non-Fermi Liquid System
+May 01, 2014, 4 Corners Southwest Ontario Condensed Matter Physics Symposium

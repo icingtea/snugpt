@@ -1,0 +1,49 @@
+Sri Krishna Jayadev Magani
+School of Natural Sciences
+Department of Life Sciences
+
+Research Interest:
+My research interest is in understanding the cancer cell signaling in disease progression and therapy. Presently working on Understanding the mechanism of Drug resistance development to multi-kinase inhibitor drugs in colorectal cancers. other interests include understanding the signaling in some rare tropical diseases.
+
+Education:
+Ph.D, Delhi University
+M.Sc, Guru Ghasidas University
+B.Sc, Andra University
+
+Work Experience:
+07/21 - Present
+Associate Professor, Department of Life Sciences, School of Natural Sciences, Shiv Nadar University, Delhi-NCR
+01/12 - 06/21
+Assistant Professor, Department of Life Sciences, School of Natural Sciences, Shiv Nadar University, Delhi-NCR
+04/10 - 01/12
+Post doctoral fellow, National Institute of Immunology, New Delhi
+08/09 - 03/10
+Assistant Professor, Gitam University, Visakhapatanam, Visakhapatnam, Andhra pradesh
+
+Awards:
+Reviewer for Ramalingaswami re-entry fellowship, Department of biotechnology, Government of India 2017. Best poster award at National seminar on Emerging Trends in Cell and Nano-Biotechnology held at GITAM University, Visakhapatnam, Andhra Pradesh, (2009). Senior Research Fellowship (SRF) 2004-2007, Council for Scientific and Industrial Research (CSIR), Govt. of India, India Junior Research Fellowship (JRF) 2002-2004, Council for Scientific and Industrial Research (CSIR), Govt. of India, India Represented the volley ball team of AIIMS, New Delhi from 2002-2007 and won 3 Gold and 2 Silver medals. Represented Guru Ghasidas University at National Inter-university volley ball championships ,2000. National Cadet corps (NCC) 'C' certificate 1998, NCC Directorate, Government of India. National cadet corps (NCC) silver medal for national integration awarness, 1997, NCC Dirctorate, Andhra pradesh, Govt. of India Won Rotary club silver medal at District volley ball competitions, 1997
+
+Journal Publications:
+Shrivastava A et al., Molecular dynamics study of tropical calcific pancreatitis (TCP) associated calcium-sensing receptor single nucleotide variation. Front Mol Biosci. 2022 Oct 4; 9:982831. doi:10.3389/fmolb.2022.982831. (IF=6.113)
+Archana Ranjan et al. Evaluation of anticancer activity of ferrocene based benzothiazole and β-ketooxothioacetal, Journal of Organometallic Chemistry,Volume 979, 2022, doi:10.1016/j.jorganchem.2022.122500. (IF=2.345)
+Fayyaz Rasool et al., Evaluation of anticancer properties of Geranyl Isovalerate, an active ingredient of A. nervosa extract. Frontiers in Pharmacology.  2021; Front. Pharmacol. 12:698375. doi: 10.3389/fphar.2021.698375. (IF= 5.810)
+Komal M. Vyas et al., In-vitro evaluation of cytotoxicity and antimetastatic properties of novel arene ruthenium(II)-tetrazolato compounds on human cancer cell lines. Appl. Organomet chem. Jan 2021. Doi:10.1002/aoc.6187 (IF: 3.140)
+Magani SKJ et al. Salidroside - Can it be a multifunctional drug? Curr Drug Metab. 2020; 10.2174/1389200221666200610172105. (IF: 2.960)
+Bakshi K et al., Imidazolium-based ionic liquids cause mammalian cell death due to modulated structures and dynamics of cellular membrane. Biochim Biophys Acta Biomembranes. 2020 Feb 1;1862(2):183103. doi: 10.1016/j.bbamem.2019.183103. Epub 2019 Oct 31. PubMed PMID: 31669570. (IF: 3.41)
+Singh G et al., Structural, functional and molecular dynamics analysis of cathepsin B gene SNPs associated with tropical calcific pancreatitis, a rare disease of tropics. PeerJ. 2019 Oct 3;7:e7425. doi: 10.7717/peerj.7425. eCollection 2019. PubMed PMID: 31592339; PubMed Central PMCID: PMC6778667.   (IF: 2.38)
+Karri R et al., Exploiting the κ(2) -Fashioned Coordination of [Se(2) ]-Donor Ligand L(3) Se for Facile Hg-C Bond Cleavage of Mercury Alkyls and Cytoprotection against Methylmercury-Induced Toxicity. Chemistry. 2019 Oct 1;25(55):12810-12819. doi: 10.1002/chem.201902578. Epub 2019  Sep 5. PubMed PMID: 31298434. (IF: 4.857)
+Singh G et al., mutTCPdb: a comprehensive database for genomic variants of a tropical country neglected disease-tropical calcific pancreatitis. Database (Oxford). 2018 Jan 1;2018. doi:  10.1093/database/bay043. PubMed PMID: 30053238; PubMed Central PMCID: PMC6059086.   (IF: 2.593)
+Binayak kumar et al., Role of Jak-stat signaling in Sorafenib resistant HCT-116 cells. Biochem. Cell. Arch. 2017, Vol17, No1 341-348. (IF: 0.03)
+Singh G et al., Can killers be saviors? Lupus. 2017 Aug;26(9):903-908. doi: 10.1177/0961203316688783. Epub 2017 Jan 25. Review. PubMed PMID: 28121242.   (IF: 2.251)
+Agarwal R et al., CoReCG: a comprehensive database of genes associated with colon-rectal cancer. Database (Oxford). 2016 Apr 25;2016. pii: baw059. doi: 10.1093/database/baw059. Print 2016. PubMed PMID:  27114494; PubMed Central PMCID: PMC4843536.   (IF: 2.593)
+
+Books and Book Chapters (Authored / Edited / Reviewed):
+Fayyaz Rasool, Binayak kumar, Deepu sharma, Sri Krishna Jayadev Magani. Molecular signaling and its role in Drug resistance in Hepatocellular Carcinomas. Theranostics and Precision Medicine for the Management of Hepatocellular carcinoma, Elsevier publishing house, Apr-22,  Vol. 2/.ISBN: 978-0-323-98807-0
+Fayyaz Rasool, Shaheer Hasan Khan, Abdulaziz S. Alouffi, Sri Krishna Jayadev Magani, and Abdur Rub. Nanomaterials in the diagnosis and treatment of Leishmaniasis. Nanotechnology for infectious diseases, Apr-22, ISBN 978-981-16-9189-8.
+Binayak Kumar, Deepu Sharma, Jyotsna Gorantala, Sri Krishna Jayadev Magani. Small Molecule-Targeted Therapies for GI Cancers: Success and Failures". Therapeutic Approaches for Gastrointestinal Malignancies, Diagnostics and Therapeutic Advances in GI Malignancies, Springer Nature publishing house doi.org/10.1007/978-981-15-5471-1_4
+M. Sri Durgambica, K. Parimala, M. Sri Krishna Jayadev, Pothana Shanmukha Anand, and Tantravahi Srinivasan. An Insight into the Therapeutic Potential of Phytochemicals for Colorectal Cancer: Latest Perspective. Colon Cancer Diagnosis and Therapy, Springer Nature 2021, https://doi.org/10.1007/978-3-030-64668-4_12
+
+Invited Lectures, Talks, Conference Presentations:
+Invited lecture in National webinar on "Biotechnology and Human health " on 27th May 2022, organized by Department of Biotechnology, SVKP & Dr. KS Raju arts and Science college, Penugonda, west godavari (dist) Andhra pradesh.
+Invited lecture in the workshop on “Biological Resources and Sequence Analysis” conducted on 30 th  Nov., 2016 organized by Biochemical Engineering Department, Bipin Tripathi Kumaon Institute of Technology, Dwarahat.
+Invited lecture in National conference on the emergence of Interdisciplinary sciences, August 24th  -25th, 2012, organized by lachoo Memorial college of Science and Technology, Jodhpur, Rajasthan.

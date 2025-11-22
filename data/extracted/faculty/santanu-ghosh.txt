@@ -1,0 +1,220 @@
+Santanu Ghosh
+School of Natural Sciences
+Department of Chemistry
+
+Research Interest:
+Bio-active Natural Product Synthesis, Asymmetric Catalysis, New Methodology Development, Drug Discovery
+
+Education:
+2015, Ph.D., Indian Institute of Science Education and Research Bhopal, Advisor: Prof. Alakesh Bisai
+2009, M.Sc., Vidyasagar University
+2007, B.Sc., Vidyasagar University
+
+Work Experience:
+01/23-Present
+, Assistant Professor, Department of Chemistry, School of Natural Sciences, Shiv Nadar University, Delhi-NCR
+June 2018-November 2022: Post-doctoral Fellow, Max-Planck-Institut für Kohlenforschung, Department of Homogeneous Catalysis, Germany, Advisor: Prof. Benjamin List (Nobel Laureate 2021 in Chemistry)
+February 2017-March 2018: Post-doctoral fellow
+,
+University of California Santa Barbara, California, USA, Advisor: Prof. Armen Zakarian
+July 2015-December 2016: Post-doctoral fellow
+,
+Indian Institute of Science Education and Research Bhopal, India, Advisor: Prof. Alakesh Bisai
+
+Awards:
+2018, Max Planck Post-doctoral Fellowship
+2016, SERB Indo-U.S. Post-doctoral Fellowship
+2015, Eli Lilly Asia Outstanding Thesis Award
+2015, IISER Bhopal Institute Post-doctoral Fellowship
+2010-2015, CSIR Junior and Senior Research Fellowship
+
+Journal Publications:
+[
+20
+] Maji, R.; Ghosh, S.;† Grossmann, O.;† Zhang, P.; Leutzsch, M.; Tsuji, N.; List B.* “A Catalytic Asymmetric Hydrolactonization.”
+Am. Chem. Soc.
+2023
+, 145, 8788−8793. [DOI: 10.1021/jacs.3c01404] (
+†
+Both authors have equally contributed)
+[
+19
+] Ghosh, S.; Erchinger, J. E.; Maji, R.; List, B.* “Catalytic Asymmetric Spirocyclizing Diels-Alder Reactions of Enones: Stereoselective Total and Formal Syntheses of
+α
+-Chamigrene,
+β
+-Chamigrene, Laurencenone C, Colletoic Acid, and Omphalic Acid.”
+Am. Chem. Soc.
+2022
+,
+144
+, 6703–6708. [DOI: 10.1021/jacs.2c01971]
+[
+18
+] Ghosh, S.; Das, S.; De, C. K.; Yepes, D.; Neese, F.; Bistoni, G.; Leutzsch, M.; List, B.* “Strong and Confined Acids Control Five Stereogenic Centers in Catalytic Asymmetric Diels˗Alder Reactions of Cyclohexadienones with Cyclopentadiene.”
+Chem. Int. Ed.
+2020
+,
+59
+, 12347–12351. [DOI: 10.1002/anie.202000307] [Highlighted in Synfacts]
+[
+17
+] Gladfelder, J.; Ghosh, S.; Podunavac, M.; Cook, A. W.; Ma, Y.; Woltornist, R. A.; Keresztes, I.; Hayton, T. W.; Collum, D. B.; Zakarian, A.* “Enantioselective Alkylation of 2-Alkylpyridines Controlled by Organolithium Aggregation.”
+Am. Chem. Soc.
+2019
+,
+141
+, 15024−15028. [DOI: 10.1021/jacs.9b08659]
+[
+16
+] Chaudhuri, S.; Ghosh, S.; Bhunia, S.; Bisai, A.* “Catalytic Asymmetric Formal Total Syntheses of (+)- and (−)-Cycloclavine.”
+Commun
+.
+2018,
+54
+, 940−943. [DOI:10.1039/C7CC09045E]
+[
+15
+] Kumar, N.; Das, M. K.; Ghosh, S.; Bisai, A.* “Development of Catalytic Deacylative Alkylations (DaA) of 3-Acyl-2-Oxindoles: Total Synthesis of
+meso
+-Chimonanthine and Related Alkaloids”
+Commun
+.
+2017
+,
+53
+, 2170−2173. [DOI: 10.1039/C6CC10228J]
+[
+14
+] Kumar, N.;† Ghosh, S.;† Bhunia, S.; Bisai, A.* “Synthesis of 2-Oxindoles via
+'Transition Metal-Free'
+Intramolecular-Dehydrogenative-Coupling (IDC) of sp2 C-H and sp3 C-H Bonds: Scopes and Limitations”
+Beilstein J. Org. Chem.
+2016,
+12,
+1153−1169. (Invited article) (
+†
+Both authors have equally contributed). [DOI:10.3762/bjoc.12.111]
+[
+13
+] Chaudhuri, S.; Parida, A.; Ghosh, S.; Bisai, A.* “Highly Stereoselective Syntheses of Proline-Derived Vicinal Amino Alcohols Through Grignard Addition onto
+N
+-Tosylprolinal”
+2016,
+27
+, 215−220. [DOI: 10.1055/s-0035-1560802]
+[
+12
+] Ghosh, S.;† Chaudhuri, S.;† Bisai, A.* “Catalytic Enantioselective Decarboxylative Allylations of a Mixture of Allylcarbonates and Allylesters: Total Syntheses of (−)- and (+)-Folicanthine”
+- Eur. J.
+2015
+,
+21
+, 17479−17484. (†Both authors have equally contributed) [DOI:10.1002/chem.201502878]
+[
+11
+] Babu, N. K.; Kinthada L. K.; Ghosh, S.; Bisai, A.* “Highly chemoselective synthesis of dimeric 2-oxindoles with a C-3/C-5′ linkage
+via
+Friedel–Crafts alkylations of 2-oxindoles with 3-hydroxy-2-oxindoles”
+Biomol. Chem.
+2015
+,
+13
+, 10641−10655. [DOI: 10.1039/C5OB01670C]
+[
+10
+] Ghosh, S.; Chaudhuri, S.; Bisai, A.* “Oxidative Dimerization of 2-Oxindoles Promoted by KO
+t
+Bu-I2: Total Synthesis of (±)-Folicanthine”
+Lett.
+2015
+,
+17
+, 1373−1376. [One of the 3
+Most-Read Articles
+in March 2015]. [DOI: 10.1021/acs.orglett.5b00032]
+[
+9
+] Parida, A.; Sharique, M.; Kakde, B. N.; Ghosh, S.; Bisai, A* “Efficient Synthesis of [3-(2-Arylethyl)]-Cyclohexen-2-ones
+via
+Stork-Danheiser Sequence of Vinylogous Esters with Terminal Alkynes’’
+Synthesis
+2015
+,
+47
+, 2965−2970. [DOI: 10.1055/s-0034-1380451]
+[
+8
+] Kinthada L. K.; Ghosh, S.; Babu, N. K.; Mohd., S.; Biswas, S.; Bisai, A.* “Friedel–Crafts Alkylations of Electron-rich Aromatics with 3-Hydroxy-2-oxindoles: Scope and Limitations”
+Biomol. Chem.
+2014,
+12
+, 8152−8173. [DOI: 10.1039/C4OB01264J]
+[
+7
+] Ghosh, S.; Bhunia, S.; Kakde B. N.; De, S.; Bisai, A.* “Enantioselective Construction of Vicinal All-Carbon Quaternary Centers
+via
+Catalytic Double Asymmetric Decarboxylative Allylation”
+Commun.
+2014
+,
+50
+, 2434−2437. [One of the
+Most-Read Articles
+in December 2013]. [DOI: 10.1039/C3CC49064E]
+[
+6
+] Dey, D.; Ghosh, S
+.;
+Chopra, D.* “Quantitative Evaluation of C–H...O and C–H...pi Intermolecular Interactions in Ethyl-3-benzyl-1- methyl-2-oxoindoline-3-carboxylate and 3-Methyl-but-2-en-1-yl-1, 3-dimethyl-2-oxoindoline-3-carboxylate: Insights from PIXEL and Hirshfeld Analysis”
+Chem. Cryst.
+,
+2014,
+44
+, 131. [DOI: 10.1007/s10870-014-0492-8]
+[
+5
+] Bhunia, S.; Ghosh, S.; Dey, D.; Bisai, A.* “DDQ-Mediated Direct Intramolecular-Dehydrogenative Coupling (IDC): Expeditious Approach to the Tetracyclic Core of Ergot Alkaloids”
+Lett.
+2013
+,
+15
+, 2426−2429. [DOI: 10.1021/ol400899e]
+[
+4
+] Kinthada, L. K.; Ghosh, S
+.;
+De, S.; Bhunia, S.; Dey, D.; Bisai, A.* “Acid-Catalyzed Reactions of 3-Hydroxy-2-oxindoles with Electron-rich Substrates: Synthesis of 2-Oxindoles with All-Carbon Quaternary Centers”
+Biomol. Chem.
+2013
+,
+11
+, 6984−6993. [DOI: 10.1039/C3OB41482E]
+[
+3
+] Ghosh, S.; De, S.; Kakde B, N.; Bhunia, S.; Adhikary, A.; Bisai, A.* “Intramolecular Dehydrogenative Coupling of sp2 C-H and sp3 C-H Bonds: An Expeditious Route to 2-Oxindoles”
+Lett.
+2012
+,
+14
+, 5864−5867. [One of the 5
+Most-Read Articles
+in December 2012] [DOI: 10.1021/ol302767w]
+[
+2
+] Ghosh, S.; Kinthada, L. K.; Bhunia, S.; Bisai, A.* “Lewis-Acid Catalyzed Friedel-Crafts Alkylations of 3-Hydroxy-2-oxindoles: An Efficient Approach to the Core Structure of Azonazine”
+Commun.
+2012
+,
+48
+, 10132−10134. [DOI: 10.1039/C2CC35283D]
+[
+1
+] De, S.; Ghosh, S
+.;
+Bhunia, S.; Sheikh J, A.; Bisai, A.* “Intramolecular Direct Dehydrohalide Coupling Promoted by KOtBu: Total Synthesis of Amaryllidaceae Alkaloids Anhydrolycorinone and Oxoassoanine”
+Lett.
+2012
+,
+14
+, 4466−4469. [DOI: 10.1021/ol3019677]

@@ -1,0 +1,375 @@
+Sharath  Kandambeth
+
+Department of Chemistry
+
+Education Details:
+Ph.D., Physical Chemistry, National Chemical Laboratory Pune, India (2011-2016)
+M. Sc, Applied Chemistry, Cochin University of Science and Technology, Kerala, India (2009-2011).
+
+Work Experience:
+Research Scientist at
+King Abdullah University of Science and Technology (KAUST) (2018 - 2024)
+Postdoctoral Research Fellow Ludwig Maximilian University of Munich (LMU) (2016-2018)
+
+Research Interests:
+Covalent Organic Frameworks (COFs), Metal Organic Frameworks (MOFs), Carbon dioxide capture and utilization, Electrochemical carbon dioxide reduction reaction, Electrochemical water splitting reaction, Energy storage devices.
+
+Academic Achievements/Awards:
+2015 Krishnan award” for “Best Published Research Paper in Materials Science.
+Awarded DST-INSPIRE fellowship in 2022.
+
+National and International Recognition:
+Awarded Humboldt research fellowship in 2017
+
+Journals:
+Zhengnan Tian, Vinayak S Kale, Simil Thomas,
+Sharath Kandambeth
+, Yunpei Zhu, Abdul-Hamid Emwas, Yizhou Wang, Yongjiu Lei, Jun Yin, Mickaele Bonneau, Osama Shekhah, Osman M Bakr, Omar F Mohammed, Mohamed Eddaoudi, Husam N Alshareef
+*
+,
+“Tailored 2D Conjugated Polymers for Pseudocapacitive Proton Storage”,
+Materials Today Energy
+, 2024, 101607, (doi: 10.1016/j.mtener.2024.101607).
+Mi Gyoung Lee,
+Sharath Kandambeth
+, Xiao-Yan Li, Osama Shekhah, Adnan Ozden, Joshua Wicks, Pengfei Ou, Sasa Wang, Roham Dorakhan, Sungjin Park, Prashant M Bhatt, Vinayak S Kale, David Sinton, Mohamed Eddaoudi, Edward H Sargent*
+“
+Bimetallic Metal Sites in Metal–Organic Frameworks Facilitate the Production of 1-Butene from Electrosynthesized Ethylene
+”
+J. Am. Chem. Soc., 2024, 146, 14267
+(Equal author contribution)
+.
+2023
+Adnan Ozden, Jun Li,
+Sharath Kandambeth
+, Xiao-Yan Li, Shijie Liu, Osama Shekhah, Pengfei Ou, Y Zou Finfrock, Ya-Kun Wang, Tartela Alkayyali, F Pelayo García de Arquer, Vinayak S Kale, Prashant M Bhatt, Alexander H Ip, Mohamed Eddaoudi, Edward H Sargent, David Sinton
+*
+,
+“Energy-and carbon-efficient CO2/CO electrolysis to multicarbon products via asymmetric ion migration–adsorption”,
+Nature Energy
+, 2023, 1-12, (doi: https://doi.org/10.1038/s41560-022-01188-2)
+(Equal author contribution)
+.
+Sharath Kandambeth
+, Vinayak S Kale, Dong Fan, Jeremy A Bau, Prashant M Bhatt, Sheng Zhou, Aleksander Shkurenko, Magnus Rueping, Guillaume Maurin, Osama Shekhah, Mohamed Eddaoudi*
+“
+Unveiling Chemically Robust Bimetallic Squarate
+‐
+Based Metal–Organic Frameworks for Electrocatalytic Oxygen Evolution Reaction”
+Advanced Energy Materials., 13 (1), 2023, 2202964
+(First author)
+.
+Lin Shi, Vinayak S Kale, Zhengnan Tian, Xiangming Xu, Yongjiu Lei,
+Sharath Kandambeth
+, Yizhou Wang, Prakash T Parvatkar, Osama Shekhah, Mohamed Eddaoudi, Husam N Alshareef
+*
+,
+“Fluorinated Covalent Organic Framework as a Positive Tribo
+‐
+Material for High
+‐
+Performance Triboelectric Nanogenerators”
+Advanced Functional Materials
+, 2023, 2212891, (doi: https://doi.org/10.1038/s41560-022-01188-2).
+2022
+Kalipada Koner, Susobhan Das, Shibani Mohata, Nghia Tuan Duong, Yusuke Nishiyama,
+Sharath Kandambeth
+, Suvendu Karak, C Malla Reddy, Rahul Banerjee*
+“
+Viscoelastic Covalent Organic Nanotube Fabric via Macroscopic Entanglement
+” J. Am. Chem. Soc., 144 (35), 2022, 16052.
+Kalipada Koner, Shayan Karak,
+Sharath Kandambeth
+, Suvendu Karak, Neethu Thomas, Luigi Leanza, Claudio Perego, Luca Pesce, Riccardo Capelli, Monika Moun, Monika Bhakar, Thalasseril G Ajithkumar, Giovanni M Pavan, Rahul Banerjee
+*
+,
+“Porous covalent organic nanotubes and their assembly in loops and toroids”
+Nature chemistry, 14, 2022, 507.
+Guodong Zou, Zhengnan Tian, Vinayak S Kale, Wenxi Wang,
+Sharath Kandembeth
+, Zhen Cao, Jing Guo, Justyna Czaban
+‐
+Jóźwiak, Luigi Cavallo, Osama Shekhah, Mohamed Eddaoudi, Husam N Alshareef*
+,
+“
+A Symmetric Aqueous Magnesium Ion Supercapattery Based on Covalent Organic Frameworks”
+Advanced Energy Materials., 2022, 2203193
+.
+2021
+Sharath Kandambeth,
+Vinayak S. Kale Osama Shekhah Husam N. Alshareef, Mohamed Eddaoudi
+*,
+“2D Covalent
+‐
+Organic Framework Electrodes for Supercapacitors and Rechargeable Metal
+‐
+Ion Batteries”
+Advanced Energy Materials., doi: 10.1002/aenm.202100177
+(First author)
+.
+Wenxi Wang, Vinayak S Kale, Zhen Cao, Yougjiu Lei,
+Sharath Kandambeth
+, Guodong Zou, Yunpei Zhu, Edy Abouhamad, Osama Shekhah, Luigi Cavallo, Mohamed Eddaoudi,
+*
+Husam N Alshareef
+*,
+“
+Molecular Engineering of Covalent Organic Framework Cathodes for Enhanced Zinc
+‐
+Ion Batteries”.
+Advanvce Materials
+,
+10.1002/adma.202103617.
+Zhengnan Tian, Vinayak S. Kale, Yizhou Wang,
+Sharath Kandambeth
+, Justyna Czaban-Jóźwiak, Osama Shekhah, Mohamed Eddaoudi* Husam N. Alshareef*
+,
+“
+High-Capacity NH4+ Charge Storage in Covalent Organic Frameworks”
+J. Am. Chem. Soc., 143 (45), 2021, 19178
+.
+2020
+Sharath Kandambeth
+, Jiangtao Jia,  Hao Wu,  Vinayak S. Kale,  Prakash T. Parvatkar,  Justyna Czaban
+‐
+Jóźwiak,  Sheng Zhou,  Xiangming Xu,  Zied Ouled Ameur,  Edy Abou
+‐
+Hamad,  Abdul
+‐
+Hamid Emwas,  Osama Shekhah,  Husam N. Alshareef
+*,
+Mohamed Eddaoudi
+*,
+“Covalent Organic Frameworks as Negative Electrodes for High
+‐
+Performance Asymmetric Supercapacitors”
+Advanced Energy Materials., 10, 2020, 2001673
+(First author)
+.
+Wenxi Wang, Vinayak S Kale, Zhen Cao,
+Sharath Kandambeth
+, WenLi Zhang, Jun Ming, Prakash Parvatkar, Edy Abou-Hamad, Osama Shekhah, Luigi Cavallo, Mohamed Eddaoudi*, Husam N Alshareef*,
+“Phenanthroline Covalent Organic Framework Electrodes for High Performance Zinc-ion Supercapattery”
+ACS Energy Lett..
+5, 2020, 2256.
+2019
+Hao Wu,  Wenli Zhang,
+Sharath Kandambeth,
+Osama Shekhah,  Mohamed Eddaoudi
+*
+,  Husam N. Alshareef
+*,
+“Conductive Metal–Organic Frameworks Selectively Grown on Laser
+‐
+Scribed Graphene for Electrochemical Microsupercapacitors”
+Advanced Energy Materials., 9, 2019, 1900482.
+Mohitosh Bhadra,
+Sharath Kandambeth
+, Manoj K. Sahoo, Matthew Addicoat, Ekambaram Balaraman*, Rahul Banerjee*
+,
+“Triazine Functionalized Porous Covalent Organic Framework for Photo-organocatalytic E–Z Isomerization of Olefins”
+J. Am. Chem. Soc., 141, 2019, 6152.
+Torben Sick, Julian M Rotter, Stephan Reuter,
+Sharath Kandambeth
+, Nicolai N Bach, Markus Döblinger, Julia Merz, Timothy Clark, Todd B Marder, Thomas Bein*, Dana D Medina*
+,
+“Switching on and off interlayer correlations and porosity in 2D covalent organic frameworks”
+J. Am. Chem. Soc. 141, 2019, 12570.
+2018
+Sharath Kandambeth
+, Koushik Dey, Rahul Banerjee
+*,
+“Covalent organic frameworks: chemistry beyond the structure”
+J. Am. Chem. Soc., 141, 2018, 1807
+(First author)
+.
+Husam N. Alshareef, Fangwang Ming , Hanfeng Liang , Yongjiu Lei,
+Sharath Kandambeth,
+Mohamed Eddaoudi
+*,
+“Layered MgxV2O5·nH2O as Cathode Material for High-Performance Aqueous Zinc Ion Batteries”
+ACS Energy Lett., 3, 2018, 2602.
+Abdul Khayum M, Vidyanand Vijayakumar, Suvendu Karak,
+Sharath Kandambeth
+, Mohitosh Bhadra, Karthika Suresh, Nikhil Acharambath, Sreekumar Kurungot, Rahul Banerjee* “Convergent Covalent Organic Framework Thin Sheets as Flexible Supercapacitor Electrodes”
+J. ACS applied materials & interfaces, 10, 2018, 28139.
+2017
+Sharath Kandambeth
+, Bishnu P.
+Biswal, Harshal D Chaudhari, Kanhu Charan Rout, H Kunjattu, Shouvik Mitra, Suvendu Karak, Anuja Das, Rabibrata Mukherjee, Ulhas K Kharul, Rahul Banerjee
+*,
+“Selective Molecular Sieving in Self
+‐
+Standing Porous Covalent
+‐
+Organic
+‐
+Framework Membranes”
+Adv. Mater. 29, 2017, 1603945
+(First author)
+.
+Suvendu Karak,
+Sharath Kandambeth
+, Bishnu P. Biswal, Himadri Sekhar Sasmal, Sushil Kumar, Pradip Pachfule, and Rahul Banerjee* “Constructing Ultraporous Covalent Organic Frameworks in Seconds via an Organic Terracotta Process”
+J. Am. Chem. Soc., 139, 2017, 1856.
+Shouvik Mitra, Himadri Sekhar Sasmal, Tanay Kundu,
+Sharath Kandambeth
+, Kavya Illath, David Díaz Díaz, and Rahul Banerjee
+*,”Targeted Drug Delivery in Covalent Organic Nanosheets (CONs) via Sequential Postsynthetic Modification.”
+J. Am. Chem. Soc., 139, 2017, 4513.
+Mohitosh Bhadra, Himadri Sekhar Sasmal, Arghya Basu, Siba P. Midya,
+Sharath Kandambeth
+, Pradip Pachfule, Ekambaram Balaraman*, and Rahul Banerjee*, “Predesigned Metal-Anchored Building Block for In Situ Generation of Pd Nanoparticles in Porous Covalent Organic Framework: Application in Heterogeneous Tandem Catalysis”
+ACS Appl. Mater. Interfaces, 9, 2017, 13785
+.
+Gargi Mukherjee,  Jayshri Thote,  Harshitha Barike Aiyappa,
+Sharath Kandambeth
+,  Subhrashis Banerjee,  Kumar Vankaa  and  Rahul Banerjee* “A porous porphyrin organic polymer (PPOP) for visible light triggered hydrogen production”
+Chem. Commun., 53, 2017, 4461
+.
+2016
+Shouvik Mitra,
+Sharath Kandambeth
+, Bishnu P. Biswal, Abdul Khayum M., Chandan Kumar Choudhury, Mihir Mehta, Gagandeep Kaur, Subhrashis Banerjee, Asmita A. Prabhune, Sandeep Verma, Sudip Roy, Ulhas K. Kharul, Rahul Banerjee
+.
+* "
+Self-Exfoliated Guanidnium-Based Ionic Covalent Organic Nanosheets (iCONs)."
+J. Am. Chem. Soc., 138, 2016, 2823.
+(Equal author contribution)
+.
+M Abdul Khayum,
+SharathKandambeth
+, ShouvikMitra, Sanoop B Nair, Anuja Das, Samadhan S Nagane, Rabibrata Mukherjee, Rahul Banerjee. “Chemically Delaminated Free
+‐
+Standing Ultrathin Covalent Organic Nanosheets.”
+Angew. Chem. Int. Ed. 55, 2016, 15604
+.
+Arjun Halder,
+SharathKandambeth
+, Bishnu P Biswal, Gagandeep Kaur, Neha Chaki Roy, Matthew Addicoat, Jagadish K Salunke, Subhrashis Banerjee, Kumar Vanka, Thomas Heine, Sandeep Verma, Rahul Banerjee. “Decoding the Morphological Diversity in Two Dimensional Crystalline Porous Polymers by Core Planarity Modulation.”
+Angew. Chem. Int. Ed. 55, 2016, 7806
+.
+Digambar Balaji Shinde, Harshitha Barike Aiyappa, Mohitosh Bhadra, Bishnu P. Biswal, Pritish Wadge,
+Sharath Kandambeth
+, Bikash Garai, Tanay Kundu, Sreekumar Kurungot, Rahul Banerjee.
+*
+“
+Mechanochemically Synthesized Covalent Organic Framework as Proton conducting Solid Electrolyte.”
+J. Mater Chem. A., 4, 2016, 2682.
+Jayshri Thote, Harshitha Barike Aiyappa, Raya Rahul Kumar,
+Sharath Kandambeth
+, Bishnu P. Biswal,Digambar Balaji Shinde, Neha Chaki Roy, Rahul Banerjee,
+*
+“Constructing covalent organic frameworks in water via dynamic covalent bonding”,
+IUCrJ,
+3, 2016, 402.
+2015
+Sharath Kandambeth
+, V. Venkatesh, Digambar B. Shinde, Sushma Kumari, Arjun Halder, Sandeep Verma, Rahul Banerjee*, “Self-templated chemically stable hollow spherical covalent organic framework.”
+Nat. Commun. 6, 2015, 6786
+(First author)
+.
+Gobinda Das, Bishnu P. Biswal,
+Sharath Kandambeth
+, V. Venkatesh, Gagandeep Kaur, Matthew Addicoat, Thomas Heine, Sandeep Verma, Rahul Banerjee
+*,Chemical Sensing in Two Dimensional Porous Covalent Organic Nanosheets.
+Chem. Sci.
+,
+6, 2015, 3931.
+Bishnu P. Biswal, Sharath Kandambeth, Suman Chandra, Digambar Balaji Shinde, Saibal Bera, Suvendu Karak, Bikash Garai, Ulhas K. Kharul, Rahul Banerjee.”
+Pore Surface Engineering in Porous, Chemically Stable Covalent Organic Frameworks for Water Adsorption.
+J. Mater Chem. A, 3, 2015, 23664.
+Pradip Pachfule,
+Sharath Kandambeth
+, Arijit Mallick, Rahul Banerjee, Hollow Tubular Porous Covalent Organic Framework (COF) Nanostructures,
+Chem. Commun
+.,
+51, 2015, 11717.
+2014
+Suman Chandra, Tanay Kundu,
+Sharath Kandambeth
+, Ravichandar BabaRao, Yogesh    Marathe, Shrikant M. Kunjir and Rahul Banerjee*, “Phosphoric acid Loaded Azo (-N=N-) based Covalent Organic Framework for Proton Conduction.”
+J. Am. Chem. Soc., 136, 2014,  6570.
+Pradip Pachfule,
+Sharath Kandambeth
+, David Díaz Díaz, and Rahul Banerjee* "Highly Stable Covalent Organic Framework-Au Nanoparticles Hybrids for Enhanced Activity for Nitrophenol Reduction"
+Chem. Commun.
+, 50, 2014,
+3169.
+Digambar Balaji Shinde,
+Sharath Kandambeth,
+Pradip Pachfule, Raya Rahul Kumar and Rahul   Banerjee*, Bifunctional Covalent Organic Frameworks with Two Dimensional Organocatalytic Micropores,
+Chem Commun.
+,
+50, 2014, 310.
+(Equal author contribution)
+.
+Gobinda Das, Digambar Balaji Shinde,
+Sharath Kandambeth
+, Bishnu P. Biswal, and Rahul Banerjee*. Mechanosynthesis of Imine, β-Ketoenamine, and Hydrogen-Bonded Imine-Linked Covalent   Organic Frameworks using Liquid- Assisted Grinding.
+Chem Commun.
+,
+50, 2014, 12615.
+Pradip Pachfule, Manas K. Panda,
+Sharath Kandambeth
+, S. M. Shivaprasad, David Díaz    Díaz and Rahul Banerjee* "Multifunctional and Robust Covalent Organic Framework-    Nanoparticles Hybrids.”
+J. Mater. Chem. A
+,
+2
+,
+2014
+,
+7944.
+2013
+Sharath Kandambeth
+, Digambar Balaji Shinde, Manas K. Panda, Binit Lukose, Thomas Heine and Rahul Banerjee "Enhancement of Chemical Stability and Crystallinity in Porphyrin Containing Covalent Organic Frameworks using Intra-molecular Hydrogen Bonding”.
+Angew. Chem. Int. Ed.,
+52, 2013, 13052
+(First author)
+.
+Suman Chandra,
+Sharath Kandambeth
+, Bishnu P. Biswal, Binit Lukose, Shrikant M. Kunjir, Minakshi Chaudhary, Ravichandar Babarao, Thomas Heine and Rahul Banerjee*, “Chemically Stable Multi-layered Covalent Organic Nanosheets from Covalent Organic Frameworks via Mechanical Delamination”.
+J. Am. Chem. Soc., 135, 2013, 17853
+.
+Bishnu P. Biswal,
+Suman Chandra,
+Sharath Kandambeth
+,
+Binit Lukose, Thomas Heine and Rahul Banerjee* "Mechanochemical Synthesis of Chemically Stable Isoreticular Covalent Organic Frameworks".
+J. Am. Chem. Soc., 135, 2013, 5328
+(Equal author contribution)
+.
+Pradip Pachfule, Vishal M. Dhavale,
+Sharath Kandambeth
+, Sreekumar Kurungot* and Rahul Banerjee* "Porous Organic Framework Templated Nitrogen Rich Porous Carbon as Proficient Electrocatalyst than Pt/C for the Electrochemical Oxygen Reduction Activity".
+Chem. Eur. J. 19, 2013, 974
+.
+2012
+Sharath Kandambeth
+, Arijit Mallick, Binit Lukose, Manoj V. Mane, Thomas Heine, and Rahul Banerjee* "Construction of Crystalline 2D Covalent Organic Frameworks with Remarkable Chemical (Acid/Base) Stability via a Combined Reversible and Irreversible Route"
+J. Am. Chem. Soc., 134, 2012
+,
+19524.
+(First author)
+
+Invited Lectures, Talks, Conference Presentations:
+a) Invited as a speaker for International Webinar in Department of Chemistry, Sree Narayana College, Kannur (held on 18-09-2020) Title: Crystalline Porous Polymers for Energy and Environmental Applications
+.
+b) 9th CRSI-RSC Joint Symposium in Chemistry and the 17th CRSI National Symposium in Chemistry CSIR-National Chemical Laboratory, Pune 411008.
+c) International conference on structural chemistry of molecules and materials, Centre for research in nano-science and nanotechnology university of Calcutta.
+
+Media Articles:
+Web of science highly cited award recipient in 2024.
+https://www.webofscience.com/wos/author/record/AAA-6136-2021
+
+Presentations:
+Oral Presentations:
+Invited as a speaker for International Webinar in Department of Chemistry, Sree Narayana College, Kannur (held on 18-09-2020) Title: Crystalline Porous Polymers for Energy and Environmental Applications
+.
+Poster Presentations:
+9th CRSI-RSC Joint Symposium in Chemistry and the 17th CRSI National Symposium in Chemistry CSIR-National Chemical Laboratory, Pune 411008.
+International conference on structural chemistry of molecules and materials, Centre for research in nano-science and nanotechnology university of Calcutta.
+
+Peer Review Service:
+Reviewer for the Journal of Materials Chemistry A ,Materials Advances and Chemical science

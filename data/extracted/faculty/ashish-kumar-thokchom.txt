@@ -1,0 +1,35 @@
+Ashish Kumar Thokchom
+School of Engineering
+Department of Chemical Engineering
+
+Research Interest:
+Fluid dynamics, particle self-assembly, flow visualization, photolithography, photonic crystal structures, piezoelectric materials, flexible electronic devices, inkjet printing, micro- and bio-fluidics, and evaporating drops.
+
+Education:
+Ph.D., Department of Chemical Engineering, Indian Institute of Technology Guwahati, Assam 2010
+M.Tech., Department of Chemical Engineering, National Institute of Technology Karnataka, Surathkal 2006
+B.Tech., Department of Chemical Engineering, TKMCE Kollam, Kerala
+
+Work Experience:
+05/18-06/19
+Microfluidic and Nanomechatronics Lab, Postdoctoral Research, Ulsan National Institute of Science and Technology
+07/19-11/19
+Nano-Biofluid System Lab, Postdoctoral Research Professor, Korea University
+08/15-04/18
+NIT, Department of Chemical Engineering, Arunachal Pradesh
+
+Journal Publications:
+Ashish Kumar Thokchom*, B. J. Medhi, S. K. Majumder and A. Singh. Analysis of circulation reversal and particle transport in evaporating drops. Microgravity Science and Technology 2021, 33, 1-9.
+A. Tiwari, S. J. Lee, S. Shin and Ashish Kumar Thokchom*. Understanding the formation of particle bands and fingering patterns during evaporation of a colloidal sessile droplet. (Under revision)
+A. Tiwari, A. Singh and Ashish Kumar Thokchom*. Investigation on instability of Marangoni convection inside the evaporating droplet using Hele – Shaw method. (to be submitted very soon)
+
+Invited Lectures, Talks, Conference Presentations:
+Ashish Kumar Thokchom and S. Shin. Coffee-ring effect associated with dynamical clustering and band formation of particles in a droplet. Annual European Rheology Conference 2022 (AERC 2022), Spain.
+A. Tiwari, S. J. Lee, S. Shin and Ashish Kumar Thokchom. Banded µ-Marangoni Vortex inside the Sessile Evaporating Droplet. Droplet 2021, TU Darmstadt, Germany.
+A. Tiwari, A. Singh and Ashish Kumar Thokchom*. Manipulation of Marangoni convection of a sessile droplet. Droplet 2021, TU Darmstadt, Germany.
+A. Tiwari, S. Shin, S. J. Lee, Ashish Kumar Thokchom*, Beyond Coffee Ring Pattern. International Conference on Multiphase Flow (ICMF) 2023, Kobe, Japan. (Accepted for Oral Presentation)
+A. Tiwari, S. Shin, S. J. Lee, Ashish Kumar Thokchom*, Critical Analysis of Dynamics of Particle Clustering and Formation of Fingering Like Pattern. CompFlu 2022, December 19-21, 2022. IIT Kharagpur (Accepted for Oral Presentation)
+A. Tiwari, A. Singh and Ashish Kumar Thokchom*. Fluid flow and particle transport inside an evaporating droplet: A critical analysis. CompFlu 2022, December 19-21, 2022. IIT Kharagpur (Poster Presentation)
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances:
+Development of Fluidic Manifold. PI - Ashish Kumar Thokchom, HCL. 7.8 Lakhs (Four Months)

@@ -2,25 +2,21 @@ Amit Bakshi
 School of Engineering
 Department of Electrical Engineering
 
-Research Interests
---------------------------------------------------------------------------------
+Research Interests:
 Short-Circuit Strength Analysis of Power Transformers, Electrical Machines, and Solution of Nonlinear ODEs Using Homotopy Perturbation Method
 Know more:
 Click here
 
-Education
---------------------------------------------------------------------------------
+Education:
 2013, Ph.D., Department of Electrical Engineering, I.I.T. Bombay
 2008, M.Tech., Department of Electrical Engineering, N.I.T. Hamirpur
 2006, B.Tech., Electrical Engineering, Kurukshetra University
 
-Work Experience
---------------------------------------------------------------------------------
+Work Experience:
 01/22-Present, Associate Professor, Department of Electrical Engineering, School of Engineering, Shiv Nadar Institution of Eminence, Delhi-NCR
 01/14 – 12/21, Assistant Professor, Department of Electrical Engineering, School of Engineering, Shiv Nadar Institution of Eminence, Delhi-NCR
 
-Journal Publications
---------------------------------------------------------------------------------
+Journal Publications:
 Irala Kumar and Amit Bakshi, “Effect of empirical constant of Ramberg-Osgood relation on the buckling strength of transformer inner winding,” IEEE Transactions on Power Delivery, vol. 39, no. 2, pp. 1307-1309, April 2024.
 Irala Kumar and Amit Bakshi, “Effects of axial sticks and proof stress of conductor material on the buckling strength of transformer inner winding,” IEEE Transactions on Power Delivery, vol. 37, no. 6, pp. 5465-5468, December 2022.
 Amit Bakshi, “Effect of width of axial supporting spacers on the buckling strength of transformer inner windings,” IEEE Transactions on Power Delivery, vol. 34, no. 6, pp. 2278-2280, December 2019.
@@ -31,8 +27,7 @@ Amit Bakshi and S. V. Kulkarni, “Towards short-circuit proof design of power t
 Amit Bakshi and S. V. Kulkarni, “Eigenvalue analysis for investigation of tilting of transformer winding conductors under axial short-circuit forces,” IEEE Transactions on Power Delivery, vol. 26, no. 4, pp. 2505- 2512, October 2011.
 Amit Bakshi and S. V. Kulkarni, “Analysis of winding disk in transformer under the action of axial electromagnetic forces by Green’s function approach,” International Journal of Applied Electromagnetics and Mechanics, vol. 34, no. 4, pp. 237-247, 2010.
 
-Invited Lectures, Talks, Conference Presentations
---------------------------------------------------------------------------------
+Invited Lectures, Talks, Conference Presentations:
 Invited Lectures
 "Aspects that Influence the Buckling Strength of Transformer Windings- An Advanced Review", 7th International Advanced Research Workshop on Transformers (ARWtr) 2022, Baiona, Spain, 23-26 October, 2022.
 Conference Presentations

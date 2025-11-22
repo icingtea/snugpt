@@ -72,8 +72,7 @@ def extract_faculty_text(url):
             cont = h2.find_next("div", class_="accordion-collapse")
             if cont:
                 text = cont.get_text(separator="\n", strip=True)
-                content.append(title)
-                content.append("-" * 80)
+                content.append(f"{title}:")
                 content.append(text)
                 content.append("")
 

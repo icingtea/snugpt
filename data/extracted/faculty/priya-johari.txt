@@ -1,0 +1,321 @@
+Priya  Johari
+School of Natural Sciences
+Department of Physics
+
+Research Interest:
+Electronic, Structural, and Optical Properties Inorganic, Organic, and Hybrid Crystals Low-dimensional Materials Batteries and Solar cells Interfaces/thin film Growth Code development
+Know more:
+Click here
+
+Education:
+Ph.D, Indian Institute of Technology Bombay M.Sc, Jai Narain Vyas University
+
+Work Experience:
+07/2021-Present, Professor, Department of Physics, School of Natural Sciences, Shiv Nadar University, Delhi-NCR
+2018, Associate Professor, Department of Physics, School of Natural Sciences, Shiv Nadar University, Delhi-NCR
+2012, Assistant Professor, Department of Physics, School of Natural Sciences, Shiv Nadar University, Delhi-NCR
+2009, Post-Doctoral Research Associate, Brown University, Providence, RI, USA
+2008, Post-Doctoral Research Associate, IIT Bombay, Mumbai, India
+2006, Post-Doctoral Research Assistant, University of Leoben, Austria
+
+Funding:
+Project Title: Development of new Mg-S Battery Chemistry and Electrodes through Synthesis, Characterization, and SimulationsName of PI and Co-PI: Sagar Mitra (PI), Bimlesh Lochab (Co-PI) and Priya Johari (Co-PI) Funding Agency: Department of Science & Technology (DST) Scheme: Materials for Energy Storage (MES) Amount: Rs. 74.40 lakhs Duration: 3 Years Project Status: On-going.
+
+Awards:
+Session chair at Asian Conference on Electrochemical Power Sources 11, Singapore, 11-14 December 2022.
+Participated in the historic edition of Executive Leadership Academy (ELA) meeting, hosted by the Universtiy of California, Berkeley, in collaboration with Shiv Nadar University during November 15-19, 2022, and now an alumni of ELA.
+Received theOutstanding Research Award during the Circle of Excellence award ceremony held on April 6, 2021 on the special occasion of 10th Anniversary celebration of Shiv Nadar university.
+Active reviewer of Scientific Reports, ACS, RSC, Wiley, IOP and Elsevier Journal's papers such as: Nano Letters, ACS Nano, Chemistry of Materials, Journal of Physical Chemistry Letters, Journal of Physical Chemistry C, Advanced Energy Materials, Nanoscale, Nanotechnology, RSC Advances, Journal of Physics: Condensed Matter, Journal of Physica D: Applied Physics, Computational Materials Science, Energy Storage Materials, etc.
+Contributed to the development of USPEX code by including the code to calculate Electron Energy Loss Spectrum (EELS) in the USPEX package (
+http://han.ess.sunysb.edu/EELS/
+)
+One of our article: "Tuning the electronic properties of semiconducing transition metal dichalcogenides by applying mechanical strains",
+Johari*
+and V. B. Shenoy, ACS Nano 6, 5449 (2012) , has been
+listed as Top 10 Articles
+in the domain since its publication
+An article, “Weak force-strong effect”, published in third volume, 20th issue of Nanomaterials News, which was all about our research work published in Phys. Rev. Lett.
+99
+, 176401 (2007).
+
+Journal Publications:
+“Theoretical insights into monovalent-metal-cation transmutation effects on lead-free halide double perovskites for optoelectronic applications”,
+Surajit Adhikari and Priya Johari*, Phys. Rev. Mater. (2023) (I.F.:3.980)
+“Experimental and theoretical evidence of ion engineering in nanocrystalline molybdenum disulfide memristor for non-filamentary switching actions and ultra-low-voltage synaptic features”
+, D. Das, J. Asirvatham, M. A. Luong, A. Claverie, Johari*, and A. Kanjilal*, J. Mater. Chem. C
+11,
+7782-7792 (2023) (I.F.: 8.067)
+“Computational and Experimental Investigations on the Effect of Crystallinity and Crystal Size on Na-Transport in nanoscaled Si: Implications for Si-Based Anodes for Na-Ion Batteries”
+, Ajay Kumar, Dwaipayan Chakraborty, Zubair Nabi, Nilesh Wadibhasme, Rajiv O. Dusane, Priya Johari*, Amartya Mukhopadhyay*, Journal of Solid State Electrochemistry
+27
+, 1227-1240 (2023) (I.F.: 2.747)
+“
+Predicting sulphur-rich oxysulphide perovskites for water-splitting applications using machine learning
+”, Vidur Mithal, Surajit Adhikari, Priya Johari*, Advanced Theory and Simulations 2200694 (2023) (I.F.: 4.105)
+“
+Computational study of adsorption of magnesium polysulfides on VS4 magnesium sulfur batteries”,
+Abhiroop Paul, Madhu Pandey, and Priya Johari*, Materials Today: Proceedings
+76,
+352 (2023). (I.F.: 1.46)
+“Aliovalent Ta-Doping-Engineered Oxygen Vacancy Configurations for Ultralow Voltage Resistive Memory Devices: A DFT-Supported Experimental Study”
+, Arabinda Barman, Dip Das, Sujit Deshmukh, Pranab Kumar Sarkar, Debosmita Banerjee, René Hübner, Mukul Gupta, Chetan Prakash Saini, Shammi Kumar, Priya Johari, Sankar Dhar, Aloke Kanjilal*, ACS Applied Materials & Interfaces
+14
+, 34822 (2022). (I.F.: 9.229)
+"Effect of cobalt doping on the enhanced energy storage performance of 2D vanadium diselenide: Experimental and theoretical investigations"
+, Sree Raj K A, Surajit Adhikari, Sitara Radhakrishnan, Priya Johari and Chandra Sekhar Rout, Nanotechnology
+33
+, 295703 (2022) (I.F.: 3.874)
+“
+Using Density Functional Theory to Correlate Charge-Transport Properties with Gas-Sensing by Organic Nanowires”,
+Dwaipayan Chakraborty, Vipin Kumar, Syed Mohammad Kamil, and Priya Johari*, ACS Appl. Nano. Mater.
+4
+, 5972 (2021) (I.F.: 5.097)
+“
+Metal-induced progressive alteration of conducting states in memristors for implementing an efficient analog memory: a DFT-supported experimental approach
+”
+,
+Das
+,
+A. Barman
+,
+P. K. Sarkar
+,
+P. Rajput
+,
+S. N. Jha
+,
+R. Hübner
+,
+D. Kanjilal
+,
+P. Johari
+,*and
+A. Kanjilal
+,
+J
+. Mater. Chem. C
+9
+,
+3136-3144 (2021). (I.F.: 7.393)
+“
+Magnesium polysulfide catholyte (MgSx): Synthesis, electrochemical and computational study for magnesium-sulfur battery application
+”, Divyamahalakshmi Muthuraj, Madhu Pandey, Murali Krishna, Arnab Ghosh, Raja Sen, Priya Johari*, and Sagar Mitra*, Journal of Power Sources
+486
+, 229326 (2021) (I.F.: 9.127)
+“
+Energy storage performance of 2D MoS2 and carbon nanotube heterojunctions in symmetric and asymmetric configuration
+”, Sithara Radhakrishnan, Sree Raj K A, Susendaran Ravi Kumar, Priya Johari*, and Chandra Sekhar Rout*, Nanotechnology
+32
+, 155403 (2021) (I.F.: 3.874)
+“
+Modulation of electronic and transport properties of bilayer heterostructures: InSe/MoS2 and InSe/h-BN as the prototype
+”, Raja Sen, Kasturie Jatkar, and Priya Johari*, Phys. Rev. B
+101
+, 235425 (2020). (I.F.: 4.036)
+“
+First-Principles Investigation of the 1T-HfTe2 Nanosheet for Selective Gas Sensing
+”, Dwaipayan Chakraborty and Priya Johari*, ACS Appl. Nano. Mater.
+3
+, 5160 (2020). (I.F.: 5.097)
+"
+Synergistic Effect of Singly Charged Oxygen Vacancies and
+Ligand-Field for Regulating Transport Properties of Resistive Switching
+Memories
+", Dip Das, Arabinda Barman, Santosh Kumar, Anil Sinha, Mukul Gupta, Rahul Singhal, Priya Johari*, Aloke Kanjilal*, J. Phys. Chem. C
+123
+, 26812 (2019). (I.F.: 4.126)
+“
+The Study of Higher Discharge Capacity, Phase Transition and Relative Structural Stability in Li2FeSiO4 Cathode upon Lithium Extraction using Experimental and Theoretical Approach and Full-cell Prototype Study
+”, Shivani Singh, Anish Raj, Manas Panda, Raja Sen, Priya Johari*, Anil Sinha, Sher Singh Meena, and Sagar Mitra*, ACS Applied Energy Materials
+2
+, 6584 (2019). (I.F.: 6.024)
+"
+Control of Functionalities in GO: Effect of Bronsted acids as Supported by Ab-initio Simulations and Experiments
+", Nisha Yadav, Vedha Kallur, Dwaipayan Chakraborty, Priya Johari*, and Bimlesh Lochab*, ACS Omega
+4
+, 9407 (2019). (I.F.: 3.512)
+“
+Structure-Property Relationship in an Organic Semiconductor: Insights from Energy Frameworks, Charge Density Analysis and Diode Device
+”, Kunal Kumar Jha, Yogesh Yadav, Shashi B. Srivastava, Dwaipayan Chakraborty, Priya Johari, Samarendra P. Singh, and Parthapratim Munshi*, Crystal Growth & Design
+19
+, 3019 (2019). (I.F.: 4.076)
+“
+Stable 1D-Sn
+2
+X
+3
+(X = S, Se) Nanochains as Promising Material for Opto-Electronic and Thermo-Electronic Devices: A Comparison with 3D-Sn
+2
+X
+3
+”, Raja Sen and Priya Johari*, ACS Applied Materials & Interfaces
+11
+, 12733 (2019). (I.F.: 9.229)
+“
+Enhanced and Faster Potassium Storage in Graphene with Respect to Graphite: A Comparative Study with Lithium Storage
+”, Farjana J. Sonia, Manoj K. Jangid, M. Aslam*, Priya Johari*, and Amartya Mukhopadhyay*, ACS Nano
+13
+, 2190 (2019). (I.F.: 15.881)
+"
+Influence of Pendant Group on Mobility of Organic Thin Film Transistor in Correlation
+with Reorganization Energy of Molecules
+", Kalyani Patrikar, Nakul Jain, Dwaipayan Chakraborty, Priya Johari*, V. Ramgopal Rao and Dinesh Kabra*, Advanced Functional Materials
+29
+, 1805878 (2019). (I.F.: 18.808)
+“
+Kinetics of thermally activated triplet fusion as a function of polymer chain packing in boosting the efficiency of organic light emitting diodes
+”, Amrita Dey,* Naresh Chandrasekaran, Dwaipayan Chakraborty, Priya Johari,* Christopher R. McNeill, Akshay Rao, and Dinesh Kabra,* , npj Flexible Electronics
+2
+, 28 (2018). (I.F.: 12.740)
+“
+Strategical Designing of Donor-Acceptor-Donor Based Organic Molecules for Tuning Their Linear Optical Properties
+", Raja Sen, Samarendra P. Singh, and Priya Johari*, J. Phys. Chem. A
+122
+, 492 (2018). (I.F.: 2.781)
+"
+Understanding the Lithiation of Sn Anode for High Performance Li-ion Batteries with Exploration of Novel Li-Sn Compounds at Ambient and Moderately High Pressure
+", Raja Sen and Priya Johari*, ACS Applied Materials & Interfaces
+9
+, 40197 (2017). (I.F.: 9.229)
+“
+Impact of Cl doping on electrochemical performance in orthosilicate (Li2FeSiO4): A DFT supported experimental approach
+” Shivani Singh, Anish Raj, Raja Sen, Priya Johari*, and Sagar Mitra*, ACS Applied Materials & Interfaces
+9
+, 26885 (2017). (I.F.: 9.229)
+“
+Understanding the Li-storage in few layers graphene with respect to bulk graphite: experimental, analytical, and computational study
+”, Farjana J. Sonia, Manoj K. Jangid, Balakrishna Ananthoju, M. Aslam*, Priya Johari*, and Amartya Mukhopadhyay*, J. Mater. A
+5
+, 8662 (2017). (I.F.: 12.732)
+“
+Rationally Designed Donor-Acceptor Scheme based Molecules for Applications in Opto-Electronic Devices
+”, T. S. Sundar, R. Sen, and Johari*, Phys. Chem. Chem. Phys
+.
+18
+, 9133 (2016). (I.F.: 4.449)
+“
+Dependence of the Structure and Electronic Properties of D–A–D Based Molecules on the D/A Ratio and the Strength of the Acceptor Moiety
+” Johari* and S. P. Singh, J. Phys. Chem. C
+119
+, 14890 (2015). (I.F.: 4.509)
+“
+An Experimental and Computational Study to Understand Lithium Storage Mechanism in Molybdenum Disulphide
+”, U. K. Sen, Johari*, S. Basu, C. Nayak, and S. Mitra*, Nanoscale
+6
+, 10243 (2014). (I.F.: 7.760)
+“
+Li Segregation Induces Structure and Strength Changes at the Amorphous Si/Cu Interface
+”, M. E. Stournara, X. Xiao, Y. Qi, Johari, P. Lu, B. W. Sheldon, H. Gao, and V. B. Shenoy, Nano Letters
+13
+, 4759 (2013). (I.F.: 13.779)
+“
+Tuning the Electronic Properties of semi-conducting Transition Metal Dichalcogenides by Applying Mechanical Strains
+”, Johari* and V. B. Shenoy, ACS Nano
+6
+, 5449 (2012). (I.F.: 13.709)
+“
+The Mixing Mechanism during Lithiation of Si Negative Electrode in Li-ion Batteries: An Ab-Initio Molecular-Dynamics Study
+”, Johari*, Y. Qi, and V. B. Shenoy, Nano Letters
+11
+, 5494 (2011). (I.F.: 13.779)
+“
+Modulating Optical Properties of Graphene Oxide:
+Role of Prominent Functional Groups
+”, Johari* and V. B. Shenoy, ACS Nano
+5
+, 7640 (2011). (I.F.: 13.709)
+“
+Tunable Dielectric Properties of Transition Metal Dichalcogenides
+”, Johari* and V. B. Shenoy, ACS Nano
+5
+, 5903 (2011). (I.F.: 13.709)
+“
+The Structure and Electronic Properties of Graphene on Polycrystalline Ni(111)
+”, J. Sun, J. B. Hannon, A. A. Bol, R. M. Tromp, Johari, V. B. Shenoy, and K. Pohl, ACS Nano
+4
+, 7073 (2010). (I.F.: 13.709)
+“
+Energetics and electronic structure of phenyl-disubstituted polyacetylene: A first-principles study
+”, Sony*, A. Shukla, and C. Ambrosch-Draxl , Phys. Rev. B
+82
+, 035213 (2010). (I.F.: 3.718)
+“
+Elastic softening of amorphous and crystalline Li–Si Phases with increasing Li concentration: A first-principles study
+”, V. B. Shenoy, Johari, and Y. Qi, J. Power Sources
+195
+, 6825 (2010). (I.F.: 6.945)
+“
+A general purpose Fortran 90 electronic structure program for conjugated systems using Pariser–Parr–Pople model
+”, Sony and A. Shukla, Computer Physics Communications
+181
+, 821 (2010). (I.F.: 3.268)
+“
+Large-scale correlated study of excited state absorptions in naphthalene and anthracene
+”, Sony and A. Shukla, J. Chem. Phys.
+131
+, 014302 (2009). (I.F.: 2.894)
+“
+Ab initio Wannier-function-based correlated calculations of Born effective charges of crystalline Li2O and LiCl
+”, Sony and A. Shukla, Phys. Rev. B
+77
+, 075130 (2008). (I.F.: 3.718)
+“
+Importance of Van Der Waals Interaction for Organic Molecule-Metal Junctions: Adsorption of Thiophene on Cu(110) as a Prototype
+”, Sony*, P. Puschnig, D. Nabok, and C. Ambrosch-Draxl, Phys. Rev. Lett.
+99
+, 176401 (2007). (I.F.: 8.839)
+“
+Structural and electronic properties of Mg, Zn, and Cd from Hartree-Fock and density functional calculations including hybrid functionals
+”, U. Wedig, M. Jansen, B. Paulus, K. Rosciszewski, and Sony, Phys. Rev. B
+75
+, 205123 (2007). (I.F.: 3.718)
+“
+Large-scale correlated calculations of linear optical absorption and low-lying excited states of polyacenes: Pariser-Parr-Pople Hamiltonian
+”, Sony and A. Shukla, Phys. Rev. B
+75
+, 155208 (2007). (I.F.: 3.718)
+“
+Ab initio real-space Hartree-Fock and correlated approach to optical dielectric constants of insulators
+”, Sony and A. Shukla, Phys. Rev. B
+73
+, 165106 (2006). (I.F.: 3.718)
+“
+Photoinduced absorption in disubstituted polyacetylenes: Comparison of theory with experiments
+”, Sony and A. Shukla, Phys. Rev. B
+71
+, 165204 (2005). (I.F.: 3.718)
+“
+A correlated study of linear optical absorption in tetracene and pentacene
+”, Sony and A. Shukla, Synth. Met.
+155
+, 316 (2005). (I.F.: 1.829)
+“
+Photoinduced absorption and nonlinear optical properties of disubstituted polyacetylenes: Theory
+”, A. Shukla, and Sony, Synth. Met.
+155
+, 368 (2005). (I.F.: 1.829)
+“
+Ab initio Wannier-function-based many-body approach to Born charges of crystalline insulators
+”, P. Sony and A. Shukla, Phys. Rev. B
+70
+, 241103 ( R ) (2004). (I.F.: 3.718
+
+Invited Lectures, Talks, Conference Presentations:
+“Promising Anode Materials for the Li-ion Batteries: Exploration and Identification from In-silico Studies”, Invited talk at Asian Conference on Electrochemical Power Sources 11, Singapore, 11-14 December 2022.
+"First-principles Density Functional Theory Based Simulations: Electronic and Transport Properties of Potential Materials for the Application in Solar Cells and Sensors", Invited talk at TCAD Based Modelling & Simulation of Advanced Semiconductor Devices, SnIoE, 23 - 31 January 2023.
+Attended Nature Conferences "Breaking Barriers for Gender Equity Through Research", during March 9-10, 2022.
+Attended " "Workshop on Electrochemical Energy Storage: Theory, Experiments, and Applications", organized by ICTP Italy, held via online mode every week during May 5-26, 2022.
+“In-silico study of promising anode materials for Li-ion batteries”, Invited talk at a one-day e-webinar on “Emergent Materials for Energy Storage and Sensing” organized by CSIR-IMMT and SNU on 12 May 2022.
+“Study of Potential Materials for the Technological Advancement”, talk at VAIBHAV Summit in Computational Sciences Vertical and Computational Natural Sciences Horizontal, 23 October 2020.
+“Computationally Predicted Materials for Clean and Efficient Energy Applications”, Priya Johari, Invited talk at “Symposium on Emerging Materials”, SNU, India, held on August 12, 2017.
+“The Unexplored Thermodynamically Stable Li-Sn”, Priya Johari, Invited talk at 10th International Conference on Computational Physics, Macao, held during January 16-20, 2017.
+“The Unexplored Thermodynamically Stable Li-SN Compounds at Ambient and High Pressure”, Priya Johari, Invited talk at IUMRS-ICYRAM2016, Bangalore, held during December 11-15, 2016.
+“Prediction of novel thermodynamically stable lithium-tin binary compounds at ambient and high pressure”, Raja Sen and Priya Johari, Raja Sen selected for oral presentation in APS March Meeting, held during March 13-16, 2017 at New Orleans, Louisiana, USA.
+“A meticulous study of promising anode materials for Li-ion batteries”, invited talk at Indo-US Workshop on Recent Advances in Multiscale, Multiphysics Analysis of Energy Conversion in Li-ion Batteries”, IIT Bombay during June 17-19, 2016.
+“Computationally Predicted Materials for Energy Generation and Storage Devices” P. Johari, invited talk at ICAER 2015, IIT Bombay on December 17, 2015.
+“Novel Materials for Energy Applications: Molecules to Bulk”, P. Johari, Invited talk at “9th USPEX Workshop”, Potiers, France, June 25-30, 2015.
+“Exploring potential materials for opto-electronic and energy applications”, P. Johari, Invited talk at “8th USPEX Workshop”, U. P., India, January 20-24, 2015.
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances:
+“Development of new Mg-S Battery Chemistry and Electrodes through Synthesis, Characterization, and Simulations”, Sagar Mitra, Bimlesh Lochab, and Priya Johari, 74.40 Lakhs (3 Years).
+“Atomistic simulations of hybrid films of two-dimensional materials using ab-initio methods”, Priya Johari, 9 Lakhs (3 Years).

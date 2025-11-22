@@ -1,0 +1,72 @@
+Rakesh Palisetty
+
+Department of Electrical Engineering
+
+Education:
+Ph.D. in Electrical Engineering, IIT Patna, Patna, India, 2019
+MTech. in Very-Large-Scale Integration (VLSI) Design, GITAM University, Visakhapatnam, India, 2013
+BTech. in Electronics and Communication Engineering, SISTAM College of Engineering, JNTU Kakinada, India, 2011
+
+Work Experience:
+Postdoc research associate at university of Luxembourg from March 2021 to December 2023.
+Assistant Professor, Electronics and Communication Engineering Department, KL Deemed to be University, Guntur, India, from August 2019 to November 2020.
+Senior Design Engineer, Redpine Signals Inc., Hyderabad, India, 2019
+
+Research Interests:
+VLSI for baseband wireless communication systems
+VLSI architectures for satellite communication systems
+VLSI architectural design
+Field-programmable gate array (FPGA)-based system design
+Digital Beamforming
+ASIC Implementation
+
+Academic Achievements/Awards:
+Recipient of JRF-SRF during (November 2013 - April 2017) at IIT Patna.
+Recipient of SMDP C2SD Fellowship (May 2017 to February 2019) at IIT Patna.
+
+Memberships:
+Member of IEEE
+IEEE Communication Society (ComSoc) Member.
+IEEE Circuits and Systems Society Membership
+
+Journals:
+R. Palisetty, A. K. Panda and K. C. Ray, "ASIC Implementation of Low PAPR Multidevice Variable-Rate Architecture for IEEE 802.11ah," in IEEE Transactions on Instrumentation and Measurement, vol. 70, pp. 1-10, 2021, Art no. 2002810, (DOI: 10.1109/TIM.2020.3045809).
+R. Palisetty and K. C. Ray, “FPGA Prototype and Real Time Analysis of Multiuser Variable Rate CI-GO-OFDMA”, IEEE Transactions on Instrumentation and Measurement, vol. 67, no. 3, pp. 538-546, March 2018 (DOI: 10.1109/TIM.2017.2783078).
+R. Palisetty and K. C. Ray, “Multi User Variable Rate GO-OFDMA Architecture and its FPGA Prototype, IEEE Systems Journal, vol. 14, no. 2, pp. 2455-2463, June 2020 (DOI: 10.1109/JSYST.2019.2931942).
+R. Palisetty and K. C. Ray, “Oversampled CI-OFDM Baseband Transceiver Architecture and its FPGA Prototype, IETE Journal of Research, Taylor & Francis, 68:2, 1023-1033, July 2019 (DOI: 10.1080/03772063.2019.1634493).
+A. K. Panda, R. Palisetty and K. C. Ray, "High-Speed Area-Efficient VLSI Architecture of Three-Operand Binary Adder," in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 67, no. 11, pp. 3944-3953, Nov. 2020, doi: 10.1109/TCSI.2020.3016275.
+A. Agarwal, V. K. Sinha, R. Palisetty, P. Kumar, K. C. Ray, K. Kumar, and T. Pandey, “Performance Analysis and FPGA Prototype of Variable Rate GO-OFDMA Baseband Transmission Scheme, Wireless Personal Communications, Springer, Vol. 108, no. 2, pp. 785-809, September 2019.
+V Singh, S Solanki, G Eappen, R Palisetty, TX Vu, JC Merlano-Duncan, "On the Performance of Cache-Free/Cache-Aided STBC-NOMA in Cognitive Hybrid Satellite-Terrestrial Networks," in IEEE Wireless Communications Letters, vol. 11, no. 12, pp. 2655-2659, Dec. 2022, doi: 10.1109/LWC.2022.3213367.
+
+Books/Book Chapters:
+Querol J, Kumar S, Kodheli O, Astro A, Duncan J, Gholamian M, Palisetty R, Chatzinotas S, Heyn T, Casati G, Zhao B. , Non-terrestrial network testbeds for 5G and beyond, 2022.
+
+Invited Lectures, Talks:
+Delivered an invited talk on FPGA SYSTEM DESIGN at Post Graduate Department of Electronic Science, Berhampur University, Odisha on January 10, 2023.
+
+Conference Presentations:
+R. Palisetty et al., "Area-Power Analysis of FFT Based Digital Beamforming for GEO, MEO, and LEO Scenarios," 2022 IEEE 95th Vehicular Technology Conference: (VTC2022-Spring), Helsinki, Finland, 2022, pp. 1-5, doi: 10.1109/VTC2022-Spring54318.2022.9861037.
+R. Palisetty et al., " FPGA Implementation of Efficient Beamformer for On-Board Processing in MEO Satellites," IEEE 34th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), Accepted for Publication, 5-8 September 2023 in Toronto, ON, Canada.
+R. Palisetty et al., " FPGA Implementation of Efficient 2D-FFT Beamforming for On-Board Processing in Satellites," IEEE 98th Vehicular Technology Conference: VTC2023-Fall, Accepted for Publication, Hong Kong, 10-13 October 2023.
+R. Palisetty A. K. Panda and K. C. Ray, “Secure OFDM based on Coupled Linear Congruential Generator and its FPGA Prototype”, IEEE International Conference on Information Communication and Signal Processing (ICICSP), pp. 54-58, NTU, Singapore, 2018. DOI:
+10.1109/ICICSP.2018.8549826
+R. Palisetty and K. C. Ray, “Fixed-Point Design of 1024-Point CI-OFDM for DVB-Satellite to Handheld”, Advances in Communication, Devices and Networking, Lecture Notes in Electrical Engineering, chapter no.53, vol 462., pp. 71-76, Springer, Singapore, 2018. https://doi.org/10.1007/978-981-10-7901-6_53
+R. Palisetty, V. K. Sinha, S. Mallick and K. C. Ray, “FPGA prototyping of energy dispersal and improved error efficiency techniques for DVB-satellite standard”, IEEE International Conference on VLSI Systems, Architecture, Technology and Applications (VLSI-SATA), pp. 1-5, Bangalore, India, 2015.
+10.1109/VLSI-SATA.2015.7050493
+J. C. M. Duncan,
+Vu Nguyen Ha
+,
+Jevgenij Krivochiza
+;, R. Palisetty,
+Geoffrey Eappen
+, et al.,"Harnessing the Power of Swarm Satellite Networks with Wideband Distributed Beamforming," 2023 IEEE 34th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), Toronto, ON, Canada, 2023, pp. 1-6, doi: 10.1109/PIMRC56721.2023.10294061.
+VN Ha, Z Abdullah, G Eappen, JCM Duncan, R Palisetty, JLG Rios et al., "Joint Linear Precoding and DFT Beamforming Design for Massive MIMO Satellite Communication," 2022 IEEE Globecom Workshops (GC Wkshps), Rio de Janeiro, Brazil, 2022, pp. 1121-1126, doi: 10.1109/GCWkshps56602.2022.10008605.
+J. A. Vásquez-Peralvo, J. C. M. Duncan, R. Palisetty, V. Singh, G. Eappen and J. L. González-Rios, "Wide-Beamwidth Circular Polarized Antenna for Diversity Combining Applications," 2022 IEEE Globecom Workshops (GC Wkshps), Rio de Janeiro, Brazil, 2022, pp. 1395-1399, doi: 10.1109/GCWkshps56602.2022.10008759.
+A. K. Panda, R. Palisetty and K. C. Ray, "Area-Efficient Parallel-Prefix Binary Comparator," IEEE International Symposium on Smart Electronic Systems (iSES) (Formerly iNiS), Rourkela, India, 2019, pp. 12-16.doi: 10.1109/iSES47678.2019.00016
+
+Peer Review Service:
+IEEE Transactions on Circuits and Systems-I
+EURASIP Journal on Advances in Signal Processing
+IEEE Internet of Things Journal
+Taylor & Francis: International Journal of Electronics
+Elsevier: Digital Signal Processing

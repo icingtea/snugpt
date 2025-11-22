@@ -1,0 +1,581 @@
+Sujit K. Tandel
+School of Natural Sciences
+Department of Physics
+
+Education:
+PhD (Nuclear Physics), University of Mumbai (1998)
+MSc (Physics), University of Mumbai (1994)
+
+Work Experience:
+Senior Professor, Shiv Nadar Institution of Eminence, India (2023 - )
+Affiliate Professor, University of Massachusetts Lowell, USA (2023 - )
+UGC Professor, Centre for Excellence in Basic Sciences (2022 - 2023)
+UGC Associate Professor, Centre for Excellence in Basic Sciences (2014 - 2022)
+Reader-F, Centre for Excellence in Basic Sciences (2011- 2014)
+Scientist, Brookhaven National Laboratory (2009-10)
+Research Scientist and Adjunct Professor, University of Massachusetts Lowell (2006-08)
+Research Associate and Adjunct Professor, University of Massachusetts Lowell (2002-05)
+Lecturer, Department of Physics, University of Mumbai (1998-2002)
+
+Research Interests:
+Spectroscopy of metastable states in transuranic, superheavy elements
+Isomeric states in atomic nuclei arising from different excitation mechanisms
+Diverse nuclear shapes: prolate, oblate and octupole deformed
+Instrumentation and measurement techniques for basic and applied research
+New approaches for multi-parameter data reduction and analysis of nuclear spectroscopic data
+Nuclear model calculations for deformed rare-earth and actinide nuclei
+Exploration of nuclear energy sources across India through gamma-ray spectroscopy
+Identification of chemical composition through x-ray fluorescence studies
+
+Academic Achievements/Awards:
+Nationally selected as UGC Associate Professor: UGC Faculty Recharge Programme
+Council of Scientific and Industrial Research (India): Research Fellowship (NET)
+Board of Research in Nuclear Sciences (India): Research Fellowship
+University Grants Commission (India): Eligibility for Lecturership Award
+Maharashtra State (India): Eligibility for Lecturership Award
+
+National and International Recognition:
+Ongoing research collaborations with Argonne National Laboratory (USA), University of Massachusetts Lowell (USA), Triangle Universities Nuclear Laboratory (USA), University of Jyväskylä (Finland), University of West Scotland (UK), Inter-University Accelerator Centre (India), Tata Institute of Fundamental Research (India), Variable Energy Cyclotron Centre (Kolkata), UGC-DAE Consortium for Scientific Research (Kolkata Centre), IIT-Roorkee and multiple universities across India.
+
+Publications:
+Multi-neutron-hole and core-excited configurations of isomeric states near the doubly-magic 208Pb,
+S.K. Tandel
+,
+European Physical Journal Special Topics (2024)
+Extended level structure of  51Cr with measured mean lifetimes of yrast states in agreement with shell-model calculations, R. Chakrabarti, S. Mukhopadhyay, B. V. John, D. C. Biswas,
+S. K. Tandel
+, L. S. Danu, Y. K. Gupta, B. N. Joshi, G. K. Prajapati, S. Saha, J. Sethi, and R. Palit,
+Physical Review C 109, 064311 (2024)
+Nuclear Structure Studies Using Gamma-Ray Spectroscopy and Digital Signal Processing,
+S.K. Tandel
+,
+Gamma Ray Imaging: Technology and Applications, 1-19, Springer International Publications (2023)
+Coexisting single-particle excitations and octupole correlations in the transitional nucleus 217Ra, Madhu, A. Y. Deo, Khamosh Yadav, Dhananjaya Sahoo, Y. Y. Wang, Y. K. Wang, J. Meng, Saket Suman,
+S. K. Tandel
+, A. Sharma, I. Ahmed, K. Katre, K. Rojeeta Devi, S. Dutt, S. Kumar, Yashraj, S. Muralithar, and R. P. Singh,
+Physical Review C 108, 014309 (2023)
+Evolution of nuclear structure in the neutron-rich 96,97,99Nb isotopes: Evidence for shape coexistence in N=58 99Nb, V. Kumar, R. Chapman, D. O'Donnell, J. Ollier, R. Orlandi, J. F. Smith, K.-M. Spohr, D. A. Torres, P. Wady,
+S. K. Tandel
+, S. J. Freeman, G. de Angelis, N. Marginean, D. R. Napoli, J. J. Valiente-Dobon, S. Aydin, E. Farnea, R. Marginean, D. Mengoni, T. Kroll, and N. Thompson,
+Physical Review C 108, 044313 (2023)
+High-spin spectroscopy in 207At: Evidence of a 29/2+ isomeric state, Khamosh Yadav, A.Y. Deo, Dhananjaya Sahoo, P.C. Srivastava, Saket Suman,
+S.K. Tandel
+, A. Sharma, I. Ahmed, K. Katre, K. Rojeeta Devi, Sunil Dutt, Sushil Kumar, S. Muralithar, R.P. Singh,
+Physical Review C 108, 014309 (2023)
+Emergence of an island of extreme nuclear isomerism at high excitation near 208Pb, S.G. Wahid,
+S.K. Tandel
+, Saket Suman, P.C. Srivastava, Anil Kumar, P. Chowdhury, F.G. Kondev. R.V.F. Janssens, M.P. Carpenter, T. Lauritsen, D. Seweryniak, S. Zhu,
+Physics Letters B 832, 137262 (2022)
+Successive neutron alignments in the yrast, negative-parity band of oblate-deformed 199Tl, Saket Suman,
+S. K. Tandel
+, S. G. Wahid, Manu T., M. Hemalatha, B. Maheshwari, A. K. Jain, P. Chowdhury, R. V. F. Janssens, F. G. Kondev, M. P. Carpenter, T. Lauritsen, D. Seweryniak,
+Physical Review C 106, 024316 (2022)
+Isomers in 203Tl and core excitations built on a five-nucleon-hole structure, V. Bothe,
+S. K. Tandel
+, S. G. Wahid, P. C. Srivastava, Bharti Bhoy, P. Chowdhury, R. V. F. Janssens, F. G. Kondev, M. P. Carpenter, T. Lauritsen, D. Seweryniak, and S. Zhu,
+Physical Review C 105, 044327 (2022)
+Toxic and carcinogenic constituents of jewelry in the Indian retail market determined using x-ray fluorescence, Nishat Rathore and
+S.K. Tandel
+,
+X-Ray Spectrometry 51, 2 (2022)
+Level structure in the transitional nucleus 215Fr, Khamosh Yadav, A. Y. Deo, Madhu, Pragati, P. C. Srivastava,
+S. K. Tandel
+, S. G. Wahid, S. Kumar, S. Muralithar, R. P. Singh, Indu Bala, S. S. Bhattacharjee, Ritika Garg, S. Chakraborty, S. Rai, and A. K. Jain,
+Physical Review C 105, 034307 (2022)
+High-spin spectroscopy in 207At: Evidence of a 29/2 isomeric state, Khamosh Yadav, A.Y. Deo, Dhananjaya Sahoo, P.C. Srivastava, Saket Suman,
+S.K. Tandel
+, A. Sharma, I. Ahmed, K. Katre, K. Rojeeta Devi, Sunil Dutt, Sushil Kumar, S. Muralithar, R.P. Singh, accepted for publication in Physical Review C
+Evolution of nuclear structure through isomerism in 216Fr, Madhu, Khamosh Yadav, A. Y. Deo, Pragati, P. C. Srivastava,
+S. K. Tandel
+, S. G. Wahid, S. Kumar, S. Muralithar, R. P. Singh, Indu Bala, S. S. Bhattacharjee, Ritika Garg, S. Chakraborty, S. Rai, and A. K. Jain,
+Physical Review C 105, 034308 (2022)
+Nanosecond isomers and the evolution of collectivity in stable, even-A Hg isotopes, Saket Suman,
+S. K. Tandel
+, Ankit Kumawat, S. G. Wahid, M. Hemalatha, P. Chowdhury, R. V. F. Janssens, M. P. Carpenter, T. L. Khoo, F. G. Kondev, T. Lauritsen, C. J. Lister, D. Seweryniak, and S. Zhu,
+Physical Review C 103, 014319 (2021)
+Shapes, softness and non-yrast collectivity in 186W, V. S. Prasher, A. J. Mitchell , C. J. Lister, P. Chowdhury, L. Afanasieva, M. Albers, C. J. Chiara, M. P. Carpenter, D. Cline, N. D’Olympia, C. J. Guess, A. B. Hayes, C. R. Hoffman, R. V. F. Janssens, B. P. Kay, T. L. Khoo, A. Korichi, T. Lauritsen, E. Merchan, Y. Qiu, D. Seweryniak, R. Shearman,
+S. K.
+Tandel
+, A. Verras, C. Y. Wu, S. Zhu,
+Physical Review C 104, 044318 (2021)
+Antimagnetic rotation and role of gradual neutron alignment in 103Pd, A.Y. Deo, Khamosh Yadav, Madhu,
+S.K. Tandel
+, R. Kumar,
+European Physical Journal A 57, 126 (2021)
+Metastable states from multinucleon excitations in 202Tl and 203Pb, S. G. Wahid,
+S. K. Tandel
+, Saket Suman, M. Hemalatha, Anurag Patel, Poulomi Roy, A. Y. Deo, Pragati, P. C. Srivastava, Bharti Bhoy, S. S. Bhattacharjee, R. P. Singh, S. Muralithar, P. Chowdhury, R. V. F. Janssens, M. P. Carpenter, T. L. Khoo, F. G. Kondev, T. Lauritsen, C. J. Lister, D. Seweryniak, S. Zhu, S. Rai, A. Sharma,
+Physical Review C 102, 024329 (2020)
+High-resolution energy and fast timing measurements for nuclear spectroscopy using digital signal processing,
+S.K. Tandel
+, D. Negi, S.G. Wahid, S. Suman, A. Patel, P. Roy, M. Hemalatha, D.C. Biswas, M. Venaruzzo, C. Tintori,
+Journal of Instrumentation 15, P08013 (2020)
+Lifetime measurement and shell model description of negative parity states up to band-termination in 49V, S.Mukhopadhyay, D.C.Biswas, L.S.Danu, R.Chakrabarti, U.Garg,
+S.K.Tandel
+, Y.K.Gupta, B.N.Joshi, G.K.Prajapati, B.V.John, S.Saha, J.Sethi, R.Palit,
+Nuclear Physics A 1000 (2020) 121785
+Decay spectroscopy of two-quasiparticle K isomers in 246,248Cm via inelastic and transfer reactions, U. Shirwadkar,
+S. K. Tandel
+, P. Chowdhury, T. L. Khoo, I. Ahmad, M. P. Carpenter, J. P. Greene, R. V. F. Janssens, F. G. Kondev, T. Lauritsen, C. J. Lister, D. Peterson, D. Seweryniak, X. Wang, and S. Zhu,
+Physical Review C 100, 034309 (2019)
+Isomers from intrinsic excitations in 200Tl and 201,202Pb, Poulomi Roy,
+S. K. Tandel
+, Saket Suman, P. Chowdhury, R. V. F. Janssens, M. P. Carpenter, T. L. Khoo, F. G. Kondev, T. Lauritsen, C. J. Lister, D. Seweryniak, S. Zhu,
+Physical Review C 100, 024320 (2019)
+Decoupled and semi-decoupled bands in 197Hg and 199Hg, D. Negi,
+S. K. Tandel
+, P. Chauhan, P. Chowdhury, R. V. F. Janssens, M. P. Carpenter, T. L. Khoo, F. G. Kondev, T. Lauritsen, C. J. Lister, D. Seweryniak, S. Zhu,
+Physical Review C 100, 014329 (2019)
+Structure of odd-A Pt isotopes along the line of stability, S. G. Wahid,
+S. K. Tandel
+, P. Chowdhury, R. V. F. Janssens, M. P. Carpenter, T. L. Khoo, F. G. Kondev, T. Lauritsen, C. J. Lister, D. Seweryniak, S. Zhu, Q. B. Chen, J. Meng,
+Physical Review C 100, 014328 (2019)
+Parity doublet structures in doubly-odd 216Fr, Pragati, A.Y. Deo,
+S. K. Tandel
+, S.S. Bhattacharjee, S. Chakraborty, S. Rai, S.G. Wahid, S. Kumar, S. Muralithar, R.P. Singh, Indu Bala, Ritika Garg, A.K. Jain,
+Physical Review C 97, 044309 (2018)
+Semi-decoupled band and other high-spin band structures in 188Pt, Mukhopadhyay, D. C. Biswas, S. K. Tandel, S. Frauendorf, L. S. Danu, P.N. Prashanth, B. N. Joshi, G. K. Prajapati, B.V. John, Somnath Nag, T. Trivedi, S. Saha, J. Sethi, R. Palit, P. K. Joshi,
+Physical Review C 96, 014315 (2017)
+Configurations and decay hindrances of high-K states in 180Hf, S. K. Tandel, P. Chowdhury, F. G. Kondev, R. V. F. Janssens, T. L. Khoo, M. P. Carpenter, T. Lauritsen, C. J. Lister, D. Seweryniak, S. Zhu, A. Deacon, S. J. Freeman, N. J. Hammond, G. D. Jones, E. F. Moore, J. F. Smith,
+Physical Review C 94, 064304 (2016)
+Population and decay of a K=8- two-quasineutron isomer in 244Pu, S.S. Hota, S. K. Tandel, P. Chowdhury, I. Ahmad, M.P. Carpenter, C.J. Chiara, J.P. Greene, C.R. Hoffman, E.G. Jackson, R.V.F. Janssens, B.P. Kay, T.L. Khoo, F.G. Kondev, S. Lakshmi, S. Lalkovski, T. Lauritsen, C.J. Lister, E.A. McCutchan, K. Moran, D. Peterson, U. Shirwadkar, D. Seweryniak, I. Stefanescu, Y. Toh, S. Zhu,
+Physical Review C 94, 021303(R) (2016)
+Isomers and oblate collectivity at high spin in neutron-rich Pt isotopes,
+S. K. Tandel
+,
+European Physical Journal Web of Conferences 107, 03005 (2016)
+Observation of gamma-band based on two-quasiparticle configuration in 70Ge, M. Kumar Raju, P. V. Madhusudhana Rao, S. Muralithar, R. P. Singh, G. H. Bhat, J. A. Sheikh,
+S.
+K. Tandel
+, P. Sugathan, T. Seshi Reddy, B. V. Thirumala Rao, R. K. Bhowmik,
+Physical Review C 93, 034317 (2016)
+Structure of 132Te : The two-particle and two-hole spectrum of 132Sn, S. Biswas, R. Palit, A. Navin, M. Rejmund, A. Bisoi, M. Saha Sarkar, S. Sarkar, S. Bhattacharyya, D. C. Biswas, M. Caamano, M. P. Carpenter, D. Choudhury, E. Clement, L. S. Danu, O. Delaune, F. Farget, G. de France, S. S. Hota, B. Jacquot, A. Lemasson, S. Mukhopadhyay, V. Nanal, R.G. Pillay, S. Saha, J. Sethi, Purnima Singh, P.C. Srivastava and
+S.
+K. Tandel
+,
+Physical Review C 93, 034324 (2016)
+Isomers and oblate rotation in Pt isotopes: Delineating the limit for collectivity at high spins,
+S. K. Tandel
+, S.G. Wahid, P. Chowdhury, R.V. Janssens, M.P. Carpenter, T.L. Khoo, F.G. Kondev, T. Lauritsen, C.J. Lister, D. Seweryniak, S. Zhu,
+Physics Letters B 750 (2015) 225
+Rotation-aligned isomer and oblate collectivity in 196Pt, S.G. Wahid,
+S.K. Tandel
+, P. Chowdhury, R.V. Janssens, M.P. Carpenter, T.L. Khoo, F.G. Kondev, T. Lauritsen, C.J. Lister, D. Seweryniak, S. Zhu,
+Physical Review C 92 054323 (2015)
+High spin spectroscopy and shape coexistence in 73As, M. Kumar Raju, P.V. Madhusudhana Rao,
+S.
+K. Tandel
+, P. Sugathan, R.P. Singh, S. Muralithar, T. Seshi Reddy, B.V. Thirumala Rao, Jie Meng, Shuangquan Zhang, Jian Li, Q.B. Chen, Bin Qi, R.K. Bhowmik,
+Physical Review C 92, 064234 (2015)
+Spectroscopy of heavy fissionable nuclei,
+S.K. Tandel
+,
+Pramana – Journal of Physics 85(3), 385 (2015)
+Transverse wobbling in 135Pr, J. T. Matta, U. Garg, W. Li, S. Frauendorf, A. D. Ayangeakaa, D. Patel, K. W. Schlax, R. Palit, S. Saha, J. Sethi, T. Trivedi, S. S. Ghugre, R. Raut, A. K. Sinha, R. V. F. Janssens, S. Zhu, M. P. Carpenter, T. Lauritsen, D. Seweryniak, C. J. Chiara, F. G. Kondev, D. J. Hartley, C. M. Petrache, S. Mukhopadhyay, D. Vijaya Lakshmi, M. Kumar Raju, P. V. Madhusudhana Rao,
+S. K. Tandel
+, S. Ray, F. Donau,
+Physical Review Letters 114, 082501 (2015)
+Role of neutrons in the coexistence of magnetic and antimagnetic rotation bands in 107Cd, Deepika Choudhury, R. Palit, P. Singh, J. Sethi, S. Saha, S. Biswas, H. C. Jain, V. Nanal, R. G. Pillay, R. Donthi, S.K. Jadhav, B.S. Naidu, B. Maheshwari, A. K. Jain, S. C. Pancholi, R. P. Singh, S. Mukhopadhyay, D. C. Biswas, L. S. Danu,
+S. K. Tandel
+, L. Chaturvedi, K. Rojeeta Devi, Sukhjeet Singh,
+Physical Review C 91, 014318 (2015)
+K isomers as probes of nuclear structure,
+S. K. Tandel
+,
+American Institute of Physics Conf. Proc. 1609, 157 (2014)
+Coexisting shape- and high-K isomers in the shape transitional nucleus 188Pt, S. Mukhopadhyay, D. C. Biswas,
+S. K. Tandel
+, L. S. Danu, B. N. Joshi, G. K. Prajapati, Somnath Nag, T. Trivedi, S. Saha, J. Sethi, R. Palit, P. K. Joshi,
+Physics Letters B 739, 462 (2014)
+N = 151 Pu, Cm, and Cf nuclei under rotational stress: Role of higher-order deformations, S. S. Hota, P. Chowdhury, T. L. Khoo, M. P. Carpenter, R. V. F. Janssens, Y. Qiu, I. Ahmad, J. P. Greene,
+S. K. Tandel
+, D. Seweryniak, S. Zhu, P. F. Bertone, C. J. Chiara, A. Y. Deo, N. D’Olympia, S. Gros, C. J. Guess, T. Harrington, D. J. Hartley, G. Henning, C. R. Hoffman, E. G. Jackson, F. G. Kondev, S. Lakshmi, T. Lauritsen, C. J. Lister, E. A. McCutchan, K. Moran, C. Nair, D. Peterson, U. Shirwadkar, I. Stefanescu,
+Physics Letters B 739, 13 (2014)
+Evolution of octupole collectivity in 221Th,
+S.K. Tandel
+, M. Hemalatha, A. Y. Deo, S. B. Patel, R. Palit, T. Trivedi, J. Sethi, S. Saha, D. C. Biswas, and S. Mukhopadhyay,
+Physical Review C 87, 034319 (2013)
+Rotational structures and the wobbling mode in 167Ta, D. J. Hartley, R. V. F. Janssens, L. L. Riedinger, M. A. Riley, X. Wang, A. Aguilar, M. P. Carpenter, C. J. Chiara, P. Chowdhury, I. G. Darby, U. Garg, Q. A. Ijaz, F. G. Kondev, S. Lakshmi, T. Lauritsen, A. Ludington, W. C. Ma, E. A. McCutchan, S. Mukhopadhyay, R. Pifer, E. P. Seyfried, U. Shirwadkar, I. Stefanescu,
+S. K. Tandel
+, J. R. Vanhoy, S. Zhu and S. Frauendorf,
+Physical Review C 83, 064307 (2011)
+Search for a 2-quasiparticle high-K isomer in 256Rf, A. P. Robinson, T. L. Khoo, D. Seweryniak, I. Ahmad, M. Asai, B. B. Back, M. P. Carpenter, P. Chowdhury, C. N. Davids, J. Greene, P. T. Greenlees, K. Hauschild,, A. Heinz, R.-D. Herzberg, R. V. F. Janssens, D. G. Jenkins, G. D. Jones, S. Ketelhut, F. G. Kondev, T. Lauritsen, C. J. Lister, A. Lopez-Martens, P. Marley, E. McCutchan, P. Papadakis, D. Peterson, J. Qian, D. Rostron, U. Shirwadkar, I. Stefanescu,
+S. K. Tandel
+, X. Wang, and S. Zhu,
+Physical Review C 83, 064311 (2011)
+Spectroscopy of neutron-rich Pu nuclei, P. Chowdhury, S. Hota, S. Lakshmi,
+S.K. Tandel
+et al.,
+AIP Conference Proceedings 1377, 13 (2011)
+Rotational bands in odd-A Cm and Cf isotopes: exploring the highest neutron orbitals,
+S.K. Tandel
+, P. Chowdhury, S. Lakshmi, U. S. Tandel, I. Ahmad, M.P. Carpenter, S. Gros, R.V.F. Janssens, T.L. Khoo, F.G. Kondev, J.P. Greene, D.J. Hartley, T. Lauritsen, C.J. Lister, D. Peterson, A. Robinson, D. Seweryniak, S. Zhu,
+Physical Review C82, 041301(R) (2010)
+Bridging the nuclear structure gap between stable and super heavy nuclei, D. Seweryniak, T.L. Khoo, I. Ahmad, F.G. Kondev, A. Robinson,
+S.K. Tandel
+, M. Asai, B.B. Back, M.P. Carpenter, P. Chowdhury, C.N. Davids, S. Eeckhaudt, J.P. Greene, P.T. Greenlees, S. Gros, K. Hauschild, A. Heinz, R-D. Herzberg, R.V.F. Janssens, D.G. Jenkins, G.D. Jones, S. Ketelhut, T. Lauritsen, C.J. Lister, A. Lopez-Martens, P. Marley, E.A. McCutchan, T. Nakatsukasa, P. Papadakis, D. Peterson, J. Qian, D. Rostron, I. Stefanescu, U.S. Tandel, X.F. Wang, S.F. Zhu,
+Nuclear Physics A 834 (2010) 357c
+Band crossings in 166Ta, D. J. Hartley, R. V. F. Janssens, L. L. Riedinger, M. A. Riley, X. Wang, A. Aguilar, M. P. Carpenter, C. J. Chiara, P. Chowdhury, I. G. Darby, U. Garg, Q. A. Ijaz, F. G. Kondev, S. Lakshmi, T. Lauritsen, W. C. Ma, E. A. McCutchan, S. Mukhopadhyay, E. P. Seyfried, U. Shirwadkar, I. Stefanescu, S. K. Tandel, J. R. Vanhoy, and S. Zhu,
+Physical Review C 82, 057302 (2010)
+Multi-quasiparticle structures up to spin ~ 44 in the odd-odd nucleus 168Ta, X. Wang, D. J. Hartley, M. A. Riley, L. L. Riedinger, A. Aguilar, M. P. Carpenter, C. J. Chiara, P. Chowdhury, I. Darby, U. Garg, Q. Ijaz, R. V. F. Janssens, F. G. Kondev, S. Lakshmi, T. Lauritsen, W. C. Ma, E. A. McCutchan, S. Mukhopadhyay, E. P. Seyfried, I. Stefanescu,
+S. K. Tandel
+, U. S. Tandel, C. Teal, J. R. Vanhoy, and S. Zhu,
+Physical Review C 82, 034315 (2010)
+Alignments, additivity, and signature inversion in odd-odd 170Ta: A comprehensive high-spin study, A. Aguilar, D. J. Hartley, M. A. Riley, C. Teal, M. P. Carpenter, P. Chowdhury, M. Danchev, M. K. Djongolov, G. B. Hagemann, A. A. Hecht, R. V. F. Janssens, F. G. Kondev, T. Lauritsen, W. C. Ma, W. H. Mohr, E. F. Moore, S. W. Ødegärd, L. L. Riedinger, G. Sletten,
+S.K.Tandel
+, J. R. Vanhoy, X. Wang, and S. Zhu,
+Physical Review C 81, 064317 (2010)
+Wobbling mode in 167Ta, D. J. Hartley,
+R. V. F. Janssens
+,
+L. L. Riedinger
+,
+M. A. Riley
+,
+A. Aguilar
+,
+M. P. Carpenter
+,
+C. J. Chiara
+,
+P. Chowdhury
+,
+I. G. Darby
+,
+U. Garg
+,
+Q. A. Ijaz
+,
+F. G. Kondev
+,
+S. Lakshmi
+,
+T. Lauritsen
+,
+A. Ludington
+,
+W. C. Ma
+,
+E. A. McCutchan
+,
+S. Mukhopadhyay
+,
+R. Pifer
+,
+E. P. Seyfried
+,
+I. Stefanescu
+,
+S. K. Tandel
+,
+U. Tandel
+,
+J. R. Vanhoy
+,
+X. Wang
+,
+S. Zhu
+,
+I. Hamamoto
+, and S. Frauendorf,
+Physical Review C 80, 041304(R) (2009)
+Multi-quasiparticle isomers in 174Lu, F. G. Kondev, G. D. Dracoulis, G. J. Lane, I. Ahmad, A. P. Byrne, M. P. Carpenter, P. Chowdhury, R. V. F. Janssens, T. Kibédi, T. Lauritsen, C. J. Lister, D. Seweryniak,
+S. K. Tandel
+, and S. Zhu,
+Physical Review C 80, 014304 (2009)
+Search for strongly deformed structures and observation of multiple nucleon alignments in 174W,
+S.K. Tandel
+, A.J. Knox, C. Parnell-Lampen, U.S. Tandel, P. Chowdhury, M.P. Carpenter, R.V.F. Janssens, T.L. Khoo, T. Lauritsen, C.J. Lister, D. Seweryniak, X. Wang, S. Zhu, D.J. Hartley, Jing-ye Zhang,
+Physical Review C 77, 024313 (2008)
+Collective oblate rotation at high spins in neutron-rich 180Hf, U. S. Tandel,
+S. K. Tandel
+, P. Chowdhury, S. Sheppard, D. Cline, C. Y. Wu, M.P. Carpenter, R.V.F. Janssens, T.L. Khoo, T. Lauritsen, C.J. Lister, D. Seweryniak, S. Zhu,
+Physical Review Letters 101, 182503 (2008)
+K=8- isomers and K=2- octupole vibrations in N=150 shell-stabilized isotones, A.P. Robinson, T.L. Khoo, I. Ahmad,
+S.K. Tandel
+, F.G. Kondev, T. Nakatsukasa, D. Seweryniak, M. Asai, B.B. Back, M.P. Carpenter, P. Chowdhury, C.N. Davids, S. Eeckhaudt, J.P. Greene, P.T. Greenlees, S. Gros, A. Heinz, R.-D. Herzberg, R.V.F. Janssens, G.D. Jones, T. Lauritsen, C.J. Lister, D. Peterson, J. Qian, U.S. Tandel, X. Wang, S. Zhu,
+Physical Review C 78, 034308 (2008)
+High-K structure in 250Fm and the deformed shell gaps at N=152 and Z=100, P.T. Greenlees, R.-D. Herzberg, S. Ketelhut, P.A. Butler, P. Chowdhury, T. Grahn, C. Gray-Jones, G.D. Jones, P. Jones, R. Julin, S. Juutinen, T.-L. Khoo, M. Leino, S. Moon, M. Nyman, J. Pakarinen, P. Rahkila, D. Rostron, J. Saren, C. Scholey, J. Sorri,
+S.K. Tandel
+, J. Uusitalo, and M. Venhart,
+Physical Review C 78, 021303(R) (2008)
+Collective rotation and vibration in neutron-rich 180,182Hf nuclei, E. Ngijoi-Yogo,
+S.K. Tandel
+, G. Mukherjee, I. Shestakova, P. Chowdhury, C.Y. Wu, D. Cline, A.B. Hayes, R. Teng, R.M. Clark, P. Fallon, A.O. Macchiavelli, K. Vetter, F.G. Kondev, S. Langdown, P.M. Walker, C. Wheldon, D.M. Cullen,
+Physical Review C 75, 034305 (2007)
+Compact, efficient angular correlation measurements with novel, position-sensitive alpha and gamma detectors, P. Chowdhury, S. Lakshmi,
+S.K. Tandel
+et al.,
+2007 IEEE Nuclear Science Symp, 3, 2216 (2007)
+K-isomers in 254No: probing single particle energies and pairing strengths in the heaviest nuclei,
+S.K. Tandel
+, T.L. Khoo, D. Seweryniak, G. Mukherjee, I. Ahmad, B. Back, R. Blinstrup, M.P. Carpenter, J. Chapman, P. Chowdhury, C.N. Davids, A.A. Hecht, A. Heinz, P. Ikin, R.V.F. Janssens, F.G. Kondev, T. Lauritsen, C.J. Lister, E.F. Moore, D. Peterson, P. Reiter, U.S. Tandel, X. Wang, S. Zhu,
+Physical Review Letters 97, 082502 (2006)
+Anomalous Isomeric Decays in 174Lu as a Probe of K mixing and Interactions in Deformed Nuclei, G.D. Dracoulis, F.G. Kondev, G.J. Lane, A.P. Byrne, T.R. McGoram, T. Kibedi, I. Ahmad, M.P. Carpenter, R.V.F. Janssens, T. Lauritsen, C.J. Lister, D. Seweryniak, P. Chowdhury,
+S.K. Tandel
+,
+Physical Review Letters 97, 122501 (2006
+)
+Multiple band structures in 169Ta, D.J. Hartley, W.H. Mohr, J.R. Vanhoy, M.A. Riley, A. Aguilar, C. Teal, R.V.F. Janssens, M.P. Carpenter, A.A. Hecht, T. Lauritsen, E.F. Moore, S. Zhu, F.G. Kondev, M.K. Djongolov, M. Danchev, L.L. Riedinger, G.B. Hagemann, G. Sletten, P. Chowdhury,
+S.K. Tandel
+, W.C. Ma, S.W. Odegard,
+Physical Review C 74, 054314 (2006)
+Decay modes of 250No, D. Peterson, B.B. Back, R.V.F. Janssens, T.L. Khoo, C.J. Lister, D. Seweryniak, I. Ahmad, M.P. Carpenter, C.N. Davids, A.A. Hecht, C.L. Jiang, T. Lauritsen, X. Wang, S. Zhu, F.G. Kondev, A. Heinz, J. Qian, R. Winkler, P. Chowdhury,
+S.K. Tandel
+, U.S. Tandel,
+Physical Review C 74, 014316 (2006)
+Systematics of the shears mechanism in silver isotopes, A.Y. Deo, S.B. Patel,
+S.K. Tandel
+, S. Muralithar, R.P. Singh, R. Kumar, R.K. Bhowmik, S.S. Ghugre, A.K. Singh, V. Kumar, Amita,
+Physical Review C 73, 034313 (2006)
+Observation of states beyond band termination in 156,157,158Er and strongly deformed structures in 173,174,175Hf, M.A. Riley, M.K. Djongolov, A.O. Evans, D.J. Hartley, R.V.F. Janssens, E.S. Paul, A. Pipidis, J. Simpson, A.A. Aguilar, D.E. Appelbe, C.R. Bingham, D.B. Campbell, M.P. Carpenter, P. Chowdhury, P.T.W. Choy, R.M. Clark, M. Cromaz, M. Cromaz, D.M. Cullen, M. Danchev, G.D. Dracoulis, P. Fallon, A. Gorgen, G.B. Hagemann, D.T. Joss, J. Goon, R.A. Kaye, T.L. Khoo, F.G. Kondev, R.W. Laird, K. Lagergren, T. Lauritsen, A.O. Macchiavelli, B. McClain, E.F. Moore, G. Mukherjee, E. Ngijoi-Yogo, P.J. Nolan, H.I. Park, L.L. Riedinger, G. Sletten,
+S.K. Tandel
+, P.M. Walker, D. Ward, I. Ragnarsson, F. Saric, Jing-ye Zhang,
+Physica Scripta T125 (2006) 123
+High-K isomers and rotational structures in 174W,
+S.K. Tandel
+, P. Chowdhury, E.H. Seabury, I. Ahmad, M.P. Carpenter, S.M. Fischer, R.V.F. Janssens, T.L. Khoo, T. Lauritsen, C.J. Lister, D. Seweryniak, Y.R. Shimizu,
+Physical Review C 73, 044306 (2006)
+Detailed high-spin spectroscopy and the search for the wobbling mode in 171Ta, D.J. Hartley, W.H. Mohr, J.R. Vanhoy, M.A. Riley, A. Aguilar, C. Teal, R.V.F. Janssens, M.P. Carpenter, A.A. Hecht, T. Lauritsen, E.F. Moore, S. Zhu, F.G. Kondev, M.K. Djongolov, M. Danchev, L.L. Riedinger, G.B. Hagemann, G. Sletten, P. Chowdhury,
+S.K. Tandel
+, W.C. Ma, S.W. Odegard,
+Physical Review C 72, 064325 (2005)
+Beyond band termination in 157Er and the search for wobbling excitations in strongly deformed 174Hf, M.A. Riley, M.K. Djongolov, A.O. Evans, D.J. Hartley, R.V.F. Janssens, E.S. Paul, J. Simpson, A.A. Aguilar, D.E. Appelbe, C.R. Bingham, D.B. Campbell, M.P. Carpenter, P. Chowdhury, P.T.W. Choy, R.M. Clark, M. Cromaz, D.M. Cullen, M. Danchev, G.D. Dracoulis, P. Fallon, A. Görgen, G.B. Hagemann, D.T. Joss, J. Goon, R.A. Kaye, T.L. Khoo, Filip G. Kondev, R.W. Laird, K. Lagergren, T. Lauritsen, A.O. Macchiavelli, B. McClain, E.F. Moore, G. Mukherjee, E. Ngijoi-Yogo, P.J. Nolan, H.I. Park, A. Pipidis, L.L. Riedinger, G. Sletten,
+S.K. Tandel
+, Philip M. Walker, D. Ward, Ingemar Ragnarsson, F. Sarić, Jing-ye Zhang,
+Journal of Physics G 31, S1735 (2005)
+Wobbling excitations in strongly deformed Hf nuclei?, D.J. Hartley, M.K. Djongolov, L.L. Riedinger, G.B. Hagemann, R.V.F. Janssens, F.G. Kondev, E.F. Moore, M.A. Riley, A. Aguilar, C.R. Bingham, D.B. Campbell, M.P. Carpenter, P. Chowdhury, M. Cromaz, D.M. Cullen, M. Danchev, G.D. Dracoulis, P. Fallon, J. Goon, R.A. Kaye, T.L. Khoo, R.W. Laird, T. Lauritsen, A.O. Macchiavelli, B. McClain, G. Mukherjee, E. Ngijoi-Yogo, H.I. Park, G. Sletten,
+S.K. Tandel
+, P.M. Walker, J.-Y. Zhang,
+Physics Letters B 608, 31 (2005)
+Structure of two-, four-, and six-quasiparticle isomers in 174Yb and K-forbidden decays, G.D. Dracoulis, G.J. Lane, F.G. Kondev, A.P. Byrne, T. Kibedi, H. Watanabe, I. Ahmad, M.P. Carpenter, S.J. Freeman, R.V.F. Janssens, N.J. Hammond, T. Lauritsen, C.J. Lister, G. Mukherjee, D. Seweryniak, P. Chowdhury,
+S.K. Tandel
+,
+Physical Review C 71, 044326 (2005)
+Lifetime measurements in 112Sb, A.Y. Deo,
+S.K. Tandel
+, S.B. Patel, P.V. Madhusudhana Rao, S. Muralithar, R.P. Singh, R. Kumar, R.K. Bhowmik, Amita,
+Physical Review C 71, 017303 (2005)
+Identification of yrast high-K isomers in 177Lu and characterization of 177mLu, G.D. Dracoulis, F.G. Kondev, G.J. Lane, A.P. Byrne, T. Kibedi, I. Ahmad, M.P. Carpenter, S.J. Freeman, R.V.F. Janssens, N.J. Hammond, T. Lauritsen, C.J. Lister, G. Mukherjee, D. Seweryniak, P. Chowdhury,
+S.K. Tandel
+, R. Gramer,
+Physics Letters B 584, 22 (2004)
+K-Mixing and fast decay of a seven-quasiparticle isomer in 179Ta, F.G. Kondev, G.D. Dracoulis, G.J. Lane, I. Ahmad, A.P. Byrne, M.P. Carpenter, P. Chowdhury, S.J. Freeman, N.J. Hammond, R.V.F. Janssens, T. Kibedi, T. Lauritsen, C.J. Lister, G. Mukherjee, D. Seweryniak,
+S.K. Tandel
+,
+European Physical Journal A 22, 23 (2004)
+Rotational bands and non-collective structures in 85Zr,
+S.K. Tandel
+, S.R. Kore, S.B. Patel, S. Muralithar, R.P. Singh and R.K. Bhowmik,
+Physical Review C 65, 054307 (2002)
+Spectroscopy of the neutron deficient 107In,
+S.K. Tandel
+, S.B. Patel, P. Joshi, G. Mukherjee, R.P. Singh, S. Muralithar, P. Das and R.K. Bhowmik,
+Physical Review C 58, 3738 (1998)
+Alignments and new band structures in the doubly odd nucleus 80Rb,
+S.K. Tandel
+, S.B. Patel, R.K. Bhowmik, A.K. Sinha, S.Muralithar and N. Madhavan,
+Nuclear Physics A 632 (1998) 3
+Identification of Delta_nu=2 identical bands in the nuclei 78Kr and 80Rb,
+S.K. Tandel
+, S.B. Patel, R.K. Bhowmik, A.K. Sinha, S.Muralithar and N. Madhavan,
+Physical Review C 56, R2358 (1997)
+High spin spectroscopy of 100Pd,
+S.K. Tandel
+, S.B. Patel, Pragya Das, R.P. Singh and R.K. Bhowmik,
+Zeitschrift fur Physik A 357, 3 (1997)
+
+Book Chapters:
+Nuclear Structure Studies using Gamma-Ray Spectroscopy and Digital Signal Processing, K. Tandel, in
+Gamma Ray Imaging: Technology and Applications (Springer), pp. 1-19 (2023)
+Spectroscopy of K isomers in shell-stabilized, trans-fermium nuclei, K. Tandel, T.L. Khoo, P. Chowdhury, U.S. Tandel, D. Seweryniak, I. Ahmad, A.P. Robinson, F.G. Kondev, P.T. Greenlees, M. Asai, B. Back, P.A. Butler, M.P. Carpenter, C.N. Davids, S. Eeckhaudt, J.P. Greene, S. Gros, A.A. Hecht, A. Heinz, R.D. Herzberg, P. Ikin, R.V.F. Janssens, G.D. Jones, T. Lauritsen, C.J. Lister, E.F. Moore, G. Mukherjee, T. Nakatsukasa, D. Peterson, J. Qian, P. Reiter, X. Wang, S. Zhu, in
+Fission and Properties of Neutron-Rich Nuclei (World Scientific) pp. 105-112 (2008)
+
+Invited Lectures and Talks:
+Core-excited configurations of extreme isomers in Pb and Bi isotopes,
+Nuclear Structure 2024
+, Argonne National Laboratory, USA, July 22-26, 2024
+Search for non-yrast high-K states in proton-rich Hf isotopes,
+Workshop on Digital INGA at VECC
+, Variable Energy Cyclotron Centre, Kolkata, January 4-6, 2023
+Spin and K isomers in heavy and superheavy nuclei,
+DAE-BRNS Symposium on Nuclear Physics 2021
+(orientation programme), Bhabha Atomic Research Centre, Mumbai, November 30, 2021
+Metastable states in Tl and Hg isotopes,
+Workshop on Indian National Gamma Array
+: recent results and future perspectives, organized by Inter-University Accelerator Centre, New Delhi, 28-29 June, 2021
+Selected aspects of nuclear instrumentation and measurement techniques,
+Refresher Course in Applied Physics
+organized by Department of Physics, University of Mumbai and UGC Human Resource Development Center, November 19, 2019
+Isomers and the evolution of structure in Hg, Tl and Pb isotopes,
+International Conference on Recent Issues in Nuclear and Particle Physics
+, February 3-5, 2019, Visva Bharati, Santiniketan, India
+Metastable states and collective phenomena in transplutonium elements,
+DAE-BRNS Symposium on Nuclear and Radiochemistry
+, January 15-19, 2019, Bhabha Atomic Research Centre, Mumbai, India
+Advanced Detector Systems and Signal Processing,
+DAE International Symposium on Nuclear Physics – 2018
+, December 10-14, 2018, Bhabha Atomic Research Centre, Mumbai, India
+Recoil Decay Tagging and Long-Lived Isomers,
+School on Modern Techniques in Nuclear Structure Studies
+, November 12-16, 2018, Inter-University Accelerator Centre, New Delhi, India
+Isomers from multi-nucleon hole configurations near doubly-magic 208Pb,
+International Conference on Frontiers in Gamma-Ray Spectroscopy
+, March 12-14, 2018, Tata Institute of Fundamental Research, Mumbai, India
+In-beam and decay spectroscopy of superheavy nuclei,
+Orientation Programme in DAE-BRNS Symposium on Nuclear Physics
+, December 19-24, 2017, Thapar University, Patiala, India
+Role of quantum shell effects in the stability of superheavy nuclei,
+International Conference on Complex Quantum Systems
+, February 20-23, 2017, Bhabha Atomic Research Centre, Mumbai, India
+Nuclear Structure and Stability of the Heaviest Elements,
+DAE-BRNS National Workshop on Radiochemistry and Applications of Radioisotopes
+, January 16-23, 2017, Mumbai, India
+Oblate Deformation and Metastable States in Pt and Hg Isotopes,
+International Nuclear Physics Conference 2016
+, September 11-16, 2016,
+Adelaide, Australia
+Recoil Decay and Isomer Tagging,
+School on Experimental Techniques in Gamma-Ray Spectroscopy
+, April 25-29, 2016, Inter-University Accelerator Centre, New Delhi, India
+Structure of Pt isotopes along the line of stability,
+International Conference on Recent Trends in Nuclear Structure and Implications in Astrophysics
+, January 4-8, 2016, Puri, India
+Isomers and oblate collectivity at high spin in neutron-rich Pt isotopes,
+International Conference on Nuclear Structure and Related Topics
+, July 14-18, 2015,
+Dubna, Russia
+Octupole collectivity in heavy nuclei,
+International Conference on Frontiers in Gamma Spectroscopy – 2015 (FIG15), Variable Energy Cyclotron Centre
+, February 18-20, 2015, Kolkata, India
+Lecture Series on Conversion Electron Spectroscopy and Heavy Nuclei,
+DST-SERC School on Nuclear Structure
+,
+Tata Institute of Fundamental Research
+, October 5-25, 2014, Mumbai, India
+Spectroscopy of heavy fissionable nuclei,
+International Conference on 75 years of Nuclear Fission
+,
+Bhabha Atomic Research Centre
+, May 8-10, 2014, Mumbai, India
+Lecture Series on Heavy Nuclei, Nuclear Isomers, and Nuclear Shapes in the
+School on Nuclear Structure Physics at Inter-University Accelerator Centre
+, April 21-26, 2014, New Delhi, India
+Configurations and decay hindrances of high-K states in 180Hf,
+Nuclear Structure Physics with Advanced Gamma-Detector Arrays
+, June 10-12 2013,
+Padua, Italy
+Evolution of octupole collectivity in 221Th,
+International Nuclear Physics Conference 2013
+, June 2-7, 2013,
+Florence, Italy
+Nuclear Spectroscopy at the limits of Coulomb stability: A journey towards the highest shells,
+Physics Colloquium at Bhabha Atomic Research Centre
+, May 17, 2013, Mumbai, India
+Octupole correlations in neutron-deficient Th-Pa isotopes,
+INGA User Workshop at Tata Institute of Fundamental Research
+, March 9-11, 2013, Mumbai, India
+Search for octupole structures in 221,223Pa,
+HYRA-INGA Workshop at Inter-University Accelerator Centre
+, September 18-19, 2012, New Delhi, India
+Prolate-to-oblate shape transition and K isomers in neutron-rich A~180 nuclei,
+INGA Workshop at Variable Energy Cyclotron Centre
+, May 22-23, 2012, Kolkata, India
+K isomers as probes of nuclear structure,
+International Conference on Frontiers in Gamma Spectroscopy – 2012 (FIG12)
+, March 5-7, 2012, New Delhi, India
+Lecture Series on Nuclear Moments and Exotic Nuclear Decays,
+DST-SERC School on Nuclear Physics
+, February 2012, Roorkee, India
+Isomer and prompt spectroscopy of transplutonium nuclei,
+DAE Symposium on Nuclear Physics
+, December 26-30, 2011, Vishakapatnam, India
+Generalized band search techniques for high-fold coincidence data and systematic cranked shell model calculations,
+Workshop on High Performance Computing
+, May 24-25, 2011, New Delhi, India
+High-K isomers in heavy nuclei,
+Workshop on Nuclear Physics using LINAC
+, January 21-22, 2011, New Delhi, India
+Spectroscopy of shell-stabilized, trans-plutonium nuclei,
+Workshop on Nuclear Yrast and Near-Yrast Spectroscopy
+, Oct 29-30, 2009, Roorkee, India
+Nuclear spectroscopy at the limits,
+Inter-University Accelerator Centre
+, October 7 2009, New Delhi, India
+Spectroscopy of trans-plutonium nuclei,
+US Nuclear Data Program Meeting,
+November 4-7, 2008,
+Upton, New York, USA
+Rotational bands in odd-A Cm and Cf isotopes: exploring the highest neutron orbitals,
+Nuclear Structure 2008
+, June 3-6, 2008,
+East Lansing, Michigan, USA
+Spectroscopy of K isomers in shell-stabilized trans-fermium nuclei,
+Fourth International Conference on Fission and Properties of Neutron-Rich Nuclei
+, November 11-17, 2007,
+Sanibel, Florida, USA
+Competing shapes and alignments in neutron-rich hafnium nuclei,
+Gordon Research Conference on Nuclear Chemistry
+, June 3-8, 2007,
+New London, New Hampshire, USA
+Multi-quasiparticle states in 254No: K-conservation, single-particle energies and pairing strengths,
+Nuclear Structure '06
+, July 24-28, 2006,
+Oak Ridge, Tennessee, USA
+
+Sponsored Research Projects:
+Research project entitled “Low-Energy Photon Spectroscopy and Internal Conversion Studies” from the Board of Research in Nuclear Sciences, Department of Atomic Energy, with a total grant of INR 24,57,500 (2015-18)
+Salary grants from the University Grants Commission under the Faculty Recharge Programme of over INR 2,00,00,000 (2014-23)
+Start-up grant from the University Grants Commission: INR 6,00,000 (2015-16)
+Research project entitled “Competition between intrinsic and non-axial collective states in Au isotopes” from the Inter-University Accelerator Centre with a total grant of INR 6,75,000 (2018-2021)
+
+Scholarly Services:
+Guided 34 undergraduate and post-graduate students in their research projects, including 7 for their Masters’ dissertations. Additionally, also mentored four PhD students, and two post-doctoral fellows who are now placed in faculty positions.
+External examiner for PhD theses of students from various universities and IITs
+External expert in various selection committees
+Developed the Physics course structure and syllabus at the Centre for Excellence in Basic Sciences (CEBS), Mumbai, India, since 2011-12
+Conception, design, development and instruction of Advanced Nuclear Physics laboratory at CEBS since 2012
+Conceived and designed Statistical Techniques and Applications course for Masters' students from all streams of Sciences
+Instruction of Introductory Nuclear Physics course in India and the US since 1998
+Resource person in Physics refresher courses for college and university teachers
+Member of Physics syllabus committee of the University of Mumbai
+
+Peer Review Service:
+Reviewer for several national and international research journals; awarded certificate of outstanding contribution in reviewing by the editors of Physics Letters B (publisher: Elsevier)
+
+Workshop:
+Conference Organization
+International
+Theme meeting on Nuclear Lifetimes, Transitions and Moments (NLTM2022)
+, February 1-3, 2022, at Variable Energy Cyclotron Centre, Kolkata
+International Conference on Recent Issues in Nuclear and Particle Physics
+, February 3-5, 2019, Visva Bharati, Santiniketan, India (Member of Program Advisory Committee)
+DAE International Symposium on Nuclear Physics – 2018
+, Bhabha Atomic Research Centre, Mumbai, India, December 10-14, 2018;
+Coordinator
+of one-day pre-symposium
+Orientation Programme
+on Advanced Detector Systems and Signal Processing on December 9, 2018
+Workshop on Frontiers in Gamma Ray Spectroscopy (FIG18)
+, Tata Institute of Fundamental Research, Mumbai, India, March 12-14, 2018
+75 years of Nuclear Fission: Present status and future perspectives
+, Bhabha Atomic Research Centre, Mumbai, India, May 8-10, 2014
+National
+DAE-BRNS Symposium on Nuclear Physics
+, Indian Institute of Technology, Roorkee, India, December 7-11, 2024
+DAE-BRNS Symposium on Nuclear Physics
+, Indian Institute of Technology, Indore, India, December 9-13, 2023
+DAE-BRNS Symposium on Nuclear Physics
+, Cotton University, Guwahati, India, December 1-5, 2022
+DAE-BRNS Symposium on Nuclear Physics
+, Bhabha Atomic Research Centre, Mumbai, India, December 1-5, 2021;
+Coordinator
+of one-day pre-symposium
+Orientation Programme
+on Nuclear Isomerism: Commemorating the centenary of discovery
+DAE-BRNS Symposium on Nuclear Physics
+, Lucknow University, December 23-27, 2019
+DAE-BRNS Symposium on Nuclear Physics
+, Thapar University, Patiala, India, December 20-24, 2017; Coordinator of one-day Orientation Programme on Superheavy Element Research on December 19, 2017
+DAE-BRNS Symposium on Nuclear Physics
+, Andhra University, Visakhapatnam, December 26-30, 2011

@@ -2,8 +2,7 @@ Ajoy Kapat
 School of Natural Sciences
 Department of Chemistry
 
-Research Interest
---------------------------------------------------------------------------------
+Research Interest:
 Chemistry of metalloradicals and modern radical chemistry.
 Asymmetric Catalysis (organocatalysis, transition metal catalysis & synergistic catalysis)
 Biomimetic synthesis of biologically active natural products utilizing cascade reactions.
@@ -11,8 +10,7 @@ Insight-driven development of chemical transformations utilizing computational s
 Know more:
 Click here
 
-Education
---------------------------------------------------------------------------------
+Education:
 Period
 Degree
 Institution
@@ -30,8 +28,7 @@ B.Sc in Chemistry (Honours), First Class
 University of Calcutta
 West Bengal, India
 
-Work Experience
---------------------------------------------------------------------------------
+Work Experience:
 07/19-
 ongoing
 Assistant Professor, Department of Chemistry, School of Natural Sciences, Shiv Nadar University, Delhi-NCR
@@ -46,8 +43,7 @@ Postdoctoral Research Fellow, Frick Chemistry Laboratory, Princeton University, 
 09/11-03/12
 Assistant-I, Department of Chemistry and Biochemistry, University of Bern, Switzerland
 
-Awards
---------------------------------------------------------------------------------
+Awards:
 2024,
 International Travel Support (ITS) Scheme (ITS/2024/002192)
 2022,
@@ -75,8 +71,7 @@ ESKAS Scholarship from Swiss Federal Commission
 2005,
 Award of Merit-cum-Means Scholarship from IITM
 
-Journal Publications
---------------------------------------------------------------------------------
+Journal Publications:
 17)
 “
 Efficient Access of Heterocycles Utilising Inherent Carbodicationic Reactivity of Ynone”
@@ -278,8 +273,7 @@ Chem.
 3
 , 49.
 
-Books and Book Chapters (Authored / Edited / Reviewed)
---------------------------------------------------------------------------------
+Books and Book Chapters (Authored / Edited / Reviewed):
 EDITORIAL APPOINTMENTS & REVIEW ACTIVITIES:
 Editorial Board Member,
 Scientific Archives of Dental Sciences
@@ -289,12 +283,10 @@ Certificate of Reviewing from Elsevier as a peer reviewer 2024
 Certificate of Appreciation from the ACS as a peer reviewer 2023
 Certificate of Appreciation from the ACS as a peer reviewer 2022
 
-Working Papers / Monographs / Policy Papers / Case Studies
---------------------------------------------------------------------------------
+Working Papers / Monographs / Policy Papers / Case Studies:
 Not Applicable
 
-Media Articles
---------------------------------------------------------------------------------
+Media Articles:
 Media Coverage of Our Research Work:
 Our recent work on photoinduced radical polymerisation involving hydrogen atom transfer reaction and its application to dental restoration and 3D printing has been covered by a leading media house
 i)
@@ -302,8 +294,7 @@ https://x.com/thebetterindia/status/1926647042098479120
 ii)
 https://www.indiatoday.in/health/story/3d-printing-your-tooth-how-an-indian-breakthrough-has-changed-dentistry-2623310-2024-10-28
 
-Invited Lectures, Talks, Conference Presentations
---------------------------------------------------------------------------------
+Invited Lectures, Talks, Conference Presentations:
 List of Invited Talks:
 Invited Delegate, India Chem 2024, Ministry of Chemicals & Fertilisers, Department of Chemicals & Pharmaceuticals Government of India (October 2024)
 Invited Lecture, ICREST 2024, Jamia Islamia University, Delhi  (July 2024)
@@ -335,8 +326,7 @@ Poster Presentation: Bioanorganisches Symposium 2016, RWTH Aachen, Germany.
 Poster Presentation: 21st International Conference on Organic Synthesis, IIT Bombay, India.
 Poster Presentation: 9th New Year's Symposium 2017, Institute of Organic Chemistry, RWTH Aachen, Germany.
 
-Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances
---------------------------------------------------------------------------------
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances:
 Ongoing:
 Project Title:
 Enantioselective Catalytic Radical Fluorination of Nonactivated C(sp
@@ -372,8 +362,7 @@ Date of Approval:
 End Date:
 17-12-2022
 
-Patents / Copyright (filed / granted)
---------------------------------------------------------------------------------
+Patents / Copyright (filed / granted):
 “
 Nickel-catalysed olefin isomerisation for the preparation of E-alkenes
 ”
@@ -391,6 +380,5 @@ A. Ahmad, G. Mittal,
 A. Kapat*
 PCT/IN2023/050616
 
-Advisory work with NGOs / Government / International Bodies
---------------------------------------------------------------------------------
+Advisory work with NGOs / Government / International Bodies:
 Not Applicable

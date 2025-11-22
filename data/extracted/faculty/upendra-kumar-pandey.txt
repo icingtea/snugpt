@@ -1,0 +1,105 @@
+Upendra Kumar Pandey
+School of Engineering
+Department of Electrical Engineering
+
+Research Interest:
+Device architecturing, evaluation of novel donor acceptor materials for OSC for improved performance & stability, Stability / degradation of OSCs. Perovskite Solar Cells: Study of alternate hole & electron transporting materials for perovskite, Stability / degradation studies in perovskite solar cells. Charge carrier transport and mobility measurements in organic semiconductors. Flexible Electronics
+Know more:
+Click here
+
+Education:
+2011
+Ph.D.
+University of Calabria, Italy
+2005
+M.Tech.
+Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal Madhya, Pradesh, India
+
+Work Experience:
+04/19 ? Present
+Assistant Professor,
+Department of Electrical Engineering, School of Engineering, Shiv Nadar University, Delhi-NCR
+10/13
+04/19
+DST Inspire Faculty Fellow,
+Indian Institute of Science,
+Bangalore, Karnataka, India
+01/13
+09/13
+Post-Doctoral Fellow,
+University of St. Andrews,
+Scotland, United Kingdom
+12/11
+11/12
+Post-Doctoral Fellow,
+University of Calabria,
+Italy
+09/05
+12/08
+Engineer,
+Quantalase Enterprises Pvt. Ltd.,
+Indore, Madhya Pradesh, India
+
+Awards:
+2012
+DST-Inspire Faculty Fellowship (Engineering) from Department of Science & Technology, Govt. of India
+2008 ? 2011
+Ph.D. Scholarship of  Scuola di Dottorato Scienza e Tecnica "Bernardino Telesio" during 2008-2011 in ?Science and Technology of Mesophase & Molecular Materials? from University of Calabria, Italy
+2020
+JACS Young Investigators 2020
+
+Journal Publications:
+1.	Bala, I., Kaur, H., Maity, M., Yadav, R.A.K., De, J., Gupta, S.P., Jou, J.-H., Pandey, U.K., Pal, S.K., Electroluminescent Aggregation-Induced Emission-Active Discotic Liquid Crystals Based on Alkoxy Cyanostilbene-Functionalized Benzenetricarboxamide with Ambipolar Charge Transport, (2022), ACS Applied Electronic Materials, 4 (3), pp. 1163-1174
+
+2.	Sarkar, S.K., Kang, L.J., Pandey, U.K., Luscombe, C.K., Thilagar, P., Triarylborane-BODIPY conjugate: An efficient non-fullerene electron acceptor for bulk heterojunction organic solar cell, (2021),  Solar Energy, 230, pp. 242-249. 
+
+3.	Bala, I., De, J., Gupta, S.P., Pandey, U.K., Pal, S.K., Enabling efficient ambipolar charge carrier mobility in a H-bonded heptazine-triphenylene system forming segregated donor-acceptor columnar assemblies, (2021), Journal of Materials Chemistry C, 9 (27), pp. 8552-8561. 
+
+4.	Dhingra, S., Bala, I., De, J., Gupta, S.P., Pandey, U.K., Pal, S.K., An electron-deficient tris(triazole)-based discotic liquid crystal that exhibits fast electron transport, (2021), Journal of Materials Chemistry C, 9 (17), pp. 5628-5632. 
+
+5.	Rani, K., Pandey, U.K., Sengupta, S., Efficient electron transporting and panchromatic absorbing FRET cassettes based on aza-BODIPY and perylenediimide towards multiple metal FRET-Off sensing and ratiometric temperature sensing, (2021), Journal of Materials Chemistry C, 9 (13), pp. 4607-4618. 
+
+6.	Bala, I., De, J., Gupta, S.P., Singh, H., Pandey, U.K., Pal, S.K., High hole mobility in room temperature discotic liquid crystalline tetrathienoanthracenes, (2020), Chemical Communications, 56 (42), pp. 5629-5632. 
+
+7.	De, J., Bala, I., Gupta, S.P., Pandey, U.K., Pal, S.K., High Hole Mobility and Efficient Ambipolar Charge Transport in Heterocoronene-Based Ordered Columnar Discotics, (2019) Journal of the American Chemical Society, 141 (47), pp. 18799-18805. 
+
+8.	Tarafdar, G., Pandey, U.K., Sengupta, S., Ramamurthy, P.C., Effect of structural isomerism in BODIPY based donor-acceptor co-polymers on their photovoltaic performance, (2019) Solar Energy, 186, pp. 215-224. 
+
+9.	Cheppudira Thimmaiah, P., Panda, A.K., Pandey, U.K., McCague, C., Dutta, P., Bahrami, M., A New Approach to Compute the Porosity and Surface Roughness of Porous Coated Capillary-Assisted Low Pressure Evaporators, (2018) Scientific Reports, 8 (1), art. no. 11708.
+
+10.	Hemaprabha, E., Pandey, U.K., Chattopadhyay, K., Ramamurthy, P.C., Doped silicon nanoparticles for enhanced charge transportation in organic-inorganic hybrid solar cells, (2018) Solar Energy, 173, pp. 744-751. 
+
+11.	Sengupta, S., Pandey, U.K., Dual emissive bodipy-benzodithiophene-bodipy TICT triad with a remarkable Stokes shift of 194 nm, (2018) Organic and Biomolecular Chemistry, 16 (12), pp. 2033-2038. 
+
+12.	Viswanathan, V.N., Rao, A.D., Pandey, U.K., Kesavan, A.V., Ramamurthy, P.C., Molecular-level architectural design using benzothiadiazole-based polymers for photovoltaic applications, (2017) Beilstein Journal of Organic Chemistry, 13, pp. 863-873. 
+
+13.	Alex, S., Basu, B., Sengupta, S., Pandey, U.K., Chattopadhyay, K., Electrodeposition of ?-phase based Cu?Sn mirror alloy from sulfate-aqueous electrolyte for solar reflector application, (2016) Applied Thermal Engineering, 109, pp. 1003-1010. 
+
+14.	Ruiz, C., Pandey, U.K., Termine, R., Garc?a-Frutos, E.M., L?pez-Espejo, G., Ortiz, R.P., Huang, W., Marks, T.J., Facchetti, A., Ruiz Delgado, M.C., Golemme, A., G?mez-Lor, B., Mobility versus Alignment of a Semiconducting ?-Extended Discotic Liquid-Crystalline Triindole, (2016) ACS Applied Materials and Interfaces, 8 (40), pp. 26964-26971. 
+
+15.	Sengupta, S., Pandey, U.K., Athresh, E.U., Regioisomeric donor-acceptor-donor triads based on benzodithiophene and BODIPY with distinct optical properties and mobilities, (2016) RSC Advances, 6 (77), pp. 73645-73649.
+
+Books and Book Chapters (Authored / Edited / Reviewed):
+NA
+
+Working Papers / Monographs / Policy Papers / Case Studies:
+1.	De R., De J., Gupta S. P., Bala, I., Ankita, Tarun, Pandey, U.K.,  Pal, S., Oxadiazole-adorned Heterocoronene Discotics as Ambipolar Organic Semiconductors, (2022), Journal of Materials Chemistry C, Revision Submitted.
+2.	Sharma H., Ankita, Bharadwaj P., Pandey U.K., Das S., Exploring Indeno[2,1-c]fluorene Antiaromatics with Unsymmetrical Disubstitution and Balanced Ambipolar Charge-Transport Properties, (2022), Organic Materials, Revision Submitted.
+3.	Varun V., Rao A.D., Sandeep B. S., Pandey U.K., Urvashi Bothra U., Kesavan A.V., Swathi S.K., Garner S. M. and Ramamurthy P. C., Flexible organic photovoltaics; Willow? Glass; in-situ flexural studies; ageing studies; flexible perovskite solar cells; indoor photovoltaics, (2022) Organic Electronics ; Submitted
+
+Media Articles:
+NA
+
+Invited Lectures, Talks, Conference Presentations:
+1. Delivered a talk on "Perovskite Solar Cells: Status and upcoming 10 Years" as Resource Person in One Week Online workshop on "Research Methodology & Innovations in Electronic Science" held from 3-9 July 2021 at the Department of Electronics, DDU Gorakhpur University, Gorakhpur, Uttar Pradesh.
+2. Delivered an invited talk on ?Perovskite Solar Cells: Current status and upcoming 10 years? for R & D unit of Reliance Industries on June 11, 2021.
+3. Delivered an Oral Talk on ?Mobility Vs Alignment in Organic Semiconductors: A case study of Triindole based Discotic Liquid Crystals? at 26th National Conference on Liquid Crystals organized by Indian Liquid crystal Society at Chitkara University Chandigarh Punjab from Oct. 21-23, 2019.
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances:
+1. DST Inspire Faculty Fellowship from DST Govt. of India, Organic Photovoltaics towards future energy needs! Amount: 35 Lakhs
+
+Patents / Copyright (filed / granted):
+NA
+
+Advisory work with NGOs / Government / International Bodies:
+NA

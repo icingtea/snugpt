@@ -7,7 +7,15 @@ from src.models.chunks import BaseChunk
 from src.chunker import Chunker
 from src.seeder import Seeder
 from src.config import ENV_CONFIG
-from src.models.chunks import FacultyChunk
+from src.models.chunks import FacultyChunk, SchoolEnum, DepartmentEnum
+
+SCHOOL_MAP = {
+    "School of Humanities and Social Sciences": SchoolEnum.SHSS,
+    "School of Engineering": SchoolEnum.SOE,
+    "School of Natural Sciences": SchoolEnum.SNS,
+    "School of Management & Entrepreneurship": SchoolEnum.SME,
+    "Management & Entrepreneurship": SchoolEnum.SME,
+}
 
 
 class FacultySeeder(Seeder):
@@ -30,7 +38,7 @@ class FacultySeeder(Seeder):
             text, convert_to_numpy=True, normalize_embeddings=True
         )
 
-        return [WeeklyMenuChunk(embedding=embedding.tolist(), document=text)]
+        return [FacultyChunk(embedding=embedding.tolist(), document=text)]
 
 
 if __name__ == "__main__":

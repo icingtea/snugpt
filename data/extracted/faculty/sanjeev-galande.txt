@@ -1,0 +1,164 @@
+Sanjeev Galande
+
+Department of Life Sciences
+
+Biography:
+Dr. Galande obtained his PhD in Biochemistry from the Indian Institute of Science in 1996. As a postdoctoral fellow at the Lawrence Berkeley National Laboratory, USA from 1996-2001, he studied cancer biology. Dr. Galande joined the National Centre for Cell Science in Pune, India in 2001 as a senior scientist. In 2010 Dr. Galande joined as a Professor at the Indian Institute of Science Education and Research (IISER Pune). Research in Galande laboratory is focused on studying how the dynamic changes in higher-order chromatin assembly govern gene expression in a spatial and temporal manner. At IISER Pune he led the Centre of Excellence in Epigenetics (CoEE) and assembled a team of scientists to study the evolution of epigenetic mechanisms using multiple model systems. The CoE in Epigenetics focuses on epigenetic modifications underlying variety of biologically important phenomena and their role in gene expression, regeneration, cancer, behavior, aging and evolution. To fulfill these goals Dr. Galande has established a multidisciplinary program engaged at the interface of biochemistry, molecular biology, bioinformatics, cell biology, proteomics and genomics. In June 2021, Dr. Galande joined as the Dean of the School of Natural Sciences at Shiv Nadar University (SNU), Delhi NCR. At SNU, Dr. Galande has initiated the new phase of Centre of Excellence in Epigenetics and continued working on many of the leads obtained in the first phase.
+Dr. Galande was a recipient of the International Senior Research Fellowship from the Wellcome Trust, UK, from 2005-2010, the National Bioscience award in 2006, the Swarnajayanti Fellowship in 2007, the Shantiswaroop Bhatnagar Award in 2010, the GD Birla Award for Scientific Excellence in 2015, and the JC Bose Fellowship in 2019. Dr. Galande is an elected fellow of the Indian Academy of Sciences, the Indian National Science Academy, and the National Academy of Sciences (NASI). Prof. Galande was an honorary associate faculty at the University of Sydney, Australia and a visiting faculty at the University of Turku, Finland. He also served as the Dean, Research and Development at IISER-Pune.
+Lab webpage:
+www.sglabepigenetics.com
+
+Research Areas:
+Role of chromatin architecture in regulation of gene expression
+Regulation of global gene expression during development, differentiation and disease
+Evolution of epigenetic mechanisms
+
+Education:
+Indian Institute Of Science (1989-1995), Biochemistry and Molecular Biology, Ph.D
+University of Poona (1987-1989), Biotechnology, M.Sc.
+Sir Parashurambhau College (1984-1987), Zoology, B.Sc.
+
+Professional Experience:
+Professor and Dean June 2021 – Till date Shiv Nadar University, Delhi NCR
+Professor May 2010-May 2021 Indian Institute of Science Education and Research, Pune
+Scientist F April 2007- April 2010 National Centre for Cell Science NCCS complex, Pune, India
+Scientist E April 2004-March 2007 National Centre for Cell Science NCCS complex, Pune, India
+Scientist D March 2001-March 2004 National Centre for Cell Science NCCS complex, Pune, India
+Postdoctoral Fellow Oct. 1996-Feb. 2001 Lawrence Berkeley National Laboratory University of California Berkeley, CA, USA
+Postdoctoral Fellow Feb. 1996-Sept. 1996 The Burnham Institute La Jolla Cancer Research Center La Jolla, CA, USA
+
+Memberships in Professional Society:
+Elected member of the American Association for Cancer Research, 1999
+Member of American Society for Microbiology (ASM), 2005-2010
+Fellow of the Indian Academy of Sciences, Bangalore, 2010
+Fellow of the Indian National Science Academy, 2012
+Fellow of the National Academy of Sciences, 2017
+
+Awards:
+Recipient of the ‘
+JC Bose Fellowship-2019’
+from DST-SERB.
+Recipient of the ‘
+GD Birla Award-2014
+’ for Scientific Excellence from the KK Birla Foundation, New Delhi.
+Recipient of the ‘
+Shantiswaroop Bhatnagar Award-2010
+’ from the Council of Scientific and Industrial Research (CSIR).
+Recipient of the ‘
+Swarnajayanti Fellowship-2007
+’ from the Department of Science and Technology (DST).
+Recipient of the ‘
+National Bioscience Award for Career Development-2006
+’ from the Department of Biotechnology (DBT).
+
+Journal Publications:
+Mahajan S., Sen S., Sunil A., Srikanth P., Marathe S.D, Shaw K., Sahare M.,
+Galande S
+.
+#
+, and Abraham N.A.
+#
+Knockout of ACE2 receptors lead to morphological aberrations in rodent olfactory centers and dysfunctions associated with sense of smell.
+Frontiers in Neuroscience
+, 17:1180868. doi: 10.3389/fnins.2023.1180868
+Gungi, A., Saha, S., Pal, M. and
+Galande, S
+.
+#
+, 2023. H4K20me1 plays a dual role in transcriptional regulation of regeneration and axis patterning in Hydra.
+Life Science Alliance
+, 6(5).
+https://doi.org/10.26508/lsa.202201619
+.
+Chee, J.M., Lanoue, L., Clary, D., Higgins, K., Bower, L., Flenniken, A., Guo, R., Adams, D.J., Bosch, F., Braun, R.E., Brown, S.D., H.‑J. Genie Chin, Dickinson, M.E., Hsu C.-W., Dobbie M., Gao X.,
+Galande S.
+, Grobler A., Heaney J.D., Herault Y., de Angelis M.H., Mammano F., Nutter L.M.J., Parkinson H., Qin C., Shiroishi T., Sedlacek R., Seong J.-K., Xu Y., The International Mouse Phenotyping Consortium, Brooks B., McKerlie C., Lloyd K.C.K., Westerberg H. and Moshiri A. 2023. Genome-wide screening reveals the genetic basis of mammalian embryonic eye development.
+BMC Biology
+, 21:1-15.
+O'Rourke, M.B., Januszewski, A.S., Sullivan, D.R., Lengyel, I., Stewart, A.J., Arya, S., Ma, R.C.,
+Galande, S
+., Hardikar, A.A., Joglekar, M.V. and Keech, A.C., Jenkins A.J., Molloy M. P., 2023. Optimised plasma sample preparation and LC‐MS analysis to support large‐scale proteomic analysis of clinical trial specimens: Application to the Fenofibrate Intervention and Event Lowering in Diabetes (FIELD) trial.
+PROTEOMICS–Clinical Applications
+, 17: p.2200106.
+Khare, S.P.
+*
+, Madhok, A.
+*
+, Patta, I., Sukla, K.K., Wagh, V.V., Kunte, P.S., Raut, D., Bhat, D., Kumaran, K., Fall, C. and Tatu, U., Chandak G.R., Yajnik C. S.
+#
+,
+Galande, S
+.
+#
+Differential expression of genes influencing mitotic processes in cord blood mononuclear cells after a pre-conceptional micronutrient-based randomised controlled trial: Pune Rural Intervention in Young Adolescents (PRIYA).
+Journal of Developmental Origins of Health and Disease
+, 14: 437–448. doi: 10.1017/S204017442200068X
+Higgins, K., Moore, B.A., Berberovic, Z., Adissu, H.A., Eskandarian, M., Flenniken, A.M., Shao, A., Imai, D.M., Clary, D., Lanoue, L. and Newbigging, S., Nutter L.M.J., Adams D.J., Bosch F., Braun R.E, Brown S.D.M., Dickinson M.E., Dobbie M., Flicek P., Gao X.,
+Galande S
+., Grobler A., Heaney J.D., Herault Y., de Angelis M.H., Chin H.-J. G., Mammano F., Qin C., Shiroishi T, Sedlacek R., Seong J.‑K., Xu Y., The IMPC Consortium, Lloyd K.C.K., McKerlie C., and Moshiri A. 2022. Analysis of genome-wide knockout mouse database identifies candidate ciliopathy genes.
+Scientific Reports
+, 12: p.20791.
+Ankitha Shetty, Subhash Kumar Tripathi, Sini Junttila, Tanja Buchacher, Rahul Biradar, Santosh D Bhosale, Tapio Envall, Asta Laiho, Robert Moulder, Omid Rasool,
+Galande S.
+, Laura L Elo, Riitta Lahesmaa. 2022. A systematic comparison of FOSL1, FOSL2 and BATF-mediated transcriptional regulation during early human Th17 differentiation.
+Nucleic Acids Research
+, 50: 4938-4958.
+Pradhan SJ, Reddy PC, Smutny M, Sharma A, Sako K, Oak MS, Shah R, Pal M, Deshpande O, Dsilva G, Tang Y, Mishra R, Deshpande G, Giraldez AJ, Sonawane M, Heisenberg CP,
+Galande S
+. Satb2 acts as a gatekeeper for major developmental transitions during early vertebrate embryogenesis.
+Nature Communications
+. 2021 Oct 19;12(1):6094. doi: 10.1038/s41467-021-26234-7. PMID: 34667153; PMCID: PMC8526749.
+Ayush Madhok, Sajad Ahmad Bhat, Chinna Susan Philip, Shalini Kashipathi Sureshbabu, Shubhada Chiplunkar,
+Galande S.
+#
+, Transcriptome Signature of Vγ9Vδ2 T Cells Treated With Phosphoantigens and Notch Inhibitor Reveals Interplay Between TCR and Notch Signaling Pathways. 2021.
+Frontiers in Immunology
+12: 660361.
+Rini Shah, Ankita Sharma, Ashwin Kelkar, Kundan Sengupta,
+Galande S
+.
+#
+, A Novel cis Regulatory Element Regulates Human XIST in a CTCF-Dependent Manner. 2021.
+Molecular and Cellular Biology
+41: e00382-20.
+KC Kent Lloyd, David J Adams, Gareth Baynam, Arthur L Beaudet, Fatima Bosch, Kym M Boycott, Robert E Braun, Mark Caulfield, Ronald Cohn, Mary E Dickinson, Michael S Dobbie, Ann M Flenniken, Paul Flicek,
+Galande S.
+, Xiang Gao, Anne Grobler, Jason D Heaney, Yann Herault, Martin Hrabě De Angelis, James R Lupski, Stanislas Lyonnet, Ann-Marie Mallon, Fabio Mammano, Calum A MacRae, Roderick McInnes, Colin McKerlie, Terrence F Meehan, Stephen A Murray, Lauryl MJ Nutter, Yuichi Obata, Helen Parkinson, Michael S Pepper, Radislav Sedlacek, Je Kyung Seong, Toshihiko Shiroishi, Damian Smedley, Glauco Tocchini-Valentini, David Valle, Chi-Kuang Leo Wang, Sara Wells, Jacqueline White, Wolfgang Wurst, Ying Xu, Steve DM Brown. 2020. The Deep Genome Project.
+Genome Biology
+21: 1-6.
+Suyash Naik, Manu Unni, Devanshu Sinha, Shatruhan Singh Rajput, Puli Chandramouli Reddy, Elena Kartvelishvily, Inna Solomonov, Irit Sagi, Apratim Chatterji, Shivprasad Patil
+#
+,
+Galande S
+#
+. 2020. Differential tissue stiffness of body column facilitates locomotion of Hydra on solid substrates.
+Journal of Experimental Biology
+223: jeb232702.
+Indumathi Patta, Ayush Madhok, Satyajeet Khare, Kamalvishnu P Gottimukkala, Anjali Verma, Shilpi Giri, Vishal Dandewad, Vasudevan Seshadri, Girdhari Lal, Jyoti Misra-Sen,
+Galande S
+#
+. 2020. Dynamic regulation of chromatin organizer SATB1 via TCR-induced alternative promoter switch during T-cell development.
+Nucleic Acids Research
+48: 5873-5890.
+Puli Chandramouli Reddy, Akhila Gungi, Suyog Ubhe, Saurabh J Pradhan, Amol Kolte,
+Galande S
+. 2019. Molecular signature of an ancient organizer regulated by Wnt/β-catenin signalling during primary body axis patterning in Hydra.
+Communications Biology
+2: 434.
+Vijaykumar Yogesh Muley, Yusuf Akhter,
+Galande S
+#
+. 2019. PDZ Domains Across the Microbial World: Molecular Link to the Proteases, Stress Response, and Protein Synthesis.
+Genome Biology and Evolution
+11: 644-659.
+Subhash K Tripathi, Tommi Välikangas, Ankitha Shetty, Mohd Moin Khan, Robert Moulder, Santosh D Bhosale, Elina Komsi, Verna Salo, Rafael Sales De Albuquerque, Omid Rasool,
+Galande S
+., Laura L Elo, Riitta Lahesmaa. 2019. Quantitative proteomics reveals the dynamic protein landscape during initiation of human Th17 cell polarization.
+iScience
+11: 334-355.
+
+Books and Book Chapters:
+Books/ chapters: 5
+Research Papers: 93
+General articles: 2
+Patents : 2 (granted) + 1 filed

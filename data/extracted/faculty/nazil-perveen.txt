@@ -1,0 +1,40 @@
+Nazil Perveen
+
+Department of Computer Science and Engineering
+
+Biography:
+Dr Nazil Perveen was a postdoctoral fellow at the University of Manchester (Nov 2022). She received PhD from IIT Hyderabad (2020), an M.Tech from NIT Raipur (2012), and a B.Tech from GGU Central University Bilaspur (2009). She is a University Gold Medalist in both her B.Tech and M.Tech courses. Under the JASSO scholarship, she was a visiting research scholar at Ritsumeikan University and Omron Industries, Japan (2017). She received 3 research excellence awards from IIT Hyderabad for her PhD research work. Her research interests span exploring machine learning methodologies for various healthcare-related applications like facial paralysis and Autism, improving in-cabin car-driving experiences, human behaviour modeling, etc. She volunteered and organized conferences, seminars, and workshops at IIT Hyderabad.
+
+Education Details:
+PhD (Applied ML), IIT Hyderabad, India, May 2020,(CGPA- 8.5)
+M.Tech(CSE), GoldMedalist, NIT Raipur, India, June 2012, (CGPA- 8.5)
+B.E.(CSE), GoldMedalist, Central University, Bilaspur, India, June 2010, (CGPA- 8.4)
+
+Work Experience:
+Postdoctoral fellow at the University of Manchester. Advised by Prof. Timothy. F. Cootes
+Senior System Engineer, Micron Technologies, Hyderabad, India, from 02 Aug 2021 - 04 Nov 2021.
+Distinguished Researcher (Honorary)  at Target India, Bangalore from 15 May 2020- Dec 2022.
+
+Research Interests:
+Applied Machine Learning, Facial behavior Analysis, Healthcare, and Improving in-cabin car drivin experiences of Automobiles.
+
+Awards:
+Institute Gold Medalist both in B.E and M.Tech
+Recipient of the JASSO Scholarship
+Recipient of 2 Institute Research Excellence Award, IITH, 2017 & 2021
+Recipient of Institute Certificate of Appreciation in Research, IITH 2018
+
+Journals Publications:
+Nazil Perveen, D. Roy, and C. K. Mohan, “Facial Expression Recognition in Videos Using Dynamic Kernels,” in IEEE Transactions on Image Processing, vol. 29, pp. 8316-8325, 2020, DOI: 10.1109/TIP.2020.3011846
+Nazil Perveen, D. Roy and C. K. Mohan, “Spontaneous Expression Recognition Using Universal Attribute Model,” in IEEE Transactions on Image Processing, vol. 27, no. 11, pp. 5575-5584, Nov. 2018
+Y. Sravani, Nazil Perveen, C. Vishnu, C. Krishna Mohan, “Fine-grained action recognition using dynamic kernels,” in Pattern Recognition, Volume 122, 2022, 108282, ISSN 0031-3203
+Rajeshreddy Datla, Nazil Perveen, Krishna Mohan C., “Learning scene-vectors for remote sensing image scene classification”, Neurocomputing, Volume 587, 2024, 127679, ISSN 0925-2312, https://doi.org/10.1016/j.neucom.2024.127679.
+
+Book Chapters:
+Perveen, N., Mohan, C.K., Chen, Y.W. (2022). Expression Modeling Using Dynamic Kernels for Quantitative Assessment of Facial Paralysis. In: Bouatouch, K., et al. Computer Vision, Imaging and Computer Graphics Theory and Applications. VISIGRAPP 2020. Communications in Computer and Information Science, vol 1474. Springer, Cham. https://doi.org/10.1007/978-3-030-94893-1_17
+
+Oral Presentations:
+Nazil Perveen, and C. K. Mohan (2020). “Configural representation of facial action units for spontaneous facial expression recognition in the wild,” In Proceedings of the 15th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 4: VISAPP, ISBN 978-989-758-402-2, pages 93-102. DOI: 10.5220/0009099700930102
+Nazil Perveen, C. K. Mohan and Chen, Y. (2020). “Quantitative analysis of facial paralysis using GMM and dynamic kernels,” In Proceedings of the 15th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 5: VISAPP, ISBN 978-989-758-402-2, ISSN 2184-4321, pages 173-184. DOI: 10.5220/0009104801730184
+Nazil Perveen, D. Singh, and C. K. Mohan, “Spontaneous facial expression recognition: A part-based approach,” 2016 15th IEEE International Conference on Machine Learning and Applications (ICMLA), Anaheim, CA, 2016, pp. 819-824. DOI: 10.1109/ICMLA.2016.0147.
+Yenduri, S., Perveen, N. Chalavadi, V. and Mohan, C. (2022). Fine-grained Action Recognition using Attribute Vectors. In Proceedings of the 17th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 5: VISAPP, ISBN 978-989-758-555-5; ISSN 2184-4321, pages 134-143. DOI: 10.5220/0010828700003124

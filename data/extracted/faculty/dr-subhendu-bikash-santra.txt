@@ -1,0 +1,233 @@
+Subhendu Bikash Santra
+
+Department of Electrical Engineering
+
+Education:
+Ph.D (Engg.) in Electrical Engineering [Spl. Power Electronics] 2019-2023 From Department of Electrical Engineering, Jadavpur University, Kolkata, WB, India.
+M.E in Electrical Engineering [Spl. Machine and Drive] 2010-2012 From Department of Electrical Engineering, Jadavpur University, Kolkata, WB, India.
+B.Tech in Electrical Engineering 2006-2010 from Haldia Institute of Technology under Maulana Abul Kalam Azad University of Technology, West Bengal, formerly known as WBUT, WB, India.
+
+Work Experience:
+01/07/2015-20/12/2023—Assistant Professor in School of Electrical Engineering, KIIT Deemed to be University, Odisha, India. [NIRF: 16]
+30/06/2014-29/06/2015—Engineer in Rail Vikas Nigam Limited (Schedule-A PSU under Ministry of Railways Govt. of India).
+
+Research Interests:
+DC–DC converter topologies, High-power-density converter, Control of power converters, and Permanent Magnet Synchronous Motor (PMSM)/Brushless dc motor Motor Drives.
+Know more:
+Click here
+
+Academic Achievements/Awards:
+TARE Fellow SERB Govt. of India.
+Senior Member IEEE
+Best Teaching Faculty Award KIIT-DU in School of Electrical Engineering.
+Associate Editor of International Journal of Power Electronics (Inderscience Publishers-Switzerland)
+Outstanding work award from Rail Vikas Nigam Limited (PSU-Govt. of India) for Joka-BBD Bag Metro Project.
+GATE MHRD Fellowship for M.E. [GATE AIR: 748 in 2013 and AIR: 533 in 2014.]
+
+National and International Recognition:
+International
+:
+Senior Member IEEE
+Associate Editor of the International Journal of Power Electronics (Inderscience Publishers, Switzerland)
+.
+Acts as a reviewer of all reputed IEEE Transactions in Power Electronics and Drives area.
+National
+:
+Acted as a reviewer for reputed IEEE conferences like PESGRE, PEDES, etc.
+TARE Fellow of SERB (Govt. of India).
+
+Memberships:
+Senior Member IEEE, Member of Institute of Engineers (India)
+
+Journals:
+M. Ramana,
+S. B. Santra
+, D. Chatterjee and Y. P. Siwakoti, "Sector Wise Modified Droop Control to Improve Voltage Regulation and Current Sharing in Parallel Boost Converter Interfaced DC Microgrid," in
+IEEE Journal of Emerging and Selected Topics in Power Electronics
+,
+2024 (Early Access)
+doi: 10.1109/JESTPE.2024.3486554.
+(I.F- 4.6)
+SCI Indexed Journals with Impact Factor
+:
+M. Ramana,
+S. B. Santra
+, D. Chatterjee and Y. P. Siwakoti, "Sector Wise Modified Droop Control to Improve Voltage Regulation and Current Sharing in Parallel Boost Converter Interfaced DC Microgrid," in
+IEEE Journal of Emerging and Selected Topics in Power Electronics
+,
+2024 (Early Access)
+doi: 10.1109/JESTPE.2024.3486554.
+(I.F- 4.6)
+1. K. K. Gautam, A. Chatterjee,
+S. B. Santra
+and D. Prasad, "Constant Frequency CC-CV Operation of Isolated LLC Resonant DC-DC Converter Using Switched Capacitor Network for WCS," in
+IEEE Transactions on Power Electronics, 2024 (Early Access)
+doi: 10.1109/TPEL.2024.3453512.
+(I.F-6.6)
+S. R. Biswal, T. R. Choudhury, Subhendu Bikash Santra, B. Panda, S. Mishra and S. Padmanaban, "Simplified Prediction Based AI-IoT Model for Energy Management Scheme in Standalone PV Powered Greenhouse," in IEEE Journal of Emerging and Selected Topics in Industrial Electronics, (
+Early Access-2024
+) doi: 10.1109/JESTIE.2024.3425670.
+“Coupled Inductor based Soft Switched High Gain Bidirectional DC-DC Converter with Reduced Input Current Ripple”,
+Subhendu Bikash Santra
+, Debashis Chatterjee,Yam.P.Siwakoti.
+IEEE Transctions on Industrial Electronics
+vol. 70, no. 2, pp. 1431-1443,
+July 2022 (I.F-6.7).
+“High Efficiency Operation of Brushless DC Motor Drive using Optimized Harmonic Minimization based Switching Technique”,
+Subhendu Bikash Santra
+, Arunava Chatterjee, Debashis Chatterjee, P. Sanjeevikumar, Krishnatreya Bhattacharya
+. IEEE Transctions on Industrial Applications
+vol. 58, no. 2, pp. 2122-2133,
+Feb 2022 (I.F- 4.4).
+“Performance Analysis of Novel Bidirectional DC-DC Converter with LD Based Modified GaN-FET DriverHigh Gain and High Efficiency Bidirectional DC-DC Converter”,
+Subhendu Bikash Santra
+, Makireddi Ramana, Debashis Chatterjee.
+IEEE Transctions on Industry Applications
+vol. 57, no. 5, pp. 5199-5214,
+July 2021 (I.F-4.4).
+“High Gain and High Efficiency Bidirectional DC-DC Converter with Current Sharing Characteristics Using Coupled Inductor.”,
+Subhendu Bikash Santra
+, Debashis Chatterjee,Tsorng-Juu Liang.
+IEEE Transctions on Power Electronics
+vol. 36, no. 11, pp. 12819-12833,
+Nov. 2021 (I.F-6.7).
+“Selection of capacitor in PV system suitable for maximum power point tracking”,
+Subhendu Bikash Santra
+, Debashis Chatterjee, Kundan Kumar, Manuele Bertoluzzo, Ariya Sangwongwanich, Frede Blaabjerg.
+IEEE Journal of Emerging and Selected Topics in Power Electronics
+, vol. 9, no. 2, pp. 2136-2146, April 2021, doi: 10.1109/JESTPE.2020.2986858.
+(I.F-5.5).
+“Generalized Switch Current Stress Reduction Technique for Coupled-Inductor based Single Switch High Step-Up Boost Converter”,
+Subhendu Bikash Santra
+, Debashis Chatterjee, Yam P Siwakoti, Frede Blaabjerg.
+IEEE Journal of Emerging and Selected Topics in Power Electronics
+vol. 9, no. 2, pp. 1863-1875, April 2021, doi:10.1109/JESTPE.2020.2998487.
+(I.F-5.4).
+“A Novel Switch Current Stress Reduction Technique for Single Switch Boost- Fly-back Integrated High Step Up DC-DC Converter”, Tanmoy Roy Choudhury, B.K.Nayak,
+Subhendu Bikash Santra
+,
+IEEE Transaction in Industrial Electronics
+, Vol.66, no.9, pp.6876-6886, Nov.2018.
+(I.F-7.7)
+“Performance analysis of a three-phase propulsion inverter for electric vehicles using GaN semiconductor devices”, Tanmoy Roy Choudhury, K. Kumar,
+Subhendu Bikash Santra
+,
+IEEE Transactions on Industrial Applications
+, Vol.54, no.6, pp.6247-6257, Aug.2018.
+(I.F-4.4).
+Lyapunov based fast terminal sliding mode QV control of grid connected hybrid solar PV and wind system”,
+Subhendu Bikash Santra
+, K.Kumar, P.Biswal, C.K.Panigrahi
+IEEE Access
+, Vol.2018, no.6, pp.39139-39153, June.2018.
+(I.F-3.6)
+Fuzzy logic-based loss minimisation scheme for brushless DC motor drive system”, Tridibesh Nag,
+Subhendu Bikash Santra
+, A. Chatterjee, Debashis Chatterjee, Ashoke K Ganguli
+IET Power Electronics
+, Vol.9, no.8, pp.1581-1589, June.2016. (
+I.F-2.3)
+” Performance Improvement of DC-DC Converter Using L-D Based Modified GaN-FET Driver”, Subhendu Bikash Santra, Aratrika Roy, Tanmoy Roy Choudhury, Debashis Chatterjee, Byamakesh Nayak
+. International Journal of Circuit Theory and Application
+, Vol.48, No. 6, pp. 860-873,
+April.2020. (I.F-2.1).
+“An improved selective harmonics elimination technique for PV assisted single phase grid-tied PWM inverter”, Subhendu Bikash Santra, Subodh Kumar Mohanty.
+COMPEL-The international journal for computation and mathematics in electrical and electronic engineering
+(Emerald Publishing Limited). Vol.39, No. 2, pp. 379-394,
+Jan.2020. (I.F-0.69).
+“A Modified Carrier based PWM Technique for Minimization of Leakage Current in Transformer Less Single Phase Grid Tied PV System”, Subhendu Bikash Santra, Anupam Achrya, Tanmoy Roy Choudhury, Byamakesh Nayak, Chinmoy Kumar Panigrahi.
+Electrical Engineering
+(Springer). Vol. 103, no.1, pp.447-461, Feb. 2021,https://doi.org/10.1007/020-01092-6.
+(I.F-2.18).
+Isolated soft-switched boost DC–DC converter with low-voltage stress and high step-up ratio”,Subhendu Bikash Santra, K.Kumar, S.Mohapatra, Debashis Chatterjee
+IET The Journal of Engineering
+, Vol.2018, no.5, pp.316- 322, July.2018.
+Voltage stress analysis of a single switch high boost converter with mixed CCM-DCM mode useful for snubber design”, T. Roy Choudhury, Byamakesh Nayak,Subhendu Bikash Santra,
+International Journal of Circuit Theory and Application
+, Vol.46, no.11, pp.2098-2117, Nov.2018.
+(I.F-2.1).
+Review of active power control techniques considering the impact of MPPT and FPPT during high PV penetration”, G.C. Mahato, S.R.Biswal, T. R.Choudhury, B. Nayak,
+Subhendu Bikash Santra
+,
+Solar Energy
+, Vol.251, pp.404-419, Feb.2023. (
+I.F-6.7)
+Faulty Phase Identification and Ground Detection in TCSC Compensated Lines Integrated with Wind Farms”, S.Mohanty,Subhendu Bikash Santra,
+International Journal of Electrical Power and Energy System
+, Accepted in Press, July.2023.
+(I.F-5.4)
+Investigation of voltage stress on a single switch boost-fly-back integrated high gain converter with light load condition”, T. Roy Choudhury, Byamakesh Nayak,Subhendu Bikash Santra,
+Ain Shams Engineering Journal
+, Vol.10, no.1, pp.217-226, March.2019.
+(I.F-6)
+
+Invited Lectures, Talks, Conference Presentations:
+Invited Lecture
+:
+Presented a Topic on “Design and Development of Improved Topologies for Microgrid Connected Bidirectional Converter with Energy Storage”, at an event “WORKSHOP ON ELECTRICAL ENGINEERING” on 13
+th
+October 2023, organized by
+Syracuse University Department of Electrical Engineering and Computer Science USA.
+Talks
+:
+Presented a topic on “ DC Microgrid and PMU” in Faculty Development Programme “ INSTILLING OUTLOOK FOR FACULTY EMPOWERMENT” Organized by KIIT-Deemed to be University 21
+st
+- 27
+th
+July 2019.
+Conference Publication
+:
+“Performance Improvement of PV Array by Minimizing Circulating Current through Modified Bypass Arrangement in Partial Shaded Condition” Subhashree Sarangi, Subhendu Bikash Santra, Sanjeet Kumar Dwibedi, Debashis Chatterjee
+, IEEE International conference on “Power Electronics, Smart Grid and Renewable Energy (PESGRE 2020)
+Cochin, Kerala, India, 2-4 January 2020.
+“Design of Bootstrap Capacitor Based GaN-FET driver for Improvement in Transient Performance of DC-DC Converter”, Subhendu Bikash Santra, Aratrika Roy, Debashis Chatterjee, IEEE International conference on “
+Power Electronics, Smart Grid and Renewable Energy (PESGRE 2020)
+Cochin, Kerala, India, 2-4 January 2020.
+Torque Ripple and Loss Minimization of Trapezoidal Brushless DC Motor Drive by Harmonics Current Excitation Switching Technique”, K. Bhattcharyya, Subhendu Bikash Santra,Debashis Chatterjee, Sanjeevikumar. P,
+IEEE International conference on “Power Electronics, Smart Grid and Renewable Energy (PESGRE 2020)
+Cochin, Kerala, India, 2-4 January 2020.
+“Selection of Optimal Capacitor value of PV System for Maximum Power Point Tracking” Subhendu Bikash Santra, Debashis Chatterjee, Shobhan Banerjee Kundan Kumar, Manuele Bertoluzzo. 2018
+IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES-2018), IIT-Madras
+, India, Dec- 2018.
+“Generation of PWM Schemes for Power Electronic Converters”, Subhendu Bikash Santra, K Bhattcharya, Tanmoy Roy Choudhury, Debashis Chatterjee, 2018
+20th National Power Systems Conference (NPSC-2018), NIT-Trichy
+, India, Dec-2018.
+“Current Mirror Curcuit Based Low Cost Lead Acid Battery Charger for Solar PV”, Nasim Parvez, Anindya Das, Subhendu Bikash Santra.
+2018 8th IEEE India International Conference on Power Electronics (IICPE- 2018) MNIT Jaipur
+, India, Dec-2018.
+“Non Symmetrical Ground Grid Design Technique for Elevated Metro Station-A Case Study”, Subhendu Bikash Santra, Sukanya Dutta,kundan kumar, Debashis Chatterjee,
+14th IEEE India Council International Conference 2017 (INDICON-2017) at IIT Roorkee
+, India, Dec-2017.
+“Stability analysis and control of hybrid solar and wind system through NI C-RIO”, Subhendu Bikash Santra, Sameer Kumar Behera, C.K.Panigrahi,
+2016 IEEE 7th India International Conference on Power Electronics (IICPE-2016)
+ISBN: 978-1-5090-4530-3/16/.
+“Design of a Novel Non-Isolated Boost Converter for Renewable Energy System.” Subhendu Bikash Santra, Mukesh Kumar Sahu, Debashis Chatterjee,
+2016 IEEE 7th India International Conference on Power Electronics (IICPE-2016)
+ISBN: 978-1-5090-4530-3/16/.
+
+Sponsored Research Projects:
+Ongoing Project
+:
+DST-SERB Project-Govt. of India | SERB-TARE-2022:
+18.3
+Lakhs [
+Dec-2021-Dec-2024
+],
+Research Grant from DST-GOI (TARE Fellow:
+Title: Development of GaN-FET Based high efficiency Bidirectional DC-DC Converter with zero input current ripple for PV application
+.).
+
+Editorial /Review Work::
+Associate Editor of International Journal of Power Electronics (Inderscience Publishers-Switzerland)
+Reviewer of IEEE Transactions on Power Electronics
+Reviewer of IEEE Transactions on Industry Applications
+Reviewer of IEEE Transactions on Industrial Electronics
+Reviewer of IEEE Transactions on Vehicular Technology.
+IET Power Electronics
+International Journal of Circuit Theory and Applications.
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances::
+Ongoing Project:
+DST-SERB Project-Govt. of India|SERB-TARE-2022-   18.3 Lakhs
+[Dec-2021-Dec-2024]
+Research Grant from DST-GOI (TARE fellow: Title: Development of GaN-FET Based high efficiency Bidirectional DC-DC Converter with zero input current ripple for PV application.)

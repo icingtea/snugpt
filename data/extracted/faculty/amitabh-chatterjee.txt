@@ -2,31 +2,24 @@ Amitabh Chatterjee
 School of Engineering
 Department of Electrical Engineering
 
-Research Interest
---------------------------------------------------------------------------------
+Research Interest:
 Modeling and Simulation of Semiconductor Devices and Circuits
 
-Education
---------------------------------------------------------------------------------
+Education:
 Integrated M.Tech., IIT Bombay
 Ph.D., Electrical Engineering, University of California, Santa Barbara
 
-Work Experience
---------------------------------------------------------------------------------
+Work Experience:
 Scientist, RRCAT - Indore Researcher, Intel Corporation, USA Researcher, TSMC, Taiwan Co-founder, Femto-metrix, CA, USA
 
-Awards
---------------------------------------------------------------------------------
+Awards:
 University of California, Regent Fellowship
 
-Journal Publications
---------------------------------------------------------------------------------
+Journal Publications:
 Analysis, Design, and Development of a Focusing Magnet DC Power Supply Based on LLC Resonant Converter Topology [Under Review], Review of Scientific Instruments.
 
-Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances
---------------------------------------------------------------------------------
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances:
 Workshop TCAD Simulation - SERB, 5 Lacs
 
-Patents / Copyright (filed / granted)
---------------------------------------------------------------------------------
+Patents / Copyright (filed / granted):
 Patent filed

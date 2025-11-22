@@ -1,0 +1,55 @@
+Somya Singh
+School of Natural Sciences
+Department of Mathematics
+
+Research Interest:
+Interacting Reinforced Stochastic Processes, Urn Models, Random Graphs, Social/Contagion Networks, Opinion Dynamics, Markov Processes
+
+Education:
+2018 -2023: Ph.D. in Mathematics, Queen’s University, Canada
+2013-2018: B.S-M.S Dual Degree in Mathematics, IISER Mohali, India
+
+Work Experience:
+September 2024-July 2025: Postdoctoral Researcher, IIT Bombay, India
+October 2023-July 2024: Postdoctoral Researcher, UC Louvain, Belgium
+
+Awards:
+Institute Post-Doctoral Fellowship, IIT Bombay 2024-2025.
+Norman and Grace Miller Graduate Fellowship 2020-2021.
+Queen’s Graduate Award 2018-2023.
+Inspire Scholarship (SHE) 2013-2018.
+
+Journal Publications:
+S.Singh, F. Alajaji, and B. Gharesifard, “
+Generating preferential attachment graphs
+via a Pólya urn with expanding colors
+", Network Science, vol. 12, no. 2, pp. 139- 159, 2024.
+S.Singh, F. Alajaji, and B. Gharesifard, “
+A finite memory interacting Pólya conta-
+gion network and its approximating dynamical systems
+", SIAM Journal on Control and Optimization, vol. 60, no. 2, pp. 347-369, 2022.
+S.Singh, F. Alajaji and B. Gharesifard, “
+Consensus using a network of finite mem-
+ory Pólya urns
+", in IEEE Control Systems Letters, vol. 6, pp. 2780-2785, 2022.
+
+Invited Lectures, Talks, Conference Presentations:
+Symposium on Probability Theory, 39th Annual Conference of Ramanujan Mathe- matical Society, Bangalore, India, December 2024.
+Departmental Colloquium, ICTEAM, Université catholique de Louvain, Louvain- La-Neuve, Belgium, September 2023.
+Consensus using a network of finite memory Pólya Urns, 61th IEEE Conference on Decision and Control (CDC), Cancun, Mexico, December, 2022.
+Interacting networks of finite memory Pólya urns, IISER Mohali, India, November, 2022 (Invited talk).
+Modeling network contagion via interacting finite memory Pólya urns, International Symposium on Information Theory (ISIT), Aalto University, Finland, 2022.
+A finite memory interacting Pólya contagion network and its approximating dynam- ical systems, 59th IEEE Conference on Decision and Control (CDC), December, 2020 (Invited talk).
+Conference Proceedings
+S.Singh and R. M. Jungers, “
+Using symbolic dynamics to compare path-complete
+Lyapunov functions
+”, 63nd IEEE Conference on Decision and Control (CDC), Mi- lan, Italy, 2024.
+S.Singh, F. Alajaji and B. Gharesifard,“
+Modeling network contagion via interacting
+finite memory Pólya urns
+”, IEEE International Symposium on Information Theory (ISIT), pp. 348-353, 2022.
+
+Peer Review Service:
+SIAM Journal on Control and Optimization Automatica
+IEEE Conference on Decision and Control (CDC) European Control Conference (ECC)

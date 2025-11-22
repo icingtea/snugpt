@@ -1,0 +1,370 @@
+Debdas Ray
+School of Natural Sciences
+Department of Chemistry
+
+Research Interest:
+Ray’s research group explores innovative organic donor-acceptor conjugates to advance energy harvesting and adaptive materials for OLEDs, data security, and sensors. By leveraging synthetic chemistry, spectroscopic tools, and quantum calculations, they control molecular conformation and aggregation. This focus leads to photophysical properties such as white light emission, triplet harvesting, and multi-photon processes. Their work produces materials with bright potential for future WOLEDs, photon conversion, and energy devices. They also create emitters as photo-switches for data security, solar storage, and memory. Extending their research into macrocyclic systems opens new paths in sensing and photocatalysis, pushing forward advancements in material science.
+Know more:
+Click here
+
+Education:
+2008
+,
+Ph.D., Indian Institute of Technology Kanpur
+2002
+,
+M.Sc., Calcutta University
+2000
+,
+B.Sc., Thakur Pukur Vivekananda College, Calcutta University
+
+Work Experience:
+2009-2011
+Postdoctoral Research Fellow, University of Bordeaux, France
+2011-2012
+Postdoctoral Research Fellow, Dartmouth College, Hanover, New Hamshire, USA
+2012-2013
+Postdoctoral research Fellow, National Institute for Materials Science (NIMS), Japan
+
+Awards:
+2025
+Editorial Board Member of Communications Chemistry (Nature Portfolio)
+2024
+CRS Bronze Medal Member of the Royal Chemical Society (MRSC)
+2023
+Member of the National Academy of Sciences (MNASc) CAS Innovator Award, ACS
+2025-2027
+, Research grant of ~60 Lakhs (INR) from ANRF, India
+2022-2025
+, Research grant of ~36 Lakhs (INR) from SERB-DST, India
+2024-2024
+, Conference grant of Rs. 3.5 Lakhs from SERB-DST, India
+2021-2023
+, Research grant of ~40 Lakhs (INR) from SERB-DST, India
+2015-2018
+, Research grant of ~26 Lakhs (INR) from SERB-DST, India
+2016-2020
+, Research grant of ~50 Lakhs (INR) (Four year) from SERB-DST, India
+2018-2020
+, Research grant of ~25 Lakhs (INR) from BRNS-DAE, India
+2017
+, Reviewer of International journals published by Nature, Wiley, ACS, Elsevier, RSC etc.
+2016
+, Reviewer of Science and Engineering Research Board (SERB), India
+2016
+, Featured in 'Faculty in Spotlight' of Shiv Nadar University
+2012-2013
+, Postdoctoral fellowship at the National Institute of Materials Science, Japan
+2011-2012
+, Postdoctoral fellowship at Dartmouth College, New Hampshire, USA
+2009-2011
+, Postdoctoral fellowship at the Bordeaux University, France
+2005-2008
+, Senior Research Fellowship, Council of Scientific and Industrial Research, India
+2002-2005
+, Junior Research Fellowship, Council of Scientific and Industrial Research, India
+
+Journal Publications:
+M. Upadhyay, R. Deka and
+D. Ray*
+, Charge transfer alteration and white light emission in photochromic triphenylamine-norbornadiene-triazine switch,
+Chem. Commun
+.,
+2025
+,
+61
+, 9674-9677. (Open access) (Q1, Nature Index)
+M. Upadhyay,
+D. Ray*
+, Regulation of aggregation-enhanced thermally activated delayed fluorescence in butterfly-shaped donor–acceptor conjugates,
+Chem. Commun
+.
+2025
+,
+61
+, 5015-5018. (Open access) (Q1, Nature Index)
+N. Acharya, R. Deka, M. Upadhyay,
+D. Ray*
+, Effect of Thermally Reversible Conformers on Delayed Fluorescence and Temperature Sensing,
+J. Phys. Chem. C
+.,
+2024
+,
+128
+, 8750–8758. (Special Issue on TADF, Invited article). (Q1)
+M. Upadhyay, R. Deka,
+D. Ray*
+, Carbazole-Benzonitrile-Norbornadiene Conjugates for Photo-thermally Reversible Ambient Phosphorescence,
+J. Phys. Chem. Lett
+.
+2024
+.
+15
+, 3191-3196. (Q1, Nature Index)
+S. Dey, R. Deka, M. Upadhyay, P. Sreerang, D. Ray*, White Light Emission via Dual Thermally Activated Delayed Fluorescence from a Single-Component Phenothiazines-Diphenyl Quinoline Conjugate,
+J. Phys. Chem. Lett
+.
+2024
+,
+15
+, 3135-3141. (Q1, Nature Index)
+R. Deka, S. Dey, M. Upadhyay, S. Chawla,
+D. Ray*
+, Conformational Effect of Catechol-Terephthalonitrile Emitters Leading to Ambient Violet Phosphorescence,
+J. Phys. Chem. A
+2024
+,
+128
+, 581–589. (Q2)
+S. Dey, A. K. Pal, M. Upadhyay, A. Datta, and
+D. Ray*
+, Modulation of Delayed Fluorescence Guided by Conformational Effect-Mediated Thermally Enhanced Phosphorescence in Phenothiazines–Quinoline–Cl Conjugates,
+J. Phys. Chem. B
+2023
+,
+127
+, 9833–9840. (Q1)
+S. Karmakar, R. Deka, S. Dey,
+D. Ray*
+, Accessing blue-room-temperature phosphorescence from pyridine-fused extended coumarins,
+J. Lumin
+.
+2023
+, 263, 120029. (Q2)
+N. Acharya, M. Upadhyay, S. Dey,
+D. Ray*
+, White Light Emission Achieved by Dual-TADF in a Single Emissive Layer of Multicomponent Emitters,
+J. Phys. Chem. C
+2023
+,
+127
+, 7536–7545. (Q1)
+S. Karmakar, S. Dey, M. Upadhyay,
+D. Ray*
+, Charge Transfer Triplet Energy Harvesting via Aggregate Induced Phosphorescence in Phenoxazine-Quinoline Conjugates.
+ACS Omega
+2022
+,
+7
+, 16827–16836. (Open Access) (Q2)
+S. Dey, M. Hasan, A. Shukla, N. Acharya, M. Upadhyay, S.-C. Lo, E. B. Namdas, D. Ray*,  "Thermally Activated Delayed Fluorescence and Room-Temperature Phosphorescence in  Asymmetric Phenoxazine-Quinoline (D2–A) Conjugates and Dual Electroluminescence",  J. Phys. Chem. C. 2022, 126, 5649–5657.(Q1)
+N. Acharya, S. Dey, R. Deka, D. Ray*, "Molecular-Level Understanding of Dual-RTP via  Host- Sensitized Multiple Triplet-to-Triplet Energy Transfers and Data Security Application", ACS Omega 2022, 7, 3722-3730.(Open Access) (Q2)
+N. Acharya, M. Hasan, S. Dey, S.-C. Lo, E. B. Namdas, D. Ray*, "Phenothiazine-Quinoline  Conjugates Realizing Intrinsic TADF and RTP:Understanding the Mechanism and Electroluminescence Devices", Adv. Photonics Res. 2021, 2000201.(Open Access) (Q2)
+H. Bhatia, S. Dey, D. Ray*, "Effect of π···π Interactions of Donor Rings on Persistent Room- Temperature Phosphorescence in D4–A Conjugates and Data Security Application", ACS Omega 2021, 6, 3858-3865.(Open Access) (Q2)
+H. Bhatia, D. Ray*, "Asymmetric-Donors(D2D′2)- Acceptor(A) Conjugates for Accessing  Simultaneous Intrinsic Blue-RTP and Blue-TADF", Mat. Adv.2020, 1, 1858-1865.(Open Access) (Q1)
+S. Karmakar, D. Ray*, "Synthesis, optical properties, acid-base vapochromism and anti- counterfeiting of novel π-extended pyridine fused coumarins", J. Lumin. 2020, 223, 117229.(Q2)
+H. Bhatia, D. Ray*, Use of Dimeric Excited Staes of the Donors in D4-A Systems for  Accessing White Light Emission, Afterglow, and Invisible Security Ink", J. Phys. Chem. C  2019, 123, 22104-22113.(Q1)
+I. Bhattacharjee, N. Acharya, D. Ray*, "Thermally activated delayed fluorescence and  room-temperature phosphorescence in naphthyl appended carbazole-quinoline  conjugates, and their mechanical regulation", Chem. Commun., 2019, 55, 1899-1902.(Q1, Nature Index)
+I. Bhattacharjee, N. Acharya, S. Karmakar, D. Ray*, "Room-temperature Orange-Red Phosphorescence by Way of Intermolecular Charge Transfer in Single-Component Phenoxazine-Quinoline Conjugates and Chemical Sensing", J. Phys. Chem. C 2018, 122, 21589-21597.(Q1)
+H. Bhatia, I. Bhattacharjee, D. Ray*, "Biluminescence via Fluorescence and Persistent Phosphorescence in Amorphous Organic Donor (D4)-Acceptor(A) Conjugates and Application in Data Security Protection", J. Phys. Chem. Lett., 2018, 9, 3808-3813.(Q1, Nature Index)
+I. Bhattacharjee, N. Acharya, H. Bhatia, D. Ray*, "Dual Emission through Thermally Activated Delayed Fluorescence and Room-Temperature Phosphorescence, and Their Thermal Enhancement via Solid-State Structural Change in a Carbazole-Quinoline Conjugate", J. Phys. Chem. Lett., 2018, 9, 2733-2738.(Citation >100; Q1, Nature Index)
+I. Bhattacharjee, N. Ghosh, A. Raina, J. Dasgupta, D. Ray*, Conformational switching via an intramolecular H-bond modulates the fluorescence lifetime in a novel coumarin-imidazole conjugate", Phys. Chem. Chem. Phys. 2018, 20, 6060-6072.(Cover page) (Q1)
+J. T. Foy, D. Ray, I. Aprahamian, "Regulating signal enhancement with coordination- coupled deprotonation of a hydrazone switch", Chem. Sci., 2015, 6, 209-213.(Q1, Nature Index)
+D. Ray, J. T Foy, R. P. Hughes, I. Aprahamian, "A Switching cascade of hydrazone-based rotary switches through coordination-coupled proton relays", Nat. Chem., 2012, 4, 757-762.(Q1, Nature Index)
+G. Raffy,
+D. Ray
+, C.-C. Chu, A. D. Guerzo, D. M. Bassani, Effect of Hydrogen-Bonding on the Excited-State Reactivity of Fullerene Derivatives and their Impact on the Control of the Emission Polarization from Single Crystals,
+Phys. Chem. Chem. Phys
+.
+2012
+,
+14
+, 8859-8865. (Q1)
+G. Raffy,
+D. Ray
+, C.-C. Chu, A. D. Guerzo, D. M. Bassani, Controlling the third property of light: Towards photopolic materials,
+Angew. Chem. Int. Ed
+.
+2011
+,
+50
+, 9584-9588. (Hot Article) (Q1, Nature Index)
+D. M. Bassani, D. Ray, C.-K. Liang, B. Fabre, F. Hui, P. Hapiot, Anthracene- and anthracene:C60 adduct- terminated monolayers covalently bound hydrogen terminated silicon surfaces,
+J. Phys. Chem
+. C
+2011
+,
+115
+, 14786-14796. (Q3)
+D. Ray
+, C. Liang, N. D. McClenaghan, D. M. Bassani, Organic and Supramolecular Materials for LED and Photovoltaic Applications,
+Current Physical Chemistry
+2011
+,
+1
+, 169-180. (Q2)
+D. Ray
+, C. Belin, F. Hui, B. Fabre, P. Hapiot, D. M. Bassani, Direct formation of fullerene monolayers using [4+2] Diels-Alder cycloaddition,
+Chem. Commun
+.
+2011
+,
+47
+, 2547-2549. (Q1, Nature Index)
+C.-C. Chu, G. Raffy,
+D. Ray
+, A. D. Guerzo, B. Kauffmann, G. Wantz, L. Hirsch, D. M. Bassani, Self-assembly of supramolecular fullerene ribbons via hydrogen-bonding interactions and their impact on fullerene electronic interactions and charge carrier mobility,
+J. Am. Chem. Soc
+.
+2010
+,
+132
+, 12717-12723. (Q1, Nature Index)
+D. M. Bassani, L. Jonusauskaite, N. D. McClenaghan, J.-L. Pozzo,
+D. Ray
+, G. Vives, Harnessing supramolecular interactions in organic solid-state devices: current status and future potential,
+Coord. Chem. Rev
+.
+2010
+,
+254
+, 2429-2445. (Q1)
+D. Ray
+, A. Nag, A. Jana, D. Goswami, P. K. Bharadwaj, Coumarin Derived Chromophores in the donor-acceptor-donor format that gives fluorescence enhancement and large two-photon activity in presence of specific metal ions,
+Inorganica Chimica Acta
+2010
+,
+363
+, 2824-2832. (Q2)
+D. Ray
+, A. Nag, D. Goswami, P. K. Bharadwaj, Acyclic Donor-Acceptor-Donor Chromophores for Large Enhancement of Two-Photon Absorption Cross Section in Presence of Mg(II), Ca(II) or Zn(II) Ions,
+J. Lumin
+.
+2009
+,
+129
+, 256-262. (Q2)
+D. Ray
+, E. S. S. Iyer, P. K. Bharadwaj, Ag(I) induced emission with azines having donor-acceptor-donor chromophore,
+Dalton Trans
+.
+2009
+, 5683-5687. (Q1)
+D. Ray
+, P. K. Bharadwaj, A Coumarin-Derived Fluorescence Probe Selective for Magnesium,
+Inorg. Chem
+.
+2008
+,
+47
+, 2252-2254. (Citations 311) (Q1, Nature Index)
+D. Ray
+, P. K. Bharadwaj, Alteration in the Binding Property of a Laterally Non-symmetric Aza Cryptand Toward Cu(II), Ag(I) and Tl(I) Ions upon Derivatization with Methylnitrile Group,
+Eur. J. Inorg. Chem
+.
+2006
+, 1771-1776. (Q2)
+
+Working Papers / Monographs / Policy Papers / Case Studies:
+Two Birds with One Stone: Blue- and Orange-TADF in A Single emissive Layer Leading to White Light Emission, Nirmalya Acharya, Manoj Upadhyay, Suvendu Dey, Debdas Ray* (ACS  2022).
+Thermally Reversible Dual Emission and out of equilibrium Achieved by A Thermal-Induced Conformational Change in Halogen-Substituted Phenothiazine-Quinoline Conjugates, Nirmalya Acharya, Manoj Upadhyay, Suvendu Dey, Debdas Ray* (Nature Group 2022).
+A New Approach Exploiting Planar Donor-Acceptor-Donor Molecules to Achieve Violet-and-Blue Room-Temperature Dual-Phosphorescence, Raktim Deka, Sakshi Chawla, Suvendu Dey, Nirmalya Acharya, Manoj Upadhyay, Arijit Kumar De, Debdas Ray* (Under Review in Nature Group).
+Impact of Triplet-to-Triplet Energy Transfer on Delayed Fluorescence with Inverted Singlet-Triplet State, Suvendu Dey, Manoj Upadhyay, Debdas Ray* (Under preparation, Nature Group).
+
+Media Articles:
+Invisible security ink has been launched in Shiv Nadar University, Samagya, 03 February 2020.
+Shiv Nadar University develops invisible security ink, The Echo of India, 01 February  2020.
+Shiv Nadar University’s security ink, Arthik Lipi, 01 February 2020.
+Security Ink, The Statesman, 02 February 2020.
+Shiv Nadar university to develop invisible ink, Dainik Vishwamitra, 02 February 2020.
+Vanish Ink, Aajkaal, 5 February 2020.
+Researchers at Shiv Nadar University Develop an Invisible Security Ink, India Education Diary, 28 January 2020.
+Shiv Nadar University Researchers Develop An Invisible Security Ink, BE Education, 27 January 2020.
+New invisible ink may help detect fake currency, The Hindu Business Line, December 31 2019.
+Novel ‘invisible ink’ may help detect fake currency, Udayavani, 31 December 2019.
+Novel ‘invisible ink’ may help detect fake currency, The Hitavada, 31 December 2019.
+Invisible ink’ may help detect fake currency, Daily Excelsior, 30 December 2019.
+Novel ‘invisible ink’ may help detect fake currency, The tribune, 30 December 2019.
+Novel Invisible Ink' May Help Detect Fake Currency, Daily Hunt, 30 December 2019.
+Novel invisible ink’ may help detect fake currency, NYK Daily, 30 December 2019.
+Novel invisible ink’ may help detect fake currency, Democratic Accent, 30 December 2019.
+Now 'invisible ink' will identify fake currency, Financial Express, 30 December 2019.
+Invisible ink will tell the difference between real and fake, Amar Ujala, 30 December 2019.
+Unique 'invisible ink' can help identify fake notes, these are the characteristics, Lokmat, 30 December 2019.
+Unique 'invisible ink' can help identify fake notes, these are the characteristics, India, 30 December 2019.
+Special ink developed by scientists costs less but is more secure, can help detecting fake currency, First post, 30 December 2019.
+Indian university has prepared unique ink, will identify fake notes, News 18, 30 December 2019.
+Novel Invisible Ink' May Help Detect Fake Currency, Republic world, 30 December 2019.
+Novel ‘invisible ink’ may help detect fake currency, Devdiscourse,  30 December 2019.
+Noida scientists develop novel 'invisible ink' to detect fake currency, Indian Money, 30 December 2019.
+Noida scientists develop novel ‘invisible ink’ to detect fake currency, Financial Express, 30 December 2019.
+Novel ‘invisible ink’ may help detect fake currency, Decan Herald, 30 December 2019.
+Novel invisible ink' may help detect fake currency, Business Standard, 30 December 2019.
+Novel Invisible Ink' May Help Detect Fake Currency, BW Business World, 30 December 2019.
+Novel ‘invisible ink’ may help detect fake currency, Outlook, 30 December 2019.
+Invisible ink may help detect fake currency, Free Press Journal, 30 December 2019.
+
+Invited Lectures, Talks, Conference Presentations:
+Invited lecture and chaired a session at the International Conference on Advanced Materials for Energy, Environment & Sustainability (AMEES-2025) from May 16-18, 2025, at IIT Bhubaneswar, Odisha.
+Invited lecture at Modern Trends in Inorganic Chemistry (MTIC) organized at IIT Kharagpur during December 14-17, 2024.
+Delivered award lecture at in the Two-Day Symposium: Science Beyond Boundary: Invention, Discovery, Innovation and Society “Rasayan 20”, December 16-17, 2024, Vidyasagar University, India.
+Invited lecture for a general seminar at IIT Kanpur, 6 September 2024.
+Invited lecture at international conference on Emerging Trends in Photodynamics and Photochemistry organized by IISER Mohali, 26-28 March 2024, India.
+Invited lecture, at CRS Symposium–Rasayan 19, Science Beyond Boundary: Invention, Discovery, Innovation and Society, organized by IISER Kolkata, 28-30 July 2024, India.
+Invited lecture at International Conference on Emerging Smart Materials in Applied Chemistry (ESMAC-2023) and Interdisciplinary Science for Sustainability organized by KIIT-CSIR-IMMT, Bhubaneswar, 18-20 November 2023, India
+Invited lecture at National Seminar on Sustainable Development in Chemical Sciences (SERB sponsored), organized by Mugberia Gangadhar Mahavidyalaya, 17-18 August 2023, India.
+Invited lecture at national conference on “Sustainability and Interdisciplinarity in Chemical Sciences”, SICS 2023 (Indian Photobiology Society), organized by IISER Kolkata, 13-15 July 2023.
+Invited lecture at Recent Trends in Chemical Sciences 2022 (RTCS 2022), organized by ISM Dhanbad, 16-18 December 2022, India.
+Invited lecture, organized by IISER Mohali, 9 June 2022, India.
+Future Oriented Research Conferences & Exhibitions (FORCE)-Interdisciplinary Initiatives in Chemical Sciences (IICS), Jaypee Palace, Agra, July 28 - 31, 2022, organized by IISER Kolkata, IIT Kanpur, and IISER Bhopal, India.
+Functional Smart & Supramolecular Materials (FSSM-2020)”, 29-30 January 2020, organized by the Department of Chemistry, Indian Institute of Technology, Kharagpur, India.
+Modern Trends in Inorganic Chemistry” (MTIC-XVIII), IITG, 11-14 December 2019, India.
+JNCSAR-SNU Symposium on Material Science and their application, JNCSAR, Bangaluru,  8-9 November 2019.
+Organic chemistry symposium, OCS-2019@Hyatt Regency, Lucknow, organized by IITK & IISER Bhopal, 13-14 September 2019.
+ACS Publications Forum: Expanding Frontiers in Chemical Science, 01 November 2018, Banaras Hindu University (BHU), Varanasi, India.
+Invited Lecture, School of Physical Science, JNU, 12 September 2018, India.
+Modulation of Emission Signaling Pathway through Allosteric control, TIFR Mumbai, July, 19-21, 2017.
+Fluorescence Spectroscopy and its Application, IIT Kanpur, 23-28 November 2015.
+"A multistep switching cascade of hydrazone-based switches through coordination coupled proton relays" - Invited lecture in Calcutta University, 7 April 2014, India.
+National Seminar on Crystallography 43A, 28-30 March 2014, Indian Institute of Science Education and Research (IISER) Mohali, India.
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances:
+Sl. No.
+Project Title
+Funding Agency
+PI
+Budget
+(INR)
+Duration
+6
+Visible light-absorbing organic photo-switches and photosensitizer for reversible triplet energy harvesting
+ANRF, India
+Debdas Ray
+₹59,48,827
+3 years (ongoing)
+5
+Advanced Functional materials for Sustainable application (AFMSA-2024)
+(Conference grant)
+SERB/DST/India
+Debdas Ray
+₹3,50,000
+2 days (completed)
+4
+Organic donor-acceptor based macrocycles: Accessing thermally activated
+delayed fluorescence and room-temperature phosphorescence for photonic applications
+SERB/DST/India
+Debdas Ray
+₹36,32,332
+3 years (ongoing)
+3
+Organic High efficient Biluminescent materials for data security applications
+SERB/DST/India
+Debdas Ray
+₹40,43,120
+3 years (completed)
+2
+Angularly Distributed Donor-Acceptor Based Chromophore: Simple System for Sophisticated NLO effect
+BRNS/DAE/India
+Debdas Ray
+₹24,10,650
+3 years (completed)
+1
+Dihedral angle controlled functionalized luminescence materials for optoelectronic applications
+SERB/DST/India
+Debdas Ray
+₹4,953,960
+4 years (completed)
+
+Patents / Copyright (filed / granted):
+Thermally reversible dual-state luminescence and optical thermal sensing using organic donor-acceptor conjugates, Debdas Ray, Nirmalya Acharya, IN Patent Appl. No. 202311044779, Date of filling: 4/7/2023. Date of grant: 26/12/2024. (SNU affiliation)
+Debdas Ray, Nirmalya Acharya, thermally reversible dual-state luminescence and method thereof. International App. No. PCT/IN2023/050813, Date of Filing: 29/08/2023, Date of publication: 09/01/2025. (under national entry phase and examination) (SNU affiliation)

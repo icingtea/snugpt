@@ -1,0 +1,68 @@
+Basab Bijayi Dhar
+School of Natural Sciences
+Department of Chemistry
+
+Research Interest:
+First row transition metal based heterogeneous and homogeneous oxidation catalyst development for various organic transformations
+Hetero atom doped carbocatalyst for organic transformation
+Development of hybrid catalyst for photochemical water splitting, photochemical organic transformation etc
+Photoredox catalyzed organic transformation
+Toxic metal ion separation and
+Flow cell kinetics for heterogeneous reactions
+
+Education:
+2006
+, Ph.D., Jadavpur University
+1999
+, M.Sc., University of Calcutta
+
+Work Experience:
+07/21-Present
+Associate Professor, Department of Chemistry, School of Natural Sciences, Shiv Nadar University, Delhi-NCR
+07/15-06/21
+Assistant Professor, Department of Chemistry, School of Natural Sciences, Shiv Nadar University, Delhi-NCR
+2011-2015
+Pool Officer (Scientist, CSIR pool scheme), CSIR-National Chemical Laboratory, Pune, Maharashtra, India
+
+Awards:
+1. DST, sponsored project entitled "Cleavage of organophosphate pesticide by highly charged metal centre as catalyst". SERB/F/3945/2013-14 dated 18.09.2013. Status: completed (June, 2016).
+2. CSIR, India has sanctioned "Development of Fe(III)complexes of amido-quinoline tetradentate acyclic ligands: Catalysts for C-H activation and Epoxidation". CSIR sanction letter no. 80(0086)/17/EMR-II dated 14.05.2018. Status: completed (May, 2021).
+
+Journal Publications:
+Tuning the reactivity of FeV(O) toward C-H bonds at room temperature: effect of water, K. K. Singh, M. K. Tiwari, M. Ghosh, C. Panda, A. Weitz, M. P. Hendrich, B. B. Dhar, K. Vanka, S. Sen Gupta, Inorg. Chem., 2015, 54, 1535-1542.
+Mechanism of oxygen atom transfer from FeV(O) to olefins at room temperature, K. K. Singh, M. K. Tiwari, B. B. Dhar, K. Vanka, S. S. Gupta, Inorg. Chem., 2015, 54, 6112-6121.
+Mechanism of alcohol oxidation by FeV(O) at room temperature, M. Ghosh, Y. L. K. Nikhil, B. B. Dhar, S. Sen Gupta, Inorg. Chem., 2015, 54, 11792-11798.
+Electrochemical formation of FeV(O) and mechanism of its reaction with water O-O Bond Formation, S. Pattanayak, D. Roy Chowdhury, B. Garai, K. K. Singh, A. Paul*, B. B. Dhar*, S. Sen Gupta*, Chem. A Euro. J., 2017, 23, 3414-3424.
+Solvent free, palladium catalyzed highly facile synthesis of diaryl disulphides from aryl thiol, P. K. Dutta, A. Majumder, S. Dutta, B. B. Dhar, P. Munshi, S. Sen, Tetra. Lett., 2017, 58, 527-530.
+Selective C-H bond oxidation catalyzed by Fe-bTAML complex: mechanistic implications, M. Ghosh, S. Pattanayak, B. B. Dhar, K. K. Singh, C. Panda, S. Sen Gupta, Inorg. Chem., 2017, 56, 10852-10860.
+Understanding alloy structure and composition in sinter-resistant AgPd@SiO2 encapsulated catalysts and their effect on catalytic properties, S. Mondal, T. Rajesh, B. B. Dhar, M. Snellman, L. D. Francis, R. N. Devi, New. J. Chem., 2017, 47, 14652-14658.
+Solid supported nano structured Cu-catalyst for solvent/ligand free C2 amination of azoles, S. Sen; P. K. Dutta; D. Saha; B. B. Dhar, Eur. J. Org. Chem., 2018, 657-665.
+Aerobic oxidative amidation of alkynes using titanium oxide encapsulated cuprous iodide nanoparticles (CuI@TiO2), P. K. Dutta; B. B. Dhar, S. Sen; New. J. Chem., 2018, 42, 12062-12071.
+Phosphorous-doped graphitic material as a solid acid catalyst for microwave-assisted synthesis of -Ketoenamines and Baeyer-Villiger oxidation, S. Maity, F. Ram, B. B. Dhar*, ACS Omega, 2020, 5, 26, 15962-15972.
+Selective U(VI) removal using phosphorous-doped graphitic carbon, S. Maity, S. Bajpai, B. B. Dhar*, J. Environ. Chem. Eng., 2021, 9, 104690.
+Visible-light mediated synthesis of substituted phenazine and phenoxazinone using Eosin Y as photoredox catalyst, A. Dhara, S. Maity, B. B. Dhar*, Org. Let., 2021, 23, 3269-3273.
+Peroxide activation by Selenium-doped graphite, S. Maity, B. B. Dhar*, Catal. Sci. Technol., 2022, 12, 1296-1312.
+Visible light mediated thiolation of substituted 1,4-Napthoquinones using Eosin Y as photoredox catalyst, B. Nagar, B. B. Dhar*, J. Org. Chem., 2022, 87, 3195-3201.
+Hydrothermally synthesized Sulphur doped graphite as supercapacitor electrode materials, S. Maity, D. Banerjee, G. Bhattacharya, S. S. Roy*, B. B. Dhar*, ACS Appl. Nano Mater., 2022, 5, 3548-3557.
+C-H bond chlorination using nickel(II) complexes of tetradentate amido-quinoline ligands, S. Adhikari, A. Sarkar, B. B. Dhar*, Chem. Commun., 2022, 58, 4075-4078.
+Photochemical C-H Arylation of Napthaquinones Using Eosin Y, B. Nagar, B. B. Dhar*, 2022, accepted in ACS OMEGA, 2022, 7, 32615-32619.
+Selenium-doped Graphite for Electrochemical Sensing and Adsorption of Hg(II) and Cd(II) Ions, S. Maity, S. Deshmukh, S. S. Roy, B. B. Dhar*, ChemElectroChem, 2022, (Just Accepted).
+
+Invited Lectures, Talks, Conference Presentations:
+Selective capture of uranium(VI) by P-doped graphitic carbon, S. Bajpai, S. Maity, B. B. Dhar*; Presented poster in Students Research Convention 2019 (SRC 2019), IIT Kanpur.
+Microwave assisted synthesis of P-doped graphitic material and its applications; Presented poster in international conference on “Progress and Challenges in Modern Day Science” 2019, in Department of Chemistry, B. Borooah College, Assam, India.
+P-doped Graphitic Material and Its Applications, S. Maity, B. B. Dhar*; Presented poster in 3rd International Conference on Recent Advances in Material Chemistry, 2019, SRM University, Chennai.
+Stacking of aromatic molecules on modified graphite surface as key factor for the catalytic activity of the carbon material, S. Maity, B. B. Dhar*; Oral Presentation in 2nd International Conference on Energy, Functional Materials and Nanotechnology & Sustainable Environment Management, 2019, Kumaun University, Nainital.
+Hydrothermal synthesis of selenium doped graphite and its applications, S. Maity, B. B. Dhar*; Presented poster in 11th International Conference of Bengaluru India Nano, 2020.
+Nickel(II) complexes of tetradentate amido-quinoline ligands as catalyst for alkane hydroxylation using m-CPBA as oxidant, S. Adhikari, B. B. Dhar*; Presented poster in international conference on “Progress and Challenges in Modern Day Science” 2021, in Department of Chemistry, B. Borooah College, Assam, India.
+Visible light mediated thiolation of substituted 1,4-napthaquinones using Eosin Y, B. Nagar, B. B. Dhar*, Presented poster in international conference on ”Progress and Challenges in Modern Day Science” 2021, in Department of Chemistry, B. Borooah College, Assam, India.
+Development and applications of heteroatom-doped graphitic materials, S. Maity, B. B. Dhar; Presented in 27th CRSI-NSC meeting during Sept. 26-30, 2021.
+C-H halogenation using Ni(II) complexes of tetradentate amido-quinoline ligands, S. Adhikari, B. B. Dhar*; Presented in 27th CRSI-NSC meeting during Sept. 26-30, 2021.
+Synthesis of Cu(II) complexes of amido-quinoline ligands as catalyst for aromatic C-H bond hydroxylation using H2O2 as oxidant, M. Loohach, S. Adhikari, B. B. Dhar*; Presented in 27th CRSI-NSC meeting during Sept. 26-30, 2021.
+Visible light mediated thiolation and arylation of substituted 1,4-Napthaquinones using Eosin Y, B. Nagar, B. B. Dhar*; Presented in 27th CRSI-NSC meeting during Sept. 26-30, 2021.
+Synthesis of substituted 1,4- and 1,2-Napthoquinones using Eosin Y as Photoredox catalyst, B. Nagar, B. B. Dhar*; Presented in 29th CRSI-NSC meeting during July 07-10, 2022. (Best poster award).
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances:
+DST, India sponsored project entitled "Cleavage of organophosphate pesticide by highly charged metal centre as catalyst". SERB/F/3945/2013-14 dated 18.09.2013. Status: completed (June, 2016), Amount Sanctioned: ~19.4 lakh.
+CSIR, India sanctioned project entitled "Development of Fe(III)complexes of amido-quinoline tetradentate acyclic ligands: Catalysts for C-H activation and Epoxidation". CSIR sanction letter no. 80(0086)/17/EMR-II dated 14.05.2018. Status: completed (May, 2018-May, 2021), Amount Sanctioned: ~45 Lakh.
+DST, India has approved project entitled "Enantioselective C-H halogenation using first row transition metal complexes of amido-oxazoline ligand" (File Number: CRG/2022/001576, dated 19th November, 2022).

@@ -2,19 +2,16 @@ A. Satyanarayana  Reddy
 School of Natural Sciences
 Department of Mathematics
 
-Research Interest
---------------------------------------------------------------------------------
+Research Interest:
 Algebraic Graph Theory, combinatorial matrix theory and Algebraic Number Theory.
 
-Education
---------------------------------------------------------------------------------
+Education:
 Ph.D, Indian Institute of Technology Kanpur
 M.Sc Mathematics, Andhra University
 M.A Education, Andhra University
 B.Sc, Ideal Degree College, Kakinada
 
-Work Experience
---------------------------------------------------------------------------------
+Work Experience:
 • Lecturer in Mathematics, Vikas junior college, Kakinada, AP, India (1995-1997).
 • Lecturer in Mathematics, Rajiv Gandhi degree and PG college, Kakinada, AP, India (1995- 1996).
 • Lecturer in Mathematics, St.Mary’s college of education and PG college, Kakinada, AP, India (1999-2001).
@@ -23,12 +20,10 @@ Work Experience
 • Assistant Professor, Shiv Nadar University, Dadri, NCR from July 2012 to June 2019.
 • Associate Professor, Shiv Nadar Institution of Eminence, Dadri, NCR from July 2019 till date.
 
-Awards
---------------------------------------------------------------------------------
+Awards:
 First position for oral presentation on Respectable Graphs, presented in a national seminar held at Brahmanand college, Kanpur on February 12, 2011.
 
-Journal Publications
---------------------------------------------------------------------------------
+Journal Publications:
 2025
 (a) Kavita Samant and A. Satyanarayana Reddy The Generating Graph of Dicyclic Groups, accepted for publication in Linear and Multilinear Algebra.
 2024
@@ -79,8 +74,7 @@ https://doi.org/10.1080/
 (e) A.Satyanarayana Reddy, Few Non-derogatory Directed Graphs from Directed Cycles, International Journal of Graph Theory, Vol 1,Issue 2(2013), 41–53.
 (f) A.Satyanarayana Reddy Respectable Graphs, International Journal of Mathematical Combinatorics, Vol.2 (2011),104–110.
 
-Invited Lectures, Talks, Conference Presentations
---------------------------------------------------------------------------------
+Invited Lectures, Talks, Conference Presentations:
 2012 and 2013
 (a) Teacher observer in MTTS program May-June 2012 held in IIT Kanpur, sponsored by National Board for Higher Mathematics, Govt of India.
 (b) Teacher observer in MTTS program from 20th May 2013 to 1st June 2013, held inNIT,Surat, Gujarat, sponsored by National Board for Higher Mathematics, Govt of India.
@@ -225,11 +219,9 @@ Ph.D students
 7. Ms. Khyati Sharma (in progress).
 8. Ms. Kavita Samant (in progress).
 
-Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances
---------------------------------------------------------------------------------
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances:
 Serb Matrix project File NO. MTR/2019/001206 for three years 2020 to 2022 titled Polynomials with integer coefficients divisible by cyclotomic polynomials.
 
-Advisory work with NGOs / Government / International Bodies
---------------------------------------------------------------------------------
+Advisory work with NGOs / Government / International Bodies:
 1. Faculty advisor of Math club of MTTS alumni
 2. Invited member of MTTS trust

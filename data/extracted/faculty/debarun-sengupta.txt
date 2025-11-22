@@ -1,0 +1,233 @@
+Debarun Sengupta
+
+Department of Electrical Engineering
+
+Biography:
+Currently, I am working as an Assistant Professor at the Department of Electrical Engineering, Shiv Nadar Institution of Eminence, Delhi NCR. I am actively working on establishing a research track in bio-inspired wearables and Organ-on-chips. My goal is to converge the principles of microsystems fabrication with next generation additive manufacturing techniques to develop advanced Organ-on-chips systems and wearable electronics for inexpensive accessible health care. In addition, I am jointly holding a position as a visiting Research fellow with the University of Groningen, The Netherlands.
+Before joining as a Tenure tracker, I was a Postdoctoral Research Scientist at the Delft University of Technology (TU Delft) for The Netherlands Organ-on-Chip Initiative (NOCI) which is an NWO Gravitation project funded by the Ministry of Education, culture and Science of the government of the Netherlands (link:
+https://noci-organ-on-chip.nl/
+). In my role, I have developed polymer MEMS-based 3D micro-electrode arrays for facilitating the in vitro study of electrophysiology of electrogenic cell cultures .
+Previously, I have served as a Postdoctoral Researcher and Lecturer with the Engineering and Technology Institute Groningen, University of Groningen where I was involved with a Dutch Research Council (NWO) funded project titled "SMART-AGENTS" (link:
+https://www.nwo.nl/projecten/18024
+). I have also taught an undergraduate course titled Nanoscience and Nanotechnology. I hold a PhD in MEMS/NEMS from the University of Groningen and an MEngSc in Electrical Engineering from the University of New South Wales, Sydney.
+Key highlights:
+NWO-funded Postdoctoral Research Scientist at the Department of Microelectronics, Delft University of Technology, The Netherlands.
+Visiting Researcher and lecturer with the Engineering and Technology Institute Groningen, University of Groningen, The Netherlands.
+Recipient of the prestigious DST INSPIRE Faculty Award 2023, India (worth ~US$ 140,000).
+Published 10 journal papers and lead-authored papers (first author) in top journals such as npj Flexible Electronics (IF – 14.6), Carbon Energy (IF – 20.5), ACS Applied Materials and Interfaces (IF – 9.5), Wiley Advanced Electronic Materials (IF - 6.2); ACS Applied Electronic Materials (IF – 4.7), etc.; In addition, published 11 conference proceedings articles (peer-reviewed), and two book chapters.
+Scival Country rank (The Netherlands) - 2 for the topic Strain Sensor; Flexible Electronics; Sensor (T.4469) and European regional rank - 32 (Period - 2020 -2023).
+Co-editor of 1 book and filed 1 patent.
+Organizing committee member and arrangements Chair for the IEEE MARSS 2024 conference.
+Special issue editor for Crystals and peer-reviewer for several reputed journals including npj Flexible Electronics, IEEE Sensors Journal, Journal of Bionic Engineering, Journal of Material Science, and Materials Today Energy.
+Lecturer and teacher for 2 Postgraduate and Undergraduate courses, co-supervised 9 MSc and 8 BSc students for their thesis projects.
+Went through a start-up accelerator program and spun off a company - Australia Nano pty/ ltd. in Sydney, Australia.
+Further details about my work can be accessed at the following web links:
+Link to my staff page at the University of Groningen:
+https://www.rug.nl/staff/debarun.sengupta/
+Link to my Google Scholar profile:
+https://scholar.google.com.sg/citations?user=lOuLGOQAAAAJ&hl=en
+Link to my webpage:
+https://www.debarunsengupta.com/
+#BBD0E0 »
+
+Education:
+Doctor of Philosophy (PhD),
+University of Groningen
+05/2018 –04/2022
+Thesis title - "Interfacing biomimetics and nanomaterials for next-generation wearables"
+Master of Engineering Science (MEngSc),
+University of New South Wales, Australia
+07/2015 – 07/2017
+Specialization - Electrical Engineering (Microsystems)
+Master of Engineering (MEng - Exchange),
+Nanyang Technological University, Singapore
+12/2016 – 02/2017
+Summer exchange - Non-graduating Research student in Microsystems Engineering
+Bachelor of Technology (BTech),
+Siksha 'O' Anusandhan University,
+Bhubaneswar, India
+08/2010 – 07/2014
+Specialization - Electronics and Communication Engineering
+
+Work Experience:
+Assistant Professor, Shiv Nadar Institution of Eminence
+9 September 2024 – Present
+Guest Researcher, University of Groningen, The Netherlands
+1 January 2024 - Present
+Postdoctoral Scientist, Delft University of Technology, The Netherlands
+1 January 2024 – 31 August 2024
+Postdoctoral Researcher and Lecturer, University of Groningen, The Netherlands
+1 May 2022 – 31 December 2023
+MEMS research Engineer, University of New South Wales, Australia
+November 2017 – April 2018
+Co-Founder, Australia Nano Pty. Ltd.
+July 2017 – November 2017
+MEMS Fabrication Engineer/Consultant, Brien Holden Vision Institute, Australia
+July 2017 – August 2017
+MEMS Research Intern, Singapore-MIT Alliance for Research and Technology, Singapore
+December 2016 – February 2017
+Student Assistant, CHeBA, University of New South Wales, Australia
+September 2016 – November 2016
+
+Research Interests:
+MEMS/NEMS, Organ-on-chips, Brain-on-chips, Flexible electronics, bioinspired sensing
+
+Academic Achievements/Awards:
+Best poster award
+: Awarded with the best PhD student poster award at ENTEG Annual Day 2022.
+Best Student Paper award, IEEE FLEPS Conference 2021
+.
+Best PhD presentation
+: Awarded with the best PhD presentation award at ENTEG Annual Day 2021.
+U4 Network travel grant
+: Grant for visiting Ångström Laboratory, Uppsala University, Sweden for two consecutive years (2018 and 2019).
+PhD research funding
+: Funding for four years of PhD research at the University of Groningen.
+Nomination for FSE Best Postdoc Award 2023
+: Was nominated for the FSE Postdoc Prize 2023 by the Engineering and Technology Institute Groningen. This prize is a recognition awarded to an outstanding postdoctoral researcher of the Faculty of Science and Engineering, University of Groningen. I was among the top six finalists for the prize and the only candidate from my institute.
+DST INSPIRE Faculty Award 2023
+: Recipient of the prestigious DST INSPIRE faculty award to start an independent tenure-track faculty position in India. I was awarded under the Engineering Science stream. Under the INSPIRE Faculty Scheme, the Department of Science and Technology, India, offers assured opportunities every year for post-doctoral researchers in the age group of 27-32 years, through contractual and tenure track positions for 5 years in both basic and applied sciences.
+Australian Patent
+: Chee Yee Kwok, Ssu-Han Chen, Aron Michael,
+Debarun Sengupta
+. “Advanced piezoelectric microlens actuator.” AU Patent app. 2018903188 (Latest file number: 2023903846)
+
+National and International Recognition:
+DST INSPIRE Faculty Award 2023 under engineering science stream
+
+Memberships:
+09/2019 – present:
+American Chemical Society (ACS),
+Member (ID- 32041645)
+09/2017 – present:
+IEEE Sensors Council,
+Member
+11/2014 – present:
+Institute of Electrical and Electronics Engineers (IEEE),
+Member (ID- 92751754)
+.
+
+Journals:
+Sengupta, Debarun, and Ajay Giri Prakash Kottapalli. "Nanomaterials‐Based Bioinspired Next Generation Wearable Sensors: A State‐of‐the‐Art Review." Advanced Electronic Materials 10, no. 1 (2024): 2300436. Contribution: Literature survey and original draft preparation.
+Xiang, Y., Lu, L., Yan, F., Sengupta, D., Rudolf, P., Kottapalli, A. G. P., & Pei, Y. (2024). Tuning the crystallinity of titanium nitride on copper‐embedded carbon nanofiber interlayers for accelerated electrochemical kinetics in lithium–sulfur batteries. Carbon Energy, e450. Contribution: Electrospinning and CNF synthesis along with Xiang, Y.
+Sengupta, D., Lu, L., Gomes, D. R., Jayawardhana, B., Pei, Y., & Kottapalli, A. G. P. (2023). Fabric-like Electrospun PVAc–Graphene Nanofiber Webs as Wearable and Degradable Piezocapacitive Sensors. ACS Applied Materials & Interfaces, 15(18), 22351-22366. Contribution: Conceptualization, D.S.G.; methodology, D.S.G.; data collection and analysis, D.S.G.; Raman analyses, L.L; TEM imaging, D.R.G; writing—original draft preparation, D.S.G.
+Sengupta, D., Kamat, A. M., Smit, Q., Jayawardhana, B., & Kottapalli, A. G. P. (2022). Piezoresistive 3D graphene–PDMS spongy pressure sensors for IoT enabled wearables and smart products. Flexible and Printed Electronics, 7(1), 015004. Contribution: Conceptualization, D.SG. and A.G.P.K.; methodology, D.S.G.; data collection and analysis, Q.F.S., D.S.G., and A.M.K; writing—original draft preparation, D.S.G.
+Sengupta, D., Mastella, M., Chicca, E., & Kottapalli, A. G. P. (2022). Skin-inspired flexible and stretchable electrospun carbon nanofiber sensors for neuromorphic sensing. ACS Applied Electronic Materials, 4(1), 308-315. Contribution: DSG conducted the electrospinning, carbon nanofiber synthesis, sensor fabrication, and associated experiments. MM conceived and realized the neuromorphic experiments with simulated neurons and neural networks. DSG and MM wrote the manuscript. DSG, MM, EC and AGPK conceptualized the idea.
+Sengupta, D., Romano, J., & Kottapalli, A. G. P. (2021). Electrospun bundled carbon nanofibers for skin-inspired tactile sensing, proprioception and gesture tracking applications. npj Flexible Electronics, 5(1), 29. Contribution: Conceptualization, CNF synthesis, sensor fabrication, data collection, analysis, and original draft preparation.
+Sengupta, D., Chen, S. H., Michael, A., Kwok, C. Y., Lim, S., Pei, Y., & Kottapalli, A. G. P. (2020). Single and bundled carbon nanofibers as ultralightweight and flexible piezoresistive sensors. npj Flexible Electronics, 4(1), 9. Contribution: CNF synthesis and optimization, spectroscopy, device fabrication, data collection, analysis, and original draft preparation.
+Sengupta, D., Trap, D., & Kottapalli, A. G. P. (2020). Piezoresistive carbon nanofiber-based cilia-inspired flow sensor. Nanomaterials, 10(2), 211. Contribution: Conceptualization, D.SG. and A.G.P.K.; methodology, D.S.G. and A.G.P.K.; data collection and analysis, D.T and D.S.G.; writing—original draft preparation, D.S.G.
+Sengupta, D., Pei, Y., & Kottapalli, A. G. P. (2019). Ultralightweight and 3D squeezable graphene-polydimethylsiloxane composite foams as piezoresistive sensors. ACS applied materials & interfaces, 11(38), 35201-35211. Contribution: Device fabrication, data collection, analysis, and original draft preparation.
+Sengupta, D., Kottapalli, A. G. P., Chen, S. H., Miao, J. M., Kwok, C. Y., Triantafyllou, M. S., ... & Asadnia, M. (2017). Characterization of single polyvinylidene fluoride (PVDF) nanofiber for flow sensing applications. AIP Advances, 7(10). Contribution: Nanofibers electrospinning and optimization, spectroscopy, device fabrication, data collection, analysis, and original draft preparation.
+Sengupta, D., Sarro, P.M., & Mastrangeli, M. “A sneak peek inside the brain: Interfacing 3D microelectrode arrays with Brain-on-chip technology for next-generation healthcare”. In Preparation. Contribution: Literature survey and original draft preparation.
+Sengupta, D., Tawade, P., Ayodogmus, H., Sarro, P.M., & Mastrangeli, M. “Soft and transparent 3D microelectrode arrays for in vitro electrophysiological recording”. In Preparation. Contribution: Conceptualization, process flow development, device fabrication.
+Sengupta, D., Pei, Y.T., & Kottapalli, A. G. P. “Anatomy of hearing and its relevance to biomimetic sensor design”. In Preparation. Contribution: Literature survey and original draft preparation.
+Guzman-Embus, D.A., Sengupta, D., Bolivar-Pineda, L.M., Acevedo-Guzman, D.A., Rudolf, P., Krushynska, A.O., & Kottapalli, A. G. P. " Piezocapacitive sensors based on TPU and silver nanorods for pressure detection with application in shape detection" In preparation. Contribution: Conceptualization, electrospinning, device fabrication, and data acquisition.
+Sengupta, D., Birudula, S.K., Marcantoni, M., Jayawardhana, B., & Kottapalli, A. G. P. " Titanium carbide nanoparticle dispersion-based inkjet-printed flexible bidirectional flow sensors for wind direction-based autonomous ground navigation." In preparation. Contribution: Device fabrication, Data collection, Modelling, developing data acquisition setup, interface for robotics implementation, and original draft preparation. D.S.G; Writing — original draft preparation.
+
+Conference Proceedings Articles:
+Sengupta, D
+., Birudula, S., Wortche, H. J., & Kottapalli, A. G. P. (2022, October). An Inkjet-Printed Piezoresistive Bidirectional Flow Sensor. In
+2022 IEEE Sensors
+(pp. 1-4). IEEE. Dallas, Texas, USA, 2022.
+Sengupta, D
+., Lu, L., Pei, Y., & Kottapalli, A. G. P. (2022, January). Fabric-Like Pvac-Graphene Nanofiber Capacitive Pressure Sensors For Next-Generation Wearables. In
+2022 IEEE 35th International Conference on Micro Electro Mechanical Systems Conference (MEMS)
+(pp. 341-344). IEEE. Tokyo, Japan, 2022.
+Li, W.,
+Sengupta, D
+., Pei, Y., & Kottapalli, A. G. P. (2021, June). Wearable nanofiber-based triboelectric nanogenerator for body motion energy harvesting. In
+2021 IEEE International Conference on Flexible and Printable Sensors and Systems (FLEPS)
+(pp. 1-4). IEEE. Virtual.
+Saha, U., Kamat, A.,
+Sengupta, D
+., Jayawardhana, B., & Kottapalli, A. G. (2020, October). A low-cost lung monitoring point-of-care device based on a flexible piezoresistive flow sensor. In
+2020 IEEE SENSORS
+(pp. 1-4). IEEE. Virtual.
+Sengupta, D.
+, Muthuram, V., & Kottapalli, A. G. P. (2020, October). Flexible Graphene-on-PDMS sensor for human motion monitoring applications. In
+2020 IEEE SENSORS
+(pp. 1-4). IEEE. Virtual.
+Sengupta, D.
+, & Kottapalli, A. G. P. (2020, September). Ultralight weight piezoresistive spongy graphene sensors for human gait monitoring applications. In
+2020 IEEE 15th International Conference on Nano/Micro Engineered and Molecular System (NEMS)
+(pp. 120-123). IEEE. Virtual.
+Kottapalli, A. G. P., Bora, M.,
+Sengupta, D
+., Miao, J., & Triantafyllou, M. S. (2018, October). Hydrogel-CNT biomimetic cilia for flow sensing. In
+2018 IEEE SENSORS
+(pp. 1-4). IEEE. Delhi, India, 2018.
+Sengupta, D
+., Michael, A., Kwok, C. Y., Miao, J., & Kottapalli, A. G. P. (2018, November). Optimized polyvinylidene fluoride nanofiber webs for flexible energy harvesters. In
+Proceedings
+(Vol. 2, No. 13, p. 857). MDPI. Graz, Austria, 2018.
+Kottapalli, A. G. P.,
+Sengupta, D
+., Kanhere, E., Bora, M., Miao, J., & Triantafyllou, M. (2018, November). MEMS Biomimetic Superficial and Canal Neuromasts for Flow Sensing. In
+Proceedings
+(Vol. 2, No. 13). MDPI.
+Sengupta, Debarun
+, et al. "Optimized polyvinylidene fluoride nanofiber webs for flexible energy harvesters."
+Multidisciplinary Digital Publishing Institute Proceedings
+. Vol. 2. No. 13. 2018. Graz, Austria, 2018.
+Sengupta, D
+., Kottapalli, A. G. P., Chen, S. H., Michael, A., Kwok, C. Y., Miao, J., & Triantafyllou, M. S. (2018, April). Flexible Graphitized Polyacrylonitrile Nanofiber Bundles for Strain Sensors. In
+2018 IEEE 13th Annual International Conference on Nano/Micro Engineered and Molecular Systems (NEMS)
+(pp. 615-618). IEEE. Singapore, 2018.
+Sengupta, D
+., Kottapalli, A. G. P., Miao, J., & Kwok, C. Y. (2017, October). Electrospun polyvinylidene fluoride nanofiber mats for self-powered sensors. In
+2017 IEEE SENSORS
+(pp. 1-3). IEEE. Glasgow, UK, 2017.
+
+Books/Book Chapters:
+Sengupta, Debarun
+, and Ajay Giri Prakash Kottapalli. "Flexible and wearable piezoelectric nanogenerators."
+Self-Powered and Soft Polymer MEMS/NEMS Devices
+(2019): 31-60.
+Sengupta, Debarun
+, Ssu-Han Chen, and Ajay Giri Prakash Kottapalli. "Nature-Inspired Self-Powered Sensors and Energy Harvesters."
+Self-Powered and Soft Polymer MEMS/NEMS Devices
+(2019): 61-81.
+Kottapalli, A. G. P., Tao, K.,
+Sengupta, D.,
+& Triantafyllou, M. S. (2019).
+Self-Powered and Soft Polymer MEMS/NEMS Devices
+. Springer.
+
+Invited Lectures, Talks, Conference Presentations:
+Eurosensors 2018, Graz, Austria:
+Presented research on “Optimized polyvinylidene fluoride nanofiber webs for flexible energy harvesters”.
+IEEE Sensors 2018, Delhi, India:
+Talk on “Hydrogel-CNT biomimetic cilia for flow sensing”.
+MNE conference 2023, Berlin, Germany:
+Presented research on “Degradable PVAc-graphene nanofibrous membrane for flexible piezocapacitive sensors”.
+TU Delft, 2023, The Netherlands:
+Delivered a seminar on “Synthetic Senses: Revolutionizing Health Monitoring with Soft Sensors and Polymer MEMS”.
+IIT Kanpur, 2024, India:
+Delivered a seminar on “Synthetic senses: Revolutionizing Health Care with Soft Sensors and Organs-on-chips”.
+
+Media Articles:
+https://research.rug.nl/en/clippings/the-smart-sensors-of-kottapalli-by-touch
+Wearable Sensors in Fabric May Help Monitor Disease Progression -
+https://research.rug.nl/en/clippings/wearable-sensors-in-fabric-may-help-monitor-disease-progression
+Skin-inspired sensors show how our body moves -
+https://research.rug.nl/en/clippings/skin-inspired-sensors-show-how-our-body-moves
+
+Sponsored Research Projects:
+DST INSPIRE Faculty award 2023: Amount of 35,00,000 INR for developing lattice based piezo-capacitive sensors for wearables
+.
+
+Scholarly Services:
+Guest editor of a special issue Crystals, MDPI
+
+Peer Review Service:
+Organizing Committee Member, IEEE MARSS 2024 conference
+Peer-reviewer for several reputed scientific journals including npj Flexible Electronics, IEEE Sensors Journal, Sensor, Journal of Bionic Engineering, Journal of Material Science, and Materials Today Energy.
+Special issue editor for Crystals Journal, MDPI
+
+List of international scientific study visits:
+Research exchange program at NTU Singapore
+: December 2016 - February 2017.
+Summer School at Uppsala University, Sweden:
+Visiting Ångström Laboratory for two consecutive years 2018 and 2019 lasting one week each.
+Utrecht Summer School:
+Attended a course of Biomaterials and additive manufacturing lasting one week at Utrecht University. July 2019.

@@ -1,0 +1,438 @@
+Santosh K. Singh
+School of Natural Sciences
+Department of Chemistry
+
+Research Interest:
+Fundamental electrochemistry, Materials designing, In-situ electrochemical techniques, Next-generation energy technologies (Fuel cell, Water electrolyzer, flexible batteries and supercapacitor)
+
+Education:
+2017 Ph.D. CSIR-National Chemical Laboratory, Pune 2011 M.Sc. University of Delhi, Delhi 2009 B.Sc. Banaras Hindu University, Varanasi
+
+Work Experience:
+12/2021-Present, Assistant Professor, Department of Chemistry, School of Natural Sciences,
+Shiv Nadar Institution of Eminence, India, Delhi-NCR
+01/2021–12/2021, Senior Postdoctoral Researcher,
+University of Tsukuba, Japan
+01/2020–12/2020, Technical Leader – Electrochemistry,
+KPIT Technologies Ltd., Pune-India
+11/2019-12/2019, Senior Postdoctoral Researcher,
+Central European Institute of Technology (CEITEC), BUT, Czech Republic
+11/2017-10/2019, Japan Society for the Promotion of Science (JSPS) Postdoctoral Researcher,
+University of Tsukuba, Japan
+01/2016-07/2016, Raman-Charpak Visiting Research Fellow,
+University of Lille, France
+
+Awards:
+2017
+Received Prestigious JSPS Postdoctoral Fellowship-2017.
+2015
+Received Prestigious Raman?Charpak Fellowship?2015.
+2012
+CSIR-JRF Award 2012-August (All India Rank- 57th).
+2011
+CSIR-NET (Lectureship) Award 2011-December (All India Rank- 21st).
+
+Journal Publication:
+Nitin Kumar Tyagi, Bikash K Mahapatra, Suvash Ghimire, Narugopal Manna, Deepak Kumar, Vijay Kumar, Kausik Mukhopadhyay, Santosh K Singh*,
+Theory-Directed Designing of an Intrinsic-Activity-Modulated Metal-Doped Copper Oxide Electrode for Nitrate to Ammonia Synthesis
+,
+ACS Applied Energy Mater
+.,
+2023
+, DOI:
+10.1021/acsaem.3c00617
+.
+Saad Zafar, Santosh K Singh*, Bimlesh Lochab*,
+Nano-wired Polyaniline/VS2 Composite Materials for Quasi-solid-state Supercapacitor and Zinc-ion Battery Applications
+,
+Materials Advances
+,
+2023
+, DOI:
+10.1039/d3ma00070b.
+Santosh K. Singh
+, Kotaro Takeyasu, Kaito Homma, Shigeharu Ito, Takashi Morinaga, Yuto Endo, Moeko Furukawa, Toshiyuki Mori, Hirohito Ogasawara, Junji Nakamura,
+Activating Nitrogen
+‐
+doped Graphene Oxygen Reduction Electrocatalysts in Acidic Electrolytes using Hydrophobic Cavities and Proton
+‐
+conductive Particles
+,
+Angewandte Chemie
+,
+2022
+, e202212506.
+Santosh K. Singh
+, Vishal M Dhavale, Sreekumar Kurungot;
+Surface-Tuned Co3O4 Nanoparticles Dispersed on Nitrogen-Doped Graphene as an Efficient Cathode Electrocatalyst for Mechanical Rechargeable Zinc-Air Battery Application
+,
+ACS Applied Materials & Interfaces,
+2015
+;
+7
+, 21138
+-21149.
+Anand Pariyar, Gonela Vijaykumar, Mrinal Bhunia, Suman Kr Dey, Santosh K. Singh, Sreekumar Kurungot, Swadhin K Mandal;
+Switching Closed-Shell to Open-Shell Phenalenyl: Toward Designing Electroactive Materials
+,
+Journal of the American Chemical Society,
+2015
+, 137,
+5955–5960
+.
+(
+This Work was Highlighted by National and International Press coverage
+)
+Santosh K. Singh
+, Vishal Mahesh Dhavale, Sreekumar Kurungot;
+Low Surface Energy Plane Exposed Co3O4 Nanocubes Supported on Nitrogen-Doped Graphene as an Electrocatalyst for Efficient Water Oxidation
+,
+ACS Applied Materials & Interfaces,
+2015
+,
+7
+, 442−451.
+Santosh K. Singh
+, Varchaswal Kashyap, Narugopal Manna, Siddheshwar N. Bhange, Roby Soni, Rabah Boukherroub, Sabine Szunerits, Sreekumar Kurungot;
+An Efficient and Durable Oxygen Reduction Electrocatalyst Based on CoMn Alloy Oxide Nanoparticles Supported Over N-doped Porous Graphene
+,
+ACS Catalysis
+,
+2017
+,
+7
+, 6700–6710.
+Santosh K. Singh
+, Deepak Kumar, Vishal M. Dhavale, Sourav Pal, Sreekumar Kurungot;
+Strategic Preparation of Efficient and Durable NiCo Alloy Supported N-Doped Porous Graphene as an Oxygen Evolution Electrocatalyst: A Theoretical and Experimental Investigation
+,
+Advanced Materials Interfaces
+,
+2016
+,
+DOI:
+10.1002/admi.201600532.
+Santosh K. Singh
+, Vishal M. Dhavale, Rabah Boukherroub, Sreekumar Kurungot, Sabine Szunerits;
+N-doped Porous Reduced Graphene Oxide as an Efficient Electrode Material for High-Performance Flexible Solid-state Supercapacitor
+,
+Applied Materials Today
+,
+2017
+, 8,
+141-149.
+Santosh K. Singh
+, Kotaro Takeyasu, Junji Nakamura;
+Active Sites and Mechanism of ORR Electro-catalysis on Nitrogen-Doped Carbon Materials
+,
+Advanced Materials
+,
+2019
+, 31, 1804297
+(DOI:
+10.1002/adma.201804297).
+Santosh K. Singh
+*
+, Kotaro Takeyasu, Bappi Paul, Sachin K. Singh, Junji Nakamura
+*
+;
+CoOx Electro-catalysts Anchored on Nitrogen-doped Carbon Nanotubes for the Oxygen Evolution Reaction,
+Sustainable Energy & Fuels
+,
+2021
+,
+5
+,
+820
+.
+Santosh K. Singh
+, Kotaro Takeyasu, Moeko Furukawa, Junji Nakamura;
+Positive Effect of Induced Hydrophobicity in 3D N-doped Porous Graphene Towards ORR Activity Under Acidic Condition
+,
+ECS Meeting Abstract
+,
+2019
+,
+7
+, 634.
+Vishal Mahesh Dhavale, Santosh K. Singh
+*
+, Nadeema Ayasha, Sachin S Gaikwad, Sreekumar Kurungot;
+Nanocrystalline Fe-Fe2O3 Particle-Deposited N-doped Graphene as an Activity Modulated Pt-Free Electrocatalyst for Oxygen Reduction Reaction
+,
+Nanoscale
+, 2015
+;
+7
+, 20117-20125. (
+*
+Equal contribution
+)
+Kotaro Takeyasu, Moeko Furukawa, Yuto Shimoyama,
+Santosh K. Singh
+, Junji Nakamura;
+Role of Pyridinic Nitrogen in the Mechanism of the Oxygen Reduction Reaction on Carbon Electrocatalysts
+,
+Angewandte Chemie
+,
+2020
+,
+DOI:
+10.1002/anie.202014323
+.
+Shyamapada Nandi, Santosh K. Singh, Dinesh Mullangi, Rajith Illathvalappil, Leena George, Chathakudath P. Vinod, Sreekumar Kurungot, Ramanathan Vaidhyanathan;
+Low Band Gap Benzimidazole COF Supported Ni3N as Highly Active OER Catalyst
+,
+Advanced Energy Materials
+2016
+,
+6
+,
+DOI:
+10.1002/aenm.201601189.
+Narugopal Manna, Santosh K. Singh, Arun Torris, Sreekumar Kurungot;
+Zinc–Air Batteries Catalyzed Using Co3O4 Nanorod-Supported N-Doped Entangled Graphene for Oxygen Reduction Reaction
+,
+ACS Appl. Energy Mater.
+,
+2021, (DOI:
+10.1021/acsaem.1c00210
+)
+.
+Narugopal Manna, Santosh K Singh, Maria Kurian, Arun Torris, Sreekumar Kurungot,
+Air–Cathode Interface-Engineered Electrocatalyst for Solid-State Rechargeable Zinc–Air Batteries
+,
+ACS Applied Energy Mater.,
+2022,
+5,
+8756-8768.
+Guoping Chen, Santosh K. Singh, Kotaro Takeyasu, Junji Nakamura, Katsuhiko Ariga, Jonathan P. Hill
+Versatile Nanoarchitectonics of Pt with Morphology Control of Oxygen Reduction Reaction Catalysts
+,
+Science and Technology of Advanced Materials
+, 2022,
+23
+, 413-423.
+Plawan Kumar Jha, Santosh K. Singh, Suresh Gatla, Sreekumar Kurungot, Nirmalya Ballav;
+Pb2+−N Bonding Chemistry: Recycling of Polyaniline-Pb Nanocrystals Waste for Generating High-Performance Super-Capacitor Electrodes
+,
+Journal of Physical Chemistry C,
+2015
+,
+120
+, 911–918.
+Plawan Kumar Jha, Santosh K. Singh, Vikash Kumar, Shammi Rana, Sreekumar Kurungot, Nirmalya Ballav;
+High-Level Supercapacitive Performance of Chemically Reduced Graphene Oxide
+,
+Chem
+2017
+,
+3
+,
+846-860
+.
+Varchaswal Kashyap, Santosh K. Singh, Sreekumar Kurungot;
+Cobalt Ferrite Bearing Nitrogen-Doped Reduced Graphene Oxide Layers Spatially Separated with Microporous Carbon as Efficient Oxygen Reduction Electrocatalyst
+,
+ACS Applied Materials & Interfaces
+,
+2016
+,
+8
+,
+20730–20740.
+Varchaswal Kashyap, Santosh K. Singh, Sreekumar Kurungot;
+Activity Tuning of Cobalt Ferrite Nanoparticles Anchored on N-Doped Reduced Graphene Oxide as a Potential Oxygen Reduction Electrocatalyst by Zn Substitution in the Spinel Matrix
+,
+ChemistrySelect,
+2017
+,
+2
+, 7845-7853.
+Houcem Maaoui, Santosh K. Singh, Florina Teodoresu, Yannick Coffinier, Alexandre Barras, Radhouane Chtourou, Sreekumar Kurungot, Sabine Szunerits, Rabah Boukherroub;
+Copper Oxide Supported on Three-Dimensional Ammonia-doped Porous Reduced Graphene Oxide Prepared Through Electrophoretic Deposition for Non-enzymatic Glucose Sensing
+,
+Electrochimica Acta
+,
+2016
+;
+224
+,
+346-354.
+Fereshteh Chekin, Santosh K. Singh, Alina Mihaela Vasilescu, Vishal M. Dhavale, Sreekumar Kurungot, Rabah Boukherroub, Sabine Szunerits;
+Reduced Graphene Oxide Modified Electrodes For Sensitive Sensing of Gliadin in Food Samples
+,
+ACS Sensors
+,
+2016
+,
+1
+, 1462–1470.
+Fereshteh Chekin, Alina Vasilescu, Roxana Jijie, Santosh K. Singh, Sreekumar Kurungot, Madalina Iancu, Gabriela Badea, Rabah Boukherroub, Sabine Szunerits;
+Sensitive Electrochemical Detection of Cardiac Troponin I in Serum and Saliva by Nitrogen-doped Porous Reduced Graphene Oxide Electrode
+,
+Sensors and Actuators B: Chemical
+,
+2018
+,
+262
+, 180-187.
+Jonnadula Venkata Suman Krishna, Narra Vamsi Krishna, Santosh K. Singh, Pankaj K. Shaw, Vishal M. Dhavale, Anil Kumar Vardhaman, Lingamallu Giribabu;
+Substituent-Induced Deformed Ni-Porphyrin as an Electrocatalyst for the Electrochemical Conversion of Water into Dioxygen
+,
+European Journal of Inorganic Chemistry
+,
+2018
+,
+DOI:
+10.1002/ejic.201701427
+Fereshteh Chekin, Komal Bagga, Palaniappan Subramanian, Roxana Jijie, Santosh K. Singh, Sreekumar Kurungot, Rabah Boukherroub, Sabine Szunerits;
+Nucleic Aptamer Modified Porous Reduced Graphene Oxide/MoS2 Based Electrodes for Viral Detection: Application to Human Papillomavirus (HPV)
+,
+Sensors and Actuators B: Chemical,
+2018
+, 262, 991-1000.
+Alina Vasilescu, Ran Ye, Samia Boulahneche, Sabrina Lamraoui, Roxana Jijie, Mohamed Salah Medjram, Szilveszter Gaspar, Santosh K. Singh, Sreekumar Kurungot, Sorin Melinte, Rabah Boukherroub, Sabine Szunerits;
+Porous Reduced Graphene Oxide Modified Electrodes for the Analysis of Protein Aggregation. Part 2: Application to the Analysis of Calcitonin Containing Pharmaceutical Formulation
+,
+Electrochimica Acta,
+2018
+,
+266
+, 364-372.
+Alina Vasilescu, Samia Boulahneche, Fereshteh Chekin, Szilveszter Gaspar, Mohamed Salah Medjram, Abdou Aziz Diagne, Santosh K. Singh, Sreekumar Kurungot, Rabah Boukherroub, Sabine Szunerits;
+Porous Reduced Graphene Oxide Modified Electrodes for the Analysis of Protein Aggregation. Part 1: Lysozyme Aggregation at pH 2 and 7.4
+,
+Electrochimica Acta
+,
+2017
+,
+254
+, 375-383.
+Fatima Halouane, Roxana Jijie, Dalila Meziane, Li Chengnang, Santosh K Singh, Julie Bouckaert, Jean Juraszek, Sreekumar Kurungot, Alexandre Barras, Musen Li, Rabah Boukherroub, Sabine Szunerits;
+Selective Isolation of E. coli Associated with Urinary Tract Infection Using Anti-fimbrial Modified Magnetic Reduced Graphene Oxide Nanoheaters
+,
+Journal of Materials Chemistry B
+,
+2017
+,
+5
+, 8133-8142.
+Fatima Halouane, Yavuz Oz, Dalila Meziane, Alexandre Barras, Jean Juraszek, Santosh K. Singh, Sreekumar Kurungot, Pankaj K. Shaw, Rana Sanyal, Rabah Boukherroub, Amitav Sanyal, Sabine Szunerits;
+Magnetic Reduced Graphene Oxide Loaded Hydrogels: Highly Versatile and Efficient Adsorbents for Dyes and Selective Cr(VI) Ions Removal
+,
+Journal of Colloid and Interface Science
+,
+2017
+,
+507
+, 360-369.
+Samia Boulahneche, Roxana Jijie, Alexandre Barras, Fereshteh Chekin, Santosh K Singh, Julie Bouckaert, Mohamed Saleh Medjram, Sreekumar Kurungot, Sabine Szunerits, Rabah Boukherroub;
+On Demand Electrochemical Release of Drugs from Porous Reduced Graphene Oxide Modified Flexible Electrodes
+,
+Journal of Materials Chemistry B,
+2017
+,
+5
+,
+6557-6565
+.
+Sorout Shalini, Shubhangi Aggarwal, Santosh K. Singh, Malvika Dutt, Thallaseril G. Ajithkumar, Ramanathan Vaidhyanathan;
+10000-Fold Enhancement in Proton Conduction by Doping of Cesium Ions in a Proton-Conducting Zwitterionic Metal-Organic Framework
+,
+European Journal of Inorganic Chemistry
+,
+2016
+,
+DOI:
+10.1002/ejic.201600364.
+Barun Dhara, Subrahmanyam Sappati, Santosh K. Singh, Sreekumar Kurungot, Prasenjit Ghosh, Nirmalya Ballav;
+Coordination Polymers of Fe(III) and Al(III) Ions with TCA Ligand: Distinctive Fluorescence, CO2 Uptake, Redox-Activity and Oxygen Evolution Reaction
+,
+Dalton Transactions
+,
+2016
+,
+45,
+6901-6908.
+Jing Liu, Ranhua Xiong, Toon Brans, Saskia Lippens, Eef Parthoens, Francesca Cella Zanacchi, Raffaella Magrassi, Santosh K. Singh, Sreekumar Kurungot, Sabine Szunerits, Hannelore Bové, Marcel Ameloot, Juan C Fraire, Eline Teirlinck, Sangram Keshari Samal, Riet De Rycke, Gaëlle Houthaeve, Stefaan C De Smedt, Rabah Boukherroub And Kevin Braeckmans;
+Repeated Photoporation with Graphene Quantum Dots Enables Homogeneous Labeling of Live Cells with Extrinsic Markers for Fluorescence Microscopy
+,
+Light: Science & Applications
+,
+2018
+,
+7
+, 47.
+DOI:
+10.1038/s41377-018-0048-3
+Fereshteh Chekin, Vladyslav Myshin, Ran Ye, Sorin Melinte, Santosh K. Singh, Sreekumar Kurungot, Rabah Boukherroub, Sabine Szunerits
+;
+Graphene-modified Electrodes for Sensing Doxorubicin Hydrochloride in Human Plasma,
+Analytical and Bioanalytical Chemistry
+,
+2019
+,
+DOI:
+10.1007/s00216-019-01611-w
+.
+Debanjan Chakraborty, Shyamapada Nandi, Rajith Illathvalappil, Dinesh Mullangi, Rahul Maity, Santosh K. Singh, Sattwick Haldar, Chathakudath P. Vinod, Sreekumar Kurungot and Ramanathan Vaidhyanathan;
+Carbon Derived from Soft Pyrolysis of a Covalent Organic Framework as a Support for Small-Sized RuO2 Showing Exceptionally Low Overpotential for Oxygen Evolution Reaction,
+ACS Omega
+,
+2019
+,
+DOI:
+10.1021/acsomega.9b01777
+.
+Narugopal Manna, Nadeema Ayasha, Santosh K. Singh, Sreekumar Kurungot;
+A
+NiFe Layered double hydroxide-Decorated N-Doped Entangled-Graphene Framework: A Robust Water Oxidation Electrocatalyst
+,
+Nanoscale Advances,
+2020
+,
+2
+, 1709 – 1717.
+Full list of publications:
+https://scholar.google.com
+
+Books and Book Chapters:
+Invited Lectures, Talks, Conference Presentations
+Invited talk at
+Indian Institute of Technology, Roorkee (IITR), India
+held on 21st April-2021 on the occasion of Ruby Jubilee Lecture Series (
+Talk title: Power to Hydrogen: Catalysis to Technology Development)
+Plenary lecture at “
+International Workshop on Clean and Sustainable Energy Storage/Conversion”
+organised by Chaudhary Ranbir Singh University, Jind, India held on
+March 17-19, 2021
+.
+Oral presentation in the
+122nd catalysis Society of Japan (CSJ) meeting
+held on 26th to 28th September-2018 at
+Hakodate, Japan
+.
+Participated in “
+ElecNano
+” International Conference May 23–25, 2016 Organized in Lille,
+France
+.
+Poster Presentation during
+11th ISEAC International Discussion Meet on Electrochemistry and its Applications
+, February 20-25, 2014, Hotel Radisson Blue, Amritsar, India.
+Poster Presentation at National Chemical Laboratory, Pune, India on
+Science Day
+Organized on 28-February-2015.
+Participated in One day Workshop held on “
+IP Licensing with a focus on Patents
+” organized at National Chemical Laboratory, India on 17-January-2015.
+Poster Presentation at “
+Fifth International Conference on Electroactive Polymers: Materials and Devices (ICEP-2012)”
+held at Banaras Hindu University, India during 04-November-2012.
+Participated in Science Day Quiz Competition held at the University of Delhi, India on 31 March-2011 Organized on the Occasion of “
+Celebration of International Year of Chemistry-2011
+”.
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances:
+Demonstration of 3D Printed Electrodes for Next-generation Energy Devices ("Nextgen-Cell"), Ashish Gupta (PI), Start-up Research Grant-SERB (INR ~3154520 INR) (2 Years).

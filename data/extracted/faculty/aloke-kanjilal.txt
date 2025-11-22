@@ -2,8 +2,7 @@ Aloke Kanjilal
 School of Natural Sciences
 Department of Physics
 
-Research Interest
---------------------------------------------------------------------------------
+Research Interest:
 Interests are interdisciplinary in nature and deal with a variety of outstanding problems in science and technology. The efforts are centered on physics and engineering, involving ideas, techniques, and conundrums from other fields such as material science, ion beam physics, optics, magnetism, and chemistry. The motivations are the following:
 Synthesis and (structural, optical, transport or magnetic) characterization of nanostructures (such as quantum dots, nanotubes, nanowires, nanorods, nanocrystals etc.), thin films, and/or low-dimensional heterostructures, and composite materials
 Integration of the nanoscale materials including 2D materials for developing powerful electronic, photonic, optoelectronic and magnetic devices
@@ -14,13 +13,11 @@ Research Areas Surface and Nano Science
 Know more:
 Click here
 
-Education
---------------------------------------------------------------------------------
+Education:
 Ph.D., Indian Institute of Technology (IIT), Delhi
 M.Sc., Indian Institute of Technology (IIT), Delhi
 
-Work Experience
---------------------------------------------------------------------------------
+Work Experience:
 Professor
 July 2019 onward,
 Department of Physics, School of Natural Sciences, Shiv Nadar University, Gautam Buddha Nagar, Uttar Pradesh, India.
@@ -42,8 +39,7 @@ May 2003 – March 2004, Nanomaterials Laboratory, National Institute for Materi
 Assistant Research Professor in Semiconductor Nanostructures
 February 2002 – April 2003, Department of Physics and Astronomy, University of Aarhus, Denmark
 
-Awards
---------------------------------------------------------------------------------
+Awards:
 2020
 , Outstanding Research Award during The Circle of Excellence Award Ceremony held on April 6, 2021 on the special occasion of 10th anniversary celebration of Shiv Nadar University
 2016
@@ -59,8 +55,7 @@ Awards
 1995
 , Merit-cum-Means award granted by Indian Institute of Technology (IIT), Delhi, India
 
-Journal Publications
---------------------------------------------------------------------------------
+Journal Publications:
 “
 Tailoring Structural, Chemical, and Photocatalytic Properties of ZnO@β-SiC Composites: Effect of Annealing Temperature and Environment
 ” Bisweswar Santra, Saptarshi Pal, Sabyasachi Saha,
@@ -410,8 +405,7 @@ Temporal evolution of nanoporous layer in off-normally ion irradiated GaSb
 A. Kanjilal
 , S. K. Garg, P. K. Sahoo, D. Kanjilal, T. Som, J. Appl. Phys. 115, 123515 (2014).
 
-Books and Book Chapters (Authored / Edited / Reviewed)
---------------------------------------------------------------------------------
+Books and Book Chapters (Authored / Edited / Reviewed):
 “Germanium quantum dots in SiO2: fabrication and characterization”
 A. N
 ylandsted Larsen,
@@ -431,8 +425,7 @@ Walnut Publisher, 2023
 , ISBN 978-195730264-5
 .
 
-Invited Lectures, Talks, Conference Presentations
---------------------------------------------------------------------------------
+Invited Lectures, Talks, Conference Presentations:
 National Advisory Committee Member of 1st National Conference on Mapping the “Materials Genome” at Shiv Nadar University, 8-10 March, 2013.
 “
 Blue-violet electroluminescence of Er-doped SiO2 with Ge nanocrystals
@@ -599,8 +592,7 @@ Opportunities and challenges of ZnO-SiC nanocomposites for frontier applications
 Opportunities and challenges of carbon doping in alumina for radiation dosimetry
 ” at the Workshop of TCAD based Modelling & Simulation of Advanced Semiconductor Devices at SNIoE on 24th Jan. 2023 (Invited talk).
 
-Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances
---------------------------------------------------------------------------------
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances:
 Funding agency: Equipment grant from Alexander von Humboldt Foundation (V-8151/15008 /3.4–INI/Kanjilal/2015)
 Project title:Study the dewetting property of chemically etched Si nanopillars
 Investigator:Aloke Kanjilal (PI)
@@ -639,7 +631,6 @@ dosimetry
 Investigator: Aloke Kanjilal (PI), Mukul Gupta (PC)
 Duration: 3 years (ongoing)
 
-Patents / Copyright (filed / granted)
---------------------------------------------------------------------------------
+Patents / Copyright (filed / granted):
 “Verfahren zur Herstellung von SiC basierenden Dünnfilm Solarzellen mit erhöhter Effizienz” by M. Voelskow, A. Kanjilal and W. Skorupa, Deutsches Patent und Markenamt, Bundesrepublik Deutschland, DE 10 2009 055 215 A1 2011.09.29.
 “Verfahren zur Herstellung von Halbleiterstrukturen auf Silizium-Germanium-Basis mit erhöhter Effizienz” by M. Voelskow, A. Kanjilal and W. Skorupa, Deutsches Patent und Markenamt, Bundesrepublik Deutschland, DE 10 2008 035 846 A1 2010.02.04.

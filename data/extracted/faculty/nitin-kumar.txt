@@ -1,0 +1,30 @@
+Nitin Kumar
+School of Engineering
+Department of Computer Science and Engineering
+
+Education:
+Phd IIT Bombay
+M.E. IISc Bengluru
+B.Tech. NIT Warangal
+
+Work Experience:
+Senior Research Engineer at Philips Research Bengaluru Nov. 2021-March 2023
+Assistant Professor at LNMIIT Jaipur Feb. 2019 – October 2021
+Research Project  Associate Aditya Image Information Technologies Aug. 2014 – May 2018
+Member of Technical Staff at VMware Software India Pvt. Ltd., Bengaluru Aug. 2013 – July 2014
+
+Research Interest:
+Machine Learning
+Medical Image Computing
+Computer Vision
+Graph Representation Learning
+To learn more about my work, visit:
+https://nitinnazkani.github.io/nitinnazkani/
+
+National and International Recognition:
+In top 10 (0.3%) finalists for best paper award at IEEE International Conference on Image Processing (ICIP) -2017
+Recipient of travel grants from MICCAI, ICIP, MedImage societies
+
+Academic Achievements:
+AIR 51 out of 1,36,027 (99.97 percentile) in CSE GATE-2011
+AIR 1180 and 7194 in AIEEE-2003 and IIT-JEE 2003

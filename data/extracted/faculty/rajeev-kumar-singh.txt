@@ -1,0 +1,37 @@
+Rajeev Kumar Singh
+School of Engineering
+Department of Computer Science and Engineering
+
+Research Interest:
+Communication Enginnering, Mathematical Modeling, Data Science, and Computational Finance
+
+Education:
+2016, Ph.D., Computer Science & Technology, Jawaharlal Nehru University
+2003, M.Tech., Computer Science & Technology, Jawaharlal Nehru University
+2000, Bachelor of Information Science, Delhi University
+
+Work Experience:
+2016-Present, Associate Professor and Associate Dean, Shiv Nadar University, Delhi-NCR
+2013-2016, Assistant Professor and Assistant Dean, Shiv Nadar University, Delhi-NCR
+2008-2012, Assistant Professor and UG advisor, Shiv Nadar University, Delhi-NCR
+2007-2008, Assistant Professor, Galgotias College of Engineering and Technology, Greater Noida
+2006-2007, Assistant Professor, IMS Engineering College, Ghaziabad
+2005-2006, Business Development Manager, CL Educate, Delhi
+2004-2005, Operations Manager, MeritNation.com, Delhi
+2002-2004, Operations Manager, IMS Learning Resources Pvt Ltd, Delhi
+
+Awards:
+Excellence Award at Shiv Nadar University in the year 2014.
+Best Faculty Award 2016-17 from Cognizant.
+
+Journal Publications:
+1. Rajeev Kumar Singh, Rohan Gorantla, Sai Giridhar Rao Allada, Pratap Narra SkiNet: A deep learning framework for skin lesion diagnosis with uncertainty estimation and explainability Plos one 17 2022.
+2. Rajeev Kumar Singh, Rohan Pandey, Rishie Nandhan Babu COVIDScreen: explainable deep learning framework for differential diagnosis of COVID-19 using chest X-rays Neural Computing and Applications 33 2021.
+3. Rajeev Kumar Singh, Sonia Khetarpaul, Rohan Gorantla, Sai Giridhar Allada SHEG: summarization and headline generation of news articles using deep learning Neural Computing and Applications 33 2021.
+4. Rajeev Kumar Singh, Rohan Gorantla DMENet: diabetic macular edema diagnosis using hierarchical ensemble of CNNs Plos one 15 2020.
+5. Gorantla Rohan, Singh Rajeev Kumar, Pandey Rohan, Jain Mayank Cervical Cancer Diagnosis using CervixNet - A Deep Learning Approach Publisher: IEEE 2019.
+6. Santosh Kumar, Rajeev Kumar Singh, Karmeshu Exact distributions for bit error rate and channel capacity in free-space optical communication IET communications 13 2019.
+7. Rajeev Kumar Singh, Santosh Kumar, Karmeshu A New Approximation for PDF of K Distribution: Analytical Study of QoS Parameters in Free Space Optical Communication IET communications 2018.
+8. Rajeev Kumar Singh Exact analytical BER expression in FSO using ?-? distribution proposed as an approximation of gamma-gamma PDF Publisher: IEEE 2018.
+9. Rajeev Kumar Singh, Santosh Kumar A novel approximation for k distribution: Closed-form ber using dpsk modulation in free-space optical communication IEEE Photonics Journal 9 2017.
+10. Tarun Kumar, Rajeev Kumar Singh Analysis of compiler optimization techniques by using feature mining technique "Publisher IEEE" 2015.

@@ -1,0 +1,588 @@
+Anjan Barman
+School of Natural Sciences
+Department of Physics
+
+Research Interest:
+Ultrafast spin, charge, and phonon dynamics studied using femtosecond optical pump–probe techniques.
+Brillouin light-scattering spectro-microscopy of spin-wave dispersion and propagation in advanced magnetic structures and devices.
+Broadband and spin-torque ferromagnetic resonance investigations of spin waves and pure spin current.
+Magnonics: from conventional approaches to hybrid and quantum magnonic systems.
+Spin-orbitronics: pure spin currents, spin Hall effect, spin pumping, Dzyaloshinskii–Moriya interaction, and perpendicular magnetic anisotropy.
+Spintronics with quantum materials.
+Magnetic straintronics.
+Spin-texture-driven magnonics and spintronics, including magnetic domain walls, vortices, skyrmions, and artificial spin ice.
+THz time-domain spectroscopy of thin films and nanostructures.
+Dielectric relaxation spectroscopy of binary mixtures.
+Coherent control of ultrafast processes via optical pulse shaping.
+
+Education:
+Ph.D. in Science from Indian Association for the Cultivation of Science (Jadavpur University) in 1999.
+M.Sc. in Physics from University of Calcutta in 1992.
+
+Work Experience:
+01/07/17 – Present: Senior Professor, Department of Condensed Matter and Materials Physics, S. N. Bose National Centre for Basic Sciences, Kolkata 700106, India.
+01/07/13- 30/06/17: Professor, Department of Condensed Matter Physics and Material Sciences, S. N. Bose National Centre for Basic Sciences, Kolkata 700106, India.
+15/05/09 – 30/06/13: Associate Professor, Department of Condensed Matter Physics and Material Sciences, S. N. Bose National Centre for Basic Sciences, Kolkata 700106, India.
+20/12/06 – 14/05/09: Assistant Professor, Department of Physics, IIT Delhi, New Delhi 110016, India.
+05/2008-03/2023:  Visiting Scientist, RIKEN, Saitama, Japan.
+03/07/06 – 01/12/06: Research Assistant Professor, Department of Physics and Astronomy, University of South Carolina, Columbia, SC 29208, USA.
+21/07/05-01/07/06: Postdoctoral Employee, School of Engineering University of California, Santa Cruz, USA.
+01/02/04-19/07/05: Postdoctoral Research Fellow, School of Chemistry University of Leeds, UK.
+01/02/01-31/01/04: Postdoctoral Research Fellow, School of Physics, University of Exeter, UK.
+20/04/00-31/01/01: Lecturer of Physics: V. S. College, Vidyasagar University, India.
+02/07/99-31/01/00: Postdoctoral Fellow: Physics Department, Technion, Haifa, Israel.
+
+Awards:
+Elected Fellow of Indian National Science Academy (2026).
+Royal Society Wolfson Visiting Fellowship by Royal Society, UK in 2023.
+DAE-C. V. Raman Lecture by Indian Physics Association in 2023.
+Featured in Top 2% Most Cited Scientists’ list released by Stanford-Elsevier from 2020-2024.
+Elected Fellow of the Institute of Physics, London (2021).
+Elected Fellow of the Indian Academy of Sciences (2020).
+MRSI Medal in 2017 by Materials Research Society of India.
+UKIERI Standard Research Award, 2012.
+UKIERI Standard Research Award, 2008.
+JSPS (Japan Society for the Promotion of Science) Fellowship in December 2003.
+Chartered Physicist (CPhys) of Institute of Physics, London in May 2002.
+
+National and International Recognition:
+Program Committee Member of INTERMAG 2026, Manchester, UK.
+International Advisory Committee Member of International Colloquium on Magnetic Thin Films and Surfaces 2027 (ICFMS-2027) at Puerto Rico, USA.
+International Advisory Committee Member of International Colloquium on Magnetic Thin Films and Surfaces 2024 (ICMFS-2024) at Perugia, Italy.
+Program Committee Member of INTERMAG 2023 at Sendai, Japan.
+Program Committee Member of 68th Annual Conference on Magnetism and Magnetic Materials 2023 (MMM 2023) at Texas, USA.
+International Advisory Committee Member of 24th International Colloquium on Magnetic Thin Films and Surfaces 2022 (ICMFS-2022) at Okinawa, Japan.
+Program Committee Member of International Conference on Microwave Magnetics 2022 (ICMM-2022) at Beijing, China.
+Program Committee Member of International Colloquium on Magnetic Thin Films and Surfaces 2018 (ICMFS-2018), University of California, Santa Cruz, USA.
+Program Committee Member of Magnetism and Magnetic Materials (MMM) Conference in 2014 at Hawaii, USA.
+2025 – ongoing: Member of the Technical Program Committee (TPC) of Physical Sciences I of ARG, Anusandhan National Research Foundation (ANRF).
+2024 – ongoing: DPR Committee Member and Project Review Committee Member for the Thematic HUB on ‘Quantum Materials and Devices’ of National Quantum Mission.
+2025 – ongoing: Member of the Subject Expert Committee for Physical Sciences for the Prime Minister Early Career Research Grant (PMECRG) program of ANRF.
+2024 – ongoing: INSPIRE Faculty Fellowship selection committee member.
+2022-2024: Sectional Committee Member (Physics) of Indian Academy of Sciences, Bangalore.
+November 2021 - ongoing: Dean (Faculty) at the S. N. Bose Centre, Kolkata.
+October 2017 to October 2021: Associate Dean (Faculty) at the S. N. Bose Centre, Kolkata.
+Member of the Faculty Selection Committee of Various Universities/ Institutes.
+
+Memberships:
+Member of the American Physical Society.
+Member (Fellow) of IOP.
+Member of IEEE.
+Life Member of MRSI.
+
+Journal Publications:
+Harnessing GHz Frequency Spin-Orbit Torque for Spin-Wave Amplification in Nanomagnets,Pratap Kumar Pal, Raisa Fabiha, Amrit Kumar Mondal, Supriyo Bandyopadhyay, and
+Anjan Barman
+,
+Advanced Functional Materials
+e22422 (2025).
+Electrical control of ultrafast magnetic speeds in graphene spin-field-effect junctions, David Muradas Belinchón
+Ϯ
+, Suchetana Mukhopadhyay
+Ϯ
+, Francesco Foggetti, Surya N. Panda, Olof Karis, Peter M. Oppeneer,
+Anjan Barman
+*
+, and M. Venkata Kamalakar
+*
+,
+Physical Review Letters
+135
+, 097001 (2025); Selected as Editor’s Suggestion and Cover Article of PRL.
+Deciphering Interfacial Dzyaloshinskii-Moriya Interaction in Transition-Metal Dichalcogenide/Permalloy Heterostructures by Brillouin Light Scattering and First-Principles Calculations, S. Pal, M. Nur Hasan, H. Bangar, N. Salehi, M. Pereiro, P. Thunstrӧm, P. K. Muduli, D. Karmakar and
+Barman
+,
+ACS Nano
+19
+, 23564–23574 (2025).
+Spin Pumping in Magnetostrictive Galfenol Interfaced with Ta, Ajit Kumar Sahoo, Suchetana Mukhopadhyay, Bikram Baghira, Jeyaramane Arout Chelvane, Jyoti Ranjan Mohanty and
+Anjan Barman
+,
+Advanced Functional Materials
+2424006 (2025).
+Room Temperature Evolution of Laser Induced Ultrafast Spin and Phonon Dynamics in 2D van der Waals Magnets FexGeTe2 (x = 3, 4, 5), Arundhati Adhikari, Bipul Kumar Mahato, Sourav Sahoo, Suchetana Mukhopadhyay, Mainak Palit, Satyabrata Bera, Subhadeep Datta, Mintu Mondal and
+Anjan Barman
+,
+Advanced Functional Materials
+35
+, 2418006 (2025).
+Role of Spin Transport on Ultrafast Spin Dynamics in Magnetic Weyl Semimetal (Co
+2
+MnGa)/Pt Heterostructures with High Spin-Mixing Conductance, Soma Dutta, Surya Narayan Panda, Anastasios Markou, Claudia Felser, Edouard Lesne and
+Anjan Barman
+,
+Advanced Functional Materials
+35
+, 2413194 (2024).
+Ion-pairing propensity in guanidinium salts dictates their protein (de)stabilization behaviour, Ria Saha, Subhadip Chakraborty, Krishnendu Sinha, Partha Pyne, Shreya Pal,
+Anjan Barman
+, Suman Chakrabarty and Rajib Kumar Mitra,
+Journal of Physical Chemistry Letters
+15
+, 10341 (2024).
+Brillouin Light Scattering Spectral Fingerprinting of Magnetic Microstates in Artificial Spin Ice, Amrit Kumar Mondal, Avinash Kumar Chaurasiya, Kilian D. Stenning, Alex Vanstone, Jack. C. Gartside, Will. R. Branford and
+Anjan Barman
+,
+Nano Today
+59
+, 102497 (2024).
+Femtosecond Laser-Induced Transient Magnetization Enhancement and Ultrafast Demagnetization Mediated by Domain Wall Origami, Amrit Kumar Mondal, Suchetana Mukhopadhyay, Peter Heinig, Ruslan Salikhov, Olav Hellwig, and
+Anjan Barman
+,
+ACS Nano
+18
+, 16914 (2024).
+All-Optical Observation of Giant Spin Transparency at the Topological Insulator BiSbTe
+5
+Se
+1.5
+/Co
+20
+Fe
+60
+B
+20
+Interface, Suchetana Mukhopadhyay, Pratap Kumar Pal, Subhadeep Manna, Chiranjib Mitra,
+Anjan Barman
+,
+NPG Asia Materials
+15
+, 57 (2023).
+Formation of Binary Magnon Polaron in a two-dimensional artificial magneto-elastic crystal, Sudip Majumder, J. L. Drobitch, Supriyo Bandyopadhyay and
+Anjan Barman
+,
+NPG Asia Materials
+15
+, 51 (2023).
+Acousto-Plasmo-Magnonics: Coupling Spin Waves with Hybridized Phonon-Plasmon Waves in a Two-dimensional Artificial Magnonic Crystal, Sreya Pal, Pratap Kumar Pal, Raisa Fabiha, Supriyo Bandyopadhyay and
+Anjan Barman
+,
+Advanced Functional Materials
+33,
+2304127 (2023).
+Spin Wave Electromagnetic Nano‐Antenna Enabled by Tripartite Phonon‐Magnon‐Photon Coupling, Fabiha, J. Lundquist, S. Majumder, E. Topsakal,
+A. Barman
+and S. Bandyopadhyay,
+Advanced Science
+9
+, 2104644 (2022).
+Magnetic Straintronics: Manipulating the Magnetization of Magnetostrictive Nanomagnets with Strain for Energy‐ Efficient Applications, S. Bandyopadhyay, J. Atulasimha and
+Barman
+,
+Applied Physics Reviews
+8
+, 041323 (2021).
+Comparison of Spin-Wave Modes in Connected and Disconnected Artificial Spin Ice Nanotructure using Brillouin Light Scattering Spectroscopy, Avinash Kumar Chaurasiya, Amrit Kumar Mondal, Jack C. Gartside, Kilian D Stenning, Alex Vanstone, Saswati Barman, Will R. Branford, and
+Anjan Barman
+,
+ACS Nano
+15
+, 11734 (2021).
+Observation of Coherent Spin Waves in a Three-Dimensional Artificial Spin Ice Structure, Sourav Sahoo, Andrew May, Arjen van Den Berg, Amrit Kumar Mondal, Sam Ladak and
+Anjan Barman
+,
+Nano Letters
+21
+, 4629 (2021).
+Voltage Controlled On-Demand Magnonic Nanochannels, S. Choudhury, A. K. Chaurasiya, A. K. Mandal, B. Rana, K. Miura, H. Takanashi, Y. Otani and
+Barman
+,
+Science Advances
+6
+, eaba5457 (2020).
+All Optical Detection of Spin Transparency by Spin Pumping in β-Ta/CoFeB Thin Films, S. N. Panda, S. Mondal, J. Sinha, S. Choudhury and
+Barman
+,
+Science Advances
+5
+, eaav7200 (2019).
+Efficient Modulation of Spin Waves in Two-Dimensional Octagonal Magnonic Crystal, Choudhury, S. Barman, Y. Otani, and
+A. Barman
+,
+ACS Nano
+11
+, 8814 (2017).
+Field Dependent Spin Waves in High Aspect Ratio Single Crystalline Ferromagnetic Nanowires, Pal, S. Saha, M. V. Kamalakar, and
+A. Barman
+,
+Nano Research
+9
+, 1426 (2016).
+Tunable Magnonic Spectra in Two dimensional Magnonic Crystals with Variable Lattice Symmetry, S. Saha, R. Mandal, S. Barman, D. Kumar, B. Rana, Y. Fukuma, S. Sugimoto, Y. Otani and
+Barman
+,
+Advanced Functional Materials
+23
+, 2378 (2013).
+Optically Induced Tunable Magnetization Dynamics in Nanoscale Co Antidot Lattices. Mandal, S. Saha, D. Kumar, S. Barman, S. Pal, B. Rana, K. Das, A. K. Raychaudhuri, Y. Fukuma, Y. Otani, and
+A. Barman
+,
+ACS Nan
+o
+6
+, 3397 (2012).
+Detection of picosecond magnetization dynamics of 50 nm magnetic dots down to the single dot regime, Rana, D. Kumar, S. Barman, S. Pal, Y. Fukuma, Y. Otani and
+A. Barman
+,
+ACS Nano
+,
+5
+, 9559 (2011).
+Dynamics of coupled vortices in a pair of ferromagnetic disks, Sugimoto, Y. Fukuma, S. Kasai, T. Kimura,
+A. Barman
+and Y. Otani,
+Physical Review Letters
+106
+, 197203 (2011).
+Magneto-optical observation of picosecond dynamics of single nanomagnets,
+Barman
+, S. Wang, J. Maas, A. R. Hawkins, S. Kwon, A. Liddle, J. Bokor, and H. Schmidt
+,
+Nano Letters
+6
+, 2939 (2006).
+
+Invited Lectures, Talks, Conference Presentations:
+Distinguished/Keynote/Plenary Lectures
+Ultrafast Magnetization Dynamics in 2D Material/Ferromagnet Heterostructures,
+A, Barman
+, 12
+th
+DAE BRNS Theme Meeting on Ultrafast Science (UFS 2025) at IIT Hyderabad, 13-15 Nov. 2025.
+Ultrafast Spin Dynamics in Ferromagnetic Thin Films and Heterostructures,
+Barman
+, DAE - C. V. Raman Lecture of Indian Physics Association at IISER Kolkata, Mar. 22, 2023.
+Ultrafast Spin Dynamics in Confined Ferromagnetic Systems for Applications in Spintronics and Magnonics,
+Barman
+, Infosys Condensed Matter Seminar, Tata Institute of Fundamental Research Mumbai, Oct. 17, 2022.
+Femtosecond Laser Induced Spin Dynamics in Ferromagnetic Thin Films and Heterostructures: Towards Ultrahigh Speed Spintronics,
+Barman
+, Ultrafast Science (UFS 2021), UM-DAE Centre for Excellence in Basic Mumbai, Nov. 12-14 2021.
+Ultrafast Spin-Orbit Effects in ferromagnet/Nonmagnet Thin Film Heterostructures,
+Barman
+, ICMAGMA 2018, NISER Bhubneswar, 9-13 Dec., 2018.
+Investigation of Spin Dynamics using All-Optical Techniques,
+Barman
+, Durham UKIERI Workshop on Magnetization Processes, Durham University, UK, 19-20 Mar., 2015.
+Microwave Applications of Magnetic Metamaterials,
+Barman
+, Spintronics and Advanced Magnetic Materials, TEQIP Workshop, IIT Hyderabad, 15-16 Nov., 2014.
+All-Optical Excitation and Detection of Ultrafast Spin Dynamics in Magnetic Thin Films and Nanostructures,
+Barman
+, IONS-Asia 6, Optical Society of America, IIT Kharagpur, 10-12 Dec., 2014.
+Optically Induced Ultrafast Magnetization Dynamics in Ferromagnetic nanostructures,
+Barman
+, IUMRS-ICYRAM Conference, Singapore, 1-6 July 2012.
+Invited Talks
+All-Optical Study of Ultrafast Magnetization Dynamics in Quantum Material/Ferromagnet Heterostructures,
+Barman
+, India-UChicago Workshop on Quantum Materials, UChicago Centre, New Delhi, 27-28 Mar. 2025.
+Ultrafast Magnetization Dynamics in 2D Material/Ferromagnet Heterostructures,
+Barman
+, QMAT2024, IIT Guwahati, 20-23 Dec. 2024.
+Hybrid Magnonics Using Nanoscale Magnetic Structures,
+Barman
+, The 14
+th
+Annual Symposium on Magnetics, ABS-LT8, Nanyang, Singapore, 14-15 Oct. 2024.
+Role of Spin Texture on Magnetization Dynamics in Magnetic Thin Films and Nanostructures,
+Barman
+, International Workshop on Materials and Devices for Post-CMOS Computing, INST Mohali, 21-22 Oct. 2024.
+Spin Texture Driven Magnetization Dynamics in Magnetic Nanostructures,
+Anjan Barman
+, 35
+th
+Mid-Year Meeting of Indian Academy of Sciences, IISc Bangalore, 28-29 June, 2024.
+Nanoscale Hybrid Magnonics,
+Barman
+, ICQT 2023, Moscow, July 12, 2023.
+Ultrafast Spin Manipulation in Ferromagnetic Thin Films and Heterostructures,
+Barman
+, IHUB Quantum Technology Foundation Seminar, IISER Pune, Mar. 23, 2023.
+Spin Dynamics in Engineered Ferromagnetic Systems for Applications in High-Speed Spintronics and Magnonics,
+Barman
+, Seminar at ETH Zurich, February 6, 2023.
+Magnonics in Artificial Spin Ice System,
+Barman
+, APS March Meeting, Chicago, Illinois, USA, 14-18 March, 2022.
+Ultrafast Spin Dynamics and Spin Waves in Graphene/Ferromagnetic Thin Film Heterostructures,
+Barman
+, Symposium on Spintronics and Quantum Information, Adam Mickiewicz University, Poznan, Poland, 22 Oct. 2021.
+Interfacial spin-orbit effects in magnonics and spintronics,
+A Barman
+, International Conference on Materials for Humanity (MH-21), Materials Research Society Singapore, July 6-9, 2021.
+Ultrafast Spin Dynamics in Ferromagnetic Thin Films and Heterostructures,
+Barman
+, Magnonics 2019 Conference, Carovigno, Italy, 28 July to 1
+st
+Aug, 2019.
+Ultrafast Spin Dynamics in ferromagnetic Thin Films and Nanostructures for Applications in Spintronics and Magnonics,
+Barman
+, Physics Department Colloquium, IIT Kanpur, 16
+th
+Mar., 2018.
+Investigation of Ultrafast Spin Dynamics in Nanomagnets Towards Application in Nanoscale Magnonics,
+Barman
+, Indo-US Workshop on Recent Advances in Magnetism and Spintronics, IIT Bombay, 5-6 Feb., 2018.
+Ultrafast Magnetization Dynamics in Artificially Structured Ferromagnetic Nanomaterials for Applications in Spintronics and Magnonics,
+Barman
+, MRSI Medal Lecture, IIT Bombay, 13-15 Feb., 2017.
+Seeing and Tailoring Spin Dynamics on Ultrafast Time Scale,
+Barman,
+Institute Seminar, NISER, Bhubneswar, 8 Dec., 2016.
+Interface Controlled Magnetization Dynamics in Ferromagnet/Nonmagnet Bilayer Thin Films,
+Barman
+, Indo-Japan Workshop on Magnetism at the Nanoscale, Sendai, Japan, 1-2 Dec., 2016.
+Optical, Thermal and Spin Torque Induced Magnetization Dynamics in Ferromagnetic Nanostructures and FM/NM Bilayers,
+Barman
+, IUMRS-ICEM 2016 Conference, Suntec City, Singapore, 4-8 July, 2016.
+All-optical and Spin Torque Induced Spin Dynamics in Two Dimensional Magnonic Crystals and Ferromagnetic/Nonmagnetic Bilayers,
+Barman
+, Magnonics 2015, Kloster Seeon, Germany, 2-6 Aug., 2015.
+Optically Induced Spin Waves in Two-Dimensional Patterned Nanostructures,
+Barman
+, IEEE ICMM Conference, Sendai, Tohoku, Japan 29
+th
+June – 2
+nd
+July, 2014.
+All-optical excitation and detection of spin dynamics in magnetic nanostructures,
+Barman
+Department of Physical Sciences Seminar, IISER Kolkata, 4 Apr. 2012.
+Ultrafast Magnetization Dynamics in Magnetic Multilayers and nanomagnet Arrays,
+Barman
+, JST-DFG Workshop, Kaiserslautern, Germany, 4-6 Oct. 2010.
+Investigation of nanomagnet dynamics by time-resolved Kerr microscopy,
+Barman
+, JST-DFG workshop, RIKEN, Saitama, Japan, Oct. 1-2, 2009.
+Ultrafast excitation, detection and control of magnetization dynamics in single and arrays of nanomagnets,
+Barman
+, Magnonics: from fundamentals to applications, MPI, Dresden, 2-7
+th
+Aug. 2009.
+Ultrafast magnetization dynamics of nanomagnets,
+Barman
+, Indo-Japan workshop on novel magnetic ordering in nanostructured materials, University of Tokyo, Tokyo, 10-11
+th
+June, 2008.
+Ultrafast nanomagnets and their coherent control.
+Barman
+, School of Physics, University of South Carolina, Columbia, USA, summer seminar 2006.
+Ultrafast nanomagnets and their coherent control.
+Barman
+, School of Physics, University of California Santa Cruz, summer 2006.
+Imaging and coherent control of picosecond magnetization dynamics in magnetic nanostructures
+.
+Barman
+, University of Southampton, UK, 6
+th
+June 2005.
+
+Sponsored Research Projects / Consultancy / Creative Work / Exhibitions and Performances:
+Ongoing
+Development of strongly spin-orbit coupled topological quantum hetero-structures for spintronic application.
+Funding Agency: Nano Mission, DST, India
+Principal Investigators: Anjan Barman and Indranil Sarkar (INST Mohali)
+Total Grant:
+Rs. 401.17 Lakh, 06.10.2021 (sanction date) 5 years
+.
+Two-dimensional Ferromagnetic and Organic Molecule Spinterfaces as Molecular Spin Qubits for Quantum Technologies and Energy Harvesting Applications.
+Funding Agency: I-HUB Quantum Technology Foundation, IISER Pune
+Principal Investigators: Anjan Barman
+Total Grant:
+Rs. 25,20,000
+, Sanction: 21.06.2023, 2 years
+Completed
+Project Title
+: Ultrafast Nanomagnetic Devices
+Funding agency: IIT Delhi.
+Principal Investigator: Anjan Barman
+Total grant:
+Rs. 6 Lakh
+, 2007, 2 years.
+Project Title
+: Spin-Wave and Domain Wall Dynamics in Vertical Magnetic Nanowires.
+Funding agency: UKIERI-DST (standard research award).
+Principal Investigator: Anjan Barman
+Total grant:
+Rs. 14.679 Lakh,
+Sanction: 30.04.2008, Completion: 14.06.2011.
+Project Title
+: Quasistatic and Ultrafast Magnetization Dynamics in Nanomagnet Arrays
+Funding agency: DST.
+Principal Investigator: Anjan Barman
+Total grant:
+Rs. 93 Lakh
+, Sanction: 15/04/2009, Completion: 30.06.2012.
+Project Title
+: DYNAMAG: Advanced Computational Studies of Dynamic Phenomena in Magnetic Nano-materials
+Funding agency: DST- European Commission (FP7).
+Co-ordinator: Anjan Barman, co-PI 03.
+Total grant:
+Rs. 169.208 Lakh
+(Indian side), Sanction: 19.06.2009, Completion: 31.03.2013.
+Project Title
+: Magnonic Crystals: New Paradigm Towards Microwave Communications
+Funding agency: DST-JST
+Principal Investigator: Anjan Barman
+Total grant:
+Rs.
+58.836 Lakh
+, Sanction: 28.07.2010, Completion: 27.07.2013.
+Project Title
+: Development of GHz Frequency Filters and Attenuators Using Nanoscale Magnonic Crystals
+Funding Agency: Department of Information Technology
+Principal Investigator: Anjan Barman
+Total Grant:
+Rs. 116.3 Lakh,
+Sanction: 03.02.2011, Completion: 28.02.2014.
+Project Title
+: Nano-Engineered Magnetic Materials for Spintronic Applications
+Funding agency: UKIERI DST Thematic Partnership 2012.
+Principal Investigator: Anjan Barman.
+Total grant:
+Rs. 13.52 Lakh
+, Sanction: 26.07.2013, Completion: 31.08.2015.
+Project Title
+: Thematic Unit of Excellence on Nanodevice Technology
+Funding Agency: Nano Mission, DST
+Convener: Anjan Barman.
+Total Grant:
+Rs. 834 Lakh
+, Sanction: 24.10.2011, Completion: 24.04.2017.
+Project Title:
+3D Nanomagnetic Crystal Fabrication for Advanced Microwave Devices and Water Treatment
+Funding Agency: EPSRC Global Challenges Research Fund jointly with Cardiff University, UK.
+Principal Investigators: Anjan Barman and Sam Ladak
+Total Grant:
+GBP 16K
+, 2016.
+Project Title
+: Nanoscale Modifications and Active Control of Magnonic Crystals for On-Chip Microwave Communication
+Funding agency: DST under India-Poland Collaborative Research Project
+Principal Investigator: Anjan Barman.
+Total Grant:
+Rs.
+14.46
+Lakh
+, Sanction: 20.04.2015, Completion: 30.04.2018.
+Project Title
+: High-Precision Spectro-Microscopy for Novel Materials
+Funding agency: S. N. Bose National Centre for Basic Sciences
+Convener: Anjan Barman, co-PI: 03.
+Total Grant:
+Rs. 437.966 Lakh
+, Sanction: 19.10.2012, Completion: 19.12.2017.
+Project Title
+: Time resolved measurements of spin dynamics in magneto-elastic systems
+Funding agency: SERB, DST, India
+Principal Investigator: Anjan Barman (VAJRA Faculty Scheme to support visit of Prof. Supriyo Bandyopadhyay from Virginia Commonwealth University, USA).
+Total Grant:
+Rs. 23.53 Lakh,
+Sanction: 22.05.2018, Completion: 17.08.2018.
+Project Title
+: Spin Dynamics in 2D Materials/Ferromagnet/Oxide Heterostructures
+Funding agency: S. N. Bose National Centre for Basic Sciences
+Principal Investigator: Anjan Barman.
+Total Grant:
+Rs. 25 Lakh
+, Sanction: 14.05.2018, Completion: 31.03.2021.
+Project Title
+: Center for Nanomagnetics for Energy Efficient Computing, Communications and Data Storage.
+Funding Agency: Indo-US Virtual Networked Centre (IUSSTF).
+Principal Investigators: Anjan Barman and Supriyo Bandyopadhyay
+Total Grant:
+Rs. 32.82 Lakh,
+Sanction: 13.09.2019, Completion:  30.09.2022.
+Development of Ordered Arrays of Metallic Structures as THz Components.
+Funding Agency: SNBNCBS, India
+Principal Investigators: Anjan Barman and Rajib Kumar Mitra
+Total Grant:
+Rs. 25 Lakh,
+Sanction: 24.01.2022, Completion: 23.07.2024.
+
+Media Articles:
+Researchers find ways for broader design & engineering of reconfigurable magnonic crystals that can transfer information more efficiently than electrons -
+Press Release by Department of Science and Technology
+[https://dst.gov.in/researchers-find-ways-broader-design-engineering-reconfigurable-magnonic-crystals-can-transfer].
+Stopping the energy runaway in computing, Alane Lim,
+AIP Scilight
+[
+https://doi.org/10.1063/10.0009032]
+.
+3. Electrically configured nanochannels eliminating unwanted energy can revolutionize on-chip data communication and processing in future -
+Press Release by Ministry of Science and Technology
+[https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1730912].
+Device for making all-magnetic computers,
+Nature India
+[
+doi:10.1038/nindia.2020.167], 26 October 2020.
+"Novel design of magnetic channels may cut down costs of transferring electronic signals" -
+Research Matters
+[https://researchmatters.in/news/novel-design-magnetic-channels-may-cut-down-costs-transferring-electronic-signals],
+3rd October 2020.
+Spintronics pave way for gen-next computing, Kalyan Ray,
+Deccan Herald [https://www.deccanherald.com/national/north-and-central/spintronics-pave-way-for-gen-next-computing-733668.html], May 13, 2019
+.
+7. Optical probe deciphers data storage potential of thin films,
+Nature India [
+doi:10.1038/nindia.2019.63] May 19, 2019.
+
+Oral Presentations:
+Poster Presentations:  More than 200 oral and poster presentations.
+Scholarly Services:
+Associate Editor of
+npj Spintronics
+(Springer-Nature).
+Editorial Board Member of
+Nanotechnology
+(IOPscience).
+Editorial Board Member of
+Pramana
+Journal of Physics
+(Springer) from 2021-2025.
+Editorial Board Member of
+Scientific Reports
+(Springer-Nature).
+Guest Editor of an Edited Volume in
+Springer-Nature
+.
+Guest Editor of Special Topic in Magnonics in
+Journal of Applied Physics
+(AIP).
+Guest Editor of “The 2021 Magnonics Roadmap” in
+Journal of Physics: Condensed Matter
+(IOP).
+Guest Editor of “Roadmap of 3D Nanomagnetism” in
+Journal of Physics: Condensed Matter
+(IOP).
+Guest-Editor of a special issue: “Synthesis, properties and applications of single domain magnetic nanoparticles” in
+Journal of Nanomaterials
+.
+
+Peer Review:
+Nature Nanotechnology, Nature Materials, Nature Communications, Science, Science Advances, Scientific Reports, NPG Asia Materials, Communication Physics, Nano Letters, ACS Nano, Advanced Materials, Advanced Functional Materials, Advanced Electronic Materials, Nanoscale, AIP Advances, Applied Physics Letters, Physical Review Letters, Physical Review B, Physical Review Applied, Nanotechnology, Review of Scientific Instruments, Crystal Growth & Design, Journal of Applied Physics, Journal of Physics D: Applied Physics, Journal of Physics: Condensed Matter, Journal of Magnetism and Magnetic Materials, IEEE Transactions on Magnetics, IEEE Transactions on Electron Devices, Solid State Communications, Physica B, Journal of Crystal Growth, J. Alloys and Compounds, Electrochemical Communications, Spectrochemica Acta, European Physical Journal, ACS Applied Materials and Interface, Europhysics Letters, Journal of Quantum Electronics, etc.
+
+Workshop:
+As sole/joint first organizer
+3rd International conference in the celebration of Centenary of Bose Statistics: Bose-Einstein Condensation, Superconductivity, Superfluidity and Quantum Magnetism, 12-16 November 2024 at Biswa Bangla Convention Centre, Kolkata.
+Kick Off Meeting of Collaboration between SNBNCBS and IITB at S. N. Bose Centre, 6-8 June 2022.
+Convener of ICONSAT 2020, Biswa Bangla Convention Centre, Kolkata, 5-7 Mar, 2020.
+Technical Chair and Co-organizer of International Workshop on Physics of Seminconductor Devices: IWPSD 2019, Novotel Hotel and Residency, Kolkata, 17-20 Dec, 2019.
+International Conference on Current Trends in Materials Science and Engineering (CTMSE-2019), 18-20 July, 2019.
+International Conference on Complex and Functional Materials (ICCFM 2018), 13-16 Dec, 2018.
+International Conference on Current Trends in Materials Science and Engineering (CTMSE-2018), 19-20 Jan, 2018.
+DAE-BRNS Theme Meeting on Ultrafast Science 2015 (UFS-2015). 19-21 Nov, 2015.
+Internal Kick-off Meeting of India-EU project DYNAMAG, 14 Sep, 2009.
+JNC Research Conference on Physics of New Materials, Kolkata in 16-18 Jan, 2010.
+Workshop on Spin Physics at S. N. Bose Centre under JST-DST, 7-8 Dec, 2011.
+As co-organizer
+9
+th
+IACS-APCTP Joint Conference on Novel Quantum Phases in Oxide Materials and Low Dimensional Systems, Vedic Village, Kolkata, 27-29 Nov, 2017.
+Emerging Trends in the Physics of Surfaces, Interfaces and Nanostructures (ETSPIN-2017), IACS and SNBNCBS, Kolkata, 24-25 Nov, 2017.
+Indo-Japan Workshop on Magnetism at the Nanoscale under DST-JSPS S&T Programme at Tohoku University, Sendai, Japan 1-2 Dec, 2016.
+Indo-Japan Workshop on Magnetism at the Nanoscale under DST-JSPS S&T Programme to be held in NISER Bhubneswar, 9-12 Jan., 2015.
+Two Day Conference on Advanced and Functional Materials at S. N. Bose Centre, 1-2 Mar., 2012.
+Conference on Functional Oxide and New Carbon Materials at S. N. Bose centre in 6-8 May, 2012.
+Workshop on Laser Spectroscopy and Nanophotonics at IIT Delhi in 2008.

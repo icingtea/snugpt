@@ -2,21 +2,18 @@ Aakash  Sinha
 School of Engineering
 Department of Electrical Engineering
 
-Education
---------------------------------------------------------------------------------
+Education:
 Masters in Robotics(2004),Carnegie Mellon University, GPA 3.7
 Certification, Tech Commercialization& Entrepreneurship(2013), Stanford Business School
 Bachelor ofElect. Engg.(2001) from Delhi College of Engg (DCE), Delhi, India.
 Know more:
 Click here
 
-Areas of Specialization
---------------------------------------------------------------------------------
+Areas of Specialization:
 Robotics, Innovation, Unmanned Vehicles, Artificial Intelligence, Computer
 Vision
 
-Work Experience
---------------------------------------------------------------------------------
+Work Experience:
 Founder/CEO,
 Omnipresent Robot Tech
 (May 2010 -
@@ -40,8 +37,7 @@ National Robotics Engg Consortium, CMU
 (Sept 2002 - Dec
 2003)
 
-Awards and Honours
---------------------------------------------------------------------------------
+Awards and Honours:
 DSTLockheed MartinStanford Innovation (IIGP) Gold Medal Winner 2013
 MIT TR 2013 ( top innovators under the aile of 35)
 US Defense, DARPA Robotics Grand Challenge 2005 finalist Medal
@@ -56,8 +52,7 @@ Outstanding Contribution in and Tech. award, All Journalist Association, India, 
 1st Prize at IEEE National level in hardware contest Troika2001
 Over 15 International Robotics related publications
 
-Select Publications
---------------------------------------------------------------------------------
+Select Publications:
 Research and development of Ro-boat: an autonomous river cleaning robot. Aakash Sinha ; Prashant Bhardwaj ; Bipul Vaibhav; Noor Mohommad. Proc. SPIE 9025, Intelligent Robots and Computer Vision XXXI: Algorithms and Techniques, 90250Q (February 3, 2014); doi:10.1117 /12.2037898
 Rgator: A Low-cost Multi-utility Autonomous Vehicle with Adaptive Sweep LIDAR System. In Proceedings of the Association for Unmanned Vehicles Systems Asia Pacific. Melbourne, Australia, October 2007.
 SimUGV: a general purpose simulator for analyzing energy dynamics and locomotion for unmanned ground vehicle (UGV), A. K. Sinha, PercepTek, Inc.; J. Vashishtha, Colorado School of Mines - Proceedings of SPIE Volume 6228-22 "Defense and Security Symposium ", Orlando, 2006.

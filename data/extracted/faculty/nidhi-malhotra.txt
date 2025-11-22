@@ -1,0 +1,70 @@
+Nidhi Malhotra
+School of Natural Sciences
+Department of Chemistry
+
+Education:
+PhD Chemistry (2012-2018): Indian Institute of Technology Delhi (IIT Delhi, with Prof. Shashank Deep)
+Thesis titled: Mechanistic insights into the effect of trehalose on stabilization and aggregation of proteins
+M.Sc. Chemistry (2010-2012): Indian Institute of Technology Delhi (IIT Delhi)
+B.Sc. (H) Chemistry (2007-2010): St. Stephens College, University of Delhi
+
+Work Experience:
+Post Doctoral Experience:
+1. University of Delaware, USA, with Dr. Juan Perilla
+2. Institute of Genomics and Integrative Biology (IGIB), Delhi, as NPDF,
+with Dr. Lipi Thukral
+3. International Centre for Genetic Engineering and Biotechnology, Delhi,
+with Dr. Dinesh Gupta
+Teaching Experience (Physical Chemistry, Environmental Chemistry):
+1. Guest Lecturer at St. Stephens College, University of Delhi
+2. Guest Lecturer at Shaheed Rajguru College of Applied Sciences for
+Women, University of Delh
+
+Research Interests:
+My research interests lie at understanding conformational dynamics of biomolecular interactions and their association with pathological diseases, using computational and experimental tools in synchrony. In my past research, I have explored molecular determinants of self-assembly of viruses, selfassembly of amyloidogenic proteins and their perturbation by external excipients by utilizing combination of bioinformatics, modelling, conventional and enhanced atomistic molecular dynamic (MD) simulations techniques such as umbrella sampling, steered MD, replica exchange MD; network analysis, genomics, artificial intelligence-based tools and in-vitro techniques. My current research is focused on understanding the functional basis of lysosome by constructing in-silico realistic lysosome machinery. In particular, identification of specific loci (protein-protein and protein-lipid) responsible for its functionality, exploration of signatures that bring alteration in disease patients and identification of lysosomal modulators with therapeutic implications.
+
+Academic Achievements/Awards:
+1.DST Inspire Faculty Fellowship 2023, by DST.
+2. Distinction in Doctoral Research award 2018, by IIT Delhi.
+3. Excellence in HPC-based Research Award 2019 by HPC, IIT Delhi.
+4. National Post-Doctoral Fellowship (NPDF) 2021 by DST-SERB.
+5. Best Consolation Prize in poster presentation at IGIB Connect Meeting held
+at IGIB in April 2022.
+6. Early Doc fellowship from October-December 2018 approved by IRD, IIT
+Delhi.
+7. 99.17 percentile in GATE 2011.
+8. Qualified UGC-JRF in chemical sciences in 2012, ranked 94.
+9. Acceptance of travel award by DST, DBT and IIT Delhi for attending the
+conference in USA in 2016.
+10. Science Meritorious Award for the year 2009 by the University of Delhi.
+
+Publications:
+1. Malhotra N., Khatri S., Kumar A., Arun A., Daripa P., Fatihi S., Venkadesan S., Jain N., Thukral L.; AI-based AlphaFold2 significantly expands the structural space of the autophagy pathway, Autophagy (Just Accepted)
+2. Kraus J., Russell R.W., Kudryashova E., Xu C., Katyal N., Perilla J.R., Kudryashov D.S., Polenova T., Nature Communications, 13, 2022, 2114
+3. Katyal N., Sharma S., Deep S., Journal of Molecular Liquids, 338, 2021, 116656
+4. Katyal N., Xu C., Nesterova T., Perilla J.R., Journal of Chemical Physics, 153, 2020, 155102
+5. Perez-Segura C., Katyal N., Gonzalez-Arias F., Bryer A.J., Perilla J.R. HaddenPerilla J.A., Delaware Journal of Public Health, 6, 2020, 6-9
+6. Katyal N., Sardar R., Ahamad S., Jade D.D., Ali S., Gupta D., Journal of Biomolecular Structure and Dynamics, 39, 2019, 558-569
+7. Katyal N., Deep S., Physical Chemistry Chemical Physics, 21, 2019, 24269- 24285
+8. Katyal N., Agarwal M., Sen R., Kumar V., Deep S., ACS Chemical Neuroscience, 9, 2018, 1477-1491
+9. Katyal N., Deep S., Physical Chemistry Chemical Physics, 19, 2017, 19120-19138.
+10. Katyal N., Deep S., Physical Chemistry Chemical Physics, 16, 2014, 26746-61.
+11. Katyal N., Ahluwalia U., Deep S., Journal of proteins and proteomics, 3, 2012, 85-93.
+12. Bhatia N.K., Srivastava A., Katyal N., Jain N., Khan M.A.I., Kundu B., Deep S., Biochimica et Biophysica Acta Proteins and Proteomics, 1854, 2015, 426-436.
+13. Bhatia N.K., Kishor S., Katyal N., Gogoi P., Narang P., Deep S., RSC Advances, 6, 2016, 103275-103288
+Journals
+: Autophagy, Nature Communications, ACS Chemical Neuroscience,  Journal of Chemical Physics, Physical Chemistry Chemical Physics, Journal of Molecular Liquids, Biochimica et Biophysica Acta Protein.
+
+Presentations:
+Oral Presentations:
+1. Oral presentation on “Effect of trehalose on different stages of protein aggregation: in search of its therapeutic potential against neurodegenerative diseases” during workshop on “Advanced Simulation Methods” organized by IIT-D, March 2019.
+2. Oral presentation on "Paradoxical effect of trehalose on the aggregation of α-synuclein: Expedites onset of aggregation yet reduces fibril load” in HPC Seminar organized by IIT-D, June 2018.
+3. Oral presentation on "Revisiting the conundrum of trehalose stabilization" during Indian Biophysical Meet organized by Indian Biophysical society members, September 2014.
+Poster Presentations:
+1. Presented poster in Gordon Research Conference: Protein folding dynamics from 10-15 January 2016 at Galveston, Texas, USA.
+2. Presented poster at IGIB Connect Meeting held at IGIB in April 2022.
+3. Presented poster in third protein folding symposium from 8-11 November 2016 at National Centre for Biological Sciences – Tata Institute of Fundamental Research, Bangalore.
+4. Presented poster in national Symposium of Biophysics & Golden Jubilee Meeting of Indian Biophysical Society from 14-17 February 2015 at Jamia Millia Islamia, Delhi.
+
+Workshop Services:
+Organized and have given the hands-on session on “Molecular dynamics simulations: Basics & Advanced” in the workshop on advanced structural bioinformatics at International Centre for Genetic Engineering and Biotechnology, Delhi, 18-21 November 2019. My session was selected as the best session by more than 50% of the audience.
