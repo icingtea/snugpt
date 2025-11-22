@@ -30,7 +30,6 @@ def run_app():
     st.title("🎓 SNUGPT")
     st.caption("Your AI assistant for Shiv Nadar University")
 
-    # Display chat history from memory
     for message in st.session_state.graph_state.memory:
         if isinstance(message, HumanMessage):
             role = "user"
@@ -51,12 +50,10 @@ def run_app():
 
         st.session_state.graph_state.prompt = prompt
 
-        # Invoke the graph (returns a dictionary)
         new_state_dict = graph.invoke(
             st.session_state.graph_state, st.session_state.graph_config
         )
         
-        # Convert the dictionary back to GraphState object
         st.session_state.graph_state = GraphState(
             prompt=new_state_dict.get("prompt"),
             memory=new_state_dict.get("memory", []),
