@@ -15,13 +15,13 @@ from rag.graph_nodes import (
 
 def assemble_graph(memory: MemorySaver):
     builder = StateGraph(state_schema=GraphState)
-    
+
     builder.add_node("keyword_router", keyword_router)
     builder.add_node("vocab_voter", vocab_voter)
     builder.add_node("vector_search", vector_search)
     builder.add_node("chat_response", chat_response)
     builder.add_node("error_response", error_response)
-    
+
     builder.add_edge(START, "keyword_router")
 
     builder.add_conditional_edges(
@@ -49,7 +49,7 @@ def assemble_graph(memory: MemorySaver):
         error_check,
         {
             True: "error_response",
-            False: END,            
+            False: END,
         },
     )
 

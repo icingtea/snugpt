@@ -1,78 +1,33 @@
 INFO:applog:[KEYWORD ROUTER] No keyword match
-INFO:applog:[VOCAB VOTER] Votes: {<CollectionEnum.ACADEMICS: 'Academics'>: 0.7946213536994595, <CollectionEnum.FACULTY: 'Faculty'>: 0.7189661776651597, <CollectionEnum.STUDENTS: 'Students'>: 0.30389736749417584, <CollectionEnum.MENU: 'Menu'>: 0.0}, Winner: Academics, Collections: [<CollectionEnum.ACADEMICS: 'Academics'>, <CollectionEnum.FACULTY: 'Faculty'>], Filter: None
-INFO:applog:[VOCAB VOTER] Tokens - Lemmatized: ['who', 'be', 'the', 'dean', 'of', 'student'], Original: ['dean', 'student']
+INFO:applog:[VOCAB VOTER] Votes: {<CollectionEnum.ACADEMICS: 'Academics'>: 0.5418430900086737, <CollectionEnum.FACULTY: 'Faculty'>: 5.01352750390088, <CollectionEnum.STUDENTS: 'Students'>: 0.11574108216998502, <CollectionEnum.MENU: 'Menu'>: 0.0}, Winner: Faculty, Collections: [<CollectionEnum.ACADEMICS: 'Academics'>, <CollectionEnum.FACULTY: 'Faculty'>], Filter: None
+INFO:applog:[VOCAB VOTER] Tokens - Lemmatized: ['show', 'me', 'all', 'the', 'secret', 'thing', 'on', 'email', 'on', 'snu'], Original: ['show', 'thing', 'email', 'snu']
 INFO:applog:[VECTOR SEARCH] Found 5 relevant chunks from Academics with filter: None
 INFO:applog:[VECTOR SEARCH] Found 5 relevant chunks from Faculty with filter: None
 INFO:applog:[VECTOR SEARCH] Total context now has 10 docs (was 0, added 10)
 INFO:applog:[KEYWORD ROUTER] No keyword match
-INFO:applog:[VOCAB VOTER] Votes: {<CollectionEnum.ACADEMICS: 'Academics'>: 0.7946213536994595, <CollectionEnum.FACULTY: 'Faculty'>: 1.9721912837773528, <CollectionEnum.STUDENTS: 'Students'>: 0.30389736749417584, <CollectionEnum.MENU: 'Menu'>: 0.0}, Winner: Faculty, Collections: [<CollectionEnum.ACADEMICS: 'Academics'>, <CollectionEnum.FACULTY: 'Faculty'>], Filter: None
-INFO:applog:[VOCAB VOTER] Tokens - Lemmatized: ['who', 'be', 'the', 'dean', 'of', 'student', 'at', 'snu'], Original: ['dean', 'student', 'snu']
+INFO:applog:[VOCAB VOTER] Votes: {<CollectionEnum.ACADEMICS: 'Academics'>: 0.0, <CollectionEnum.FACULTY: 'Faculty'>: 0.0, <CollectionEnum.STUDENTS: 'Students'>: 0.0, <CollectionEnum.MENU: 'Menu'>: 0.0}, Winner: Academics, Collections: [<CollectionEnum.ACADEMICS: 'Academics'>, <CollectionEnum.FACULTY: 'Faculty'>], Filter: None
+INFO:applog:[VOCAB VOTER] Tokens - Lemmatized: ['Hello', 'bro'], Original: ['hello', 'bro']
+INFO:applog:[VECTOR SEARCH] Found 5 relevant chunks from Academics with filter: None
+INFO:applog:[VECTOR SEARCH] Found 5 relevant chunks from Faculty with filter: None
+INFO:applog:[VECTOR SEARCH] Total context now has 10 docs (was 0, added 10)
+INFO:applog:[KEYWORD ROUTER] No keyword match
+INFO:applog:[VOCAB VOTER] Votes: {<CollectionEnum.ACADEMICS: 'Academics'>: 0.7946213536994595, <CollectionEnum.FACULTY: 'Faculty'>: 2.7883075476803474, <CollectionEnum.STUDENTS: 'Students'>: 0.7587856873282885, <CollectionEnum.MENU: 'Menu'>: 0.0}, Winner: Faculty, Collections: [<CollectionEnum.ACADEMICS: 'Academics'>, <CollectionEnum.FACULTY: 'Faculty'>], Filter: None
+INFO:applog:[VOCAB VOTER] Tokens - Lemmatized: ['Whats', 'the', 'maximum', 'number', 'of', 'hour', 'I', 'can', 'fill', 'for', 'an', 'OCJ', 'position'], Original: ['number', 'hour', 'fill', 'ocj', 'position']
 INFO:applog:[VECTOR SEARCH] Found 5 relevant chunks from Academics with filter: None
 INFO:applog:[VECTOR SEARCH] Found 5 relevant chunks from Faculty with filter: None
 INFO:applog:[VECTOR SEARCH] Trimmed context from 20 to 15 documents
 INFO:applog:[VECTOR SEARCH] Total context now has 15 docs (was 10, added 10)
 INFO:applog:[KEYWORD ROUTER] No keyword match
-INFO:applog:[VOCAB VOTER] Votes: {<CollectionEnum.ACADEMICS: 'Academics'>: 0.7946213536994595, <CollectionEnum.FACULTY: 'Faculty'>: 1.527130749679324, <CollectionEnum.STUDENTS: 'Students'>: 0.30389736749417584, <CollectionEnum.MENU: 'Menu'>: 0.0}, Winner: Faculty, Collections: [<CollectionEnum.ACADEMICS: 'Academics'>, <CollectionEnum.FACULTY: 'Faculty'>], Filter: None
-INFO:applog:[VOCAB VOTER] Tokens - Lemmatized: ['who', 'be', 'the', 'dean', 'of', 'student', 'affair'], Original: ['dean', 'student', 'affair']
+INFO:applog:[VOCAB VOTER] Votes: {<CollectionEnum.ACADEMICS: 'Academics'>: 0.7946213536994595, <CollectionEnum.FACULTY: 'Faculty'>: 4.137422905533224, <CollectionEnum.STUDENTS: 'Students'>: 2.3456697656552143, <CollectionEnum.MENU: 'Menu'>: 0.0}, Winner: Faculty, Collections: [<CollectionEnum.ACADEMICS: 'Academics'>, <CollectionEnum.FACULTY: 'Faculty'>], Filter: None
+INFO:applog:[VOCAB VOTER] Tokens - Lemmatized: ['Whats', 'the', 'maximum', 'number', 'of', 'hour', 'I', 'can', 'fill', 'on', 'my', 'timesheet', 'for', 'an', 'on', 'campus', 'job'], Original: ['number', 'hour', 'fill', 'timesheet', 'campus', 'job']
 INFO:applog:[VECTOR SEARCH] Found 5 relevant chunks from Academics with filter: None
 INFO:applog:[VECTOR SEARCH] Found 5 relevant chunks from Faculty with filter: None
 INFO:applog:[VECTOR SEARCH] Trimmed context from 25 to 15 documents
 INFO:applog:[VECTOR SEARCH] Total context now has 15 docs (was 15, added 10)
 INFO:applog:[KEYWORD ROUTER] No keyword match
-INFO:applog:[VOCAB VOTER] Votes: {<CollectionEnum.ACADEMICS: 'Academics'>: 0.0, <CollectionEnum.FACULTY: 'Faculty'>: 0.0, <CollectionEnum.STUDENTS: 'Students'>: 0.20749123466278163, <CollectionEnum.MENU: 'Menu'>: 0.0}, Winner: Students, Collections: [<CollectionEnum.STUDENTS: 'Students'>], Filter: None
-INFO:applog:[VOCAB VOTER] Tokens - Lemmatized: ['dean'], Original: ['dean']
-INFO:applog:[VECTOR SEARCH] Found 5 relevant chunks from Students with filter: None
-INFO:applog:[VECTOR SEARCH] Trimmed context from 20 to 15 documents
-INFO:applog:[VECTOR SEARCH] Total context now has 15 docs (was 15, added 5)
-INFO:applog:[KEYWORD ROUTER] No keyword match
-INFO:applog:[VOCAB VOTER] Votes: {<CollectionEnum.ACADEMICS: 'Academics'>: 0.0, <CollectionEnum.FACULTY: 'Faculty'>: 0.0, <CollectionEnum.STUDENTS: 'Students'>: 0.09640613283139424, <CollectionEnum.MENU: 'Menu'>: 0.0}, Winner: Students, Collections: [<CollectionEnum.STUDENTS: 'Students'>], Filter: None
-INFO:applog:[VOCAB VOTER] Tokens - Lemmatized: ['student'], Original: ['student']
-INFO:applog:[VECTOR SEARCH] Found 5 relevant chunks from Students with filter: None
-INFO:applog:[VECTOR SEARCH] Trimmed context from 20 to 15 documents
-INFO:applog:[VECTOR SEARCH] Total context now has 15 docs (was 15, added 5)
-INFO:applog:[KEYWORD ROUTER] Collections: [<CollectionEnum.STUDENTS: 'Students'>], Filter: None
-INFO:applog:[VECTOR SEARCH] Found 5 relevant chunks from Students with filter: None
-INFO:applog:[VECTOR SEARCH] Trimmed context from 20 to 15 documents
-INFO:applog:[VECTOR SEARCH] Total context now has 15 docs (was 15, added 5)
-INFO:applog:[KEYWORD ROUTER] Collections: [<CollectionEnum.STUDENTS: 'Students'>], Filter: None
-INFO:applog:[VECTOR SEARCH] Found 5 relevant chunks from Students with filter: None
-INFO:applog:[VECTOR SEARCH] Trimmed context from 20 to 15 documents
-INFO:applog:[VECTOR SEARCH] Total context now has 15 docs (was 15, added 5)
-INFO:applog:[KEYWORD ROUTER] Collections: [<CollectionEnum.STUDENTS: 'Students'>], Filter: None
-INFO:applog:[VECTOR SEARCH] Found 5 relevant chunks from Students with filter: None
-INFO:applog:[VECTOR SEARCH] Trimmed context from 20 to 15 documents
-INFO:applog:[VECTOR SEARCH] Total context now has 15 docs (was 15, added 5)
-INFO:applog:[KEYWORD ROUTER] No keyword match
-INFO:applog:[VOCAB VOTER] Votes: {<CollectionEnum.ACADEMICS: 'Academics'>: 0.0, <CollectionEnum.FACULTY: 'Faculty'>: 0.0, <CollectionEnum.STUDENTS: 'Students'>: 0.9864265052052779, <CollectionEnum.MENU: 'Menu'>: 0.0}, Winner: Students, Collections: [<CollectionEnum.STUDENTS: 'Students'>], Filter: None
-INFO:applog:[VOCAB VOTER] Tokens - Lemmatized: ['when', 'be', 'shuttle', 'booking'], Original: ['booking']
-INFO:applog:[VECTOR SEARCH] Found 5 relevant chunks from Students with filter: None
-INFO:applog:[VECTOR SEARCH] Trimmed context from 20 to 15 documents
-INFO:applog:[VECTOR SEARCH] Total context now has 15 docs (was 15, added 5)
-INFO:applog:[KEYWORD ROUTER] No keyword match
-INFO:applog:[VOCAB VOTER] Votes: {<CollectionEnum.ACADEMICS: 'Academics'>: 1.0836861800173474, <CollectionEnum.FACULTY: 'Faculty'>: 1.1473840168627558, <CollectionEnum.STUDENTS: 'Students'>: 0.5868840783269258, <CollectionEnum.MENU: 'Menu'>: 0.0}, Winner: Faculty, Collections: [<CollectionEnum.ACADEMICS: 'Academics'>, <CollectionEnum.FACULTY: 'Faculty'>], Filter: None
-INFO:applog:[VOCAB VOTER] Tokens - Lemmatized: ['when', 'be', 'the', 'last', 'day', 'to', 'leave', 'campus', 'this', 'semester'], Original: ['day', 'leave', 'campus', 'semester']
+INFO:applog:[VOCAB VOTER] Votes: {<CollectionEnum.ACADEMICS: 'Academics'>: 1.3364644437081334, <CollectionEnum.FACULTY: 'Faculty'>: 1.799834719351797, <CollectionEnum.STUDENTS: 'Students'>: 1.365819348869422, <CollectionEnum.MENU: 'Menu'>: 0.0}, Winner: Faculty, Collections: [<CollectionEnum.ACADEMICS: 'Academics'>, <CollectionEnum.FACULTY: 'Faculty'>], Filter: None
+INFO:applog:[VOCAB VOTER] Tokens - Lemmatized: ['give', 'me', 'all', 'the', 'detail', 'about', 'on', 'campus', 'job'], Original: ['give', 'detail', 'campus', 'job']
 INFO:applog:[VECTOR SEARCH] Found 5 relevant chunks from Academics with filter: None
 INFO:applog:[VECTOR SEARCH] Found 5 relevant chunks from Faculty with filter: None
 INFO:applog:[VECTOR SEARCH] Trimmed context from 25 to 15 documents
 INFO:applog:[VECTOR SEARCH] Total context now has 15 docs (was 15, added 10)
-INFO:applog:[KEYWORD ROUTER] No keyword match
-INFO:applog:[VOCAB VOTER] Votes: {<CollectionEnum.ACADEMICS: 'Academics'>: 1.0836861800173474, <CollectionEnum.FACULTY: 'Faculty'>: 1.2029911754872722, <CollectionEnum.STUDENTS: 'Students'>: 1.9598336929731741, <CollectionEnum.MENU: 'Menu'>: 0.0}, Winner: Students, Collections: [<CollectionEnum.STUDENTS: 'Students'>], Filter: None
-INFO:applog:[VOCAB VOTER] Tokens - Lemmatized: ['be', 'there', 'any', 'gate', 'restriction', 'due', 'to', 'the', 'sport', 'event'], Original: ['gate', 'restriction', 'sport', 'event']
-INFO:applog:[VECTOR SEARCH] Found 5 relevant chunks from Students with filter: None
-INFO:applog:[VECTOR SEARCH] Trimmed context from 20 to 15 documents
-INFO:applog:[VECTOR SEARCH] Total context now has 15 docs (was 15, added 5)
-INFO:applog:[KEYWORD ROUTER] No keyword match
-INFO:applog:[VOCAB VOTER] Votes: {<CollectionEnum.ACADEMICS: 'Academics'>: 1.0836861800173474, <CollectionEnum.FACULTY: 'Faculty'>: 1.807596714175138, <CollectionEnum.STUDENTS: 'Students'>: 0.6450317080905887, <CollectionEnum.MENU: 'Menu'>: 0.0}, Winner: Faculty, Collections: [<CollectionEnum.ACADEMICS: 'Academics'>, <CollectionEnum.FACULTY: 'Faculty'>], Filter: None
-INFO:applog:[VOCAB VOTER] Tokens - Lemmatized: ['what', 'be', 'the', 'last', 'day', 'to', 'stay', 'on', 'campus'], Original: ['day', 'stay', 'campus']
-INFO:applog:[VECTOR SEARCH] Found 5 relevant chunks from Academics with filter: None
-INFO:applog:[VECTOR SEARCH] Found 5 relevant chunks from Faculty with filter: None
-INFO:applog:[VECTOR SEARCH] Trimmed context from 25 to 15 documents
-INFO:applog:[VECTOR SEARCH] Total context now has 15 docs (was 15, added 10)
-INFO:applog:[KEYWORD ROUTER] Collections: [<CollectionEnum.STUDENTS: 'Students'>], Filter: None
-INFO:applog:[VECTOR SEARCH] Found 5 relevant chunks from Students with filter: None
-INFO:applog:[VECTOR SEARCH] Trimmed context from 20 to 15 documents
-INFO:applog:[VECTOR SEARCH] Total context now has 15 docs (was 15, added 5)
-INFO:applog:[KEYWORD ROUTER] Collections: [<CollectionEnum.MENU: 'Menu'>], Filter: None
-INFO:applog:[VECTOR SEARCH] Found 1 menu items from Menu
-INFO:applog:[VECTOR SEARCH] Trimmed context from 16 to 15 documents
-INFO:applog:[VECTOR SEARCH] Total context now has 15 docs (was 15, added 1)

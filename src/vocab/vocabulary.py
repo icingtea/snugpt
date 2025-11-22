@@ -86,6 +86,7 @@ COLLECTION_DIRS = {
 
 STATS_PATH = Path("data/cache/word_stats.json")
 
+
 def compute_collection_statistics() -> Dict[str, WordInfo]:
     collection_frequency = {collection: Counter() for collection in COLLECTION_DIRS}
     document_frequency = {collection: Counter() for collection in COLLECTION_DIRS}
