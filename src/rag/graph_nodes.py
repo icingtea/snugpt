@@ -20,7 +20,7 @@ logger.setLevel(logging.DEBUG)
 
 MONGODB_CONNECTION_STRING = os.getenv("MONGODB_CONNECTION_STRING")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-EMBEDDING_MODEL = ""
+EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL")
 
 if not all([MONGODB_CONNECTION_STRING, OPENAI_API_KEY]):
     raise EnvironmentError("[ERROR] Missing required environment variables")
@@ -102,7 +102,7 @@ def build_filter_from_keywords(prompt_lower: str, keyword_config = ACADEMICS_FAC
 
 
 def keyword_router(state: GraphState) -> Dict[str, Any]:
-    prompt = state["prompt"]
+    prompt = state.prompt
     if not prompt:
         return {"collections": [], "filter": None}
     
@@ -139,7 +139,7 @@ def keyword_router(state: GraphState) -> Dict[str, Any]:
 
 
 def vocab_voter(state: GraphState) -> Dict[str, Any]:
-    prompt = state["prompt"]
+    prompt = state.prompt
     if not prompt:
         return {"collections": [CollectionEnum.STUDENTS], "filter": None}
     
@@ -185,9 +185,9 @@ def vector_search(state: GraphState) -> Dict[str, Any]:
     if not embedding_model:
         return {"context": [], "error": "[ERROR] Embedding model not configured"}
     
-    collections = state.get("collections", [])
-    prompt = state["prompt"]
-    filter_condition = state.get("filter")
+    collections = state.collections or []
+    prompt = state.prompt
+    filter_condition = state.filter
     
     if not collections or not prompt:
         return {"context": [], "error": "[ERROR] Missing collections or prompt"}
@@ -260,9 +260,9 @@ def vector_search(state: GraphState) -> Dict[str, Any]:
 
 def chat_response(state: GraphState) -> Dict[str, Any]:
     client = openai_client
-    prompt = state["prompt"]
-    context = state.get("context", [])
-    memory = state.get("memory", [])
+    prompt = state.prompt
+    context = state.context or []
+    memory = state.memory or []
     
     system_prompt = """
     You are SNUGPT, a helpful assistant for Shiv Nadar University students, faculty, and staff.
@@ -308,14 +308,14 @@ def chat_response(state: GraphState) -> Dict[str, Any]:
 
 
 def error_response(state: GraphState) -> Dict[str, Any]:
-    state_change = {"response": state.get("error", "An unknown error occurred")}
+    state_change = {"response": state.error or "An unknown error occurred"}
     logger.info(f"[ERROR RESPONSE] {state_change}")
     return state_change
 
 
 def error_check(state: GraphState) -> bool:
-    return state.get("error") is not None
+    return state.error is not None
 
 
 def needs_vocab_vote(state: GraphState) -> bool:
-    return len(state.get("collections", [])) == 0
+    return len(state.collections or []) == 0

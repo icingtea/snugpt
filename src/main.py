@@ -1,5 +1,5 @@
 import streamlit as st
-from rag.graph_flow import assemble_graph
+from src.rag.graph_flow import assemble_graph
 from langgraph.checkpoint.memory import MemorySaver
 from langchain_core.messages.ai import AIMessage
 from langchain_core.messages.human import HumanMessage
@@ -11,15 +11,16 @@ def run_app():
     memory: MemorySaver = MemorySaver()
 
     if "graph_state" not in st.session_state:
-        st.session_state.graph_state = {
-            "prompt": None,
-            "memory": [],
-            "collections": [],
-            "filter": None,
-            "context": [],
-            "response": "",
-            "error": None,
-        }
+        from src.models.graph import GraphState
+        st.session_state.graph_state = GraphState(
+            prompt=None,
+            memory=[],
+            collections=[],
+            filter=None,
+            context=[],
+            response=None,
+            error=None,
+        )
 
     if "graph_config" not in st.session_state:
         st.session_state.graph_config = {"configurable": {"thread_id": "demo"}}

@@ -9,7 +9,7 @@ class GraphState(BaseModel):
 
     memory: Annotated[List[Any], add_messages] = Field(default_factory=list)
     
-    filters: Dict[str, Any] = Field(default_factory=dict)
+    filter: Optional[Dict[str, Any]] = Field(default_factory=dict)
     context: List[str] = Field(default_factory=list)
 
     response: Optional[str] = None
