@@ -1,8 +1,7 @@
-# graph_nodes.py
 import os
 import logging
 from dotenv import load_dotenv
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Dict, List, Optional
 from pymongo import MongoClient
 from pymongo.collection import Collection
 from sentence_transformers import SentenceTransformer
@@ -31,7 +30,7 @@ openai_client = openai.OpenAI()
 embedding_model = SentenceTransformer(EMBEDDING_MODEL) if EMBEDDING_MODEL else None
 
 
-ACADEMICS_KEYWORDS = {
+ACADEMICS_FACULTY_KEYWORDS = {
     "keywords": [],
     "schools": {
         "SOE": ["engineering", "engg", "soe", "school of engineering"],
@@ -40,50 +39,26 @@ ACADEMICS_KEYWORDS = {
         "SME": ["management", "sme", "school of management", "business", "business school"]
     },
     "departments": {
-        "CSE": ["cs", "CS", "computer science", "cse", "CSE", "computer science and engineering"],
-        "ECE": ["ee", "electrical engineering", "ece", "ECE", "electrical and computer engineering"],
-        "MECH": ["mechanical engineering", "mech", "MECH"],
-        "CHEM_ENG": ["chemical engineering", "chem eng", "CHEM_ENG"],
-        "CIVIL": ["civil engineering", "civil", "CIVIL"],
-        "MATH": ["math", "maths", "mathematics", "MATH"],
-        "PHY": ["physics", "phy", "PHY"],
-        "CHEM": ["chemistry", "chem", "CHEM"],
-        "BIOTECH": ["biotechnology", "biotech", "BIOTECH"],
-        "ECO": ["economics", "eco", "ECO"],
-        "ENG": ["english", "eng", "ENG"]
+        "CSE": ["computer science", "cse", "computer science and engineering", "cs"],
+        "ECE": ["electrical engineering", "ece", "electrical and computer engineering", "ee"],
+        "MECH": ["mechanical engineering", "mech"],
+        "CHEM_ENG": ["chemical engineering", "chem eng"],
+        "CIVIL": ["civil engineering", "civil"],
+        "MATH": ["mathematics", "math", "maths"],
+        "PHY": ["physics", "phy"],
+        "CHEM": ["chemistry", "chem"],
+        "BIOTECH": ["biotechnology", "biotech"],
+        "ECO": ["economics", "eco"],
+        "ENG": ["english", "eng"]
     }
 }
-
-FACULTY_KEYWORDS = {
-    "keywords": [],
-    "schools": {
-        "SOE": ["engineering", "engg", "soe", "school of engineering"],
-        "SNS": ["science", "sns", "school of science", "natural sciences"],
-        "SHSS": ["humanities", "shss", "school of humanities", "social sciences", "humanities and social sciences"],
-        "SME": ["management", "sme", "school of management", "business", "business school"]
-    },
-    "departments": {
-        "CSE": ["cs", "CS", "computer science", "cse", "CSE", "computer science and engineering"],
-        "ECE": ["ee", "electrical engineering", "ece", "ECE", "electrical and computer engineering"],
-        "MECH": ["mechanical engineering", "mech", "MECH"],
-        "CHEM_ENG": ["chemical engineering", "chem eng", "CHEM_ENG"],
-        "CIVIL": ["civil engineering", "civil", "CIVIL"],
-        "MATH": ["math", "maths", "mathematics", "MATH"],
-        "PHY": ["physics", "phy", "PHY"],
-        "CHEM": ["chemistry", "chem", "CHEM"],
-        "BIOTECH": ["biotechnology", "biotech", "BIOTECH"],
-        "ECO": ["economics", "eco", "ECO"],
-        "ENG": ["english", "eng", "ENG"]
-    }
-}
-
 
 STUDENTS_KEYWORDS = {
     "keywords": ["academic calendar", "exam schedule", "course registration", "hostel", "library"]
 }
 
 MENU_KEYWORDS = {
-    "keywords": []
+    "keywords": ["eat", "lunch", "dinner", "breakfast", "evening", "mess", "menu", "food"]
 }
 
 COLLECTION_INDEX_MAP = {
@@ -94,34 +69,39 @@ COLLECTION_INDEX_MAP = {
 }
 
 
-def build_filter_from_keywords(prompt_lower: str, keyword_config: Dict[str, Any]) -> Optional[Dict[str, Any]]:
-    filter_conditions = []
+def build_filter_from_keywords(prompt_lower: str, keyword_config = ACADEMICS_FACULTY_KEYWORDS) -> Optional[Dict[str, Any]]:
+    matched_schools = []
+    matched_departments = []
 
     schools_dict = keyword_config.get("schools", {})
     for actual_school, variations in schools_dict.items():
         if any(variation in prompt_lower for variation in variations):
-            filter_conditions.append({"schools": actual_school})
-
-        elif actual_school in prompt_lower:
-            filter_conditions.append({"schools": actual_school})
+            matched_schools.append(actual_school)
+        elif actual_school.lower() in prompt_lower:
+            matched_schools.append(actual_school)
 
     departments_dict = keyword_config.get("departments", {})
     for actual_dept, variations in departments_dict.items():
-
         if any(variation in prompt_lower for variation in variations):
-            filter_conditions.append({"departments": actual_dept})
-
-        elif actual_dept in prompt_lower:
-            filter_conditions.append({"departments": actual_dept})
+            matched_departments.append(actual_dept)
+        elif actual_dept.lower() in prompt_lower:
+            matched_departments.append(actual_dept)
+    
+    filter_conditions = []
+    
+    if matched_schools:
+        filter_conditions.append({"schools": {"$in": matched_schools}})
+    
+    if matched_departments:
+        filter_conditions.append({"departments": {"$in": matched_departments}})
     
     if filter_conditions:
-        return {"$or": filter_conditions} if len(filter_conditions) > 1 else filter_conditions[0]
+        return {"$and": filter_conditions} if len(filter_conditions) > 1 else filter_conditions[0]
     
     return None
 
 
 def keyword_router(state: GraphState) -> Dict[str, Any]:
-    """Route based on explicit keywords in the prompt and build filters."""
     prompt = state["prompt"]
     if not prompt:
         return {"collections": [], "filter": None}
@@ -130,16 +110,12 @@ def keyword_router(state: GraphState) -> Dict[str, Any]:
     collections_to_search = []
     filter_condition = None
     
-    academics_filter = build_filter_from_keywords(prompt_lower, ACADEMICS_KEYWORDS)
-    faculty_filter = build_filter_from_keywords(prompt_lower, FACULTY_KEYWORDS)
+    academics_faculty_filter = build_filter_from_keywords(prompt_lower)
     
-    if academics_filter or faculty_filter:
+    if academics_faculty_filter:
         collections_to_search = [CollectionEnum.ACADEMICS, CollectionEnum.FACULTY]
-
-        if academics_filter and faculty_filter:
-            filter_condition = {"$or": [academics_filter, faculty_filter]}
-        else:
-            filter_condition = academics_filter or faculty_filter
+        if academics_faculty_filter:
+            filter_condition = academics_faculty_filter
     
     elif any(kw in prompt_lower for kw in STUDENTS_KEYWORDS["keywords"]):
         collections_to_search = [CollectionEnum.STUDENTS]
@@ -194,14 +170,7 @@ def vocab_voter(state: GraphState) -> Dict[str, Any]:
 
         if winner[0] in [CollectionEnum.ACADEMICS, CollectionEnum.FACULTY]:
             collections_to_search = [CollectionEnum.ACADEMICS, CollectionEnum.FACULTY]
-
-            filter_academics = build_filter_from_keywords(prompt_lower, ACADEMICS_KEYWORDS)
-            filter_faculty = build_filter_from_keywords(prompt_lower, FACULTY_KEYWORDS)
-
-            if filter_academics and filter_faculty:
-                filter_condition = {"$or": [filter_academics, filter_faculty]}
-            else:
-                filter_condition = filter_academics or filter_faculty
+            filter_condition = build_filter_from_keywords(prompt_lower)
 
         state_change = {"collections": collections_to_search, "filter": filter_condition}
         logger.info(f"[VOCAB VOTER] Votes: {votes}, Winner: {winner[0]}, Collections: {collections_to_search}, Filter: {filter_condition}")

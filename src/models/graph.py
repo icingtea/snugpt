@@ -4,7 +4,7 @@ from langgraph.graph.message import add_messages
 from src.models.chunks import CollectionEnum
 
 class GraphState(BaseModel):
-    collection: Optional[CollectionEnum] = None
+    collections: List[CollectionEnum] = Field(default_factory=list)
     prompt: Optional[str] = None
 
     memory: Annotated[List[Any], add_messages] = Field(default_factory=list)

@@ -5,7 +5,7 @@ from typing import Dict, Optional
 
 from pydantic import BaseModel
 from src.models.chunks import CollectionEnum
-from src.pos.pos_tagger import pos_tagger
+from src.pos_tagger import pos_tagger
 
 
 STOPWORDS = {
