@@ -1,5 +1,5 @@
 import streamlit as st
-from src.rag.graph_flow import assemble_graph
+from rag.graph_flow import assemble_graph
 from langgraph.checkpoint.memory import MemorySaver
 from langchain_core.messages.ai import AIMessage
 from langchain_core.messages.human import HumanMessage
