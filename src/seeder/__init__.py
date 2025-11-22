@@ -2,6 +2,7 @@ from abc import ABC, abstractmethod
 from pathlib import Path
 from pymongo import MongoClient
 from typing import Any
+from sentence_transformers import SentenceTransformer
 
 from src.config import ENV_CONFIG
 
@@ -13,6 +14,7 @@ class Seeder(ABC):
         self.path_to_read_from = path_to_read_from
         self.client = client
         self.collection_name = collection_name
+        self.model = SentenceTransformer(ENV_CONFIG.EMBEDDING_MODEL)
 
     @abstractmethod
     def get_chunks(self) -> Any:

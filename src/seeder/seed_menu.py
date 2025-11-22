@@ -18,7 +18,6 @@ class MenuSeeder(Seeder):
         collection_name="Menu",
     ):
         super().__init__(client, path_to_read_from, collection_name)
-        self.model = SentenceTransformer(ENV_CONFIG.EMBEDDING_MODEL)
 
     def get_chunks(self) -> List[WeeklyMenuChunk]:
         file_path = self.path_to_read_from / "menu.txt"
