@@ -274,9 +274,16 @@ def vector_search(state: GraphState) -> Dict[str, Any]:
             
             results = mongo_collection.aggregate(pipeline)
             context_docs = []
-            for doc in results:
+            for idx, doc in enumerate(results):
                 content = doc.get("document") or doc.get("text", "")
+
+                print("-" * 50)
+                print("DOCUMENT ", idx + 1)
+                print(content)
+
                 score = float(doc.get("score", 0))
+
+                print(score)
                 if score > SCORE_THRESHOLD:
                     context_docs.append(content)
             
@@ -292,6 +299,7 @@ def vector_search(state: GraphState) -> Dict[str, Any]:
         logger.info(f"[VECTOR SEARCH] Trimmed context from {len(existing_context) + len(new_context_docs)} to {MAX_CONTEXT_DOCUMENTS} documents")
     
     state_change = {"context": combined_context, "error": None}
+
     logger.info(f"[VECTOR SEARCH] Total context now has {len(combined_context)} docs (was {len(existing_context)}, added {len(new_context_docs)})")
     return state_change
 
