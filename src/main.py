@@ -30,7 +30,8 @@ def run_app():
     st.title("🎓 SNUGPT")
     st.caption("Your AI assistant for Shiv Nadar University")
 
-    for message in st.session_state.graph_state["memory"]:
+    # Display chat history from memory
+    for message in st.session_state.graph_state.memory:
         if isinstance(message, HumanMessage):
             role = "user"
             content = message.content
@@ -48,15 +49,26 @@ def run_app():
         with st.chat_message("user"):
             st.markdown(prompt)
 
-        st.session_state.graph_state["prompt"] = prompt
+        st.session_state.graph_state.prompt = prompt
 
-        new_state = graph.invoke(
+        # Invoke the graph (returns a dictionary)
+        new_state_dict = graph.invoke(
             st.session_state.graph_state, st.session_state.graph_config
         )
-        st.session_state.graph_state = new_state
+        
+        # Convert the dictionary back to GraphState object
+        st.session_state.graph_state = GraphState(
+            prompt=new_state_dict.get("prompt"),
+            memory=new_state_dict.get("memory", []),
+            collections=new_state_dict.get("collections", []),
+            filter=new_state_dict.get("filter"),
+            context=new_state_dict.get("context", []),
+            response=new_state_dict.get("response"),
+            error=new_state_dict.get("error"),
+        )
 
         with st.chat_message("assistant"):
-            reply = new_state.get("response", "[ERROR] Could not get response.")
+            reply = st.session_state.graph_state.response or "[ERROR] Could not get response."
             st.markdown(reply)
 
 
