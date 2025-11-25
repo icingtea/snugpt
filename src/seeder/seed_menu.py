@@ -34,6 +34,7 @@ class MenuSeeder(Seeder):
 
 if __name__ == "__main__":
     client = MongoClient(ENV_CONFIG.MONGODB_CONNECTION_STRING)
+    client["snugpt"]["Menu"].delete_many({})
 
     ms = MenuSeeder(client)
 
